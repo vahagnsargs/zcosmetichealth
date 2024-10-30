@@ -1,0 +1,186 @@
+{{- 'component-collection-hero.css' | asset_url | stylesheet_tag -}}
+
+{% style %}
+  .section-{{ section.id }} {
+    --main-collection-banner-section-height: {{ section.settings.section_height | default: '40' | append: 'vh' }};
+  }
+{% endstyle %}
+
+{%- liquid
+  assign image_mobile = collection.metafields.mobile.image
+  assign section_additional_classes = section.settings.color_scheme_background
+
+  if collection.image != blank
+    assign section_additional_classes = section_additional_classes | append: ' has-desktop-image has-mobile-image ' | append: section.settings.color_scheme_text
+  elsif image_mobile != blank
+    assign section_additional_classes = section_additional_classes | append: ' has-mobile-image ' | append: section.settings.color_scheme_text | append: '-small'
+  else
+    assign section_additional_classes = section_additional_classes | append: ' ' | append: section.settings.color_scheme_text_no_image
+  endif
+
+  if collection.image != blank
+    assign banner_layout = section.settings.banner_layout
+  else
+    assign banner_layout = 'banner--full'
+  endif
+
+  # set heading tag based on section index
+  if section.index == 1
+    assign heading_tag = 'h1'
+  else
+    assign heading_tag = 'h2'
+  endif
+-%}
+
+<section class="collection-hero section-{{ section.id }} {{ banner_layout }} color-body-background {{ section_additional_classes }}">
+  {%- if collection.image != blank -%}
+    <div class="media media--overlay media--overlay-horizontal collection-hero__media{% if image_mobile != blank %} small-hide{% endif %}">
+      {%- render 'image', image: collection.image, section_index: section.index, media_index: 1, image_url_width: 2160, alt: collection.image.alt | escape -%}
+    </div><!-- /.media -->
+  {%- endif -%}
+
+  {%- if image_mobile != blank -%}
+    <div class="media media--overlay media--overlay-horizontal collection-hero__media small-up-hide">
+      {%- render 'image', image: image_mobile, section_index: section.index, media_index: 1, image_for_mobile: true, alt: image_mobile.alt | escape -%}
+    </div><!-- /.media -->
+  {%- endif -%}
+
+  {%- if settings.enable_breadcrumbs_on_other_pages -%}
+    <div class="collection-hero__breadcrumbs small-hide">
+      {%- render 'breadcrumbs' -%}
+    </div><!-- /.collection-hero__breadcrumbs -->
+  {%- endif -%}
+
+  {% liquid
+    assign content_additional_classes = section.settings.color_scheme_text | append: ' ' | append: section.settings.color_scheme_background
+  %}
+
+  <div class="collection-hero__content {{ content_additional_classes }}">
+    <{{ heading_tag }} class="collection-hero__title">
+      <span class="visually-hidden">{{- 'collection.title' | t -}}: </span>
+      {{- collection.title | escape -}}
+    </{{ heading_tag }}><!-- /.collection-hero__title -->
+
+    {%- if collection.description != blank -%}
+      <div class="collection-hero__entry">
+        {{- collection.description -}}
+      </div><!-- /.collection-hero__entry -->
+    {%- endif -%}
+  </div><!-- /.collection-hero__content -->
+</section><!-- /.collection-hero -->
+
+{% schema %}
+{
+  "name": "t:sections.collection-hero.name",
+  "settings": [
+    {
+      "type": "range",
+      "id": "section_height",
+      "label": "t:sections.global.settings.section_height.label",
+      "info": "t:sections.global.settings.section_height.info",
+      "min": 30,
+      "max": 100,
+      "step": 10,
+      "unit": "vh",
+      "default": 40
+    },
+    {
+      "type": "select",
+      "id": "banner_layout",
+      "label": "t:sections.global.settings.banner_layout.label",
+      "options": [
+        {
+          "value": "banner--full",
+          "label": "t:sections.global.settings.banner_layout.options.layout_full.label"
+        },
+        {
+          "value": "banner--70-30",
+          "label": "t:sections.global.settings.banner_layout.options.layout_70_30.label"
+        },
+        {
+          "value": "banner--30-70",
+          "label": "t:sections.global.settings.banner_layout.options.layout_30_70.label"
+        },
+        {
+          "value": "banner--split",
+          "label": "t:sections.global.settings.banner_layout.options.layout_split.label"
+        }
+      ],
+      "default": "banner--full"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.global.settings.header_color_scheme.content"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme_text",
+      "label": "t:sections.global.settings.color_scheme_text.label",
+      "options": [
+        {
+          "value": "color-text-primary",
+          "label": "t:sections.global.settings.color_scheme_text.options.primary.label"
+        },
+        {
+          "value": "color-text-secondary",
+          "label": "t:sections.global.settings.color_scheme_text.options.secondary.label"
+        },
+        {
+          "value": "color-text-inverse",
+          "label": "t:sections.global.settings.color_scheme_text.options.inverse.label"
+        }
+      ],
+      "default": "color-text-inverse"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme_text_no_image",
+      "label": "t:sections.global.settings.color_scheme_text_no_image.label",
+      "info": "t:sections.global.settings.color_scheme_text_no_image.info",
+      "options": [
+        {
+          "value": "color-text-primary",
+          "label": "t:sections.global.settings.color_scheme_text.options.primary.label"
+        },
+        {
+          "value": "color-text-secondary",
+          "label": "t:sections.global.settings.color_scheme_text.options.secondary.label"
+        },
+        {
+          "value": "color-text-inverse",
+          "label": "t:sections.global.settings.color_scheme_text.options.inverse.label"
+        }
+      ],
+      "default": "color-text-primary"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme_background",
+      "label": "t:sections.global.settings.color_scheme_background.label",
+      "options": [
+        {
+          "value": "background-colors-default",
+          "label": "t:sections.global.settings.color_scheme_background.options.default.label"
+        },
+        {
+          "value": "background-colors-secondary",
+          "label": "t:sections.global.settings.color_scheme_background.options.secondary.label"
+        },
+        {
+          "value": "background-colors-accent-1",
+          "label": "t:sections.global.settings.color_scheme_background.options.accent_one.label"
+        },
+        {
+          "value": "background-colors-accent-2",
+          "label": "t:sections.global.settings.color_scheme_background.options.accent_two.label"
+        },
+        {
+          "value": "background-colors-inverse",
+          "label": "t:sections.global.settings.color_scheme_background.options.inverse.label"
+        }
+      ],
+      "default": "background-colors-accent-2"
+    }
+  ]
+}
+{% endschema %}
