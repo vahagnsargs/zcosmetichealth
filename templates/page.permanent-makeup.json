@@ -215,12 +215,71 @@
         "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
         "padding_vertical_mobile": "pt-0-mobile pb-0-mobile"
       }
+    },
+    "our_customers_love_tVbxHA": {
+      "type": "our-customers-love",
+      "blocks": {
+        "indicator_ryVTmB": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "decorator_svg_code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"132\" height=\"26\" viewbox=\"0 0 132 26\" fill=\"none\">\n  <mask id=\"mask0_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"1\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M27.3947 0H1.39453V26.0003H27.3947V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask0_97_49)\">\n    <path d=\"M14.3949 18.7097L21.09 22.7506L19.3133 15.1346L25.2283 10.0104L17.4391 9.34957L14.3949 2.16699L11.3507 9.34957L3.56152 10.0104L9.47657 15.1346L7.69989 22.7506L14.3949 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask1_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"27\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M53.3967 0H27.3965V26.0003H53.3967V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask1_97_49)\">\n    <path d=\"M40.3969 18.7097L47.0919 22.7506L45.3153 15.1346L51.2303 10.0104L43.4411 9.34957L40.3969 2.16699L37.3527 9.34957L29.5635 10.0104L35.4785 15.1346L33.7018 22.7506L40.3969 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask2_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"53\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M79.3996 0H53.3994V26.0003H79.3996V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask2_97_49)\">\n    <path d=\"M66.3998 18.7097L73.0949 22.7506L71.3182 15.1346L77.2332 10.0104L69.444 9.34957L66.3998 2.16699L63.3556 9.34957L55.5664 10.0104L61.4814 15.1346L59.7047 22.7506L66.3998 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask3_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"79\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M105.394 0H79.3936V26.0003H105.394V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask3_97_49)\">\n    <path d=\"M92.3939 18.7097L99.0891 22.7506L97.3123 15.1346L103.228 10.0104L95.4381 9.34957L92.3939 2.16699L89.3497 9.34957L81.5605 10.0104L87.4755 15.1346L85.6989 22.7506L92.3939 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask4_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"105\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M131.395 0H105.395V26.0003H131.395V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask4_97_49)\">\n    <path d=\"M118.395 18.7097L125.09 22.7506L123.313 15.1346L129.228 10.0104L121.439 9.34957L118.395 2.16699L115.351 9.34957L107.561 10.0104L113.477 15.1346L111.7 22.7506L118.395 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n</svg>",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "I can’t believe the transformation!",
+            "maintext": "<p> Kim gave me the brows I’ve always dreamed of. The whole experience was smooth and professional, and now I feel more confident than ever.</p><p><strong>Rachel L.</strong></p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_H4y98A": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "decorator_svg_code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"132\" height=\"26\" viewbox=\"0 0 132 26\" fill=\"none\">\n  <mask id=\"mask0_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"1\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M27.3947 0H1.39453V26.0003H27.3947V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask0_97_49)\">\n    <path d=\"M14.3949 18.7097L21.09 22.7506L19.3133 15.1346L25.2283 10.0104L17.4391 9.34957L14.3949 2.16699L11.3507 9.34957L3.56152 10.0104L9.47657 15.1346L7.69989 22.7506L14.3949 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask1_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"27\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M53.3967 0H27.3965V26.0003H53.3967V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask1_97_49)\">\n    <path d=\"M40.3969 18.7097L47.0919 22.7506L45.3153 15.1346L51.2303 10.0104L43.4411 9.34957L40.3969 2.16699L37.3527 9.34957L29.5635 10.0104L35.4785 15.1346L33.7018 22.7506L40.3969 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask2_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"53\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M79.3996 0H53.3994V26.0003H79.3996V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask2_97_49)\">\n    <path d=\"M66.3998 18.7097L73.0949 22.7506L71.3182 15.1346L77.2332 10.0104L69.444 9.34957L66.3998 2.16699L63.3556 9.34957L55.5664 10.0104L61.4814 15.1346L59.7047 22.7506L66.3998 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask3_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"79\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M105.394 0H79.3936V26.0003H105.394V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask3_97_49)\">\n    <path d=\"M92.3939 18.7097L99.0891 22.7506L97.3123 15.1346L103.228 10.0104L95.4381 9.34957L92.3939 2.16699L89.3497 9.34957L81.5605 10.0104L87.4755 15.1346L85.6989 22.7506L92.3939 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask4_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"105\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M131.395 0H105.395V26.0003H131.395V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask4_97_49)\">\n    <path d=\"M118.395 18.7097L125.09 22.7506L123.313 15.1346L129.228 10.0104L121.439 9.34957L118.395 2.16699L115.351 9.34957L107.561 10.0104L113.477 15.1346L111.7 22.7506L118.395 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n</svg>",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "I can’t believe the transformation!",
+            "maintext": "<p> Kim gave me the brows I’ve always dreamed of. The whole experience was smooth and professional, and now I feel more confident than ever.</p><p><strong>Rachel L.</strong></p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_H9wkHR": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "decorator_svg_code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"132\" height=\"26\" viewbox=\"0 0 132 26\" fill=\"none\">\n  <mask id=\"mask0_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"1\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M27.3947 0H1.39453V26.0003H27.3947V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask0_97_49)\">\n    <path d=\"M14.3949 18.7097L21.09 22.7506L19.3133 15.1346L25.2283 10.0104L17.4391 9.34957L14.3949 2.16699L11.3507 9.34957L3.56152 10.0104L9.47657 15.1346L7.69989 22.7506L14.3949 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask1_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"27\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M53.3967 0H27.3965V26.0003H53.3967V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask1_97_49)\">\n    <path d=\"M40.3969 18.7097L47.0919 22.7506L45.3153 15.1346L51.2303 10.0104L43.4411 9.34957L40.3969 2.16699L37.3527 9.34957L29.5635 10.0104L35.4785 15.1346L33.7018 22.7506L40.3969 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask2_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"53\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M79.3996 0H53.3994V26.0003H79.3996V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask2_97_49)\">\n    <path d=\"M66.3998 18.7097L73.0949 22.7506L71.3182 15.1346L77.2332 10.0104L69.444 9.34957L66.3998 2.16699L63.3556 9.34957L55.5664 10.0104L61.4814 15.1346L59.7047 22.7506L66.3998 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask3_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"79\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M105.394 0H79.3936V26.0003H105.394V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask3_97_49)\">\n    <path d=\"M92.3939 18.7097L99.0891 22.7506L97.3123 15.1346L103.228 10.0104L95.4381 9.34957L92.3939 2.16699L89.3497 9.34957L81.5605 10.0104L87.4755 15.1346L85.6989 22.7506L92.3939 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n  <mask id=\"mask4_97_49\" style=\"mask-type:luminance\" maskunits=\"userSpaceOnUse\" x=\"105\" y=\"0\" width=\"27\" height=\"27\">\n    <path d=\"M131.395 0H105.395V26.0003H131.395V0Z\" fill=\"white\"></path>\n  </mask>\n  <g mask=\"url(#mask4_97_49)\">\n    <path d=\"M118.395 18.7097L125.09 22.7506L123.313 15.1346L129.228 10.0104L121.439 9.34957L118.395 2.16699L115.351 9.34957L107.561 10.0104L113.477 15.1346L111.7 22.7506L118.395 18.7097Z\" fill=\"#3F72A4\"></path>\n  </g>\n</svg>",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "I can’t believe the transformation!",
+            "maintext": "<p> Kim gave me the brows I’ve always dreamed of. The whole experience was smooth and professional, and now I feel more confident than ever.</p><p><strong>Rachel L.</strong></p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_ryVTmB",
+        "indicator_H4y98A",
+        "indicator_H9wkHR"
+      ],
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
     }
   },
   "order": [
     "main",
     "full_width_banner_B9hN6y",
     "dual_tiles_MmRURD",
-    "columns_gAYWw7"
+    "columns_gAYWw7",
+    "our_customers_love_tVbxHA"
   ]
 }
