@@ -1,4 +1,4 @@
-.template--permanent-makeup section {padding:0 32px; max-width:1440px;}
+.template--permanent-makeup section {padding:0 32px; max-width:1440px; margin-left:auto; margin-right:auto;}
 .book-appointment .container {width:100%;display:flex;padding:0px;height:100%;position:relative;max-width:1370px;margin: auto;padding-top:112px;gap:20px;}
 .book-appointment .container-content{max-width:700px;}
 .book-appointment .section-dual-tiles__content{max-width:inherit;padding:0px;}
