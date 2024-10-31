@@ -449,7 +449,7 @@
       ],
       "custom_css": [
         ".hero-alt__title {font-family: \"Maven Pro\"; font-size: 40px; font-weight: 700; line-height: 120%; text-transform: capitalize;}",
-        ".hero-alt__head {max-width: 35%; margin: 0; }",
+        ".hero-alt__head {max-width: 35%; margin: 0; display: flex;}",
         ".hero-alt__body {max-width: 65%; padding-right: 30px; margin: 0;}",
         ".media {max-width: 560px; min-height: auto; margin-left: auto;}",
         ".media img {position: static;}",
