@@ -99,6 +99,12 @@
           class="swiper section-trust-indicators__swiper "
           data-swiper-options='{{- data_swiper_options -}}'
         >
+          {%- if section.settings.title != blank -%}
+            <h3 class="section-title">
+              {{- section.settings.title -}}
+            </h3>
+            <!-- /.section-trust-indicators__title -->
+          {%- endif -%}
           <div class="swiper-wrapper section-trust-indicators__swiper-wrapper owl">
             {{ tiles_html }}
           </div><!-- /.swiper-wrapper -->
@@ -135,6 +141,11 @@
 {
   "name": "Our Customers love us",
   "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "title"
+    },
     {
       "type": "checkbox",
       "id": "slider_mobile",
