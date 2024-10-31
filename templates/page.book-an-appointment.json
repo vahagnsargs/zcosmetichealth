@@ -135,6 +135,9 @@
         "text_BJHECC",
         "media_yfPicj"
       ],
+      "custom_css": [
+        ".hero-alt__title {font-family: \"Maven Pro\"; font-size: 40px;}"
+      ],
       "settings": {
         "hero_alt_banner_height": 60,
         "padding_vertical_desktop": "",
