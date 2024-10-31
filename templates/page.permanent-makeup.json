@@ -228,70 +228,6 @@
         "padding_vertical_mobile": "pt-0-mobile pb-0-mobile"
       }
     },
-    "expert_pmu_artist_66dggz": {
-      "type": "expert-pmu-artist",
-      "blocks": {
-        "text_qtnaDT": {
-          "type": "text",
-          "settings": {
-            "title_1": "Expert PMU artist",
-            "text_1": "<p>With over seven years of experience, Kim O'Kelly has been voted Burbank's Best Permanent Artist for two consecutive years, ensuring you're in expert hands.</p>",
-            "image_1": "shopify://shop_images/Ellipse_1.png",
-            "title_2": "Natural-Looking Results",
-            "text_2": "<p>Kim specializes in creating brows that enhance your natural beauty. Whether you're going for bold or subtle, the results will always look flawless and authentic.</p>",
-            "image_2": "shopify://shop_images/Ellipse_1_1.png",
-            "title_3": "Voted My Burbank's Best 2023",
-            "text_3": "<p>Kim O’Kelly has been recognized as Burbank’s Best in 2023, a prestigious award that highlights her exceptional talent and dedication in the beauty industry. </p>",
-            "image_3": "shopify://shop_images/image_2_3x_b2055ced-b513-41a3-9bc5-758a7ce65a3c.png"
-          }
-        },
-        "tile_3Wmzjf": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-accent-2",
-            "image_desktop": "shopify://shop_images/Container_2151d41e-47c7-408c-b667-d80a4c813135.jpg",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "/",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "text_qtnaDT",
-        "tile_3Wmzjf"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
-      }
-    },
     "our_customers_love_tVbxHA": {
       "type": "our-customers-love",
       "blocks": {
@@ -362,8 +298,72 @@
         "title": "Our Customers love us",
         "slider_mobile": true,
         "layout": "layout-1",
-        "padding_vertical_desktop": "",
-        "padding_vertical_mobile": ""
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile"
+      }
+    },
+    "expert_pmu_artist_66dggz": {
+      "type": "expert-pmu-artist",
+      "blocks": {
+        "text_qtnaDT": {
+          "type": "text",
+          "settings": {
+            "title_1": "Expert PMU artist",
+            "text_1": "<p>With over seven years of experience, Kim O'Kelly has been voted Burbank's Best Permanent Artist for two consecutive years, ensuring you're in expert hands.</p>",
+            "image_1": "shopify://shop_images/Ellipse_1.png",
+            "title_2": "Natural-Looking Results",
+            "text_2": "<p>Kim specializes in creating brows that enhance your natural beauty. Whether you're going for bold or subtle, the results will always look flawless and authentic.</p>",
+            "image_2": "shopify://shop_images/Ellipse_1_1.png",
+            "title_3": "Voted My Burbank's Best 2023",
+            "text_3": "<p>Kim O’Kelly has been recognized as Burbank’s Best in 2023, a prestigious award that highlights her exceptional talent and dedication in the beauty industry. </p>",
+            "image_3": "shopify://shop_images/image_2_3x_b2055ced-b513-41a3-9bc5-758a7ce65a3c.png"
+          }
+        },
+        "tile_3Wmzjf": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/Container_2151d41e-47c7-408c-b667-d80a4c813135.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_qtnaDT",
+        "tile_3Wmzjf"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 4,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 2
       }
     },
     "our_work_RUatbL": {
