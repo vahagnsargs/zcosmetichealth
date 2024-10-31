@@ -8,6 +8,9 @@
     <link rel="canonical" href="{{ canonical_url }}">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
 
+    <link rel="stylesheet" href="{{ 'owl.carousel.min.css' | asset_url }}">
+    <script src="{{ 'owl.carousel.min.js' | asset_url }}"></script>
+
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
