@@ -416,7 +416,7 @@
             "content_position_vertical": "justify-center",
             "title": "Kim O'Kelly’s Journey",
             "text_size": 2,
-            "content": "<p>Kim O'Kelly is a skilled permanent makeup artist known for creating natural-looking brows. Inspired by a personal experience, she turned her talent into a rewarding career and has been named Burbank's Best Permanent Artist for two years. </p><p>With over seven years of experience, Kim’s work enhances confidence for clients across Los Angeles. Whether it's microblading, powder brows, or lip blushing, she combines precision and care to meet each client's unique needs. Her motto, \"Changing the world, one brow at a time\" reflects her passion for helping people feel beautiful.</p>",
+            "content": "<p><strong>Kim O'Kelly</strong> is a skilled permanent makeup artist known for creating natural-looking brows. Inspired by a personal experience, she turned her talent into a rewarding career and has been named Burbank's Best Permanent Artist for two years. </p><p><strong>With over seven years of experience,</strong> Kim’s work enhances confidence for clients across Los Angeles. Whether it's microblading, powder brows, or lip blushing, she combines precision and care to meet each client's unique needs. Her motto, \"Changing the world, one brow at a time\" reflects her passion for helping people feel beautiful.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "Book consultation",
@@ -437,7 +437,10 @@
       ],
       "custom_css": [
         ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
+        ".media--overlay:after {background: transparent;}",
+        "h2 {color: #1f1f1f; font-family: Oswald; font-size: 44px; font-weight: 500; line-height: 50.51px; letter-spacing: 1.76px; text-transform: uppercase;}",
+        ".section-dual-tiles__entry {color: #1f1f1f; font-family: Nunito; font-size: 17px; font-weight: 400; line-height: 150%;}",
+        ".button {color: #fff; font-family: Nunito; font-size: 18px; font-weight: 700; line-height: 24px; letter-spacing: 1px; text-transform: capitalize; padding: 17px 28px;}"
       ],
       "settings": {
         "section_width": "max-w-page",
@@ -517,6 +520,13 @@
       "block_order": [
         "tile_PHGdzy",
         "tile_EUhg3P"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "h2 {color: #1f1f1f; font-family: Oswald; font-size: 44px; font-weight: 500; line-height: 50.51px; letter-spacing: 1.76px; text-transform: uppercase;}",
+        ".section-dual-tiles__entry {color: #1f1f1f; font-family: Nunito; font-size: 17px; font-weight: 400; line-height: 150%;}",
+        ".button {color: #FFF; font-family: Nunito; font-size: 18px; font-weight: 700; line-height: 24px; letter-spacing: 1px; text-transform: capitalize; padding: 17px 28px;}"
       ],
       "settings": {
         "section_width": "max-w-page",
