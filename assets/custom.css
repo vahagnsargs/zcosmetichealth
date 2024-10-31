@@ -152,7 +152,7 @@
 .our-customers-love .section-trust-indicators__inner {gap: 0;}
 .our-customers-love .owl-stage {display:flex;}
 .our-customers-love .owl-dots {display:none;}
-.our-customers-love .owl-nav {position: absolute; right: 0; top: -70px; gap: 7px; display: flex;}
+.our-customers-love .owl-nav {position: absolute; right: 40px; top: -70px; gap: 7px; display: flex;}
 .our-customers-love .section-trust-indicators__content {gap:0;}
 .our-customers-love .section-trust-indicators__title {font-family: Oswald;  font-size: 24px; line-height: 150%; letter-spacing: 0.72px; margin-top:24px; margin-bottom:12px;}
 .our-customers-love .section-trust-indicators__content p {margin:0; color: #0F0F0F; font-family: Nunito; font-size: 17px; line-height: 23.04px;}
@@ -162,7 +162,7 @@
 .our-customers-love .owl-nav button span {display:none;}
 .our-customers-love .owl-nav button.owl-prev {background-image:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Previous_slide.svg?v=1730400149");}
 .our-customers-love .owl-nav button.owl-next {background-image:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Next_slide.svg?v=1730400293");}
-
+.our-customers-love {padding:32px;}
 /* our-customers-love */
 
 
