@@ -1,1 +1,527 @@
-{"sections":{"main":{"type":"main-page","custom_css":[".container.container--small {display: none;}",".text-colors-default {padding: 0px;}"],"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"book_appointment_LNy9Gk":{"type":"book-appointment","settings":{"color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-default"}},"experience_unmatched_AkyEWG":{"type":"experience-unmatched","blocks":{"tile_YKKLch":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"Experience Unmatched Expertise and Personalized Care with Dr. Zadeh","text_size":1,"content":"<p>Dr. Zadeh combines his extensive knowledge of CoolSculpting® Elite with state-of-the-art technology to provide you with a comfortable and effective treatment experience. His tailored approach ensures that your unique body goals are met, making him a trusted choice for countless satisfied patients.<br\/><br\/><\/p>","button_style":"button--filled","button_separator":false,"button_text":"BOOK FREE CONSULTATION","button_url":"#","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_QehXw8":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-2","video_desktop":"shopify:\/\/files\/videos\/89ce945b7f5d846e49c28bc6d25533d572fd0387.mov","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_YKKLch","tile_QehXw8"],"settings":{"section_width":"max-w-page","section_height":50,"layout":"section-dual-tiles--70-30","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"transform_LF7giy":{"type":"transform","blocks":{"indicator_hJh7Re":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/fetured3_copy_2.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-inverse","title":"Expert Care","maintext":"<p>Dr. Zadeh has over 12 years of experience in transforming lives through CoolSculpting®.<\/p>","link_title":"","link_url":"\/"}},"indicator_KEqUtx":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/fetured2_copy_3.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-inverse","title":"Proven Results","maintext":"<p>Join thousands who have successfully reshaped their bodies with Dr. Zadeh's expertise.<\/p>","link_title":"","link_url":"\/"}}},"block_order":["indicator_hJh7Re","indicator_KEqUtx"],"custom_css":[".section-trust-indicators {width: 100%; max-width: 100%; padding: 0px; margin-top: 126px; background: #b9d1f4; height: 630px;}","@media (max-width: 768px) {.section-trust-indicators {margin-top: 60px; }}"],"settings":{"slider_mobile":true,"layout":"layout-1","padding_vertical_desktop":"","padding_vertical_mobile":""}},"body_goals_Txg46b":{"type":"body-goals","blocks":{"indicator_VtMDbj":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/3.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"ABDOMEN","maintext":"","link_title":"","link_url":"\/"}},"indicator_J6Kr3Y":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/4_77cfa3cf-b7dd-4284-8fbc-659fa2f8fc95.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"arms","maintext":"","link_title":"","link_url":"\/"}},"indicator_zL7t37":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/3_818d2f10-5848-4e6d-a800-0993b263333f.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"legs","maintext":"","link_title":"","link_url":"\/"}}},"block_order":["indicator_VtMDbj","indicator_J6Kr3Y","indicator_zL7t37"],"custom_css":[".section-trust-indicators {padding-top: 0px !important;}"],"settings":{"slider_mobile":true,"layout":"layout-1","padding_vertical_desktop":"","padding_vertical_mobile":""}},"experience_7mNVXi":{"type":"experience","blocks":{"subtitle_dDUwJT":{"type":"subtitle","settings":{"subtitle":"Experience the Dr. Zadeh Difference with","subtitle_url":""}},"title_7PGDVj":{"type":"title","settings":{"title":"CoolSculpting® Elite"}},"buttons_pQfjy7":{"type":"buttons","settings":{"first_button_text":"BOOK FREE CONSULTATION TODAY","first_button_url":"#","first_button_style":"button--outlined-inverse","first_button_color_scheme_background":"background-colors-default","second_button_text":"","second_button_url":"","second_button_style":"button--outlined-inverse","second_button_color_scheme_background":"background-colors-default"}}},"block_order":["subtitle_dDUwJT","title_7PGDVj","buttons_pQfjy7"],"custom_css":[".section-full-width-banner__subtitle {color: #fff; text-align: center; font-family: \"Maven Pro\"; font-size: 40px; font-weight: 700; line-height: 120%;}","h2 {color: #fff; font-family: \"Maven Pro\"; font-size: 80px; font-style: normal; font-weight: 700;}",".section-full-width-banner__buttons {margin: 23px;}",".section-full-width-banner__content {max-width: 1059px; margin: auto; padding: 0px; margin-bottom: 100px; margin-top: 178px; height: auto;}","@media (max-width: 768px) {.section-full-width-banner__content {margin-top: 0px; } h2 {font-size: 40px; }}"],"settings":{"full_width_banner_height":50,"full_width_banner_mobile_height":75,"banner_layout":"section-full-width-banner--full","spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6,"color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","image_desktop":"shopify:\/\/shop_images\/Bitmap.png","content_position_horizontal":"align-center text-center","content_position_vertical":"justify-end","content_padding_top":9.6,"content_padding_bottom":9.6,"content_padding_left":32,"content_padding_right":32}},"dual_tiles_pRXp3t":{"type":"dual-tiles","blocks":{"tile_B3dT8w":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"Why choose Dr. Zadeh?","text_size":1.5,"content":"<p><strong>Board-Certified Surgeon with 12 Years of Expertise:<\/strong> Dr. Zadeh’s extensive experience means you’ll get the best possible care and results.\u2028 <\/p><p><\/p><p><br\/><strong>Award-Winning Doctor: <\/strong>Recognized for outstanding results and patient care.\u2028 <\/p><p><\/p><p><br\/><strong>Cutting-Edge Technology: <\/strong>Our state-of-the-art CoolSculpting® Elite technology ensures you’ll receive the most efficient, comfortable, and effective treatment available.\u2028 <\/p><p><\/p><p><br\/><strong>Personalized Approach:<\/strong> Your journey is unique. Dr. Zadeh will work closely with you to develop a customized treatment plan that addresses your specific concerns.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"BOOK YOUR FREE CONSULTATION WITH DR. ZADEH","button_url":"#","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_yn4YfP":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-2","image_desktop":"shopify:\/\/shop_images\/DSC00245_copy_1_1.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_B3dT8w","tile_yn4YfP"],"custom_css":[".section-dual-tiles__tile {background: white !important;}",".section-dual-tiles {padding: 0px !important; max-width: 1298px;}",".button {background: white !important; border: 1px solid black; font-weight: 700; color: black;}","h2 {font-family: \"Maven Pro\"; font-size: 40px; font-weight: 700; margin-bottom: 40px;}","p {font-size: 16px;}",".section-dual-tiles__actions {max-width: 453px; margin: auto;}",".section-dual-tiles__content {position: relative;}",".media {height: auto;}","@media (max-width: 768px) {.section-dual-tiles {margin-top: 0px; }}"],"settings":{"section_width":"max-w-page","section_height":25,"layout":"section-dual-tiles--70-30","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"testimonials_review_tzNdbj":{"type":"testimonials-review","blocks":{"testimonial_e6FPzY":{"type":"testimonial","settings":{"quote":"<p>\"Dr. Zadeh made me feel so comfortable throughout the entire process, and the results speak for themselves. I couldn’t be happier with my new body!\"<\/p>","author":"Sarah J.   Satisfied Patient","link_title":"Buy Leo Bikini Bottoms","link_url":"\/"}},"testimonial_aM6nDE":{"type":"testimonial","settings":{"quote":"<p>\"Dr. Zadeh made me feel so comfortable throughout the entire process, and the results speak for themselves. I couldn’t be happier with my new body!\"<\/p>","author":"Sarah J.   Satisfied Patient","link_title":"Buy Leo Bikini Bottoms","link_url":"\/"}}},"block_order":["testimonial_e6FPzY","testimonial_aM6nDE"],"settings":{"padding_vertical_desktop":"","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","layout":"no-image","gap_between_desktop":2,"gap_between_mobile":2,"title":"From the people"}},"coolsculpting_tfVtqj":{"type":"coolsculpting","blocks":{"indicator_HPpMJF":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/fetured2_copy_1.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"Enhanced Comfort and Efficiency","maintext":"<p>Using the latest and most advanced CoolSculpting® Elite technology, we can treat larger areas more comfortably and efficiently, giving you the most effective results in less time.\u2028 <\/p>","link_title":"","link_url":"\/"}},"indicator_H3nxdr":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/fetured3_copy_1.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"Unmatched Experience","maintext":"<p>With over a decade of experience and thousands of CoolSculpting® treatments under his belt, Dr. Zadeh is one of the most experienced providers in the industry. His outstanding results surpass those of other providers, making him a trusted, preferred CoolSculpting® expert.\u2028 <\/p>","link_title":"","link_url":"\/"}},"indicator_Aj7HRM":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/fetured1_copy_1.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"Customized Care","maintext":"<p>Our service is Based On Your Body Goals: Dr. Zadeh’s individualized treatment plans ensure your specific body goals are met with precision. Every patient receives tailored care for optimal results.<\/p>","link_title":"","link_url":"\/"}}},"block_order":["indicator_HPpMJF","indicator_H3nxdr","indicator_Aj7HRM"],"custom_css":[".section-trust-indicators {padding-top: 107px !important;}",".section-trust-indicators__content {gap: 0px;}"],"settings":{"slider_mobile":true,"layout":"layout-1","padding_vertical_desktop":"","padding_vertical_mobile":""}}},"order":["main","book_appointment_LNy9Gk","experience_unmatched_AkyEWG","transform_LF7giy","body_goals_Txg46b","experience_7mNVXi","dual_tiles_pRXp3t","testimonials_review_tzNdbj","coolsculpting_tfVtqj"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        ".container.container--small {display: none;}",
+        ".text-colors-default {padding: 0px;}"
+      ],
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "book_appointment_LNy9Gk": {
+      "type": "book-appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-inverse",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "experience_unmatched_AkyEWG": {
+      "type": "experience-unmatched",
+      "blocks": {
+        "tile_YKKLch": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Experience Unmatched Expertise and Personalized Care with Dr. Zadeh",
+            "text_size": 1,
+            "content": "<p>Dr. Zadeh combines his extensive knowledge of CoolSculpting® Elite with state-of-the-art technology to provide you with a comfortable and effective treatment experience. His tailored approach ensures that your unique body goals are met, making him a trusted choice for countless satisfied patients.<br/><br/></p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "BOOK FREE CONSULTATION",
+            "button_url": "#",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_QehXw8": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop": "shopify://files/videos/89ce945b7f5d846e49c28bc6d25533d572fd0387.mov",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_YKKLch",
+        "tile_QehXw8"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 50,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "hero_alt_x7bTf8": {
+      "type": "hero-alt",
+      "blocks": {
+        "text_BJHECC": {
+          "type": "text",
+          "settings": {
+            "subtitle": "",
+            "title": "Experience Unmatched Expertise and Personalized Care with Dr. Zadeh",
+            "content": "<p>Dr. Zadeh combines his extensive knowledge of CoolSculpting® Elite with state-of-the-art technology to provide you with a comfortable and effective treatment experience. His tailored approach ensures that your unique body goals are met, making him a trusted choice for countless satisfied patients.</p>",
+            "button_style": "button--outlined",
+            "button_text": "BOOK FREE CONSULTATION",
+            "button_url": "/",
+            "button_separator": true
+          }
+        },
+        "media_yfPicj": {
+          "type": "media",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "text_BJHECC",
+        "media_yfPicj"
+      ],
+      "settings": {
+        "hero_alt_banner_height": 60,
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse"
+      }
+    },
+    "transform_LF7giy": {
+      "type": "transform",
+      "blocks": {
+        "indicator_hJh7Re": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/fetured3_copy_2.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "Expert Care",
+            "maintext": "<p>Dr. Zadeh has over 12 years of experience in transforming lives through CoolSculpting®.</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_KEqUtx": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/fetured2_copy_3.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "Proven Results",
+            "maintext": "<p>Join thousands who have successfully reshaped their bodies with Dr. Zadeh's expertise.</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_hJh7Re",
+        "indicator_KEqUtx"
+      ],
+      "custom_css": [
+        ".section-trust-indicators {width: 100%; max-width: 100%; padding: 0px; margin-top: 126px; background: #b9d1f4; height: 630px;}",
+        "@media (max-width: 768px) {.section-trust-indicators {margin-top: 60px; }}"
+      ],
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    },
+    "body_goals_Txg46b": {
+      "type": "body-goals",
+      "blocks": {
+        "indicator_VtMDbj": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/3.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "ABDOMEN",
+            "maintext": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_J6Kr3Y": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/4_77cfa3cf-b7dd-4284-8fbc-659fa2f8fc95.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "arms",
+            "maintext": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_zL7t37": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/3_818d2f10-5848-4e6d-a800-0993b263333f.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "legs",
+            "maintext": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_VtMDbj",
+        "indicator_J6Kr3Y",
+        "indicator_zL7t37"
+      ],
+      "custom_css": [
+        ".section-trust-indicators {padding-top: 0px !important;}"
+      ],
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    },
+    "experience_7mNVXi": {
+      "type": "experience",
+      "blocks": {
+        "subtitle_dDUwJT": {
+          "type": "subtitle",
+          "settings": {
+            "subtitle": "Experience the Dr. Zadeh Difference with",
+            "subtitle_url": ""
+          }
+        },
+        "title_7PGDVj": {
+          "type": "title",
+          "settings": {
+            "title": "CoolSculpting® Elite"
+          }
+        },
+        "buttons_pQfjy7": {
+          "type": "buttons",
+          "settings": {
+            "first_button_text": "BOOK FREE CONSULTATION TODAY",
+            "first_button_url": "#",
+            "first_button_style": "button--outlined-inverse",
+            "first_button_color_scheme_background": "background-colors-default",
+            "second_button_text": "",
+            "second_button_url": "",
+            "second_button_style": "button--outlined-inverse",
+            "second_button_color_scheme_background": "background-colors-default"
+          }
+        }
+      },
+      "block_order": [
+        "subtitle_dDUwJT",
+        "title_7PGDVj",
+        "buttons_pQfjy7"
+      ],
+      "custom_css": [
+        ".section-full-width-banner__subtitle {color: #fff; text-align: center; font-family: \"Maven Pro\"; font-size: 40px; font-weight: 700; line-height: 120%;}",
+        "h2 {color: #fff; font-family: \"Maven Pro\"; font-size: 80px; font-style: normal; font-weight: 700;}",
+        ".section-full-width-banner__buttons {margin: 23px;}",
+        ".section-full-width-banner__content {max-width: 1059px; margin: auto; padding: 0px; margin-bottom: 100px; margin-top: 178px; height: auto;}",
+        "@media (max-width: 768px) {.section-full-width-banner__content {margin-top: 0px; } h2 {font-size: 40px; }}"
+      ],
+      "settings": {
+        "full_width_banner_height": 50,
+        "full_width_banner_mobile_height": 75,
+        "banner_layout": "section-full-width-banner--full",
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "color_scheme_text": "text-colors-inverse",
+        "color_scheme_background": "background-colors-accent-2",
+        "image_desktop": "shopify://shop_images/Bitmap.png",
+        "video_desktop_external": "",
+        "video_mobile_external": "",
+        "content_position_horizontal": "align-center text-center",
+        "content_position_vertical": "justify-end",
+        "content_padding_top": 9.6,
+        "content_padding_bottom": 9.6,
+        "content_padding_left": 32,
+        "content_padding_right": 32
+      }
+    },
+    "dual_tiles_pRXp3t": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_B3dT8w": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Why choose Dr. Zadeh?",
+            "text_size": 1.5,
+            "content": "<p><strong>Board-Certified Surgeon with 12 Years of Expertise:</strong> Dr. Zadeh’s extensive experience means you’ll get the best possible care and results.  </p><p></p><p><br/><strong>Award-Winning Doctor: </strong>Recognized for outstanding results and patient care.  </p><p></p><p><br/><strong>Cutting-Edge Technology: </strong>Our state-of-the-art CoolSculpting® Elite technology ensures you’ll receive the most efficient, comfortable, and effective treatment available.  </p><p></p><p><br/><strong>Personalized Approach:</strong> Your journey is unique. Dr. Zadeh will work closely with you to develop a customized treatment plan that addresses your specific concerns.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "BOOK YOUR FREE CONSULTATION WITH DR. ZADEH",
+            "button_url": "#",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_yn4YfP": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/DSC00245_copy_1_1.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_B3dT8w",
+        "tile_yn4YfP"
+      ],
+      "custom_css": [
+        ".section-dual-tiles__tile {background: white !important;}",
+        ".section-dual-tiles {padding: 0px !important; max-width: 1298px;}",
+        ".button {background: white !important; border: 1px solid black; font-weight: 700; color: black;}",
+        "h2 {font-family: \"Maven Pro\"; font-size: 40px; font-weight: 700; margin-bottom: 40px;}",
+        "p {font-size: 16px;}",
+        ".section-dual-tiles__actions {max-width: 453px; margin: auto;}",
+        ".section-dual-tiles__content {position: relative;}",
+        ".media {height: auto;}",
+        "@media (max-width: 768px) {.section-dual-tiles {margin-top: 0px; }}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 25,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "testimonials_review_tzNdbj": {
+      "type": "testimonials-review",
+      "blocks": {
+        "testimonial_e6FPzY": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>\"Dr. Zadeh made me feel so comfortable throughout the entire process, and the results speak for themselves. I couldn’t be happier with my new body!\"</p>",
+            "author": "Sarah J.   Satisfied Patient",
+            "link_title": "Buy Leo Bikini Bottoms",
+            "link_url": "/"
+          }
+        },
+        "testimonial_aM6nDE": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>\"Dr. Zadeh made me feel so comfortable throughout the entire process, and the results speak for themselves. I couldn’t be happier with my new body!\"</p>",
+            "author": "Sarah J.   Satisfied Patient",
+            "link_title": "Buy Leo Bikini Bottoms",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_e6FPzY",
+        "testimonial_aM6nDE"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "layout": "no-image",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "From the people"
+      }
+    },
+    "coolsculpting_tfVtqj": {
+      "type": "coolsculpting",
+      "blocks": {
+        "indicator_HPpMJF": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/fetured2_copy_1.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Enhanced Comfort and Efficiency",
+            "maintext": "<p>Using the latest and most advanced CoolSculpting® Elite technology, we can treat larger areas more comfortably and efficiently, giving you the most effective results in less time.  </p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_H3nxdr": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/fetured3_copy_1.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Unmatched Experience",
+            "maintext": "<p>With over a decade of experience and thousands of CoolSculpting® treatments under his belt, Dr. Zadeh is one of the most experienced providers in the industry. His outstanding results surpass those of other providers, making him a trusted, preferred CoolSculpting® expert.  </p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_Aj7HRM": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/fetured1_copy_1.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Customized Care",
+            "maintext": "<p>Our service is Based On Your Body Goals: Dr. Zadeh’s individualized treatment plans ensure your specific body goals are met with precision. Every patient receives tailored care for optimal results.</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_HPpMJF",
+        "indicator_H3nxdr",
+        "indicator_Aj7HRM"
+      ],
+      "custom_css": [
+        ".section-trust-indicators {padding-top: 107px !important;}",
+        ".section-trust-indicators__content {gap: 0px;}"
+      ],
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "book_appointment_LNy9Gk",
+    "experience_unmatched_AkyEWG",
+    "hero_alt_x7bTf8",
+    "transform_LF7giy",
+    "body_goals_Txg46b",
+    "experience_7mNVXi",
+    "dual_tiles_pRXp3t",
+    "testimonials_review_tzNdbj",
+    "coolsculpting_tfVtqj"
+  ]
+}
