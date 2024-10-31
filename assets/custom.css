@@ -168,9 +168,9 @@
 /* our-customers-love */
 /* our-work */
 .our-work .section-trust-indicators__tile:after {content:none !important;}
-.our-work .section-trust-indicators__tile {padding:48px 37px; background: #ADC0CF;}
+.our-work .section-trust-indicators__tile {padding:0; background: #ADC0CF;}
 .our-work .section-trust-indicators__decorator {width:100%; height:100%; background:transparent;}
-.our-work .section-trust-indicators__decorator svg {width:auto; height:auto;}
+.our-work .section-trust-indicators__decorator img {width:100%; height:100%;}
 .our-work .section-trust-indicators__inner {gap: 0;}
 .our-work .owl-stage {display:flex;}
 .our-work .owl-dots {display:none;}
