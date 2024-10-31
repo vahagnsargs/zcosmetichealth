@@ -190,14 +190,15 @@
 /* our-work */
 /* expert-pmu-artist */
 .expert-pmu-artist .row {display:flex; justify-content: space-between;}
-.expert-pmu-artist .row:nth-child(2) {flex-direction: row-reverse;}
-.expert-pmu-artist .row:nth-child(2) .text-wrap {text-align:right;}
-.expert-pmu-artist .section-dual-tiles__content { padding: 50px 60px; }
+.expert-pmu-artist .row:nth-child(3) {flex-direction: row-reverse;}
+.expert-pmu-artist .row:nth-child(3) .text-wrap {text-align:right;}
+.expert-pmu-artist .section-dual-tiles__content { padding: 50px 60px; gap:32px;}
 .expert-pmu-artist .row img {max-width:140px; max-height: 140px;}
 .expert-pmu-artist .row .section-dual-tiles__title { color: #1F1F1F; font-family: Oswald; font-size: 24px; font-weight: 500; line-height: 50.51px; letter-spacing: 0.96px; text-transform: uppercase; margin-bottom:8px;}
 .expert-pmu-artist .row .section-dual-tiles__text p {margin:0 ; max-width:380px; color: #1F1F1F; font-family: Nunito; font-size: 17px; font-weight: 400; line-height: 150%;}
 .expert-pmu-artist .media img { object-fit: contain; }
 .expert-pmu-artist .media--overlay:after { background: transparent;}
+.expert-pmu-artist .line {display: block; width: 100%; border-top: solid 1px #B9C6CC;}
 
 
 
