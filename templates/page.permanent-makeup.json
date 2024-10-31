@@ -289,6 +289,84 @@
         "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
         "padding_vertical_mobile": ""
       }
+    },
+    "our_work_RUatbL": {
+      "type": "our-work",
+      "blocks": {
+        "indicator_M6R8U3": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/8.jpg",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "",
+            "maintext": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_nJQKGn": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/15.jpg",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "",
+            "maintext": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_BGYFUj": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/17.jpg",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "",
+            "maintext": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_kxarUz": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/16.jpg",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "",
+            "maintext": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_M6R8U3",
+        "indicator_nJQKGn",
+        "indicator_BGYFUj",
+        "indicator_kxarUz"
+      ],
+      "settings": {
+        "title": "Our Work",
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
     }
   },
   "order": [
@@ -296,6 +374,7 @@
     "full_width_banner_B9hN6y",
     "dual_tiles_MmRURD",
     "columns_gAYWw7",
-    "our_customers_love_tVbxHA"
+    "our_customers_love_tVbxHA",
+    "our_work_RUatbL"
   ]
 }
