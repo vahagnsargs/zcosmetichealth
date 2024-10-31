@@ -44,7 +44,6 @@
 .container.coolsculpting:before{content: "";background-image: url(https://zcosmetichealth.myshopify.com/cdn/shop/files/CS_Elite_Horizontal_Logo_Color_RGB0_1.png?v=1729889162&width=720); display: block; height: 100px; background-size: contain;  background-repeat: no-repeat; max-width: 537px; margin:auto;}
 .coolsculpting .swiper-slide:first-child h3{    max-width: 265px !important;}
 .coolsculpting  .swiper-slide::after {display:none!important;}
-.coolsculpting  .swiper-slide:nth-child(2){margin-top:48px;}
 .experience-unmatched  h2 { font-size: 40px!important; font-weight: 700; line-height: 120%;max-width: 559px;  margin-bottom: 77px;}
 .experience-unmatched { padding: 0px !important;margin-bottom: 0;margin-bottom:0px!important;max-width:1298px;--section-height: auto!important;}
 .experience-unmatched  .section-dual-tiles__entry {margin-bottom: 159px;}
