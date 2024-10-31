@@ -98,6 +98,7 @@
         "tile_YKKLch",
         "tile_QehXw8"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "max-w-page",
         "section_height": 50,
@@ -128,6 +129,7 @@
         "media_yfPicj": {
           "type": "media",
           "settings": {
+            "video_desktop": "shopify://files/videos/89ce945b7f5d846e49c28bc6d25533d572fd0387.mov"
           }
         }
       },
@@ -419,6 +421,50 @@
         "spacing_bottom_mobile": 6
       }
     },
+    "hero_alt_aDzwTe": {
+      "type": "hero-alt",
+      "blocks": {
+        "text_Q6PHaC": {
+          "type": "text",
+          "settings": {
+            "subtitle": "",
+            "title": "Why choose Dr. Zadeh?",
+            "content": "<p><strong>Board-Certified Surgeon with 12 Years of Expertise:</strong> Dr. Zadeh’s extensive experience means you’ll get the best possible care and results.  </p><p></p><p><br/><strong>Award-Winning Doctor: </strong>Recognized for outstanding results and patient care.  </p><p></p><p><br/><strong>Cutting-Edge Technology: </strong>Our state-of-the-art CoolSculpting® Elite technology ensures you’ll receive the most efficient, comfortable, and effective treatment available.  </p><p></p><p><br/><strong>Personalized Approach:</strong> Your journey is unique. Dr. Zadeh will work closely with you to develop a customized treatment plan that addresses your specific concerns.</p>",
+            "button_style": "button--outlined",
+            "button_text": "BOOK YOUR FREE CONSULTATION WITH DR. ZADEH",
+            "button_url": "/",
+            "button_separator": true
+          }
+        },
+        "media_8emY4F": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/DSC00245_copy_1_1_a1bc0857-4391-4855-8f4e-d267bd25ee3d.png"
+          }
+        }
+      },
+      "block_order": [
+        "text_Q6PHaC",
+        "media_8emY4F"
+      ],
+      "custom_css": [
+        ".hero-alt__title {font-family: \"Maven Pro\"; font-size: 40px; font-weight: 700; line-height: 120%; text-transform: capitalize;}",
+        ".hero-alt__head {max-width: 50%; margin: 0;}",
+        ".hero-alt__body {max-width: 50%; margin: 0;}",
+        ".media {max-width: 560px; min-height: auto; margin-left: auto;}",
+        ".media img {position: static;}",
+        ".container {max-width: 1260px; padding: 0 50px;}",
+        ".hero-alt__entry {max-width: none;}",
+        ".button {font-family: \"Maven Pro\"; font-size: 16px; font-weight: 700; line-height: 150%; padding: 12px 24px;}"
+      ],
+      "settings": {
+        "hero_alt_banner_height": 50,
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse"
+      }
+    },
     "testimonials_review_tzNdbj": {
       "type": "testimonials-review",
       "blocks": {
@@ -531,6 +577,7 @@
     "body_goals_Txg46b",
     "experience_7mNVXi",
     "dual_tiles_pRXp3t",
+    "hero_alt_aDzwTe",
     "testimonials_review_tzNdbj",
     "coolsculpting_tfVtqj"
   ]
