@@ -91,12 +91,12 @@
     endif
   %}
 
-  <section class="section-trust-indicators owl {{ section_additional_classes | strip }}">
+  <section class="section-trust-indicators  {{ section_additional_classes | strip }}">
     <div class="container  our-customers-love">
 
       {%- if is_mobile_slider -%}
         <trust-indicators-slider
-          class="swiper section-trust-indicators__swiper"
+          class="swiper section-trust-indicators__swiper owl"
           data-swiper-options='{{- data_swiper_options -}}'
         >
           <div class="swiper-wrapper section-trust-indicators__swiper-wrapper">
