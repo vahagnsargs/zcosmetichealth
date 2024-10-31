@@ -157,9 +157,9 @@
         "gap_between_tiles": 0.2,
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 0,
+        "spacing_bottom_desktop": 3,
         "spacing_top_mobile": 2,
-        "spacing_bottom_mobile": 0
+        "spacing_bottom_mobile": 2
       }
     },
     "columns_gAYWw7": {
@@ -293,7 +293,7 @@
         "title": "Our Customers love us",
         "slider_mobile": true,
         "layout": "layout-1",
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_desktop": "",
         "padding_vertical_mobile": ""
       }
     },
