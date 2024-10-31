@@ -91,7 +91,7 @@
     endif
   %}
 
-  <section class="section-trust-indicators {{ section_additional_classes | strip }}">
+  <section class="section-trust-indicators owl {{ section_additional_classes | strip }}">
     <div class="container  our-customers-love">
 
       {%- if is_mobile_slider -%}
@@ -113,7 +113,24 @@
   
 {%- endif -%}
 
-
+<script>
+  $('.our-customers-love owl').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+</script>
 {% schema %}
 {
   "name": "Our Customers love us",
