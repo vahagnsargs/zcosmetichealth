@@ -30,7 +30,7 @@
 .container.body-goals{max-width:1298px;margin:auto;}
 .container.body-goals .swiper-wrapper{gap:14px;}
 .container.body-goals  .section-trust-indicators__title{position: absolute;    bottom: 75px;color: #FFF;text-align: center;font-family: "Maven Pro";font-size: 26.4px;font-style: normal;font-weight: 600;line-height: 33.6px; /* 127.273% */text-transform: uppercase;}
-.coolsculpting .section-trust-indicators__content{height:100%;}
+.coolsculpting .section-trust-indicators__content{height:100%; justify-content: flex-start;}
 .coolsculpting button{background: #B9D1F4;display: flex;border:transparent;padding: 12px 24px;justify-content: center;align-items: center;gap: 8px;color: #111;text-align: center;width:100%;font-family: "Maven Pro";font-size: 16px;font-style: normal;font-weight: 700;line-height: 150%;;margin:auto;}
 .coolsculpting-button{ max-width:300px;margin:auto;margin-top:43.90px;}
 .coolsculpting .swiper-slide {max-width:369px;width:100%!important;}
