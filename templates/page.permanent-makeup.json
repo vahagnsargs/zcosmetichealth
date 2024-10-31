@@ -42,7 +42,7 @@
             "first_button_text": "Book consultation",
             "first_button_url": "#",
             "first_button_style": "button--filled",
-            "first_button_color_scheme_background": "background-colors-accent-2",
+            "first_button_color_scheme_background": "background-colors-default",
             "second_button_text": "",
             "second_button_url": "",
             "second_button_style": "button--outlined-inverse",
@@ -54,6 +54,11 @@
         "title_aWtNBM",
         "content_nz9RWd",
         "buttons_NkXNDD"
+      ],
+      "custom_css": [
+        ".section-full-width-banner__content {display: flex; align-items: flex-start; max-width: 1440px; margin: auto; padding: 0 60px; margin-bottom: 120px;}",
+        ".section-full-width-banner__title {font-family: Oswald; font-size: 48px; font-weight: 500; line-height: 67.34px; letter-spacing: 1.92px; text-transform: uppercase; max-width: 550px; text-align: left;}",
+        ".section-full-width-banner__entry p {color: #fff; font-family: Nunito; font-size: 18px; font-weight: 400; line-height: 25.5px; max-width: 475px; text-align: left; margin-top: 16px;}"
       ],
       "settings": {
         "full_width_banner_height": 80,
