@@ -286,7 +286,7 @@
         "title": "Our Customers love us",
         "slider_mobile": true,
         "layout": "layout-1",
-        "padding_vertical_desktop": "",
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
         "padding_vertical_mobile": ""
       }
     }
