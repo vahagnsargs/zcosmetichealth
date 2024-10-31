@@ -135,7 +135,7 @@
 }
 .columns .section-trust-indicators__decorator {width:100%; height:100%;}
 .columns .section-trust-indicators__decorator img {width:100%; height:100%;}
-.columns .section-trust-indicators__tile:after {content:none;}
+.columns .section-trust-indicators__tile:after {content:none !important;}
 
 
 
