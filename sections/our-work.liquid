@@ -8,7 +8,7 @@
     section-trust-indicators--{{ section.blocks.size }}
   {%- endcapture -%}
 
-  {%- assign is_mobile_slider = true -%}
+  {%- assign is_mobile_slider = false -%}
 
     {%- if section.settings.slider_mobile and section.blocks.size > 1 -%}
 
@@ -21,9 +21,9 @@
   {%- assign tiles_html = '' -%}
 
   {%- for block in section.blocks -%}
-   
+  
 
-    
+    {%- capture tile_html -%}
       <div class="section-trust-indicators__tile  js-animation-fade-in {{ block.settings.color_scheme_text }} {{ block.settings.color_scheme_background }}">
         <div class="section-trust-indicators__content">
 
@@ -67,14 +67,15 @@
         <!-- /.section-trust-indicators__content -->
       </div>
       <!-- /.section-trust-indicators__tile -->
+    {%- endcapture -%}
 
     {%- if is_mobile_slider -%}
-      
+      {%- capture tile_html -%}
         <div class="swiper-slide section-trust-indicators__swiper-slide">
           {{ tile_html }}
         </div>
         <!-- /.swiper-slide -->
-      
+      {%- endcapture -%}
     {%- endif -%}
 
     {%- assign tiles_html = tiles_html | append: tile_html -%}
