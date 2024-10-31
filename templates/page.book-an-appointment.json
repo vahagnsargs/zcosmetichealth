@@ -136,11 +136,14 @@
         "media_yfPicj"
       ],
       "custom_css": [
-        ".hero-alt__title {font-family: \"Maven Pro\"; font-size: 40px;}",
-        ".hero-alt__head {max-width: 50%;}",
-        ".hero-alt__body {max-width: 50%;}",
-        ".media {max-width: 520px; min-height: auto; margin: auto;}",
-        ".media video {position: static;}"
+        ".hero-alt__title {font-family: \"Maven Pro\"; font-size: 40px; font-weight: 700; line-height: 120%; text-transform: capitalize;}",
+        ".hero-alt__head {max-width: 50%; margin: 0;}",
+        ".hero-alt__body {max-width: 50%; margin: 0;}",
+        ".media {max-width: 520px; min-height: auto; margin-left: auto;}",
+        ".media video {position: static;}",
+        ".container {max-width: 1260px; padding: 0 50px;}",
+        ".hero-alt__entry {max-width: none;}",
+        ".button {font-family: \"Maven Pro\"; font-size: 16px; font-weight: 700; line-height: 150%; padding: 12px 24px;}"
       ],
       "settings": {
         "hero_alt_banner_height": 60,
