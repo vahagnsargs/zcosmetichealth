@@ -185,6 +185,6 @@
 .our-work .owl-nav button span {display:none;}
 .our-work .owl-nav button.owl-prev {background-image:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Previous_slide.svg?v=1730400149");}
 .our-work .owl-nav button.owl-next {background-image:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Next_slide.svg?v=1730400293");}
-.our-work {padding:32px !important;}
+.our-work {padding:32px !important; padding-top:44px !important; padding-bottom:50px !important;}
 .our-work .swiper {padding-left:40px;}
 /* our-work */
