@@ -148,11 +148,71 @@
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
       }
+    },
+    "columns_gAYWw7": {
+      "type": "Columns",
+      "blocks": {
+        "indicator_LWzRwf": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/Article.jpg",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "Eyebrows",
+            "maintext": "<p>Transform your brows with microblading, powder, or combo brows for a natural, defined look.</p>",
+            "link_title": "",
+            "link_url": ""
+          }
+        },
+        "indicator_jLce7H": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Lash Liner",
+            "maintext": "<p>Enhance your eyes with long-lasting lash liner for a natural, smudge-free look.</p>",
+            "link_title": "Learn more",
+            "link_url": "/"
+          }
+        },
+        "indicator_XALLPE": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Lip Blush",
+            "maintext": "<p>Achieve naturally tinted lips with lip blush, adding soft color and reducing the need for daily lipstick.</p>",
+            "link_title": "Learn more",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_LWzRwf",
+        "indicator_jLce7H",
+        "indicator_XALLPE"
+      ],
+      "settings": {
+        "slider_mobile": false,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
     }
   },
   "order": [
     "main",
     "full_width_banner_B9hN6y",
-    "dual_tiles_MmRURD"
+    "dual_tiles_MmRURD",
+    "columns_gAYWw7"
   ]
 }
