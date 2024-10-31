@@ -53,7 +53,7 @@
 .experience-unmatched  .section-dual-tiles { max-width: 1298px;}
 .experience-unmatched  .section-dual-tiles { gap: 91px;}
 .experience-unmatched  .section-dual-tiles__content {padding: 0px;}
-.section-trust-indicators {border-top:none!important;  }
+.section-trust-indicators {border:none!important;  }
 .experience-unmatched  .section-dual-tiles__tile{background:white;}
 .experience-unmatched  .section-dual-tiles__media{width:auto;}
 .experience-unmatched  .section-dual-tiles__tile{    box-sizing: content-box!important;}
