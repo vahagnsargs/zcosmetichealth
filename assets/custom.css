@@ -143,6 +143,7 @@
 .columns .section-trust-indicators__content {align-items: flex-start; gap:0;}
 .columns .section-trust-indicators__content p {padding:0; margin:0; color: #1F1F1F; font-family: Nunito; font-size: 17px; line-height: 150%; text-align: left;}
 .columns .section-trust-indicators__title { font-size: 24px; font-weight: 600; line-height: 50.51px; letter-spacing: 0.96px; text-transform: uppercase; margin-top:16px; margin-bottom:8px;}
+.columns {padding:32px !important;}
 /* columns */
 /* our-customers-love */
 .our-customers-love .section-trust-indicators__tile:after {content:none !important;}
@@ -162,7 +163,8 @@
 .our-customers-love .owl-nav button span {display:none;}
 .our-customers-love .owl-nav button.owl-prev {background-image:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Previous_slide.svg?v=1730400149");}
 .our-customers-love .owl-nav button.owl-next {background-image:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Next_slide.svg?v=1730400293");}
-.our-customers-love {padding:32px;}
+.our-customers-love {padding:32px !important;}
+.our-customers-love .swiper {padding-left:40px;}
 /* our-customers-love */
 
 
