@@ -192,7 +192,7 @@
 .expert-pmu-artist .row {display:flex; justify-content: space-between;}
 .expert-pmu-artist .row:nth-child(3) {flex-direction: row-reverse;}
 .expert-pmu-artist .row:nth-child(3) .text-wrap {text-align:right;}
-.expert-pmu-artist .section-dual-tiles__content { padding: 50px 60px; gap:32px;}
+.expert-pmu-artist .section-dual-tiles__content { padding: 50px 60px; display: flex; gap: 32px; flex-direction: column; justify-content: center; height: 100%;}
 .expert-pmu-artist .row img {max-width:140px; max-height: 140px;}
 .expert-pmu-artist .row .section-dual-tiles__title { color: #1F1F1F; font-family: Oswald; font-size: 24px; font-weight: 500; line-height: 50.51px; letter-spacing: 0.96px; text-transform: uppercase; margin-bottom:8px;}
 .expert-pmu-artist .row .section-dual-tiles__text p {margin:0 ; max-width:380px; color: #1F1F1F; font-family: Nunito; font-size: 17px; font-weight: 400; line-height: 150%;}
