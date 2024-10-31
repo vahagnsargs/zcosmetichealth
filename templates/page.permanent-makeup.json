@@ -178,6 +178,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/Article_4.jpg",
             "decorator_svg_code": "",
             "color_scheme_decorator": "text-colors-default",
             "color_scheme_background_decorator": "background-colors-accent-2",
@@ -192,6 +193,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/Article_2.jpg",
             "decorator_svg_code": "",
             "color_scheme_decorator": "text-colors-default",
             "color_scheme_background_decorator": "background-colors-accent-2",
@@ -210,8 +212,8 @@
       "settings": {
         "slider_mobile": false,
         "layout": "layout-1",
-        "padding_vertical_desktop": "",
-        "padding_vertical_mobile": ""
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile"
       }
     }
   },
