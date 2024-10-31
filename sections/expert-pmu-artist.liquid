@@ -188,7 +188,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.dual-tiles.name",
+  "name": "Expert PMU Artist",
   "settings": [
     {
       "type": "select",
@@ -309,8 +309,71 @@
       "unit": "x"
     }
   ],
-  "max_blocks": 2,
+  "max_blocks": 3,
   "blocks": [
+    {
+    "type": "text",
+      "name": "text",
+      "settings": [
+        {
+          "type": "header",
+          "content": "row 1"
+        },
+        {
+          "type": "text",
+          "id": "title_1",
+          "label": "row 1 title"
+        },
+        {
+          "type": "richtext",
+          "id": "text_1",
+          "label": "row 1 text"
+        },
+        {
+          "type": "image_picker",
+          "id": "image_1",
+          "label": "row 1 image"
+        },
+         {
+          "type": "header",
+          "content": "row 2"
+        },
+        {
+          "type": "text",
+          "id": "title_2",
+          "label": "row 2 title"
+        },
+        {
+          "type": "richtext",
+          "id": "text_2",
+          "label": "row 2 text"
+        },
+        {
+          "type": "image_picker",
+          "id": "image_2",
+          "label": "row 2 image"
+        },
+         {
+          "type": "header",
+          "content": "row 4"
+        },
+        {
+          "type": "text",
+          "id": "title_4",
+          "label": "row 4 title"
+        },
+        {
+          "type": "richtext",
+          "id": "text_4",
+          "label": "row 4 text"
+        },
+        {
+          "type": "image_picker",
+          "id": "image_4",
+          "label": "row 4 image"
+        }
+      ]
+    },
     {
       "type": "tile",
       "name": "t:sections.dual-tiles.blocks.tile.name",
@@ -704,7 +767,7 @@
   ],
   "presets": [
     {
-      "name": "t:sections.dual-tiles.name",
+      "name": "Expert PMU Artist",
       "blocks": [
         {
           "type": "tile",
