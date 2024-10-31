@@ -136,7 +136,11 @@
         "media_yfPicj"
       ],
       "custom_css": [
-        ".hero-alt__title {font-family: \"Maven Pro\"; font-size: 40px;}"
+        ".hero-alt__title {font-family: \"Maven Pro\"; font-size: 40px;}",
+        ".hero-alt__head {max-width: 50%;}",
+        ".hero-alt__body {max-width: 50%;}",
+        ".media {max-width: 520px; min-height: auto; margin: auto;}",
+        ".media video {position: static;}"
       ],
       "settings": {
         "hero_alt_banner_height": 60,
