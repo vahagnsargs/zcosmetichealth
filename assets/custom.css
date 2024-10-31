@@ -167,6 +167,7 @@
 .our-customers-love .swiper {padding-left:40px;}
 /* our-customers-love */
 /* our-work */
+.our-work {background: #ADC0CF;}
 .our-work .section-trust-indicators__tile:after {content:none !important;}
 .our-work .section-trust-indicators__tile {padding:0; background: #ADC0CF;}
 .our-work .section-trust-indicators__decorator {width:100%; height:100%; background:transparent;}
