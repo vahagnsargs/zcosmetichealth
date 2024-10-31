@@ -2,29 +2,35 @@
 
 <section class="book-appointment form-contact  {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }}">
   <div class="container container--small">
-
     <div class="container-content">
-      <h2><strong>ransform Your Body with</strong>
+      <h2>
+        <strong>ransform Your Body with</strong>
         50% Off CoolSculpting® Elite Today!
       </h2>
-      <p>Tired of stubborn fat that just won't budge? It's time to discover the new you with CoolSculpting® Elite, performed by Dr. Michael Zadeh, a renowned board-certified surgeon with over 12 years of experience and thousands of successful treatments. Coolsculpting's revolutionary, non-invasive technology freezes away unwanted fat cells, revealing a slimmer, more sculpted physique.</p>
+      <p>
+        Tired of stubborn fat that just won't budge? It's time to discover the new you with CoolSculpting® Elite,
+        performed by Dr. Michael Zadeh, a renowned board-certified surgeon with over 12 years of experience and
+        thousands of successful treatments. Coolsculpting's revolutionary, non-invasive technology freezes away unwanted
+        fat cells, revealing a slimmer, more sculpted physique.
+      </p>
     </div>
     {%- form 'contact', id: 'ContactForm' -%}
       {%- if form.posted_successfully? -%}
-        <h3 class="h4" tabindex="-1" autofocus>{{- 'contact.form.success' | t -}}</h3><!-- /.h4 -->
+        <h3 class="h4" tabindex="-1" autofocus>{{- 'contact.form.success' | t -}}</h3>
+        <!-- /.h4 -->
       {%- elsif form.errors -%}
         <div class="color-red">
           {{- form.errors | default_errors -}}
-        </div><!-- /.color-red -->
+        </div>
+        <!-- /.color-red -->
       {%- endif -%}
 
-<h2><strong>Book an appointment now</strong></h2>
-      
+      <h2><strong>Book an appointment now</strong></h2>
+
       <div class="form-row first form-row--double">
-        {%-
-          liquid
+        {%- liquid
           assign label = 'First Name'
-          assign placeholder = 'First Name' 
+          assign placeholder = 'First Name'
           capture attr
             echo 'autocomplete="name"'
           endcapture
@@ -37,8 +43,7 @@
           endif
           render 'text-input', id: 'ContactForm-name', label: label, name: 'contact[First Name]', placeholder: placeholder, attr: attr, value: value
         -%}
-        {%-
-          liquid
+        {%- liquid
           assign label = 'Last Name'
           assign placeholder = 'Last Name'
           capture attr
@@ -51,13 +56,11 @@
           else
             assign value = ''
           endif
-          render 'text-input', id: 'ContactForm-lname', label: label, name: 'contact[Last Name]', placeholder: placeholder, attr: attr, value: value,class:'input-parent'
+          render 'text-input', id: 'ContactForm-lname', label: label, name: 'contact[Last Name]', placeholder: placeholder, attr: attr, value: value, class: 'input-parent'
         -%}
- 
       </div>
-    <div class="form-row second">
-        {%-
-          liquid
+      <div class="form-row second">
+        {%- liquid
           assign label = 'Phone'
           assign placeholder = 'Phone'
           capture attr
@@ -70,67 +73,74 @@
           else
             assign value = ''
           endif
-          render 'text-input', id: 'ContactForm-Phone', label: label, name: 'contact[Phone]', placeholder: placeholder, attr: attr, value: value,class:'input-phone'
+          render 'text-input', id: 'ContactForm-Phone', label: label, name: 'contact[Phone]', placeholder: placeholder, attr: attr, value: value, class: 'input-phone'
         -%}
         <div class="field" data-input-wrapper="">
           <label for="ContactForm-Select" class="field__label">*Select Treatment</label>
 
-                <select id="nf-field-236" name="contact[Select Treatment]" aria-invalid="false" aria-describedby="nf-error-236" class="field__input" aria-labelledby="nf-label-field-236" aria-required="true" required="">
-                        	
-                  	<option value="Select Treatment" selected="selected">*Select Treatment:</option>                 
-                  	
-                  	<option value="Belotero">Belotero</option>                 
-                  	
-                  	<option value="Botox">Botox</option>                  
-                  	
-                  	<option value="Butt Lift without Surgery">Butt Lift without Surgery</option>                  
-                  	
-                  	<option value="Chemical Peel">Chemical Peel</option>                  
-                  	
-                  	<option value="Coolsculpting">Coolsculpting</option>                  
-                  	
-                  	<option value="Dysport">Dysport</option>                  
-                  	
-                  	<option value="Emsculpt">Emsculpt</option>                  
-                  	
-                  	<option value="Facials">Facials</option>                  
-                  	
-                  	<option value="Juvederm">Juvederm</option>                  
-                  	
-                  	<option value="Kybella">Kybella</option>                  
-                  	
-                  	<option value="Laser Hair Removal">Laser Hair Removal</option>                  
-                  	
-                  	<option value="Microneedling">Microneedling</option>                  
-                  	
-                  	<option value="Mole and Skin Tag Removal">Mole and Skin Tag Removal</option>                  
-                  	
-                  	<option value="Nano-Ray Laser Skin Resurfacing">Nano-Ray Laser Skin Resurfacing</option>                  
-                  	
-                  	<option value="Restalyne Lyft">Restalyne Lyft</option>                  
-                  	
-                  	<option value="Restalyne Silk">Restalyne Silk</option>                  
-                  	
-                  	<option value="Sculptra">Sculptra</option>                  
-                  	
-                  	<option value="ThermiSmooth">ThermiSmooth</option>                  
-                  	
-                  	<option value="ThermiTight">ThermiTight</option>                  
-                  	
-                  	<option value="ThermiVa">ThermiVa</option>                  
-                  	
-                  	<option value="Ultherapy">Ultherapy</option>                  
-                  	
-                  	<option value="Vollure">Vollure</option>                  
-                  	
-                  	<option value="Volbella">Volbella</option>                  
-                  	
-                  	<option value="VI Peel">VI Peel</option>        
-            </select>
-          </div>
+          <select
+            id="nf-field-236"
+            name="contact[Select Treatment]"
+            aria-invalid="false"
+            aria-describedby="nf-error-236"
+            class="field__input"
+            aria-labelledby="nf-label-field-236"
+            aria-required="true"
+            required=""
+          >
+            <option value="Select Treatment" selected="selected">*Select Treatment:</option>
 
-        {%-
-          liquid
+            <option value="Belotero">Belotero</option>
+
+            <option value="Botox">Botox</option>
+
+            <option value="Butt Lift without Surgery">Butt Lift without Surgery</option>
+
+            <option value="Chemical Peel">Chemical Peel</option>
+
+            <option value="Coolsculpting">Coolsculpting</option>
+
+            <option value="Dysport">Dysport</option>
+
+            <option value="Emsculpt">Emsculpt</option>
+
+            <option value="Facials">Facials</option>
+
+            <option value="Juvederm">Juvederm</option>
+
+            <option value="Kybella">Kybella</option>
+
+            <option value="Laser Hair Removal">Laser Hair Removal</option>
+
+            <option value="Microneedling">Microneedling</option>
+
+            <option value="Mole and Skin Tag Removal">Mole and Skin Tag Removal</option>
+
+            <option value="Nano-Ray Laser Skin Resurfacing">Nano-Ray Laser Skin Resurfacing</option>
+
+            <option value="Restalyne Lyft">Restalyne Lyft</option>
+
+            <option value="Restalyne Silk">Restalyne Silk</option>
+
+            <option value="Sculptra">Sculptra</option>
+
+            <option value="ThermiSmooth">ThermiSmooth</option>
+
+            <option value="ThermiTight">ThermiTight</option>
+
+            <option value="ThermiVa">ThermiVa</option>
+
+            <option value="Ultherapy">Ultherapy</option>
+
+            <option value="Vollure">Vollure</option>
+
+            <option value="Volbella">Volbella</option>
+
+            <option value="VI Peel">VI Peel</option>
+          </select>
+        </div>
+
+        {%- liquid
           assign label = 'contact.form.email' | t | append: ' <span class="color-red" aria-hidden="true">*</span>'
           assign placeholder = 'contact.form.email' | t
           capture attr
@@ -147,30 +157,34 @@
             assign value = ''
           endif
           if form.errors contains 'email'
-            assign error = form.errors.translated_fields['email'] | capitalize | append: ' ' | append: form.errors.messages['email']
+            assign error = form.errors.translated_fields.email | capitalize | append: ' ' | append: form.errors.messages.email
             assign has_error = true
           endif
-          render 'text-input', id: 'ContactForm-email', type: 'email', label: label, name: 'contact[email]', placeholder: placeholder, attr: attr, value: value, has_error: has_error, message: error,class:'input-email'
+          render 'text-input', id: 'ContactForm-email', type: 'email', label: label, name: 'contact[email]', placeholder: placeholder, attr: attr, value: value, has_error: has_error, message: error, class: 'input-email'
         -%}
-      </div><!-- /.form-row form-row--double -->
+      </div>
+      <!-- /.form-row form-row--double -->
 
       <div class="form-row">
-        {%-
-          liquid
+        {%- liquid
           assign label = 'contact.form.message' | t
           assign placeholder = 'contact.form.message' | t
           render 'textarea-input', id: 'ContactForm-body', label: label, name: 'contact[Requested Time / Date]', placeholder: placeholder, body: form.body
         -%}
-      </div><!-- /.form-row -->
+      </div>
+      <!-- /.form-row -->
 
       <div class="form-row form-row--actions">
-        {%- assign value = 'contact.form.submit' | t -%}
+        {%- assign value = 'BOOK AN APPOINTMENT' -%}
         {%- render 'button', type: 'submit', style: 'solid', value: value, class: 'button' -%}
-        {%- assign value = nil -%}
-      </div><!-- /.form-row -->
+        {%- assign value = null -%}
+      </div>
+      <!-- /.form-row -->
     {%- endform -%}
-  </div><!-- /.container container--small -->
-</section><!-- /.form-contact -->
+  </div>
+  <!-- /.container container--small -->
+</section>
+<!-- /.form-contact -->
 
 {% schema %}
 {

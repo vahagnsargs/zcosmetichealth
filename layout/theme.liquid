@@ -15,15 +15,29 @@
     {%- unless settings.type_heading_font.system? and settings.type_body_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
-
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+      rel="stylesheet"
+    >
     <title>
       {{ page_title }}
       {%- if current_tags %}
-        &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
+        &ndash; tagged "{{ current_tags | join: ', ' }}"
+      {%- endif -%}
       {%- if current_page != 1 %}
-        &ndash; Page {{ current_page }}{% endif -%}
+        &ndash; Page {{ current_page -}}
+      {%- endif -%}
       {%- unless page_title contains shop.name %}
-        &ndash; {{ shop.name }}{% endunless -%}
+        &ndash; {{ shop.name -}}
+      {%- endunless -%}
     </title>
 
     {% if page_description %}
@@ -40,7 +54,7 @@
     {%- render 'settings' -%}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
-      {{ 'custom.css' | asset_url | stylesheet_tag }}
+    {{ 'custom.css' | asset_url | stylesheet_tag }}
     {{ 'swiper-bundle.min.css' | asset_url | stylesheet_tag }}
     <link rel="stylesheet" href="{{ 'component-drawer.css' | asset_url }}" media="print" onload="this.media='all'">
     <noscript>
@@ -48,7 +62,12 @@
     </noscript>
 
     {%- if settings.predictive_search_enabled -%}
-      <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
+      <link
+        rel="stylesheet"
+        href="{{ 'component-predictive-search.css' | asset_url }}"
+        media="print"
+        onload="this.media='all'"
+      >
       <script src="{{- 'predictive-search.js' | asset_url -}}" defer="defer"></script>
       <noscript>
         {{- 'component-predictive-search.css' | asset_url | stylesheet_tag -}}
@@ -147,6 +166,5 @@
       {% render 'subify-snippet' %}
     {% endif %}
     {%- comment -%}subify snippet end{%- endcomment -%}
-
   </body>
 </html>

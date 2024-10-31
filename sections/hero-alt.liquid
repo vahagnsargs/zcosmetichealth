@@ -16,58 +16,76 @@
       <div class="hero-alt__inner">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
-          {%- when 'text' -%}
-            <div class="hero-alt__body">
-              <div class="hero-alt__content">
-                {%- if block.settings.subtitle != blank -%}
-                  <p class="hero-alt__subtitle text-navigation-button">
-                    {{- block.settings.subtitle | escape -}}
-                  </p><!-- /.hero-alt__subtitle -->
-                {%- endif -%}
+            {%- when 'text' -%}
+              <div class="hero-alt__body">
+                <div class="hero-alt__content">
+                  {%- if block.settings.subtitle != blank -%}
+                    <p class="hero-alt__subtitle text-navigation-button">
+                      {{- block.settings.subtitle | escape -}}
+                    </p>
+                    <!-- /.hero-alt__subtitle -->
+                  {%- endif -%}
 
-                <h1 class="hero-alt__title">
-                  {{- block.settings.title | default: page.title | default: page_title -}}
-                </h1><!-- /.hero-alt__title -->
+                  <h1 class="hero-alt__title">
+                    {{- block.settings.title | default: page.title | default: page_title -}}
+                  </h1>
+                  <!-- /.hero-alt__title -->
 
-                {%- if block.settings.content != blank -%}
-                  <div class="hero-alt__entry entry entry--list-padding-none h4">
-                    {{- block.settings.content -}}
-                  </div><!-- /.hero-alt__entry -->
-                {%- endif -%}
-                {%- if block.settings.button_separator == true -%}
-                  <div class="hero-alt__content--separator"></div>
-                  <!-- /.hero-alt__separator -->
-                {%- endif -%}
-                {%- if block.settings.button_text != blank and block.settings.button_url != blank -%}
-                  <div class="hero-alt__button">
-                    {%- render 'button',
-                      type: 'link',
-                      class: 'button',
-                      button_style: block.settings.button_style,
-                      value: block.settings.button_text,
-                      href: block.settings.button_url
+                  {%- if block.settings.content != blank -%}
+                    <div class="hero-alt__entry entry entry--list-padding-none h4">
+                      {{- block.settings.content -}}
+                    </div>
+                    <!-- /.hero-alt__entry -->
+                  {%- endif -%}
+                  {%- if block.settings.button_separator == true -%}
+                    <div class="hero-alt__content--separator"></div>
+                    <!-- /.hero-alt__separator -->
+                  {%- endif -%}
+                  {%- if block.settings.button_text != blank and block.settings.button_url != blank -%}
+                    <div class="hero-alt__button">
+                      {%- render 'button',
+                        type: 'link',
+                        class: 'button',
+                        button_style: block.settings.button_style,
+                        value: block.settings.button_text,
+                        href: block.settings.button_url
+                      -%}
+                    </div>
+                    <!-- /.hero__button -->
+                  {%- endif -%}
+                </div>
+                <!-- /.hero-alt__content -->
+              </div>
+              <!-- /.hero-alt__body -->
+            {%- when 'media' -%}
+              <div class="hero-alt__head">
+                <div class="media hero-alt__media svg-color-inherit">
+                  {%- if block.settings.video_desktop != blank -%}
+                    {{-
+                      block.settings.video_desktop
+                      | video_tag: image_size: '1440x', loop: true, autoplay: true, muted: true, controls: false
+                    -}}
+                  {%- else -%}
+                    {%- liquid
+                      if block.settings.image != blank
+                        render 'image', image: block.settings.image, image_url_width: 2160, alt: block.settings.image.alt | escape
+                      else
+                        echo 'image' | placeholder_svg_tag: 'placeholder-svg'
+                      endif
                     -%}
-                  </div><!-- /.hero__button -->
-                {%- endif -%}
-              </div><!-- /.hero-alt__content -->
-            </div><!-- /.hero-alt__body -->
-          {%- when 'media' -%}
-            <div class="hero-alt__head">
-              <div class="media hero-alt__media svg-color-inherit">
-                {%- liquid
-                  if block.settings.image != blank
-                    render 'image', image: block.settings.image, image_url_width: 2160, alt: block.settings.image.alt | escape
-                  else
-                    echo 'image' | placeholder_svg_tag: 'placeholder-svg'
-                  endif
-                -%}
-              </div><!-- /.media -->
-            </div><!-- /.hero-alt__head -->
+                  {%- endif -%}
+                </div>
+                <!-- /.media -->
+              </div>
+              <!-- /.hero-alt__head -->
           {%- endcase -%}
         {%- endfor -%}
-      </div><!-- /.hero-alt__inner -->
-    </div><!-- /.container -->
-  </section><!-- /.hero-alt -->
+      </div>
+      <!-- /.hero-alt__inner -->
+    </div>
+    <!-- /.container -->
+  </section>
+  <!-- /.hero-alt -->
 {%- endif -%}
 
 {% schema %}
@@ -272,6 +290,12 @@
           "type": "image_picker",
           "id": "image",
           "label": "t:sections.hero-alt.blocks.media.settings.image.label"
+        },
+        {
+          "type": "video",
+          "id": "video_desktop",
+          "label": "t:sections.global.settings.video_desktop.label",
+          "info": "t:sections.global.settings.video_desktop.info"
         }
       ]
     }
