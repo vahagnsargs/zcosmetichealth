@@ -66,6 +66,8 @@
         "color_scheme_text": "text-colors-inverse",
         "color_scheme_background": "background-colors-accent-2",
         "image_desktop": "shopify://shop_images/Banner_2.jpg",
+        "video_desktop_external": "",
+        "video_mobile_external": "",
         "content_position_horizontal": "align-center text-center",
         "content_position_vertical": "justify-end",
         "content_padding_top": 9.6,
@@ -82,8 +84,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -110,8 +114,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-2",
             "image_desktop": "shopify://shop_images/Rectangle_3.jpg",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -177,7 +183,7 @@
             "color_scheme_background_decorator": "background-colors-accent-2",
             "title": "Lash Liner",
             "maintext": "<p>Enhance your eyes with long-lasting lash liner for a natural, smudge-free look.</p>",
-            "link_title": "Learn more",
+            "link_title": "",
             "link_url": "/"
           }
         },
@@ -191,7 +197,7 @@
             "color_scheme_background_decorator": "background-colors-accent-2",
             "title": "Lip Blush",
             "maintext": "<p>Achieve naturally tinted lips with lip blush, adding soft color and reducing the need for daily lipstick.</p>",
-            "link_title": "Learn more",
+            "link_title": "",
             "link_url": "/"
           }
         }
