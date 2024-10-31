@@ -551,6 +551,65 @@
         "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 0
       }
+    },
+    "expert_pmu_artist_66dggz": {
+      "type": "expert-pmu-artist",
+      "blocks": {
+        "text_qtnaDT": {
+          "type": "text",
+          "settings": {
+            "title_1": "",
+            "text_1": "",
+            "title_2": "",
+            "text_2": "",
+            "title_4": "",
+            "text_4": ""
+          }
+        },
+        "tile_3Wmzjf": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/Container_2151d41e-47c7-408c-b667-d80a4c813135.jpg",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_qtnaDT",
+        "tile_3Wmzjf"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
     }
   },
   "order": [
@@ -561,6 +620,7 @@
     "our_customers_love_tVbxHA",
     "our_work_RUatbL",
     "dual_tiles_3pGyxN",
-    "dual_tiles_E73taN"
+    "dual_tiles_E73taN",
+    "expert_pmu_artist_66dggz"
   ]
 }

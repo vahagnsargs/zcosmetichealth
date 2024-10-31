@@ -144,7 +144,69 @@
             <!-- /.media -->
           {%- endif -%}
         {%- endif -%}
+        {%- if block.settings.title_1 != blank or block.settings.title_2 != blank or block.settings.title_2 != blank -%}
+          <div class="section-dual-tiles__content">
+            {%- if block.settings.title_1 != blank -%}
+              <div class="row">
+                <div class="text-wrap">
+                  {%- if block.settings.title_1 != blank -%}
+                    <h2 class="section-dual-tiles__title">
+                      {{- block.settings.title_1 -}}
+                    </h2>
+                  {%- endif -%}
+                  {%- if block.settings.text_1 != blank -%}
+                    <div class="section-dual-tiles__text">
+                      {{- block.settings.title_1 -}}
+                    </div>
+                  {%- endif -%}
+                </div>
+                {%- if block.settings.image_1 != blank -%}
+                  {%- render 'image', image: block.settings.image_1, section_index: section.index, image_for_mobile: true, alt: block.settings.image_mobile.alt | escape -%}
+                {%- endif -%}
+              </div>
+            {%- endif -%}
 
+            {%- if block.settings.title_2 != blank -%}
+              <div class="row">
+                <div class="text-wrap">
+                  {%- if block.settings.title_2 != blank -%}
+                    <h2 class="section-dual-tiles__title">
+                      {{- block.settings.title_2 -}}
+                    </h2>
+                  {%- endif -%}
+                  {%- if block.settings.text_2 != blank -%}
+                    <div class="section-dual-tiles__text">
+                      {{- block.settings.title_2 -}}
+                    </div>
+                  {%- endif -%}
+                </div>
+                {%- if block.settings.image_2 != blank -%}
+                  {%- render 'image', image: block.settings.image_2, section_index: section.index, image_for_mobile: true, alt: block.settings.image_mobile.alt | escape -%}
+                {%- endif -%}
+              </div>
+            {%- endif -%}
+
+            {%- if block.settings.title_3 != blank -%}
+              <div class="row">
+                <div class="text-wrap">
+                  {%- if block.settings.title_3 != blank -%}
+                    <h2 class="section-dual-tiles__title">
+                      {{- block.settings.title_3 -}}
+                    </h2>
+                  {%- endif -%}
+                  {%- if block.settings.text_3 != blank -%}
+                    <div class="section-dual-tiles__text">
+                      {{- block.settings.title_3 -}}
+                    </div>
+                  {%- endif -%}
+                </div>
+                {%- if block.settings.image_3 != blank -%}
+                  {%- render 'image', image: block.settings.image_3, section_index: section.index, image_for_mobile: true, alt: block.settings.image_mobile.alt | escape -%}
+                {%- endif -%}
+              </div>
+            {%- endif -%}
+          </div>
+        {%- endif -%}
         {%- if block.settings.title != blank
           or block.settings.button_text != blank
           and block.settings.button_url != blank
