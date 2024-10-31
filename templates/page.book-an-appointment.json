@@ -398,6 +398,7 @@
         "tile_B3dT8w",
         "tile_yn4YfP"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-dual-tiles__tile {background: white !important;}",
         ".section-dual-tiles {padding: 0px !important; max-width: 1298px;}",
