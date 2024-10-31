@@ -71,12 +71,12 @@
       <!-- /.section-trust-indicators__tile -->
 
     {%- if is_mobile_slider -%}
-      {%- capture tile_html -%}
+      
         <div class="swiper-slide section-trust-indicators__swiper-slide">
           {{ tile_html }}
         </div>
         <!-- /.swiper-slide -->
-      {%- endcapture -%}
+      
     {%- endif -%}
 
     {%- assign tiles_html = tiles_html | append: tile_html -%}
