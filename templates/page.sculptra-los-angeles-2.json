@@ -1,1 +1,546 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_nJTH7f":{"type":"hero-banner","blocks":{"slide_zA7DNL":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Ultherapy-BG.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"SCULPTRA","content":"<p>A Long Term Solution to Naturally Reverse The Signs of Aging<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"\/"}}},"block_order":["slide_zA7DNL"],"settings":{"slider_height":60,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_TgUbYi":{"type":"dual-tiles","blocks":{"tile_3BfcrL":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"How Is Sculptra Different From Other Fillers?","text_size":2,"content":"<p>Sculptra is different from other fillers because it does not merely treat the appearance of facial aging— it works to treat the underlying cause. As the body ages, our collagen levels become diminished. This causes the skin to become thinner and drier, creating the appearance of wrinkles and sagging.<\/p><p>The active ingredient in Sculptra, poly-L- lactic acid, works to stimulate collagen growth, helping to restore a youthful appearance. This poly-L- lactic acid is naturally and gradually absorbed into the body, allowing Sculptra to promote collagen growth over a longer period of time.<\/p><p>Sculptra is also different from other fillers in that the treatment lasts for a longer period of time. While other fillers may last only six months to a year, Sculptra may last for up to three to five years.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_yDwART":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/carousel-3m-1.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_3BfcrL","tile_yDwART"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":50,"layout":"section-dual-tiles--70-30","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"dual_tiles_wJDNn7":{"type":"dual-tiles","blocks":{"tile_QNUw8n":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Sculptra-Austin-Fillers-Middle-Banner-1.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_eknn3E":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"What Should I Expect When Using Sculptra?","text_size":2,"content":"<p>Sculptra is strategically applied to your desired areas over a series of injection sessions, spread out over a period of several months. The most common number of sessions is two to four, though your individual treatment plan may vary.<\/p><p>Because Sculptra stimulates your body’s own collagen growth, it works gradually. It may take several weeks to begin seeing the true results of Sculptra.<\/p><p>Sculptra is safe and biodegradable, meaning that it will naturally be broken down by the body and removed after it has served its purpose. It is also biodegradable, so that the body will not reject it.<\/p><p>Though results are gradual,they are long lasting!<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_QNUw8n","tile_eknn3E"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":50,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":2}},"dual_tiles_zA88hC":{"type":"dual-tiles","blocks":{"tile_NednJd":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_1.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_BLxFkV":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why Dr. Zadeh?","text_size":1,"content":"<h3>Because He Cares.<\/h3><p>Dr. Zadeh is an experienced and skilled provider of Sculptra. He has expert knowledge of facial anatomy, as well as years of experience applying injectables to achieve the best results. If you are looking to try a facial injection like Sculptra, it is best to choose an expert provider like Dr. Zadeh to help you achieve the most natural, complication-free results.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_NednJd","tile_BLxFkV"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":2}},"marquees_YAwwCR":{"type":"marquees","blocks":{"item_bWc6hf":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/sd.png","icon_svg_code":"","title":"","link":""}},"item_p9UUfN":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/ult.png","icon_svg_code":"","title":"","link":""}},"item_XLeM4k":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/cscp.png","icon_svg_code":"","title":"","link":""}},"item_N3xdhY":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rcp_1.png","icon_svg_code":"","title":"","link":""}},"item_yzQCxK":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rstd.png","icon_svg_code":"","title":"","link":""}},"item_fEqBMQ":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pclogo.png","icon_svg_code":"","title":"","link":""}},"item_BPKBG7":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pc.png","icon_svg_code":"","title":"","link":""}}},"block_order":["item_bWc6hf","item_p9UUfN","item_XLeM4k","item_N3xdhY","item_yzQCxK","item_fEqBMQ","item_BPKBG7"],"settings":{"enable_animation":true,"marquee_duration_rate":5,"marquee_font_size":4,"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","padding_vertical_desktop":"","padding_vertical_mobile":""}},"spacing_Ywh3tT":{"type":"spacing","settings":{"color_scheme_background":"background-colors-default","spacing_desktop":70,"spacing_mobile":20}},"testimonials_PCrrtw":{"type":"testimonials","blocks":{"testimonial_xxBgHf":{"type":"testimonial","settings":{"quote":"<h3><strong>Does Sculptra hurt?<\/strong><\/h3>","author":"Sculptra injections may cause some patients pain but cause no pain or discomfort in other patients. Individual reactions may vary. If you are concerned about possible pain during or after the treatment, ask Dr. Zadeh about the possible ways of managing this short-term pain.","link_title":"","link_url":"\/"}},"testimonial_addGq7":{"type":"testimonial","settings":{"quote":"<h3><strong>How many treatments are needed to see results<\/strong><\/h3>","author":"On average, patients will need to receive three sessions. But the number of treatments needed will vary from patient to patient, based on their specific treatment needs.","link_title":"","link_url":"\/"}},"testimonial_iQAdPi":{"type":"testimonial","settings":{"quote":"<h3><strong>Is sculptra compatible with other filters?<\/strong><\/h3>","author":"Sculptra may be used in combination with other fillers if needed. Consult Dr. Zadeh to develop an appropriate treatment plan if you are considering using multiple fillers.","link_title":"","link_url":"\/"}},"testimonial_3qN9mR":{"type":"testimonial","settings":{"quote":"<h3><strong>How long is the recovery time?<\/strong><\/h3>","author":"No recovery time is needed after receiving Sculptra but patients may experience some redness, swelling, tenderness, itching, bruising, or mild bleeding after the treatment.","link_title":"","link_url":"\/"}}},"block_order":["testimonial_xxBgHf","testimonial_addGq7","testimonial_iQAdPi","testimonial_3qN9mR"],"custom_css":["h6 {font-size: 32px;}"],"settings":{"padding_vertical_desktop":"","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","layout":"no-image","gap_between_desktop":2,"gap_between_mobile":2,"title":"Frequently Asked Questions"}},"seo_content_XjejbA":{"type":"seo-content","settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"Want more Sculptra inspiration?","content":"<p>Think Sculptra might be right for you? Schedule a consultation with Dr.<br\/>Zadeh today to discuss your treatment options.<\/p><p><\/p>"}}},"order":["main","hero_banner_nJTH7f","dual_tiles_TgUbYi","dual_tiles_wJDNn7","dual_tiles_zA88hC","marquees_YAwwCR","spacing_Ywh3tT","testimonials_PCrrtw","seo_content_XjejbA"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_nJTH7f": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_zA7DNL": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Ultherapy-BG.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "SCULPTRA",
+            "content": "<p>A Long Term Solution to Naturally Reverse The Signs of Aging</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_zA7DNL"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "seo_content_eFbCdb": {
+      "type": "seo-content",
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "What Is Sculptra?",
+        "content": "<p>Sculptra (injectible poly-L-latic acid) is an FDA approved injectible collagen stimulator that helps to treat the underlying causes of aging, reducing the appearance of wrinkles and sagging in a natural- looking way.</p>"
+      }
+    },
+    "request_an_appointment_qKwB44": {
+      "type": "request-an-appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_TgUbYi": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_3BfcrL": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "How Is Sculptra Different From Other Fillers?",
+            "text_size": 2,
+            "content": "<p>Sculptra is different from other fillers because it does not merely treat the appearance of facial aging— it works to treat the underlying cause. As the body ages, our collagen levels become diminished. This causes the skin to become thinner and drier, creating the appearance of wrinkles and sagging.</p><p>The active ingredient in Sculptra, poly-L- lactic acid, works to stimulate collagen growth, helping to restore a youthful appearance. This poly-L- lactic acid is naturally and gradually absorbed into the body, allowing Sculptra to promote collagen growth over a longer period of time.</p><p>Sculptra is also different from other fillers in that the treatment lasts for a longer period of time. While other fillers may last only six months to a year, Sculptra may last for up to three to five years.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_yDwART": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/carousel-3m-1.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_3BfcrL",
+        "tile_yDwART"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 50,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "dual_tiles_wJDNn7": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_QNUw8n": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Sculptra-Austin-Fillers-Middle-Banner-1.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_eknn3E": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "What Should I Expect When Using Sculptra?",
+            "text_size": 2,
+            "content": "<p>Sculptra is strategically applied to your desired areas over a series of injection sessions, spread out over a period of several months. The most common number of sessions is two to four, though your individual treatment plan may vary.</p><p>Because Sculptra stimulates your body’s own collagen growth, it works gradually. It may take several weeks to begin seeing the true results of Sculptra.</p><p>Sculptra is safe and biodegradable, meaning that it will naturally be broken down by the body and removed after it has served its purpose. It is also biodegradable, so that the body will not reject it.</p><p>Though results are gradual,they are long lasting!</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_QNUw8n",
+        "tile_eknn3E"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 50,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "dual_tiles_zA88hC": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_NednJd": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_1.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_BLxFkV": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why Dr. Zadeh?",
+            "text_size": 1,
+            "content": "<h3>Because He Cares.</h3><p>Dr. Zadeh is an experienced and skilled provider of Sculptra. He has expert knowledge of facial anatomy, as well as years of experience applying injectables to achieve the best results. If you are looking to try a facial injection like Sculptra, it is best to choose an expert provider like Dr. Zadeh to help you achieve the most natural, complication-free results.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_NednJd",
+        "tile_BLxFkV"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "marquees_YAwwCR": {
+      "type": "marquees",
+      "blocks": {
+        "item_bWc6hf": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/sd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_p9UUfN": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/ult.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_XLeM4k": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/cscp.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_N3xdhY": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rcp_1.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_yzQCxK": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rstd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_fEqBMQ": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pclogo.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_BPKBG7": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pc.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_bWc6hf",
+        "item_p9UUfN",
+        "item_XLeM4k",
+        "item_N3xdhY",
+        "item_yzQCxK",
+        "item_fEqBMQ",
+        "item_BPKBG7"
+      ],
+      "settings": {
+        "enable_animation": true,
+        "marquee_duration_rate": 5,
+        "marquee_font_size": 4,
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    },
+    "spacing_Ywh3tT": {
+      "type": "spacing",
+      "settings": {
+        "color_scheme_background": "background-colors-default",
+        "spacing_desktop": 70,
+        "spacing_mobile": 20
+      }
+    },
+    "testimonials_PCrrtw": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_xxBgHf": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>Does Sculptra hurt?</strong></h3>",
+            "author": "Sculptra injections may cause some patients pain but cause no pain or discomfort in other patients. Individual reactions may vary. If you are concerned about possible pain during or after the treatment, ask Dr. Zadeh about the possible ways of managing this short-term pain.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_addGq7": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>How many treatments are needed to see results</strong></h3>",
+            "author": "On average, patients will need to receive three sessions. But the number of treatments needed will vary from patient to patient, based on their specific treatment needs.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_iQAdPi": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>Is sculptra compatible with other filters?</strong></h3>",
+            "author": "Sculptra may be used in combination with other fillers if needed. Consult Dr. Zadeh to develop an appropriate treatment plan if you are considering using multiple fillers.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_3qN9mR": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>How long is the recovery time?</strong></h3>",
+            "author": "No recovery time is needed after receiving Sculptra but patients may experience some redness, swelling, tenderness, itching, bruising, or mild bleeding after the treatment.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_xxBgHf",
+        "testimonial_addGq7",
+        "testimonial_iQAdPi",
+        "testimonial_3qN9mR"
+      ],
+      "custom_css": [
+        "h6 {font-size: 32px;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "layout": "no-image",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "Frequently Asked Questions"
+      }
+    },
+    "seo_content_XjejbA": {
+      "type": "seo-content",
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "Want more Sculptra inspiration?",
+        "content": "<p>Think Sculptra might be right for you? Schedule a consultation with Dr.<br/>Zadeh today to discuss your treatment options.</p><p></p>"
+      }
+    },
+    "countdown_timer_PpYBka": {
+      "type": "countdown-timer",
+      "settings": {
+        "fullwidth": false,
+        "layout": "image_none",
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "border_style": "top-bottom-border",
+        "title": "Spring sale",
+        "subtitle": "50% Off Everything for a limited time only",
+        "subtitle_mobile": "50% Off Everything. Limited time only",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "timer_year": 2024,
+        "timer_month": "01",
+        "timer_day": 1,
+        "timer_hour": 0,
+        "timer_minute": 0,
+        "timer_extend": 0,
+        "timer_end_message": "Sale has ended",
+        "show_timer_days": true,
+        "show_timer_hours": true,
+        "show_timer_minutes": true,
+        "show_timer_seconds": true,
+        "action_preference": "button",
+        "newsletter_button_label": "Submit",
+        "button_style": "button--filled",
+        "button_text": "Shop sale",
+        "button_url": "shopify://collections"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_nJTH7f",
+    "seo_content_eFbCdb",
+    "request_an_appointment_qKwB44",
+    "dual_tiles_TgUbYi",
+    "dual_tiles_wJDNn7",
+    "dual_tiles_zA88hC",
+    "marquees_YAwwCR",
+    "spacing_Ywh3tT",
+    "testimonials_PCrrtw",
+    "seo_content_XjejbA",
+    "countdown_timer_PpYBka"
+  ]
+}
