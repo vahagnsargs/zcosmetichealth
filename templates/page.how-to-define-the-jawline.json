@@ -493,7 +493,8 @@
         "indicator_ea7Wzf"
       ],
       "custom_css": [
-        ".owl-item{width:500px !important;}"
+        ".our-work {background: #f5ebdf;}",
+        ".our-work .section-trust-indicators__tile {background: #f5ebdf;}"
       ],
       "settings": {
         "title": "Other options for Jawline Treatment",
