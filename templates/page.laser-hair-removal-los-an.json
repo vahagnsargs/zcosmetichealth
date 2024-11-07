@@ -31,7 +31,7 @@
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-accent-2",
             "header_menu_text_color": "#ffffff",
-            "image": "shopify://shop_images/Ultherapy-BG_1ebb2188-69de-435a-8dd0-0d656f42a49f.jpg",
+            "image": "shopify://shop_images/2xEmsculpt-scaled.jpg",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
@@ -69,8 +69,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -136,8 +138,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
             "image_desktop": "shopify://shop_images/Screen-Shot-2020-01-20-at-4.40.36-PM.jpg",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -163,8 +167,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -214,8 +220,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -242,8 +250,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
             "image_desktop": "shopify://shop_images/Group-2.jpg",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -294,8 +304,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
             "image_desktop": "shopify://shop_images/Group-3.jpg",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -321,8 +333,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -372,8 +386,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -400,8 +416,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
             "image_desktop": "shopify://shop_images/Screen-Shot-2020-01-20-at-4.40.36-PM-Copy_2x_e62c95e5-44aa-4705-9196-87dceb8c79c7.jpg",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -479,6 +497,85 @@
         "gap_between_mobile": 2,
         "title": ""
       }
+    },
+    "dual_tiles_QQDQkf": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_xki9MU": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_1.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_jEk6Am": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "<p>Call us today to take advantage of our Unlimited Laser Hair Removal offer. Receive as many treatments necessary for 12-months from the date of your first session without paying a penny more!</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Starting At $60 Click To Book",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_xki9MU",
+        "tile_jEk6Am"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 4
+      }
     }
   },
   "order": [
@@ -491,6 +588,7 @@
     "dual_tiles_eWAHMb",
     "dual_tiles_wdV9bd",
     "dual_tiles_EKQHJF",
-    "testimonials_jtPiQq"
+    "testimonials_jtPiQq",
+    "dual_tiles_QQDQkf"
   ]
 }
