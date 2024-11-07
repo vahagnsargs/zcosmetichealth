@@ -53,7 +53,7 @@
         "slide_L4tdcz"
       ],
       "custom_css": [
-        ".hero__entry {max-width:;}"
+        ".hero__entry {max-width:800px;}"
       ],
       "settings": {
         "slider_height": 60,
