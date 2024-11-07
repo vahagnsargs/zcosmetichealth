@@ -52,6 +52,9 @@
       "block_order": [
         "slide_L4tdcz"
       ],
+      "custom_css": [
+        ".hero__entry {max-width:;}"
+      ],
       "settings": {
         "slider_height": 60,
         "slider_autoplay": false,
