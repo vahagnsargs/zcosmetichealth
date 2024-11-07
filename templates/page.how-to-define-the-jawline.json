@@ -31,7 +31,7 @@
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-accent-2",
             "header_menu_text_color": "#ffffff",
-            "image": "shopify://shop_images/Ultherapy-BG_2x-7-scaled.jpg",
+            "image": "shopify://shop_images/Emsculpt_2x-scaled.jpg",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
@@ -40,8 +40,8 @@
             "content_position_vertical": "justify-center",
             "subtitle": "",
             "subtitle_url": "",
-            "title": "LASER RESURFACING",
-            "content": "<p>Everyone wants to feel comfortable in their skin. Things like skin blemishes, wrinkles, and discoloration can hurt our body image and self-confidence. Laser resurfacing can help correct these skin issues, leaving you with skin that’s smoother, clearer, and more radiant.</p>",
+            "title": "How To Define The Jawline",
+            "content": "<p>A defined jawline is something many people desire. Having a more chiseled jawline can make you look healthier, slimmer, and more attractive. On the other hand, a weak jawline can do the opposite, causing those with weaker jawlines to feel stressed about their appearance.</p>",
             "enable_vertical_line": true,
             "button_style": "button--filled",
             "button_text": "Click To Book",
@@ -72,15 +72,17 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "Laser Resurfacing",
+            "title": "A Defined Jawline",
             "text_size": 2.5,
-            "content": "<h3>by Dr. Michael Zadeh</h3><p>Laser resurfacing works on a wide range of skin issues. If you have acne scars, other scarring, stretch marks, birthmarks, sun spots, moles, hyperpigmentation, or fine lines, laser resurfacing can help. At the Z Center for Cosmetic Health, we use a specialized Nano-Ray Laser that treats these issues through a series of light pulses. The treatment is fast and effective, and a single treatment is often enough to remove the targeted blemishes forever.</p><p>The Nano-Ray Laser can treat: hyperpigmentation, dark spots, moles, acne scars, surgical and other scars, enlarged pores, skin texture issues, fine lines, wrinkles (under eyes, around mouth, etc.), stretch marks, hand rejuvenation, birthmarks, and more!</p>",
+            "content": "<p>Luckily, those who would like to strengthen a weaker jawline have options. There are a number of simple cosmetic treatments that can correct a weak jawline and give you that chiseled jawline you’ve been dreaming of. Let’s take a look at five of our favorite non-surgical treatments for a defined jawline: fillers, Ultherapy, Thermitight, Sculptra, and Kybella.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -102,12 +104,12 @@
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--70-30",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 2,
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
         "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 2
+        "spacing_bottom_mobile": 1
       }
     },
     "request_an_appointment_7fWrPc": {
@@ -115,88 +117,6 @@
       "settings": {
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
-      }
-    },
-    "dual_tiles_FkKncX": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_PNy3Ap": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "Watch a Laser Resurfacing Treatment",
-            "text_size": 2,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
-        "tile_QikqAd": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-accent-2",
-            "video_desktop_external": "https://www.youtube.com/watch?v=M1vMRx7XN2I",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "/",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_PNy3Ap",
-        "tile_QikqAd"
-      ],
-      "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 3,
-        "spacing_bottom_mobile": 3
       }
     },
     "dual_tiles_HJwLHn": {
@@ -276,10 +196,10 @@
         "layout": "section-dual-tiles--30-70",
         "gap_between_tiles": 0.2,
         "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_desktop": 4,
+        "spacing_bottom_desktop": 2,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 1
       }
     },
     "marquees_39WjLN": {
@@ -384,9 +304,9 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
             "content_position_vertical": "justify-center",
-            "title": "How Does It Work?",
+            "title": "Fillers for a Defined Jawline",
             "text_size": 2,
-            "content": "<p>The Nano-Ray Laser works to remove blemishes and smooth the skin through applying specialized light. This light pulsates over the skin, causing the skin to absorb light energy and rapidly vaporizing water in the skin tissue. This water vaporization leads to an almost instant removal of many skin issues, all while using minimal heat to reduce the risk of injury to the skin. The treatment is fast, taking only about 10-15 minutes of your time.</p><p>The Nano-Ray Laser offers more precise control than other lasers, which allows Dr. Zadeh to treat the skin with either a light touch or with more depth. After a Nano-Ray Laser treatment, new skin regrows to replace the removed, damaged skin, leaving you with smoother, clearer skin.</p>",
+            "content": "<p>One way you can strengthen the jawline is through the use of fillers. Fillers are an injectable treatment that can “fill” the skin, making it look more full or changing its shape. So, fillers can easily be applied to the jawline to create a more bold and full look.</p><p>Fillers are an excellent way to change the shape of your face and jaw with absolutely no surgery. They require no downtime, give immediate results, and are also easily reversed if a patient decides they don’t like the results. Fillers are a temporary treatment, with different fillers lasting between 6 months to 2 years, but they are easily maintained if you’d like to keep them up long term.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -405,7 +325,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/MG-Nano_2x_d10b5b01-e628-425a-986c-23e7299a315e.gif",
+            "image_desktop": "shopify://shop_images/Group79778342.jpg",
             "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
@@ -454,36 +374,6 @@
     "dual_tiles_nR9Hpa": {
       "type": "dual-tiles",
       "blocks": {
-        "tile_xe8TRi": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/LC-Nano-Ray_2x_b0dc8c87-9f17-49c9-9ba0-46be9d861a54.gif",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "/",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
         "tile_8EtpBX": {
           "type": "tile",
           "settings": {
@@ -495,15 +385,15 @@
             "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
+            "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "Expectations After Treatment",
+            "title": "How to Define the Jawline at Z Cosmetic",
             "text_size": 2,
-            "content": "<p>For most people, only a single Nano-Ray Laser treatment is needed. The after affects of each treatment will vary depending on the depth of treatment you received. After your treatment, your skin may experience some redness, darkness, or mild swelling for 1 to 2 days after the treatment.</p><p>After this, your skin may also start to peel as new skin is formed. Aftercare protection, including keeping the skin moisturized and protected from the sun, is important and each patient will be given specific instructions on how to care for their skin after their treatment.</p>",
+            "content": "<p>If you want to get a more defined jawline, contact us today for your free consultation with Dr. Zadeh.</p>",
             "button_style": "button--filled",
             "button_separator": false,
-            "button_text": "",
-            "button_url": "",
+            "button_text": "Schedule An Appointment",
+            "button_url": "#",
             "content_layout": "content--absolute",
             "block_margin_left": 0,
             "block_margin_right": 0,
@@ -515,7 +405,6 @@
         }
       },
       "block_order": [
-        "tile_xe8TRi",
         "tile_8EtpBX"
       ],
       "custom_css": [
@@ -534,99 +423,81 @@
         "spacing_bottom_mobile": 0
       }
     },
-    "seo_content_KBzYKD": {
-      "type": "seo-content",
-      "settings": {
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
-        "padding_vertical_mobile": "",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-accent-1",
-        "text_size": 1,
-        "title": "",
-        "content": "<h3>“Dr. Zadeh is incredibly skilled, his hands are so gentle and precise there’s never any pain. He brings that same gentle precision to his consultations too.”</h3>"
-      }
-    },
-    "dual_tiles_qpAfUc": {
-      "type": "dual-tiles",
+    "our_work_j9zCFr": {
+      "type": "our-work",
       "blocks": {
-        "tile_iDAjxP": {
-          "type": "tile",
+        "indicator_VGDBPx": {
+          "type": "indicator",
           "settings": {
             "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x_0ad6c769-1e82-487b-b31e-4fce72a540db.png",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "/",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Text-block 1Ultherapy to Tighten the Jawline",
+            "maintext": "<p><br/>Ultherapy is a skin-tightening treatment that is excellent for correcting loose skin around the Jawline. It’s a particularly great choice for those experiencing sagging around their jawline due to aging.</p><p>Ultherapy works through the application of energy. When this ultrasound energy is applied to the skin, collagen (the natural substance that keeps skin firm and smooth) growth is stimulated. Over a gradual period of time, the body will create more collagen, which tightens and smooths the skin.</p><p>After an Ultherapy treatment, it takes about six months on average to see optimal skin rejuvenation. However, the results of the treatment are quite long-lasting, with patients often seeing results for up to several years.</p>",
+            "link_title": "",
+            "link_url": "/"
           }
         },
-        "tile_VxFRX3": {
-          "type": "tile",
+        "indicator_ACreRP": {
+          "type": "indicator",
           "settings": {
             "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
-            "content_position_vertical": "justify-center",
-            "title": "Book an Appointment",
-            "text_size": 2,
-            "content": "<p>Z Center for Cosmetic Health is proud to be the first and only Nano-Ray Laser provider in the Sherman Oaks area. See if laser resurfacing is right for you by calling us today to book your free consultation with Dr. Zadeh. At your consultation, Dr. Zadeh will work to understand your unique skin issues to determine if you would be a good candidate for laser treatment. Dr. Zadeh will then develop a personalized treatment plan for your skin’s specific needs.</p>",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "Schedule An Appointment",
-            "button_url": "#",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/thermitightlogo.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "For Dramatic Skin-Tightening on the Jaw",
+            "maintext": "<p>Thermitight is another collagen-stimulating treatment that tightens the skin. It gives dramatic skin-tightening results that can be seen as early as a few weeks after treatment, with full results being seen after 3-6 months. Thermitight offers the best skin-tightening results of any non-surgical treatment. It produces its incredible results through the application of controlled heat energy that works deep under the skin.</p><p>Thermitight is a great option for those looking to correct loose skin around their jawline, without having to undergo a surgical treatment.</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_payVgj": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/sculptra-logo1-1.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "",
+            "maintext": "<p><br/>Sculptra is a specialized filler made out of poly-L-lactic acid. Like other kinds of fillers, Sculptra can change the shape of the jaw through strategically placed injections. Unlike other fillers, however, Sculptra also stimulates collagen growth, allowing the results of Sculptra to last far longer than other fillers. While other fillers may last for 6 months to 2 years, Sculptra can last for up to 3 to 5 years</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_ea7Wzf": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/kybellalogo.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "For Dramatic Skin-Tightening on the Jaw",
+            "maintext": "<p>Kybella is an excellent way for those with excess fat around their jaw to get a more defined look. Kybella is a synthetic, injectable form of deoxycholic acid, the naturally occurring molecule that allows our bodies to break down and absorb fat. When Kybella is injected skillfully around the jawline and chin area, it can dissolve excess fat, giving the patient a more chiseled jawline.<br/></p><p>Kybella is administered in a series of 2 to 4 treatments, each of which takes around 15 to 20 minutes. Once a patient has reached their desired look, the results of Kybella are permanent, as long as they don’t gain weight after treatment.</p>",
+            "link_title": "",
+            "link_url": "/"
           }
         }
       },
       "block_order": [
-        "tile_iDAjxP",
-        "tile_VxFRX3"
-      ],
-      "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
+        "indicator_VGDBPx",
+        "indicator_ACreRP",
+        "indicator_payVgj",
+        "indicator_ea7Wzf"
       ],
       "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--30-70",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 0
+        "title": "Other options for Jawline Treatment",
+        "slider_mobile": true,
+        "layout": "layout-2",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
       }
     }
   },
@@ -635,12 +506,10 @@
     "hero_banner_HUxbmH",
     "dual_tiles_6LtxHD",
     "request_an_appointment_7fWrPc",
-    "dual_tiles_FkKncX",
     "dual_tiles_HJwLHn",
     "marquees_39WjLN",
     "dual_tiles_fmQMY3",
     "dual_tiles_nR9Hpa",
-    "seo_content_KBzYKD",
-    "dual_tiles_qpAfUc"
+    "our_work_j9zCFr"
   ]
 }
