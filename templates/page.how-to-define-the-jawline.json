@@ -492,6 +492,9 @@
         "indicator_payVgj",
         "indicator_ea7Wzf"
       ],
+      "custom_css": [
+        ".owl-item{width:500px !important;}"
+      ],
       "settings": {
         "title": "Other options for Jawline Treatment",
         "slider_mobile": true,
