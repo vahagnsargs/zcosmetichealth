@@ -31,7 +31,7 @@
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-accent-2",
             "header_menu_text_color": "#ffffff",
-            "image": "shopify://shop_images/Group100142-scaled.jpg",
+            "image": "shopify://shop_images/Ultherapy-BG_2x-12-scaled.jpg",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
@@ -40,8 +40,8 @@
             "content_position_vertical": "justify-center",
             "subtitle": "",
             "subtitle_url": "",
-            "title": "Belotero ®Los Angeles",
-            "content": "<p>It’s hard to feel beautiful as you age. Those fine lines and creases on your face seem to multiply each day. You want to feel like your old self again, but look natural at the same time.</p>",
+            "title": "TREATMENT FOR DARK EYE CIRCLES SHERMAN OAKS",
+            "content": "<h3>Men and Women can get rid of the dark circles under the eyes without surgery</h3><p>Have the dark circles under your eyes been bothering you a lot lately? Don’t worry, you’re not alone. The most common concerns we see involving the eyes are puffiness under the eye and under eye hollows which make the eyes look sunken and dark.</p>",
             "enable_vertical_line": true,
             "button_style": "button--filled",
             "button_text": "Click To Book",
@@ -72,15 +72,17 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "BELOTERO BALANCE® Dermal Filler",
+            "title": "Men and Women can get rid of the dark circles under the eyes without surgery",
             "text_size": 2,
-            "content": "<p>Introducing BELOTERO BALANCE® Dermal Filler. Belotero Balance is specially designed to blend into your skin and mold to the unique shape of your face. By adapting to the individuality of your skin, it softens lines and wrinkles around the nose and mouth for smooth and natural results that are uniquely you.</p><p>Dr. Zadeh has given our clients in the Sherman Oaks and Los Angeles area excellent results with BELOTERO. Dr. Zadeh will give you a younger, natural, more refreshed look.</p>",
+            "content": "<p>Bags under the eyes have been traditionally treated with surgery. But, until recently, there wasn’t an effective treatment for the dark circles around the eyes. Today, with dermal fillers such as <strong>Juvederm®</strong> , Volbella, <strong>Restylane</strong>, and <strong>Belotero®</strong>, Dr. Zadeh can remove your under eye hollows and effectively reduce the dark circles under your eyes naturally without surgery.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -120,36 +122,6 @@
     "dual_tiles_AQitUB": {
       "type": "dual-tiles",
       "blocks": {
-        "tile_EBXKTf": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-inverse",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/bna-fillers-copy-50_2x_5661f6a2-18ce-4166-9b33-51274cde5eab.gif",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
         "tile_6dBwHk": {
           "type": "tile",
           "settings": {
@@ -163,9 +135,9 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
             "content_position_vertical": "justify-center",
-            "title": "How does it work?",
+            "title": "What Causes Dark Circles Around The Eyes?",
             "text_size": 2,
-            "content": "<p>BELOTERO BALANCE Dermal Filler has special properties that allow it to adapt to your skin for soft and even replacement of volume loss. The versatility of the product makes it strong enough to handle deep treatment areas such as nasolabial folds (smile lines around the mouth), yet soft enough to treat more delicate areas such as vertical lip lines (thin lines that appear above the lip line), tear trough deformities (bags and dark circles under the eyes), and thin lips (lip enhancement).</p>",
+            "content": "<p>There are different causes of the hollowness underneath your eyes–called “tear trough” deformities–which lead to the dark circles or bags underneath the eyes look. One of the most common causes of darkness under the eyes of both men and women is thinning of the skin underneath the eye. The skin beneath our eyes is already thinner than other areas of our body. Some people may have thinner skin than others since childhood. As we age, our skin gets thinner and we also begin to lose fat and collagen from under our eyes. This makes the tissues underneath the thin skin (muscle, blood vessels, etc.) more noticeable and creates a dark, sunken, hollow appearance of the eyes. Other factors including: smoking, drinking, lack of sleep, stress, and sun exposure can increase collagen loss and worsen eye hollows.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -181,7 +153,6 @@
         }
       },
       "block_order": [
-        "tile_EBXKTf",
         "tile_6dBwHk"
       ],
       "custom_css": [
@@ -194,67 +165,22 @@
         "layout": "section-dual-tiles--50-50",
         "gap_between_tiles": 0.2,
         "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 3
       }
     },
-    "testimonials_dndzXK": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TtdwDe": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>Are there any side effects?</strong></h2>",
-            "author": "Just like any injection, you may experience mild irritation, swelling, itching, redness, bruising or tenderness at the injection site. These side effects typically resolve on their own. If any of these side effects persist, call us immediately.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_aiGBF7": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long is recovery time?</strong></h2>",
-            "author": "There is very little to no downtime associated with BELOTERO BALANCE Dermal Filler procedure. In fact, most patients return to their normal daily activities right after their treatment.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_NMN3Mc": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How soon can I expect results?</strong></h2>",
-            "author": "Instantly! Immediately upon injection when treated to full correction, BELOTERO BALANCE Dermal Filler plumps the skin and smoothes away lines and wrinkles.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_nmCMyd": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long does it last?</strong></h2>",
-            "author": "Individual results may vary, but BELOTERO BALANCE Dermal Filler may last about 6 months or more.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TtdwDe",
-        "testimonial_aiGBF7",
-        "testimonial_NMN3Mc",
-        "testimonial_nmCMyd"
-      ],
+    "seo_content_zV7zyJ": {
+      "type": "seo-content",
       "settings": {
-        "padding_vertical_desktop": "",
-        "padding_vertical_mobile": "",
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-accent-1",
-        "layout": "no-image",
-        "gap_between_desktop": 2,
-        "gap_between_mobile": 2,
-        "title": ""
+        "text_size": 1,
+        "title": "Treatment of Dark Circles Under the Eyes with Fillers",
+        "content": "<p>Dermal Fillers–especially Juvederm, Volbella, Restylane and Belotero–are an excellent non-surgical treatment to get rid of eye hollows and dark circles under the eyes. All of these under eye fillers are made of Hyaluronic Acid, which is a naturally occurring sugar found in the human body. The role of hyaluronic acid in the skin is to deliver nutrients, hydrate the skin by holding in water, and to act as a cushioning agent. Dr. Zadeh prefers these tear trough fillers over all other injectable fillers because of their smooth-consistency which lets them flow easily into the skin to provide a smooth, natural look and feel. This is very important when treating under the eye, where other big and bulky fillers may result in puffiness of the eyes. Dr. Zadeh customizes his choice of filler and injection technique based on the unique goals and needs of each individual.</p><p>Juvederm, Vollure, Volbella, Belotero and Restylane are also excellent choices for smoothing out wrinkles and folds around the nose and mouth (nasolabial folds), restoring volume loss in the cheek and jaw line, and enhancing thin lips to give them a fuller pouty look. Depending on the dermal filler used a single treatment for tear trough deformities under the eyes will give you natural-looking results that last up to a year. Using our custom, medical grade ZMD skin care products including our Eye Repair cream will help to maintain your results.</p>"
       }
     },
     "dual_tiles_iNi6dd": {
@@ -305,7 +231,7 @@
             "content_position_vertical": "justify-center",
             "title": "",
             "text_size": 1.5,
-            "content": "<h4>Are you ready to get the results you want for the look you deserve? For youthfulness that’s uniquely you, call us to schedule a consultation and see if BELOTERO® is right for you <a href=\"tel:+18187895500\">(818) 789-5500</a>.</h4>",
+            "content": "<h3>Feel free to <a href=\"https://www.zcosmetichealth.com/treatment-for-dark-eye-circles-los-angeles/#formcol\"><strong>request a consultation</strong></a> online or call us at<br/><a href=\"tel:+18187895500\"><strong>(818) 789-5500</strong></a> for more information.</h3><p>At Z Center for Cosmetic Health we use the latest formulation of under eye fillers which contain lidocaine, a common numbing medication which increases comfort and reduces the overall time of the treatment. Dr. Zadeh is one of the few physicians that uses the microcannula technique in suitable patients which is associated with less risk of swelling and bruising. We provide outstanding service to both men and women in the Sherman Oaks, Encino, Studio City, San Fernando Valley and Greater Los Angeles Areas.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "Click To Book",
@@ -339,18 +265,6 @@
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
       }
-    },
-    "seo_content_zV7zyJ": {
-      "type": "seo-content",
-      "settings": {
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
-        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-inverse",
-        "text_size": 1,
-        "title": "",
-        "content": "<p>Dr. Zadeh is an experienced and skilled provider of Belotero and other Dermal Filler treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>"
-      }
     }
   },
   "order": [
@@ -359,8 +273,7 @@
     "dual_tiles_FgLiDd",
     "request_an_appointment_k7dE8N",
     "dual_tiles_AQitUB",
-    "testimonials_dndzXK",
-    "dual_tiles_iNi6dd",
-    "seo_content_zV7zyJ"
+    "seo_content_zV7zyJ",
+    "dual_tiles_iNi6dd"
   ]
 }
