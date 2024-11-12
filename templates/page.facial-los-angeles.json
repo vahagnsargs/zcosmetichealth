@@ -132,72 +132,14 @@
         "custom_liquid": "<div class=\"about-iframe\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Uo338fZdHMI?si=9YNGeupgQePdTdBQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AcHzn1_ug90?si=CEZdlX7EiidX2vQ9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<div>"
       }
     },
-    "testimonials_dndzXK": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TtdwDe": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>Are there any side effects?</strong></h2>",
-            "author": "Just like any injection, you may experience mild irritation, swelling, itching, redness, bruising or tenderness at the injection site. These side effects typically resolve on their own. If any of these side effects persist, call us immediately.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_aiGBF7": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long is recovery time?</strong></h2>",
-            "author": "There is very little to no downtime associated with BELOTERO BALANCE Dermal Filler procedure. In fact, most patients return to their normal daily activities right after their treatment.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_NMN3Mc": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How soon can I expect results?</strong></h2>",
-            "author": "Instantly! Immediately upon injection when treated to full correction, BELOTERO BALANCE Dermal Filler plumps the skin and smoothes away lines and wrinkles.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_nmCMyd": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long does it last?</strong></h2>",
-            "author": "Individual results may vary, but BELOTERO BALANCE Dermal Filler may last about 6 months or more.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TtdwDe",
-        "testimonial_aiGBF7",
-        "testimonial_NMN3Mc",
-        "testimonial_nmCMyd"
-      ],
-      "settings": {
-        "padding_vertical_desktop": "",
-        "padding_vertical_mobile": "",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-accent-1",
-        "layout": "no-image",
-        "gap_between_desktop": 2,
-        "gap_between_mobile": 2,
-        "title": ""
-      }
-    },
-    "dual_tiles_iNi6dd": {
+    "dual_tiles_keHLYH": {
       "type": "dual-tiles",
       "blocks": {
-        "tile_ypFA9j": {
+        "tile_meHPEk": {
           "type": "tile",
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
             "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
@@ -206,9 +148,9 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
+            "title": "Facial Treatment Policies",
+            "text_size": 2,
+            "content": "<p>On the day of your service, we suggest you arrive at least 15 minutes prior to your scheduled treatment. This will allow time to check in and sign consent forms prior to your service. Arriving late will simply limit the time for your treatment.</p><p>Your treatment will end at the scheduled time, so that the next guest will not be delayed. Spa services are arranged specifically for you, so a minimum of 24-hour’s notice is required should you need to reschedule or cancel your service.</p><p>Changes or cancellations made less than 24 hours before the start time will be charged 50% of the treatment price, no shows will be charged the full treatment price less the service charge.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -221,8 +163,27 @@
             "block_padding_left": 0,
             "block_padding_right": 0
           }
-        },
-        "tile_rXyGG4": {
+        }
+      },
+      "block_order": [
+        "tile_meHPEk"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "dual_tiles_BGpeqG": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_cjzg7L": {
           "type": "tile",
           "settings": {
             "color_scheme_text": "text-colors-default",
@@ -235,14 +196,14 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
             "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1.5,
-            "content": "<h4>Are you ready to get the results you want for the look you deserve? For youthfulness that’s uniquely you, call us to schedule a consultation and see if BELOTERO® is right for you <a href=\"tel:+18187895500\">(818) 789-5500</a>.</h4>",
+            "title": "Facial Service Menu",
+            "text_size": 2,
+            "content": "<p><strong>Bio-Infusion Facial- 60 minutes ($200)</strong></p><p>Our signature Bio-Infusion facial uses a medical grade hydra-dermabrasion machine which exfoliates, extracts, hydrates and infuses custom blended serums to give your skin immediate and noticeable results. This all-in-one treatment uses direct LED Red Light therapy to help heal your skin and promote collagen production as the facial is being performed while leaving your skin glowing, nourished while continuing to improve and renew the skin over the next 30 days.<br/><br/><strong>Rejuvenating Anti-aging Facial- 60 minutes ($150)</strong></p><p>Transform your skin with this gentle and invigorating facial designed for those looking for visibly brighter and healthier looking complexion. This treatment helps to deeply exfoliate the top layers of the skin, removes any impurities and topical pollutants. Collagen stimulating serums are infused with a customized hydrojelly mask leaving your skin glowing and radiant.<br/><br/><strong>Clarifying Acne Facial- 60 minutes ($150)</strong></p><p>This targeted facial helps to reduce the signs and causes of acne. A special line of products formulated to fight acne using pharmaceutical grade, micro-encapsulated Benzoyl Peroxide is used in combination with high frequency therapy, which eliminates harmful bacteria on the surface of the skin. This treatment is ideal for anyone looking to clear their problem skin. *Extractions included with this facial service<br/><br/><strong>Platinum Glow facial - 60 minutes ($150)</strong></p><p>A fresh start for your complexion. Diamond-tip vacuum exfoliation is used to deeply exfoliate away dull layers of skin and increase cell turnover. Collagen stimulating serums are infused with a customized hydrojelly mask leaving you with smooth, youthful-looking skin with a radiant glow.</p>",
             "button_style": "button--filled",
             "button_separator": false,
-            "button_text": "Click To Book",
-            "button_url": "/",
-            "content_layout": "content--relative",
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
             "block_margin_left": 0,
             "block_margin_right": 0,
             "block_padding_top": 0,
@@ -253,35 +214,112 @@
         }
       },
       "block_order": [
-        "tile_ypFA9j",
-        "tile_rXyGG4"
+        "tile_cjzg7L"
       ],
       "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
+        ".content--absolute .section-dual-tiles__content {position: static;}"
       ],
       "settings": {
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--30-70",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 3,
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 0,
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
       }
     },
-    "seo_content_zV7zyJ": {
-      "type": "seo-content",
+    "dual_tiles_nzbmfP": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_dx8agQ": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Facial Upgrades / Enhancements:",
+            "text_size": 2,
+            "content": "<p><strong>Excell Stem Cell Regenerative complex ($300)</strong></p><p>Stem cells, growth factors, peptides, amino acids combined in a mineral vitamin cocktail clinically proven to improve lines, wrinkles, redness, pores and scars.<br/><br/><strong>Dermal Rejuvenating Ampoule ($50)</strong></p><p>Generates a 30-day collagen production increase and is a wonderful option used to boost and enhance your facial with no downtime<br/><br/><strong>LED Light Therapy ($40)</strong></p><p>LED light is used to stimulate rejuvenation, reduce inflammation or eliminate blemish causing bacteria from the skin<br/><br/><strong>Extractions /Black head removal ($25)</strong></p><p>Manual extraction or skin spatula is used to deep clean visible clogged pores.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_dx8agQ"
+      ],
+      "custom_css": [
+        ".content--absolute .section-dual-tiles__content {position: static;}"
+      ],
       "settings": {
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
-        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-inverse",
-        "text_size": 1,
-        "title": "",
-        "content": "<p>Dr. Zadeh is an experienced and skilled provider of Belotero and other Dermal Filler treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>"
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "hero_banner_HAFNXg": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_mebGmQ": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/TEAM-Background_1x_6e51b195-9f9e-4576-b817-a21835753299.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-end",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Now You Can Look Good AndFeel Even Better",
+            "content": "<p>Dr. Michael Zadeh | Board Certified General Surgeon</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Meet The Doctor",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_mebGmQ"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
       }
     }
   },
@@ -291,8 +329,9 @@
     "dual_tiles_FgLiDd",
     "request_an_appointment_k7dE8N",
     "custom_liquid_ictKRY",
-    "testimonials_dndzXK",
-    "dual_tiles_iNi6dd",
-    "seo_content_zV7zyJ"
+    "dual_tiles_keHLYH",
+    "dual_tiles_BGpeqG",
+    "dual_tiles_nzbmfP",
+    "hero_banner_HAFNXg"
   ]
 }
