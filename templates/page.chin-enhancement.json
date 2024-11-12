@@ -31,7 +31,7 @@
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-accent-2",
             "header_menu_text_color": "#ffffff",
-            "image": "shopify://shop_images/Group100142-scaled.jpg",
+            "image": "shopify://shop_images/Emsculpt_2x-scaled_89273340-952e-48f5-a40e-5c4e60d57257.jpg",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
@@ -40,8 +40,8 @@
             "content_position_vertical": "justify-center",
             "subtitle": "",
             "subtitle_url": "",
-            "title": "Belotero ®Los Angeles",
-            "content": "<p>It’s hard to feel beautiful as you age. Those fine lines and creases on your face seem to multiply each day. You want to feel like your old self again, but look natural at the same time.</p>",
+            "title": "Chin Enhancement",
+            "content": "<p>The shape and size of your chin can dramatically change the look of your face. Because of this, chin augmentation has always been a popular cosmetic treatment.</p>",
             "enable_vertical_line": true,
             "button_style": "button--filled",
             "button_text": "Click To Book",
@@ -72,15 +72,17 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "BELOTERO BALANCE® Dermal Filler",
+            "title": "Fillers",
             "text_size": 2,
-            "content": "<p>Introducing BELOTERO BALANCE® Dermal Filler. Belotero Balance is specially designed to blend into your skin and mold to the unique shape of your face. By adapting to the individuality of your skin, it softens lines and wrinkles around the nose and mouth for smooth and natural results that are uniquely you.</p><p>Dr. Zadeh has given our clients in the Sherman Oaks and Los Angeles area excellent results with BELOTERO. Dr. Zadeh will give you a younger, natural, more refreshed look.</p>",
+            "content": "<p>In the past, those seeking to change the shape of their chin had only one option: to undergo surgery, which was time consuming, painful, and often quite stressful.</p><p>Today, however, there is a simple and pain-free way to enhance the chin with absolutely no surgery: fillers.</p><p>Fillers are perhaps more commonly known for their ability to treat common signs of aging, like wrinkles and lack of fullness in the skin. However, fillers are also excellent for changing the shape of the face, including enhancing the chin. Fillers can easily change the shape of the chin, including correcting a “weak” chin, through strategic application. When a chin is out of balance with the rest of one’s face, it can create a “recessive” chin.</p><p>Among both men and women, this “weak” chin is often a source of stress. A weaker chin can greatly disrupt the symmetry of the face, which is one of the things that influences our perception of attractiveness. But fillers can enhance a weak chin, restoring a symmetric appearance to the face.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -100,12 +102,12 @@
       ],
       "settings": {
         "section_width": "max-w-page",
-        "section_height": 40,
+        "section_height": 55,
         "layout": "section-dual-tiles--30-70",
         "gap_between_tiles": 0,
         "gap_between_tiles_mobile": 0,
-        "spacing_top_desktop": 0,
-        "spacing_bottom_desktop": 0,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
       }
@@ -115,146 +117,6 @@
       "settings": {
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
-      }
-    },
-    "dual_tiles_AQitUB": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_EBXKTf": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-inverse",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/bna-fillers-copy-50_2x_5661f6a2-18ce-4166-9b33-51274cde5eab.gif",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
-        "tile_6dBwHk": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
-            "content_position_vertical": "justify-center",
-            "title": "How does it work?",
-            "text_size": 2,
-            "content": "<p>BELOTERO BALANCE Dermal Filler has special properties that allow it to adapt to your skin for soft and even replacement of volume loss. The versatility of the product makes it strong enough to handle deep treatment areas such as nasolabial folds (smile lines around the mouth), yet soft enough to treat more delicate areas such as vertical lip lines (thin lines that appear above the lip line), tear trough deformities (bags and dark circles under the eyes), and thin lips (lip enhancement).</p>",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_EBXKTf",
-        "tile_6dBwHk"
-      ],
-      "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
-      }
-    },
-    "testimonials_dndzXK": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TtdwDe": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>Are there any side effects?</strong></h2>",
-            "author": "Just like any injection, you may experience mild irritation, swelling, itching, redness, bruising or tenderness at the injection site. These side effects typically resolve on their own. If any of these side effects persist, call us immediately.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_aiGBF7": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long is recovery time?</strong></h2>",
-            "author": "There is very little to no downtime associated with BELOTERO BALANCE Dermal Filler procedure. In fact, most patients return to their normal daily activities right after their treatment.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_NMN3Mc": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How soon can I expect results?</strong></h2>",
-            "author": "Instantly! Immediately upon injection when treated to full correction, BELOTERO BALANCE Dermal Filler plumps the skin and smoothes away lines and wrinkles.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_nmCMyd": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long does it last?</strong></h2>",
-            "author": "Individual results may vary, but BELOTERO BALANCE Dermal Filler may last about 6 months or more.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TtdwDe",
-        "testimonial_aiGBF7",
-        "testimonial_NMN3Mc",
-        "testimonial_nmCMyd"
-      ],
-      "settings": {
-        "padding_vertical_desktop": "",
-        "padding_vertical_mobile": "",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-accent-1",
-        "layout": "no-image",
-        "gap_between_desktop": 2,
-        "gap_between_mobile": 2,
-        "title": ""
       }
     },
     "dual_tiles_iNi6dd": {
@@ -305,10 +167,10 @@
             "content_position_vertical": "justify-center",
             "title": "",
             "text_size": 1.5,
-            "content": "<h4>Are you ready to get the results you want for the look you deserve? For youthfulness that’s uniquely you, call us to schedule a consultation and see if BELOTERO® is right for you <a href=\"tel:+18187895500\">(818) 789-5500</a>.</h4>",
+            "content": "<p>Why Dr. Zadeh?</p><h2>Because He Cares.</h2><p>There are a wide range of treatments for chin enhancements, each with their own pros and cons. Sometimes the best solution is a combination of treatments. Dr. Zadeh is a Board Certified Surgeon who has developed the best techniques to achieve optimal results in chin enhancement. Using his detailed knowledge of facial anatomy and superior techniques, Dr. Zadeh is able to apply the treatment skillfully, to produce a natural and healthy look.</p>",
             "button_style": "button--filled",
             "button_separator": false,
-            "button_text": "Click To Book",
+            "button_text": "Book Now",
             "button_url": "/",
             "content_layout": "content--relative",
             "block_margin_left": 0,
@@ -340,16 +202,215 @@
         "spacing_bottom_mobile": 6
       }
     },
+    "dual_tiles_AQitUB": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_6dBwHk": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "HOW DO FILLERS WORK FOR CHIN AUGMENTATION?",
+            "text_size": 2,
+            "content": "<p>As with any application of fillers, getting fillers for chin augmentation is a fast and simple process. A session generally takes around 15 minutes and requires no downtime. The results of fillers for chin enhancement can be seen right away.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_EBXKTf": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/thermi-cellulite-copy-21_2x_fc01bcdb-5d3e-4a54-ba4e-f38ced5a2235.gif",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_6dBwHk",
+        "tile_EBXKTf"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
     "seo_content_zV7zyJ": {
       "type": "seo-content",
       "settings": {
         "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
         "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
         "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-inverse",
+        "color_scheme_background": "background-colors-accent-1",
         "text_size": 1,
-        "title": "",
-        "content": "<p>Dr. Zadeh is an experienced and skilled provider of Belotero and other Dermal Filler treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>"
+        "title": "When changing the shape of the face with fillers, it’s important to remember that this is an artistic cosmetic treatment. For the best results, you should only go to a doctor who is experienced with using fillers to change the shape of the face, like Dr. Zadeh.",
+        "content": ""
+      }
+    },
+    "trust_indicators_AUPmBE": {
+      "type": "trust-indicators",
+      "blocks": {
+        "indicator_MdfrfH": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/chin-11.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "Fillers are a temporary treatment, though they are easy to maintain for those who want long-term results.A single session of fillers generally lasts around 9 to 12 months.",
+            "link_title": "",
+            "link_url": ""
+          }
+        },
+        "indicator_yPraWX": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/chin-2.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "The temporary nature of fillers makes them an excellent option for those who are unsure if they would want to undergo surgical chin enhancement. Plus, they’re instantly reversible if a patient ever decides they don’t like the look of their fillers.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_hDFM3X": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/chin-3.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "While fillers are often the choice of people who want to “try out” chin enhancement, many people maintain their fillers to achieve long-term chin augmentation.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_MdfrfH",
+        "indicator_yPraWX",
+        "indicator_hDFM3X"
+      ],
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "pt-0-desktop",
+        "padding_vertical_mobile": ""
+      }
+    },
+    "columns_qqn7hT": {
+      "type": "Columns",
+      "blocks": {
+        "indicator_ibXtWW": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Text-block 1",
+            "maintext": "",
+            "link_title": "Learn more",
+            "link_url": "/"
+          }
+        },
+        "indicator_76PefV": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Text-block 2",
+            "maintext": "",
+            "link_title": "Learn more",
+            "link_url": "/"
+          }
+        },
+        "indicator_4KcYrd": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Text-block 3",
+            "maintext": "",
+            "link_title": "Learn more",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_ibXtWW",
+        "indicator_76PefV",
+        "indicator_4KcYrd"
+      ],
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
       }
     }
   },
@@ -358,9 +419,10 @@
     "hero_banner_bjwbDz",
     "dual_tiles_FgLiDd",
     "request_an_appointment_k7dE8N",
-    "dual_tiles_AQitUB",
-    "testimonials_dndzXK",
     "dual_tiles_iNi6dd",
-    "seo_content_zV7zyJ"
+    "dual_tiles_AQitUB",
+    "seo_content_zV7zyJ",
+    "trust_indicators_AUPmBE",
+    "columns_qqn7hT"
   ]
 }
