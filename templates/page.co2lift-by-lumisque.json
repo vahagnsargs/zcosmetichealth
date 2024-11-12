@@ -31,6 +31,7 @@
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-accent-2",
             "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Emsculpt_2x_856af37d-5ec1-4cc5-9c22-5ca36ab24f00.png",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
@@ -118,146 +119,6 @@
         "color_scheme_background": "background-colors-default"
       }
     },
-    "dual_tiles_AQitUB": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_EBXKTf": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-inverse",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/bna-fillers-copy-50_2x_5661f6a2-18ce-4166-9b33-51274cde5eab.gif",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
-        "tile_6dBwHk": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
-            "content_position_vertical": "justify-center",
-            "title": "How does it work?",
-            "text_size": 2,
-            "content": "<p>BELOTERO BALANCE Dermal Filler has special properties that allow it to adapt to your skin for soft and even replacement of volume loss. The versatility of the product makes it strong enough to handle deep treatment areas such as nasolabial folds (smile lines around the mouth), yet soft enough to treat more delicate areas such as vertical lip lines (thin lines that appear above the lip line), tear trough deformities (bags and dark circles under the eyes), and thin lips (lip enhancement).</p>",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_EBXKTf",
-        "tile_6dBwHk"
-      ],
-      "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
-      }
-    },
-    "testimonials_dndzXK": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TtdwDe": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>Are there any side effects?</strong></h2>",
-            "author": "Just like any injection, you may experience mild irritation, swelling, itching, redness, bruising or tenderness at the injection site. These side effects typically resolve on their own. If any of these side effects persist, call us immediately.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_aiGBF7": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long is recovery time?</strong></h2>",
-            "author": "There is very little to no downtime associated with BELOTERO BALANCE Dermal Filler procedure. In fact, most patients return to their normal daily activities right after their treatment.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_NMN3Mc": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How soon can I expect results?</strong></h2>",
-            "author": "Instantly! Immediately upon injection when treated to full correction, BELOTERO BALANCE Dermal Filler plumps the skin and smoothes away lines and wrinkles.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_nmCMyd": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long does it last?</strong></h2>",
-            "author": "Individual results may vary, but BELOTERO BALANCE Dermal Filler may last about 6 months or more.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TtdwDe",
-        "testimonial_aiGBF7",
-        "testimonial_NMN3Mc",
-        "testimonial_nmCMyd"
-      ],
-      "settings": {
-        "padding_vertical_desktop": "",
-        "padding_vertical_mobile": "",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-accent-1",
-        "layout": "no-image",
-        "gap_between_desktop": 2,
-        "gap_between_mobile": 2,
-        "title": ""
-      }
-    },
     "dual_tiles_iNi6dd": {
       "type": "dual-tiles",
       "blocks": {
@@ -306,10 +167,10 @@
             "content_position_vertical": "justify-center",
             "title": "",
             "text_size": 1.5,
-            "content": "<h4>Are you ready to get the results you want for the look you deserve? For youthfulness that’s uniquely you, call us to schedule a consultation and see if BELOTERO® is right for you <a href=\"tel:+18187895500\">(818) 789-5500</a>.</h4>",
+            "content": "<p>Why Dr. Zadeh?</p><h2>Because He Cares.</h2><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh is personally involved with all treatments at the Z Center for Cosmetic Health.</p>",
             "button_style": "button--filled",
             "button_separator": false,
-            "button_text": "Click To Book",
+            "button_text": "Book Now",
             "button_url": "/",
             "content_layout": "content--relative",
             "block_margin_left": 0,
@@ -341,16 +202,132 @@
         "spacing_bottom_mobile": 6
       }
     },
-    "seo_content_zV7zyJ": {
-      "type": "seo-content",
+    "dual_tiles_nY3zBX": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_gkcttM": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "What is carboxytherapy?",
+            "text_size": 2,
+            "content": "<p>CO2LIFT carboxytherapy uses specially formulated gels that produce carbon dioxide when mixed. This mixture is then applied to the skin, where the gel traps the carbon dioxide against the skin, triggering the body to regenerate newer, healthier tissue by rushing oxygen-rich blood to the skin.</p><p><span style=\"text-decoration:underline\">CO2LIFT Pro Carboxy Gel Treatment</span> is clinically proven to increase skin hydration by 117% and offers the most concentrated dose of carbon dioxide to help firm, plump, and lift the skin. For best results, use this mask in a series of three treatments, no less than a week apart.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_7mGGGY": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/em-machine1_1x_4602f1d9-09d1-4550-b654-0bdeea33c9ad.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_gkcttM",
+        "tile_7mGGGY"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
       "settings": {
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
-        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-inverse",
-        "text_size": 1,
-        "title": "",
-        "content": "<p>Dr. Zadeh is an experienced and skilled provider of Belotero and other Dermal Filler treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>"
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "dual_tiles_jrdJfL": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_4EPrKG": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "In one use, the CO2LiftPro treatment:",
+            "text_size": 2.5,
+            "content": "<ul><li>Speeds healing</li><li>Boosts oxygen concentration</li><li>Increases microcirculation</li><li>Improves dark circles around the eyes</li><li>Tightens skin appearance</li><li>Reduces pore size</li><li>Smooths skin texture</li><li>Increases skin hydration by 117%+</li><li>Reduces the appearance of aging, scars, stretch marks and more!</li><li>Safe when applied to upper eyelids and on mucosal membranes</li></ul>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_4EPrKG"
+      ],
+      "custom_css": [
+        "ul {list-style-type: listitem ;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
       }
     }
   },
@@ -359,9 +336,8 @@
     "hero_banner_bjwbDz",
     "dual_tiles_FgLiDd",
     "request_an_appointment_k7dE8N",
-    "dual_tiles_AQitUB",
-    "testimonials_dndzXK",
     "dual_tiles_iNi6dd",
-    "seo_content_zV7zyJ"
+    "dual_tiles_nY3zBX",
+    "dual_tiles_jrdJfL"
   ]
 }
