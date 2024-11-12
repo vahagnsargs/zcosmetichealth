@@ -316,7 +316,7 @@
         "tile_4EPrKG"
       ],
       "custom_css": [
-        "ul {list-style-type: listitem ;}"
+        "ul {list-style: disc; padding-left: 20px;}"
       ],
       "settings": {
         "section_width": "max-w-page",
