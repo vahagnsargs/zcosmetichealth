@@ -31,17 +31,17 @@
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-accent-2",
             "header_menu_text_color": "#ffffff",
-            "image": "shopify://shop_images/Group100142-scaled.jpg",
+            "image": "shopify://shop_images/vipeel-top.jpg",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
             "enable_media_overlay_mobile": true,
-            "content_position_horizontal": "align-center text-center",
+            "content_position_horizontal": "align-start text-left",
             "content_position_vertical": "justify-center",
             "subtitle": "",
             "subtitle_url": "",
-            "title": "Belotero ®Los Angeles",
-            "content": "<p>It’s hard to feel beautiful as you age. Those fine lines and creases on your face seem to multiply each day. You want to feel like your old self again, but look natural at the same time.</p>",
+            "title": "VI Peel Los AngelesThe Perfect Peel For All Skin Types",
+            "content": "<p>The VI Peel™ is the peel that does it all! The synergistic blend of powerful ingredients in our peel make it suitable for all skin types. This peel provides dramatic results with virtually no pain, no skin preparation and little downtime.</p>",
             "enable_vertical_line": true,
             "button_style": "button--filled",
             "button_text": "Click To Book",
@@ -53,7 +53,7 @@
         "slide_3m8BRY"
       ],
       "custom_css": [
-        ".hero__entry {max-width: 1000px;}"
+        ".hero__content {max-width: 700px; margin-left: auto;}"
       ],
       "settings": {
         "slider_height": 60,
@@ -72,15 +72,17 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
+            "content_position_horizontal": "text-left align-start",
             "content_position_vertical": "justify-center",
-            "title": "BELOTERO BALANCE® Dermal Filler",
-            "text_size": 2,
-            "content": "<p>Introducing BELOTERO BALANCE® Dermal Filler. Belotero Balance is specially designed to blend into your skin and mold to the unique shape of your face. By adapting to the individuality of your skin, it softens lines and wrinkles around the nose and mouth for smooth and natural results that are uniquely you.</p><p>Dr. Zadeh has given our clients in the Sherman Oaks and Los Angeles area excellent results with BELOTERO. Dr. Zadeh will give you a younger, natural, more refreshed look.</p>",
+            "title": "Why wait weeks or months for results? Enjoy radiant, younger looking skin in about a week with the VI Peel.",
+            "text_size": 1.5,
+            "content": "<p>The VI Peel was designed for people on the go who want the results of deeper chemical peels, but without the discomfort and downtime. Using the combined effects of TCA (Trichloroacetic Acid), Salicylic Acid, Phenol, Retinoic Acid, Vitamins and Microelements it is a proven effective treatment for aging, hyperpigmentation and acne.</p><h2>The VI Peel will:</h2><ul><li><strong>Improve the tone, texture and clarity of your skin</strong></li><li><strong>Reduce or eliminate age spots, freckles, and hyper-pigmentation, including melasma</strong></li><li><strong>Soften fine lines and wrinkles</strong></li><li><strong>Purify acne skin conditions, reduce or eliminate acne scars</strong></li><li><strong>Stimulate the production of collagen, for firmer, more youthful skin</strong></li></ul>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -110,16 +112,38 @@
         "spacing_bottom_mobile": 6
       }
     },
-    "request_an_appointment_k7dE8N": {
-      "type": "request-an-appointment",
-      "settings": {
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-default"
-      }
-    },
     "dual_tiles_AQitUB": {
       "type": "dual-tiles",
       "blocks": {
+        "tile_6dBwHk": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "How does it work?",
+            "text_size": 2,
+            "content": "<p>The VI Peel represents the next generation of chemical exfoliants unlike any others you might have experienced. After each treatment we will provide you with a specially formulated post peel kit which is an essential component for treatment success, ensuring superior results to improve the skin.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
         "tile_EBXKTf": {
           "type": "tile",
           "settings": {
@@ -149,40 +173,11 @@
             "block_padding_left": 0,
             "block_padding_right": 0
           }
-        },
-        "tile_6dBwHk": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
-            "content_position_vertical": "justify-center",
-            "title": "How does it work?",
-            "text_size": 2,
-            "content": "<p>BELOTERO BALANCE Dermal Filler has special properties that allow it to adapt to your skin for soft and even replacement of volume loss. The versatility of the product makes it strong enough to handle deep treatment areas such as nasolabial folds (smile lines around the mouth), yet soft enough to treat more delicate areas such as vertical lip lines (thin lines that appear above the lip line), tear trough deformities (bags and dark circles under the eyes), and thin lips (lip enhancement).</p>",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
         }
       },
       "block_order": [
-        "tile_EBXKTf",
-        "tile_6dBwHk"
+        "tile_6dBwHk",
+        "tile_EBXKTf"
       ],
       "custom_css": [
         ".media img {object-fit: contain;}",
@@ -357,7 +352,6 @@
     "main",
     "hero_banner_bjwbDz",
     "dual_tiles_FgLiDd",
-    "request_an_appointment_k7dE8N",
     "dual_tiles_AQitUB",
     "testimonials_dndzXK",
     "dual_tiles_iNi6dd",
