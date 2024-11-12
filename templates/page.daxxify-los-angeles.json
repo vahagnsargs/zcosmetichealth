@@ -29,9 +29,9 @@
           "settings": {
             "banner_layout": "hero-banner--full",
             "color_scheme_text": "text-colors-inverse",
-            "color_scheme_background": "background-colors-accent-2",
+            "color_scheme_background": "background-colors-inverse",
             "header_menu_text_color": "#ffffff",
-            "image": "shopify://shop_images/Ultherapy-BG_2x-7-scaled.jpg",
+            "image": "shopify://shop_images/Group-112-1.png",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
@@ -40,11 +40,11 @@
             "content_position_vertical": "justify-center",
             "subtitle": "",
             "subtitle_url": "",
-            "title": "LASER RESURFACING",
-            "content": "<p>Everyone wants to feel comfortable in their skin. Things like skin blemishes, wrinkles, and discoloration can hurt our body image and self-confidence. Laser resurfacing can help correct these skin issues, leaving you with skin that’s smoother, clearer, and more radiant.</p>",
+            "title": "",
+            "content": "<p>Ready for long-lasting results? It’s about time! Z Center For Cosmetic Health is one of the first to offer DAXXIFY, the only long-lasting frown line treatment powered by a peptide.Results with DAXXIFY last on average 6 months and up to 9 months for some. That’s a full year of smoother lines with as few as 2 treatments.*</p>",
             "enable_vertical_line": true,
             "button_style": "button--filled",
-            "button_text": "Click To Book",
+            "button_text": "CLICK TO BOOK",
             "button_url": "/"
           }
         }
@@ -53,7 +53,9 @@
         "slide_tzCAP4"
       ],
       "custom_css": [
-        ".hero__entry {max-width: 1000px;}"
+        ".hero__content {max-width: 700px; margin-left: auto; margin-right: 10%;}",
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
       ],
       "settings": {
         "slider_height": 60,
@@ -72,15 +74,17 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "Laser Resurfacing",
-            "text_size": 2.5,
-            "content": "<h3>by Dr. Michael Zadeh</h3><p>Laser resurfacing works on a wide range of skin issues. If you have acne scars, other scarring, stretch marks, birthmarks, sun spots, moles, hyperpigmentation, or fine lines, laser resurfacing can help. At the Z Center for Cosmetic Health, we use a specialized Nano-Ray Laser that treats these issues through a series of light pulses. The treatment is fast and effective, and a single treatment is often enough to remove the targeted blemishes forever.</p><p>The Nano-Ray Laser can treat: hyperpigmentation, dark spots, moles, acne scars, surgical and other scars, enlarged pores, skin texture issues, fine lines, wrinkles (under eyes, around mouth, etc.), stretch marks, hand rejuvenation, birthmarks, and more!</p>",
+            "title": "Make an Appointment",
+            "text_size": 2,
+            "content": "<p>Are you ready for a newer innovative way to reduce your wrinkles and fine lines? Introducing DAXXIFY™ – the only long-lasting, peptide-powered frown line wrinkle treatment and the first innovation of its kind in over 20 years.</p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -100,14 +104,14 @@
       ],
       "settings": {
         "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--70-30",
+        "section_height": 25,
+        "layout": "section-dual-tiles--50-50",
         "gap_between_tiles": 0.2,
         "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
         "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 2
+        "spacing_bottom_mobile": 0
       }
     },
     "request_an_appointment_7fWrPc": {
@@ -125,6 +129,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/image-183.png",
             "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
@@ -133,7 +138,7 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "Watch a Laser Resurfacing Treatment",
+            "title": "",
             "text_size": 2,
             "content": "",
             "button_style": "button--filled",
@@ -148,40 +153,10 @@
             "block_padding_left": 0,
             "block_padding_right": 0
           }
-        },
-        "tile_QikqAd": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-accent-2",
-            "video_desktop_external": "https://www.youtube.com/watch?v=M1vMRx7XN2I",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "/",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
         }
       },
       "block_order": [
-        "tile_PNy3Ap",
-        "tile_QikqAd"
+        "tile_PNy3Ap"
       ],
       "custom_css": [
         ".media img {object-fit: contain;}",
@@ -197,6 +172,51 @@
         "spacing_bottom_desktop": 3,
         "spacing_top_mobile": 3,
         "spacing_bottom_mobile": 3
+      }
+    },
+    "hero_banner_EqNXzU": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_ggEdqm": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Group-113.png",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Discover DAXXIFY™ & How It Is Different",
+            "content": "<p>DAXXIFY™ is an injectable, anti-wrinkle treatment that helps target dynamic wrinkles on a patient’s face. These areas include the frown lines (11 lines) between the brows, forehead lines, and wrinkles around the eyes (crow’s feet). Daxxify is a neuromodulator and is in the same class as Botox, Dysport, Xeomin, and Jeuveau</p><p></p><p>.Nearly 90% of patients say they wish their Botox results lasted longer. With DAXXIFY™, you can keep your frown lines smoother for up to twice as long as Botox. Most dynamic wrinkle treatments such as Botox currently last 3 – 4 months and require up to 4 treatments a year to maintain results.</p><p>The active ingredient in many of these products is botulinum toxin A. This ingredient smooths out moderate to severe frown lines on a patient’s face. DAXXIFY™ became notable immediately for being the first product of its kind to use a novel peptide as a stabilizer, meaning that it doesn’t contain byproducts from either humans or animals of any kind.</p><p>DAXXIFY™ is FDA approved to help smooth moderate to severe lines between the brows. It is the only long-lasting frown line treatment powered by a peptide with results that last can last up to 6 months before return to full pre-treatment muscle function.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ggEdqm"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".hero__content {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "slider_height": 70,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
       }
     },
     "dual_tiles_HJwLHn": {
@@ -368,184 +388,6 @@
         "padding_vertical_mobile": ""
       }
     },
-    "dual_tiles_fmQMY3": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_LpdcMM": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
-            "content_position_vertical": "justify-center",
-            "title": "How Does It Work?",
-            "text_size": 2,
-            "content": "<p>The Nano-Ray Laser works to remove blemishes and smooth the skin through applying specialized light. This light pulsates over the skin, causing the skin to absorb light energy and rapidly vaporizing water in the skin tissue. This water vaporization leads to an almost instant removal of many skin issues, all while using minimal heat to reduce the risk of injury to the skin. The treatment is fast, taking only about 10-15 minutes of your time.</p><p>The Nano-Ray Laser offers more precise control than other lasers, which allows Dr. Zadeh to treat the skin with either a light touch or with more depth. After a Nano-Ray Laser treatment, new skin regrows to replace the removed, damaged skin, leaving you with smoother, clearer skin.</p>",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
-        "tile_rXzmYT": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/MG-Nano_2x_d10b5b01-e628-425a-986c-23e7299a315e.gif",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "/",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_LpdcMM",
-        "tile_rXzmYT"
-      ],
-      "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--70-30",
-        "gap_between_tiles": 0,
-        "gap_between_tiles_mobile": 0,
-        "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 2,
-        "spacing_bottom_mobile": 2
-      }
-    },
-    "dual_tiles_nR9Hpa": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_xe8TRi": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/LC-Nano-Ray_2x_b0dc8c87-9f17-49c9-9ba0-46be9d861a54.gif",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "/",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
-        "tile_8EtpBX": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
-            "content_position_vertical": "justify-center",
-            "title": "Expectations After Treatment",
-            "text_size": 2,
-            "content": "<p>For most people, only a single Nano-Ray Laser treatment is needed. The after affects of each treatment will vary depending on the depth of treatment you received. After your treatment, your skin may experience some redness, darkness, or mild swelling for 1 to 2 days after the treatment.</p><p>After this, your skin may also start to peel as new skin is formed. Aftercare protection, including keeping the skin moisturized and protected from the sun, is important and each patient will be given specific instructions on how to care for their skin after their treatment.</p>",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_xe8TRi",
-        "tile_8EtpBX"
-      ],
-      "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 45,
-        "layout": "section-dual-tiles--30-70",
-        "gap_between_tiles": 0,
-        "gap_between_tiles_mobile": 0,
-        "spacing_top_desktop": 0,
-        "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 0
-      }
-    },
-    "seo_content_KBzYKD": {
-      "type": "seo-content",
-      "settings": {
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
-        "padding_vertical_mobile": "",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-accent-1",
-        "text_size": 1,
-        "title": "",
-        "content": "<h3>“Dr. Zadeh is incredibly skilled, his hands are so gentle and precise there’s never any pain. He brings that same gentle precision to his consultations too.”</h3>"
-      }
-    },
     "dual_tiles_qpAfUc": {
       "type": "dual-tiles",
       "blocks": {
@@ -592,9 +434,9 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
             "content_position_vertical": "justify-center",
-            "title": "Book an Appointment",
+            "title": "Is The Long-Lasting Frown Line Treatment Right For Me?",
             "text_size": 2,
-            "content": "<p>Z Center for Cosmetic Health is proud to be the first and only Nano-Ray Laser provider in the Sherman Oaks area. See if laser resurfacing is right for you by calling us today to book your free consultation with Dr. Zadeh. At your consultation, Dr. Zadeh will work to understand your unique skin issues to determine if you would be a good candidate for laser treatment. Dr. Zadeh will then develop a personalized treatment plan for your skin’s specific needs.</p>",
+            "content": "<p>If you want more time with less lines, don’t wait!<br/>Call or schedule an appointment with Z Center For Cosmetic Health today.<br/><strong>(818) 264 4084</strong></p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "Schedule An Appointment",
@@ -624,9 +466,21 @@
         "gap_between_tiles": 0.2,
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 0
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "seo_content_KBzYKD": {
+      "type": "seo-content",
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "text_size": 1,
+        "title": "",
+        "content": "<p>*At least 50% of patients in clinical studies had no or minor frown lines 6 months after treatment. Between 3% and 5% of patients in clinical studies had no or minor frown lines 9 months after treatment. In other safety studies, between 5% and 17% of patients still had noticeable improvement 9 months later.<br/>IMPORTANT SAFETY INFORMATION for DAXXIFYTM (daxibotulinumtoxinA-Ianm) injection<br/>DAXXIFYTM may cause serious side effects that can be life threatening. Get medical help right away if you have any of these problems any time (hours to weeks) after injection of DAXXIFYTM:<br/>• Problems swallowing, speaking, or breathing due to weakening of associated muscles can be severe and result in loss of life. You are at the highest risk if these problems are pre-existing before injection.<br/>Swallowing problems may last for several months.<br/>• Spread of toxin effects. The effect of botulinum toxin may affect areas away from the injection site and cause serious symptoms that include loss of strength and all-over muscle weakness, double vision,<br/>blurred vision and drooping eyelids, hoarseness or change or loss of voice, trouble saying words clearly, loss of bladder control, trouble breathing, and trouble swallowing.<br/>Do not receive DAXXIFYTM if you are allergic to any of the ingredients in DAXXIFYTM (see Medication Guide for ingredients); had an allergic reaction to any other botulinum toxin product such as<br/>rimabotulinumtoxinB (MYOBLOC®), onabotulinumtoxinA (BOTOX®/BOTOX® Cosmetic), abobotulinumtoxinA (DYSPORT®), incobotulinumtoxinA (XEOMIN®) or prabotulinumtoxinA-xvfs (JEUVEAU®); or have a skin<br/>infection at the planned injection site.<br/>DAXXIFYTM dosing units are not the same as, or comparable to, any other botulinum toxin product.<br/>Tell your healthcare provider about all your medical conditions, including any side effects from botulinum toxin products, including dry eye; breathing, swallowing, bleeding, or heart problems; plans to have<br/>surgery; weakness of forehead muscles; drooping eyelids; have had surgery on your face; are pregnant or breastfeeding or plan to become pregnant or breastfeed.<br/>Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.<br/>Using DAXXIFYTM with certain other medicines may cause serious side effects. Do not start any new medicines until you have told your healthcare provider that you have received DAXXIFYTM in the past.<br/>Especially tell your healthcare provider if you have received any other botulinum toxin product in the last 4 months or any in the past, and exactly which product you received (such as BOTOX®, BOTOX®<br/>Cosmetic, MYOBLOC®, DYSPORT®, XEOMIN®, or JEUVEAU®). DAXXIFYTM may cause serious side effects, including allergic reactions (such as itching, rash, redness, swelling, wheezing, trouble breathing, or dizziness<br/>or feeling faint), heart problems (such as irregular heartbeat and heart attack), and eye problems (including dry eye, reduced blinking, and corneal problems). Tell your healthcare provider or get medical help<br/>right away if you experience a serious side effect. No serious adverse events of distant spread of toxin effect associated with dermatologic use of DAXXIFYTM have been reported in clinical studies at the dose of<br/>40 Units for glabellar lines. The most common side effects of DAXXIFYTM include headache, eyelid drooping, and loss of ability to move the muscles in your face.<br/>These are not all the possible side effects of DAXXIFYTM. For more information, see the full Prescribing Information including Boxed Warning, and refer to the Medication Guide or talk with your doctor. To report<br/>side effects associated with DAXXIFYTM, please call 1-877-373-8669. You may also report side effects to the FDA at 1-800-FDA-1088 or visit www.fda.gov/medwatch.<br/>APPROVED USE<br/>DAXXIFYTM is a prescription medicine that is injected into muscles and used in adults to temporarily improve the look of moderate to severe frown lines between the eyebrows.</p>"
       }
     }
   },
@@ -636,11 +490,10 @@
     "dual_tiles_6LtxHD",
     "request_an_appointment_7fWrPc",
     "dual_tiles_FkKncX",
+    "hero_banner_EqNXzU",
     "dual_tiles_HJwLHn",
     "marquees_39WjLN",
-    "dual_tiles_fmQMY3",
-    "dual_tiles_nR9Hpa",
-    "seo_content_KBzYKD",
-    "dual_tiles_qpAfUc"
+    "dual_tiles_qpAfUc",
+    "seo_content_KBzYKD"
   ]
 }
