@@ -53,7 +53,7 @@
         "slide_3m8BRY"
       ],
       "custom_css": [
-        ".hero__content {max-width: 700px; margin-left: auto;}"
+        ".hero__content {max-width: 700px; margin-left: auto; margin-right: 10%;}"
       ],
       "settings": {
         "slider_height": 60,
@@ -99,6 +99,9 @@
       },
       "block_order": [
         "tile_FWJanz"
+      ],
+      "custom_css": [
+        ".section-dual-tiles__content {position: relative;}"
       ],
       "settings": {
         "section_width": "max-w-page",
@@ -186,11 +189,11 @@
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
+        "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 6
       }
     },
@@ -345,6 +348,52 @@
         "title": "",
         "content": "<p>Dr. Zadeh is an experienced and skilled provider of Belotero and other Dermal Filler treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>"
       }
+    },
+    "dual_tiles_WYcFFP": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_RbfBiR": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Heading for Dual Content Tiles",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_RbfBiR"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
     }
   },
   "order": [
@@ -354,6 +403,7 @@
     "dual_tiles_AQitUB",
     "testimonials_dndzXK",
     "dual_tiles_iNi6dd",
-    "seo_content_zV7zyJ"
+    "seo_content_zV7zyJ",
+    "dual_tiles_WYcFFP"
   ]
 }
