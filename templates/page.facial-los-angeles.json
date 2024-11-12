@@ -122,7 +122,7 @@
     "custom_liquid_ictKRY": {
       "type": "custom-liquid",
       "custom_css": [
-        ".about-iframe {display: flex; max-width: 1180 ; margin: 20px auto;}"
+        ".about-iframe {display: flex; max-width: 1180px; margin: 20px auto; gap: 30px; justify-content: space-between;}"
       ],
       "settings": {
         "padding_vertical_desktop": "",
