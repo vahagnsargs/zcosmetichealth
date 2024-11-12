@@ -31,7 +31,7 @@
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-accent-2",
             "header_menu_text_color": "#ffffff",
-            "image": "shopify://shop_images/Group100142-scaled.jpg",
+            "image": "shopify://shop_images/Emsculpt_2x-1.jpg",
             "video_external": "",
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
@@ -40,8 +40,8 @@
             "content_position_vertical": "justify-center",
             "subtitle": "",
             "subtitle_url": "",
-            "title": "Belotero ®Los Angeles",
-            "content": "<p>It’s hard to feel beautiful as you age. Those fine lines and creases on your face seem to multiply each day. You want to feel like your old self again, but look natural at the same time.</p>",
+            "title": "facial-los-angeles",
+            "content": "<p>We are dedicated to helping individuals attain glowing, healthy skin. </p>",
             "enable_vertical_line": true,
             "button_style": "button--filled",
             "button_text": "Click To Book",
@@ -72,15 +72,17 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "BELOTERO BALANCE® Dermal Filler",
+            "title": "Medical Grade Facials at Z Center",
             "text_size": 2,
-            "content": "<p>Introducing BELOTERO BALANCE® Dermal Filler. Belotero Balance is specially designed to blend into your skin and mold to the unique shape of your face. By adapting to the individuality of your skin, it softens lines and wrinkles around the nose and mouth for smooth and natural results that are uniquely you.</p><p>Dr. Zadeh has given our clients in the Sherman Oaks and Los Angeles area excellent results with BELOTERO. Dr. Zadeh will give you a younger, natural, more refreshed look.</p>",
+            "content": "<p>We are dedicated to helping individuals attain glowing, healthy skin. All facials utilize cosmeceutical/medical grade skincare brands for the highest concentration of potent ingredients resulting in outstanding results. Cruelty free, medical grade skincare.</p><p></p>",
             "button_style": "button--filled",
             "button_separator": false,
             "button_text": "",
@@ -117,87 +119,17 @@
         "color_scheme_background": "background-colors-default"
       }
     },
-    "dual_tiles_AQitUB": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_EBXKTf": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-inverse",
-            "color_scheme_background": "background-colors-inverse",
-            "image_desktop": "shopify://shop_images/bna-fillers-copy-50_2x_5661f6a2-18ce-4166-9b33-51274cde5eab.gif",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        },
-        "tile_6dBwHk": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-left align-start",
-            "content_position_vertical": "justify-center",
-            "title": "How does it work?",
-            "text_size": 2,
-            "content": "<p>BELOTERO BALANCE Dermal Filler has special properties that allow it to adapt to your skin for soft and even replacement of volume loss. The versatility of the product makes it strong enough to handle deep treatment areas such as nasolabial folds (smile lines around the mouth), yet soft enough to treat more delicate areas such as vertical lip lines (thin lines that appear above the lip line), tear trough deformities (bags and dark circles under the eyes), and thin lips (lip enhancement).</p>",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--relative",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_EBXKTf",
-        "tile_6dBwHk"
-      ],
+    "custom_liquid_ictKRY": {
+      "type": "custom-liquid",
       "custom_css": [
-        ".media img {object-fit: contain;}",
-        ".media--overlay:after {background: transparent;}"
+        ".about-iframe {display: flex; max-width: 1180 ; margin: 20px auto;}"
       ],
       "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "custom_liquid": "<div class=\"about-iframe\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Uo338fZdHMI?si=9YNGeupgQePdTdBQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AcHzn1_ug90?si=CEZdlX7EiidX2vQ9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<div>"
       }
     },
     "testimonials_dndzXK": {
@@ -358,7 +290,7 @@
     "hero_banner_bjwbDz",
     "dual_tiles_FgLiDd",
     "request_an_appointment_k7dE8N",
-    "dual_tiles_AQitUB",
+    "custom_liquid_ictKRY",
     "testimonials_dndzXK",
     "dual_tiles_iNi6dd",
     "seo_content_zV7zyJ"
