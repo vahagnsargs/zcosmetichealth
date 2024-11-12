@@ -29,8 +29,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -76,8 +78,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
             "image_desktop": "shopify://shop_images/image-34.png",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -126,8 +130,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -152,19 +158,22 @@
           "type": "tile",
           "settings": {
             "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-accent-2",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/homepage_banner_12.jpg",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "On sale items",
+            "title": "",
             "text_size": 1,
             "content": "",
             "button_style": "button--filled",
             "button_separator": false,
-            "button_text": "Shop sale",
+            "button_text": "",
             "button_url": "/",
             "content_layout": "content--relative",
             "block_margin_left": 0,
@@ -180,16 +189,72 @@
         "tile_yA6PBG",
         "tile_w6qjgn"
       ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
       "settings": {
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "seo_content_pc3cet": {
+      "type": "seo-content",
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "text_size": 1,
+        "title": "Click the links below to visit the financing websites where you can apply directly online, or contacting our office for more information.",
+        "content": ""
+      }
+    },
+    "hero_banner_PMqfLA": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_kzGTYm": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/TEAM-Background_1x_6e51b195-9f9e-4576-b817-a21835753299.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-end",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Now You Can Look Good AndFeel Even Better",
+            "content": "<p>Dr. Michael Zadeh | Board Certified General Surgeon</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Meet The Doctor",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_kzGTYm"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
       }
     }
   },
@@ -197,6 +262,8 @@
     "main",
     "dual_tiles_McaDTB",
     "dual_tiles_HqTG4M",
-    "dual_tiles_DXjzQT"
+    "dual_tiles_DXjzQT",
+    "seo_content_pc3cet",
+    "hero_banner_PMqfLA"
   ]
 }
