@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".container {max-width:1400px;}"
+        ".container {max-width: 1400px;}"
       ],
       "settings": {
         "show_page_title": true,
@@ -22,9 +22,131 @@
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
+    },
+    "dual_tiles_Kw7C7M": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_Tdf48D": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Latisse",
+            "text_size": 1,
+            "content": "<p>Are your lashes getting thinner as you get older? Latisse is a prescription only treatment that makes your eyelashes grow one longer, fuller and darker. Latisse has been proven to more than double lash fullness in just 16 weeks.</p><p><br/>Ask us if Latisse is right for you!</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_niJJCk": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/BeforeAfter.jpg",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "image_mobile": "shopify://shop_images/BeforeAfter.jpg",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 4.8
+          }
+        }
+      },
+      "block_order": [
+        "tile_Tdf48D",
+        "tile_niJJCk"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "hero_banner_NpNzyj": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_WEmMFM": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/TEAM-Background_1x_6e51b195-9f9e-4576-b817-a21835753299.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-end",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Now You Can Look Good AndFeel Even Better",
+            "content": "<p>Dr. Michael Zadeh | Board Certified General Surgeon</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Meet The DoctorLearn",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_WEmMFM"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "dual_tiles_Kw7C7M",
+    "hero_banner_NpNzyj"
   ]
 }
