@@ -72,6 +72,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Model-Banner-button.jpg",
             "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
@@ -101,7 +102,9 @@
         "tile_FWJanz"
       ],
       "custom_css": [
-        ".section-dual-tiles__content {position: relative;}"
+        ".section-dual-tiles__content {position: relative;}",
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
       ],
       "settings": {
         "section_width": "max-w-page",
@@ -109,10 +112,10 @@
         "layout": "section-dual-tiles--30-70",
         "gap_between_tiles": 0,
         "gap_between_tiles_mobile": 0,
-        "spacing_top_desktop": 0,
+        "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 0
       }
     },
     "dual_tiles_AQitUB": {
@@ -152,6 +155,7 @@
           "settings": {
             "color_scheme_text": "text-colors-inverse",
             "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/What-to-Expect-from-the-VI-Peel.jpg",
             "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
@@ -197,51 +201,345 @@
         "spacing_bottom_mobile": 6
       }
     },
-    "testimonials_dndzXK": {
+    "accordions_jiRXyz": {
+      "type": "accordions",
+      "blocks": {
+        "topic_Fy6UKt": {
+          "type": "topic",
+          "settings": {
+            "is_open": true,
+            "title": "VI Peel",
+            "content": "<p>The REVIVER peel for healthy, glowing skinSkin concerns: First time peel for sensitive skin and Rosacea </p>",
+            "page": ""
+          }
+        },
+        "topic_x69BRn": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "VI Peel Purify",
+            "content": "<p>The PURIFY peel for an acne free complexionSkin Concerns: Acne Breakout prone skin</p>",
+            "page": ""
+          }
+        },
+        "topic_RiGgbB": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "VI Peel Purify with Precision Plus",
+            "content": "<p>The Purify & Correct Peel for a smooth, even complexionSkin Concerns: Acne with Hyper pigmentation Acne Scarring </p>",
+            "page": ""
+          }
+        },
+        "topic_t4HVMR": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "VI Peel Precision Plus",
+            "content": "<p>The Transformative Peel for an even complexionSkin Concerns: Hyperpigmentation, Melasma, and Uneven skin tone</p>",
+            "page": ""
+          }
+        },
+        "topic_PFGGDj": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "VI Peel Precision",
+            "content": "<p>The Restorative peel for youthful skinSkin Concerns: Anti-Aging, Wrinkles, Fine lines and body peeling</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "topic_Fy6UKt",
+        "topic_x69BRn",
+        "topic_RiGgbB",
+        "topic_t4HVMR",
+        "topic_PFGGDj"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "title": "VI Peels We Offer:"
+      }
+    },
+    "dual_tiles_9NKgiV": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_ngD47f": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Vi-Peel-Before-and-After-Acne.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "image_mobile": "shopify://shop_images/Vi-Peel-Before-and-After-Acne.jpg",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_TV3HEf": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "How does it work?",
+            "text_size": 2,
+            "content": "<p>Our skincare nurse will apply a solution designed to improve and smooth the texture of the facial skin by removing its damaged outer layers. The unique blend of ingredients in the VI Peel produces powerful results with no pain, no skin preparation and very little downtime.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_ngD47f",
+        "tile_TV3HEf"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "dual_tiles_FfbNMP": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_CK436N": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "How is the Vi Peel different from other peels?",
+            "text_size": 2,
+            "content": "<p>Chemical Peels of the past, were based on the “no pain, no gain” approach to skin care. The deeper peels, though more painful and with significant downtime, were incorrectly thought to produce better results. The VI Peel, which is the finest of the next generation chemical peels, is painless and produces dramatic visible results in just days!</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_HjhQ3V": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Vi-Peel-Before-and-After-Acne.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_CK436N",
+        "tile_HjhQ3V"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "dual_tiles_Ny7BGi": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_G8EXjU": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Vi-Peel-Before-and-After-Chest.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_zKEXTF": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "What skin types can the VI Peel treat?",
+            "text_size": 2,
+            "content": "<p>What makes the VI Peel so great is that it’s special formulation makes it safe for all skin types to enjoy the benefits of the peel. For the first time, African-Americans, Asians, Hispanics and other darker skin types can experience anti-aging and restorative skin care previously unavailable.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_G8EXjU",
+        "tile_zKEXTF"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "testimonials_qpALKC": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_TtdwDe": {
+        "testimonial_pDzp9J": {
           "type": "testimonial",
           "settings": {
-            "quote": "<h2><strong>Are there any side effects?</strong></h2>",
-            "author": "Just like any injection, you may experience mild irritation, swelling, itching, redness, bruising or tenderness at the injection site. These side effects typically resolve on their own. If any of these side effects persist, call us immediately.",
-            "link_title": "",
+            "quote": "<h2>How many peels do I need?</h2>",
+            "author": "A single VI Peel will result in significant skin repair and give you a healthy glow to your skin. The peel works great not only as an active treatment, but also as a preventative treatment. Each peel can be repeated as often as every two weeks, if necessary, for damaged skin. Our skincare specialists will recommend a personalized skincare regimen to give you the best results.",
+            "link_title": "Buy Leo Bikini Bottoms",
             "link_url": "/"
           }
         },
-        "testimonial_aiGBF7": {
+        "testimonial_FRGjkb": {
           "type": "testimonial",
           "settings": {
-            "quote": "<h2><strong>How long is recovery time?</strong></h2>",
-            "author": "There is very little to no downtime associated with BELOTERO BALANCE Dermal Filler procedure. In fact, most patients return to their normal daily activities right after their treatment.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_NMN3Mc": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How soon can I expect results?</strong></h2>",
-            "author": "Instantly! Immediately upon injection when treated to full correction, BELOTERO BALANCE Dermal Filler plumps the skin and smoothes away lines and wrinkles.",
-            "link_title": "",
-            "link_url": "/"
-          }
-        },
-        "testimonial_nmCMyd": {
-          "type": "testimonial",
-          "settings": {
-            "quote": "<h2><strong>How long does it last?</strong></h2>",
-            "author": "Individual results may vary, but BELOTERO BALANCE Dermal Filler may last about 6 months or more.",
-            "link_title": "",
+            "quote": "<h2>Does it burn?</h2>",
+            "author": "Not really. You will feel a slight stinging sensation for a few seconds which will go away almost immediately. The peel contains a topical numbing medication which will numb the skin after the first pass.",
+            "link_title": "Buy Leo Bikini Bottoms",
             "link_url": "/"
           }
         }
       },
       "block_order": [
-        "testimonial_TtdwDe",
-        "testimonial_aiGBF7",
-        "testimonial_NMN3Mc",
-        "testimonial_nmCMyd"
+        "testimonial_pDzp9J",
+        "testimonial_FRGjkb"
       ],
       "settings": {
         "padding_vertical_desktop": "",
@@ -302,10 +600,10 @@
             "content_position_vertical": "justify-center",
             "title": "",
             "text_size": 1.5,
-            "content": "<h4>Are you ready to get the results you want for the look you deserve? For youthfulness that’s uniquely you, call us to schedule a consultation and see if BELOTERO® is right for you <a href=\"tel:+18187895500\">(818) 789-5500</a>.</h4>",
+            "content": "<p><strong>Experience the peel of a new generation! Schedule your free consultation with one of our skincare specialists to see which VI Peel is right for you.</strong></p>",
             "button_style": "button--filled",
             "button_separator": false,
-            "button_text": "Click To Book",
+            "button_text": "Click to Book",
             "button_url": "/",
             "content_layout": "content--relative",
             "block_margin_left": 0,
@@ -336,112 +634,6 @@
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
       }
-    },
-    "seo_content_zV7zyJ": {
-      "type": "seo-content",
-      "settings": {
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
-        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-inverse",
-        "text_size": 1,
-        "title": "",
-        "content": "<p>Dr. Zadeh is an experienced and skilled provider of Belotero and other Dermal Filler treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>"
-      }
-    },
-    "dual_tiles_WYcFFP": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_RbfBiR": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-accent-1",
-            "video_desktop_external": "",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_external": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "Heading for Dual Content Tiles",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_RbfBiR"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
-      }
-    },
-    "dual_tiles_McjMqC": {
-      "type": "dual-tiles",
-      "blocks": {
-        "tile_kcGaNi": {
-          "type": "tile",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-accent-1",
-            "video_desktop_aspect_ratio": "16/9",
-            "placeholder_svg_code": "",
-            "video_mobile_aspect_ratio": "16/9",
-            "video_mobile_compact": false,
-            "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
-            "title": "Heading for Dual Content Tiles",
-            "text_size": 1,
-            "content": "",
-            "button_style": "button--filled",
-            "button_separator": false,
-            "button_text": "",
-            "button_url": "",
-            "content_layout": "content--absolute",
-            "block_margin_left": 0,
-            "block_margin_right": 0,
-            "block_padding_top": 0,
-            "block_padding_bottom": 0,
-            "block_padding_left": 0,
-            "block_padding_right": 0
-          }
-        }
-      },
-      "block_order": [
-        "tile_kcGaNi"
-      ],
-      "settings": {
-        "section_width": "max-w-page",
-        "section_height": 40,
-        "layout": "section-dual-tiles--50-50",
-        "gap_between_tiles": 0.2,
-        "gap_between_tiles_mobile": 0.2,
-        "spacing_top_desktop": 6,
-        "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
-      }
     }
   },
   "order": [
@@ -449,10 +641,11 @@
     "hero_banner_bjwbDz",
     "dual_tiles_FgLiDd",
     "dual_tiles_AQitUB",
-    "testimonials_dndzXK",
-    "dual_tiles_iNi6dd",
-    "seo_content_zV7zyJ",
-    "dual_tiles_WYcFFP",
-    "dual_tiles_McjMqC"
+    "accordions_jiRXyz",
+    "dual_tiles_9NKgiV",
+    "dual_tiles_FfbNMP",
+    "dual_tiles_Ny7BGi",
+    "testimonials_qpALKC",
+    "dual_tiles_iNi6dd"
   ]
 }
