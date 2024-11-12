@@ -54,7 +54,7 @@
       ],
       "custom_css": [
         ".hero__content {max-width: 700px; margin-left: auto; margin-right: 10%;}",
-        ".media img {object-fit: contain;}",
+        "b.media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}"
       ],
       "settings": {
