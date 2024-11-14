@@ -26,81 +26,101 @@
         "column_BzFbcr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Fat-Removal_2x_307f1bc4-a288-4f5b-8154-091277620425.jpg",
+            "image": "shopify://shop_images/belotero.jpg",
             "title": "",
             "text": "",
-            "link_label": "Coolsculpting",
-            "link": "shopify://blogs/coolsculpting-before-after-gallery"
+            "link_label": "Belotero",
+            "link": "shopify://pages/belotero-los-angeles"
           }
         },
         "column_NUadBL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Dermal-Fillers_2x_1.jpg",
+            "image": "shopify://shop_images/botox.jpg",
             "title": "",
             "text": "",
-            "link_label": "Dermal Fillers",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/dermal-fillers-before-after-gallery"
+            "link_label": "Botox",
+            "link": ""
           }
         },
         "column_LpPGec": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Botox-Cosmetic_2x_1.jpg",
+            "image": "shopify://shop_images/Excessive-Sweating_2x_1.jpg",
             "title": "",
             "text": "",
-            "link_label": "Botox",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/botox-before-after-gallery"
+            "link_label": "Botox for Sweating",
+            "link": "shopify://pages/mole-removal"
           }
         },
         "column_gBHJJJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Non-Surgical_2x_1.jpg",
+            "image": "shopify://shop_images/tmj.jpg",
             "title": "",
             "text": "",
-            "link_label": "Ultherapy",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/ultherapy-before-after-gallery"
+            "link_label": "Botox for TMJ",
+            "link": ""
           }
         },
         "column_afXMKc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Z-Center-Emsculpt_Neo_PIC_Saddle-bags_04_ENUS100-1-e1625601092983.jpg",
+            "image": "shopify://shop_images/dysport.jpg",
             "title": "",
             "text": "",
-            "link_label": "Emsculpt NEO",
-            "link": "shopify://pages/emsculpt-neo"
+            "link_label": "Dysport",
+            "link": "shopify://pages/dysport-los-angeles"
           }
         },
         "column_G9Lya9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Nano-Ray_2x_1.jpg",
+            "image": "shopify://shop_images/Nano-Ray_2x_2.jpg",
             "title": "",
             "text": "",
-            "link_label": "Nano-Ray Laser",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/thermitight-before-after-gallery"
+            "link_label": "Juvederm Ultra XC",
+            "link": "shopify://pages/juvederm-ultra-xc-los-angeles"
           }
         },
         "column_jLbwK7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Moleskin_2x_1f538582-e3b3-4ea3-9eed-7f4759d9f6a6.jpg",
+            "image": "shopify://shop_images/Skin-Care_2x_1.jpg",
             "title": "",
             "text": "",
-            "link_label": "Nano-Ray Laser",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/nano-ray-laser-before-after-gallery"
+            "link_label": "Juvederm Ultra XC FAQ",
+            "link": "shopify://pages/juvederm-ultra-xc-los-angeles"
           }
         },
         "column_39nyae": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/attractive-woman-at-dayspa-for-skin-treatment-P69Z89W-e1625601027178.jpg",
+            "image": "shopify://shop_images/Non-Surgical_2x_2.jpg",
             "title": "",
             "text": "",
-            "link_label": "Genius RF Microneedling",
-            "link": "shopify://pages/genius-microneedling"
+            "link_label": "Restalyne Lyft",
+            "link": "shopify://pages/restylane-lyft-los-angeles"
+          }
+        },
+        "column_B6C8ge": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lip_2x_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Restalyne Silk",
+            "link": ""
+          }
+        },
+        "column_dp9nkL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Dermal-Fillers_2x_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Juvederm Voluma",
+            "link": "shopify://pages/juvederm-voluma-xc-los-angeles"
           }
         }
       },
@@ -112,7 +132,9 @@
         "column_afXMKc",
         "column_G9Lya9",
         "column_jLbwK7",
-        "column_39nyae"
+        "column_39nyae",
+        "column_B6C8ge",
+        "column_dp9nkL"
       ],
       "settings": {
         "title": "",
