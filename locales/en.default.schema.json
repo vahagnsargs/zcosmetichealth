@@ -1,14 +1,116 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin language editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "multicolumn": {
+      "name": "Multicolumn",
+      "settings": {
+        "title": {
+          "label": "Heading"
+        },
+        "image_width": {
+          "label": "Image width",
+          "options__1": {
+            "label": "One-third width of column"
+          },
+          "options__2": {
+            "label": "Half width of column"
+          },
+          "options__3": {
+            "label": "Full width of column"
+          }
+        },
+        "image_ratio": {
+          "label": "Image ratio",
+          "options__1": {
+            "label": "Adapt to image"
+          },
+          "options__2": {
+            "label": "Portrait"
+          },
+          "options__3": {
+            "label": "Square"
+          },
+          "options__4": {
+            "label": "Circle"
+          }
+        },
+        "columns_desktop": {
+          "label": "Number of columns on desktop"
+        },
+        "column_alignment": {
+          "label": "Column alignment",
+          "options__1": {
+            "label": "Left"
+          },
+          "options__2": {
+            "label": "Center"
+          }
+        },
+        "background_style": {
+          "label": "Secondary background",
+          "options__1": {
+            "label": "None"
+          },
+          "options__2": {
+            "label": "Show as column background"
+          }
+        },
+        "button_label": {
+          "label": "Button label"
+        },
+        "button_link": {
+          "label": "Button link"
+        },
+        "header_mobile": {
+          "content": "Mobile Layout"
+        },
+        "columns_mobile": {
+          "label": "Number of columns on mobile",
+          "options__1": {
+            "label": "1 column"
+          },
+          "options__2": {
+            "label": "2 columns"
+          }
+        },
+        "swipe_on_mobile": {
+          "label": "Enable swipe on mobile"
+        }
+      },
+      "blocks": {
+        "column": {
+          "name": "Column",
+          "settings": {
+            "image": {
+              "label": "Image"
+            },
+            "title": {
+              "label": "Heading"
+            },
+            "text": {
+              "label": "Description"
+            },
+            "link_label": {
+              "label": "Link label"
+            },
+            "link": {
+              "label": "Link"
+            }
+          }
+        }
+      },
+      "presets": {
+        "name": "Multicolumn"
+      }
+    },
     "global": {
       "settings": {
         "banner_layout": {
@@ -18,10 +120,10 @@
               "label": "Full"
             },
             "layout_70_30": {
-              "label": "70\/30"
+              "label": "70/30"
             },
             "layout_30_70": {
-              "label": "30\/70"
+              "label": "30/70"
             },
             "layout_split": {
               "label": "Split"
@@ -468,7 +570,7 @@
         },
         "timezone": {
           "label": "Timezone",
-          "info": "Use timezone name from [list](https:\/\/en.wikipedia.org\/wiki\/List_of_tz_database_time_zones). E.g. Etc\/Greenwich."
+          "info": "Use timezone name from [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones). E.g. Etc/Greenwich."
         }
       }
     },
@@ -544,7 +646,7 @@
         },
         "drawer_layer": {
           "label": "Enable navigation drawer layer",
-          "info": "The show\/hide feature is added to the third level menu elements in the navigation drawer"
+          "info": "The show/hide feature is added to the third level menu elements in the navigation drawer"
         },
         "layout": {
           "label": "Layout",
@@ -650,7 +752,7 @@
         },
         "country_drawer_navigation_menu": {
           "label": "Enable in navigation drawer",
-          "info": "Displayed in desktop\/mobile navigation drawer."
+          "info": "Displayed in desktop/mobile navigation drawer."
         }
       },
       "blocks": {
@@ -1065,7 +1167,7 @@
               "options__4": {
                 "label": "Large"
               },
-              "info": "For best results, use an image with a 16:9 aspect ratio. [Learn more](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+              "info": "For best results, use an image with a 16:9 aspect ratio. [Learn more](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
             }
           }
         },
@@ -1173,11 +1275,11 @@
       "settings": {
         "api_key": {
           "label": "Google Maps API key",
-          "info": "Embeds a map with Google Maps. You can learn how to set up google api keys [here](https:\/\/support.google.com\/googleapi\/answer\/6158862?hl=en)."
+          "info": "Embeds a map with Google Maps. You can learn how to set up google api keys [here](https://support.google.com/googleapi/answer/6158862?hl=en)."
         },
         "address": {
           "label": "Address",
-          "info": "Uses the shop address by default. Override it using this format: street address, city country \/ state"
+          "info": "Uses the shop address by default. Override it using this format: street address, city country / state"
         },
         "zoom_level": {
           "label": "Zoom"
@@ -1460,11 +1562,11 @@
             },
             "show_dynamic_checkout": {
               "label": "Show dynamic checkout buttons",
-              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Show recipient information form for gift cards",
-              "info": "Allows buyers to send gift cards on a scheduled date along with a personal message. [Learn more](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
+              "info": "Allows buyers to send gift cards on a scheduled date along with a personal message. [Learn more](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
             }
           }
         },
@@ -1642,7 +1744,7 @@
         },
         "content_type": {
           "label": "Content type",
-          "info": "Complementary products are customizable through the Search & Discovery app. [Learn more.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+          "info": "Complementary products are customizable through the Search & Discovery app. [Learn more.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
           "options": {
             "option_1": {
               "label": "Featured image"
@@ -2051,13 +2153,13 @@
           "info": "Select the layout of the banner",
           "options": {
             "layout_70_30": {
-              "label": "70\/30"
+              "label": "70/30"
             },
             "layout_50_50": {
-              "label": "50\/50"
+              "label": "50/50"
             },
             "layout_30_70": {
-              "label": "30\/70"
+              "label": "30/70"
             },
             "layout_full": {
               "label": "Full"
@@ -2194,7 +2296,7 @@
         },
         "header_products": {
           "content": "Products",
-          "info": "Products are customizable through the Search & Discovery app. [Learn more.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)"
+          "info": "Products are customizable through the Search & Discovery app. [Learn more.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)"
         },
         "products": {
           "label": "List",
@@ -2220,13 +2322,13 @@
           "label": "Layout",
           "options": {
             "50-50": {
-              "label": "50\/50"
+              "label": "50/50"
             },
             "70-30": {
-              "label": "70\/30"
+              "label": "70/30"
             },
             "30-70": {
-              "label": "30\/70"
+              "label": "30/70"
             }
           }
         }
@@ -2388,7 +2490,7 @@
         },
         "layout": {
           "label": "Layout",
-          "info": "When media none is selected, text is centered and media\/link are not used",
+          "info": "When media none is selected, text is centered and media/link are not used",
           "options": {
             "image_left": {
               "label": "Media left"
@@ -2649,7 +2751,7 @@
         },
         "api_key": {
           "label": "Google Maps API key",
-          "info": "You should create a Google Maps API key and add it here to display the map. [Learn more](https:\/\/developers.google.com\/maps\/documentation\/javascript\/get-api-key)"
+          "info": "You should create a Google Maps API key and add it here to display the map. [Learn more](https://developers.google.com/maps/documentation/javascript/get-api-key)"
         },
         "zoom_level": {
           "label": "Zoom level"
@@ -2745,11 +2847,11 @@
             },
             "store_latitude": {
               "label": "Latitude",
-              "info": "Enter the latitude coordinate. You can learn more about search by latitude [here](https:\/\/support.google.com\/maps\/answer\/18539?hl=en&co=GENIE.Platform%3DDesktop)."
+              "info": "Enter the latitude coordinate. You can learn more about search by latitude [here](https://support.google.com/maps/answer/18539?hl=en&co=GENIE.Platform%3DDesktop)."
             },
             "store_longitude": {
               "label": "Longitude",
-              "info": "Enter the longitude coordinate. You can learn more about search by longitude [here](https:\/\/support.google.com\/maps\/answer\/18539?hl=en&co=GENIE.Platform%3DDesktop)."
+              "info": "Enter the longitude coordinate. You can learn more about search by longitude [here](https://support.google.com/maps/answer/18539?hl=en&co=GENIE.Platform%3DDesktop)."
             }
           }
         }
@@ -2942,7 +3044,7 @@
         },
         "enable_follow_on_shop": {
           "label": "Enable Follow on Shop",
-          "info": "To allow customers to follow your store on the Shop app from your storefront, Shop Pay must be enabled. [Learn more](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "To allow customers to follow your store on the Shop app from your storefront, Shop Pay must be enabled. [Learn more](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         }
       },
       "blocks": {
@@ -3557,8 +3659,8 @@
           "info": "The option name, which will hold the swatch colors. e.g.: `color`, `material`, etc..."
         },
         "swatches_hex_codes": {
-          "label": "Hex\/Swatch image codes",
-          "info": "Pair of color name and value formatted like [color]|[HEX color\/swatch image]. examples: red|#ff0000, yellow|yellow.png. The color name must match the variant color option name. Upload swatch images from your store's [files](\/admin\/settings\/files). Each custom color should be on a new line."
+          "label": "Hex/Swatch image codes",
+          "info": "Pair of color name and value formatted like [color]|[HEX color/swatch image]. examples: red|#ff0000, yellow|yellow.png. The color name must match the variant color option name. Upload swatch images from your store's [files](/admin/settings/files). Each custom color should be on a new line."
         },
         "sizes_option": {
           "label": "Sizes option",
@@ -3685,18 +3787,18 @@
         },
         "cart_terms": {
           "label": "Terms checkbox text",
-          "info": "Shows checkbox to accept terms and conditions, before proceed to checkout. More info [here](https:\/\/help.shopify.com\/en\/manual\/checkout-settings\/refund-privacy-tos)."
+          "info": "Shows checkbox to accept terms and conditions, before proceed to checkout. More info [here](https://help.shopify.com/en/manual/checkout-settings/refund-privacy-tos)."
         },
         "enable_cart_terms": {
           "label": "Show terms checkbox"
         },
         "enable_dynamic_checkout": {
           "label": "Show dynamic checkout buttons",
-          "info": "Please be aware that third-party apps could disable these buttons. Read more [here](https:\/\/help.shopify.com\/en\/manual\/online-store\/dynamic-checkout\/compatibility)."
+          "info": "Please be aware that third-party apps could disable these buttons. Read more [here](https://help.shopify.com/en/manual/online-store/dynamic-checkout/compatibility)."
         },
         "enable_cart_upsell": {
           "label": "Enable",
-          "info": "Products are displayed based on the first cart product and Shopify Recommendations API and Search & Discovery app. Read more [here](https:\/\/help.shopify.com\/en\/\/manual\/online-store\/search-and-discovery\/product-recommendations)"
+          "info": "Products are displayed based on the first cart product and Shopify Recommendations API and Search & Discovery app. Read more [here](https://help.shopify.com/en//manual/online-store/search-and-discovery/product-recommendations)"
         },
         "cart_upsell_title": {
           "label": "Heading"
