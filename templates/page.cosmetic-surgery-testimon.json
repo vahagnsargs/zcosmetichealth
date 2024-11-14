@@ -26,81 +26,61 @@
         "column_BzFbcr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Fat-Removal_2x_307f1bc4-a288-4f5b-8154-091277620425.jpg",
+            "image": "shopify://shop_images/testi1.png",
             "title": "",
             "text": "",
-            "link_label": "Coolsculpting",
-            "link": "shopify://blogs/coolsculpting-before-after-gallery"
+            "link_label": "",
+            "link": ""
           }
         },
         "column_NUadBL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Dermal-Fillers_2x_1.jpg",
+            "image": "shopify://shop_images/Testi-Laser-Tip-3-big.jpg",
             "title": "",
             "text": "",
-            "link_label": "Dermal Fillers",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/dermal-fillers-before-after-gallery"
+            "link_label": "",
+            "link": ""
           }
         },
         "column_LpPGec": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Botox-Cosmetic_2x_1.jpg",
+            "image": "shopify://shop_images/Testi-Ultherapy-Tip-2-big.jpg",
             "title": "",
             "text": "",
-            "link_label": "Botox",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/botox-before-after-gallery"
+            "link_label": "",
+            "link": ""
           }
         },
         "column_gBHJJJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Non-Surgical_2x_1.jpg",
+            "image": "shopify://shop_images/Testi-Juvederm-Tip-1-big.jpg",
             "title": "",
             "text": "",
-            "link_label": "Ultherapy",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/ultherapy-before-after-gallery"
+            "link_label": "",
+            "link": ""
           }
         },
         "column_afXMKc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Z-Center-Emsculpt_Neo_PIC_Saddle-bags_04_ENUS100-1-e1625601092983.jpg",
+            "image": "shopify://shop_images/testi-13.jpg",
             "title": "",
             "text": "",
-            "link_label": "Emsculpt NEO",
-            "link": "shopify://pages/emsculpt-neo"
+            "link_label": "",
+            "link": ""
           }
         },
         "column_G9Lya9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Nano-Ray_2x_1.jpg",
+            "image": "shopify://shop_images/testi5_1.png",
             "title": "",
             "text": "",
-            "link_label": "Nano-Ray Laser",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/thermitight-before-after-gallery"
-          }
-        },
-        "column_jLbwK7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Moleskin_2x_1f538582-e3b3-4ea3-9eed-7f4759d9f6a6.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Nano-Ray Laser",
-            "link": "https://zcosmetichealth.myshopify.com/blogs/nano-ray-laser-before-after-gallery"
-          }
-        },
-        "column_39nyae": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/attractive-woman-at-dayspa-for-skin-treatment-P69Z89W-e1625601027178.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Genius RF Microneedling",
-            "link": "shopify://pages/genius-microneedling"
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -110,9 +90,7 @@
         "column_LpPGec",
         "column_gBHJJJ",
         "column_afXMKc",
-        "column_G9Lya9",
-        "column_jLbwK7",
-        "column_39nyae"
+        "column_G9Lya9"
       ],
       "settings": {
         "title": "",
