@@ -231,4 +231,4 @@
   width: 100%;
   max-width: calc(25% - 12px);
 }
-.multicolumn .page-width {max-width:1440px; padding:0 50px;}
+.multicolumn .page-width {max-width:1440px; padding:0 50px; margin:auto;}
