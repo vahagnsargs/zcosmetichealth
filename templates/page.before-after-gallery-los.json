@@ -29,118 +29,78 @@
             "image": "shopify://shop_images/Fat-Removal_2x_307f1bc4-a288-4f5b-8154-091277620425.jpg",
             "title": "",
             "text": "",
-            "link_label": "Fat Removal",
+            "link_label": "Coolsculpting",
             "link": "shopify://pages/coolsculpting-los-angeles"
           }
         },
         "column_NUadBL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Body-Toning_2x_4aeca546-7f13-4c67-8996-c6fa3f8d247b.jpg",
+            "image": "shopify://shop_images/Dermal-Fillers_2x_1.jpg",
             "title": "",
             "text": "",
-            "link_label": "Body Toning",
+            "link_label": "Dermal Fillers",
             "link": "shopify://pages/emsculpt-neo"
           }
         },
         "column_LpPGec": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Non-Surgical_2x_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Non-Surgical Face & Neck Lift",
-            "link": ""
-          }
-        },
-        "column_gBHJJJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Botox-Cosmetic_2x_bf9e9784-27dc-43b4-b10a-2f43fdd36010.jpg",
+            "image": "shopify://shop_images/Botox-Cosmetic_2x_1.jpg",
             "title": "",
             "text": "",
             "link_label": "Botox",
             "link": ""
           }
         },
+        "column_gBHJJJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Non-Surgical_2x_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Ultherapy",
+            "link": ""
+          }
+        },
         "column_afXMKc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Dermal-Fillers_2x_c7db3536-14fd-4487-b3c7-36a3b1f0dbc0.jpg",
+            "image": "shopify://shop_images/Z-Center-Emsculpt_Neo_PIC_Saddle-bags_04_ENUS100-1-e1625601092983.jpg",
             "title": "",
             "text": "",
-            "link_label": "Dermal Fillers",
+            "link_label": "Emsculpt NEO",
             "link": "shopify://pages/juvederm-ultra-xc-los-angeles"
           }
         },
         "column_G9Lya9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Under-Eye_2x_bdcc6f30-4a67-4e15-8900-d81621005bb4.jpg",
+            "image": "shopify://shop_images/Nano-Ray_2x_1.jpg",
             "title": "",
             "text": "",
-            "link_label": "Treatment for Dark Eye Circles",
+            "link_label": "Nano-Ray Laser",
             "link": "shopify://pages/treatment-for-dark-eye-circles-sherman-oaks"
           }
         },
         "column_jLbwK7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Lip_2x_fd4a74c7-47a2-4721-8c3e-71b8ccf9be0a.jpg",
+            "image": "shopify://shop_images/Moleskin_2x_1f538582-e3b3-4ea3-9eed-7f4759d9f6a6.jpg",
             "title": "",
             "text": "",
-            "link_label": "Lip Enhancement",
+            "link_label": "Nano-Ray Laser",
             "link": "shopify://pages/get-the-sexy-plump-lips-you-always-wanted-with-injectable-fillers"
           }
         },
         "column_39nyae": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Laser-Hair_2x_d791f1d2-5583-49c0-8df3-59ed4e9223c1.jpg",
+            "image": "shopify://shop_images/attractive-woman-at-dayspa-for-skin-treatment-P69Z89W-e1625601027178.jpg",
             "title": "",
             "text": "",
-            "link_label": "Laser Hair Removal",
+            "link_label": "Genius RF Microneedling",
             "link": "shopify://pages/laser-hair-removal-los-angeles"
-          }
-        },
-        "column_LbXHWk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Excessive-Sweating_2x_00d5e931-1b90-48c2-a377-0a41e70ae82d.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Excessive Sweating",
-            "link": "shopify://pages/mole-removal"
-          }
-        },
-        "column_F8hqxq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Skin-Care_2x_3765771f-d74a-4317-8bcc-ea70c7759e9c.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Skin Care Products",
-            "link": "shopify://pages/zadeh-md-skin"
-          }
-        },
-        "column_meKmWU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Moleskin_2x_1f538582-e3b3-4ea3-9eed-7f4759d9f6a6.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Mole & Skin Tag Removal",
-            "link": "shopify://pages/mole-removal-sherman-oaks"
-          }
-        },
-        "column_eWVDHf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Nano-Ray_2x_2e79ab05-6a05-4ad0-8f63-e76ff6858c94.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Nano-Ray Laser",
-            "link": "shopify://pages/laser-resurfacing-los-angeles"
           }
         }
       },
@@ -152,11 +112,7 @@
         "column_afXMKc",
         "column_G9Lya9",
         "column_jLbwK7",
-        "column_39nyae",
-        "column_LbXHWk",
-        "column_F8hqxq",
-        "column_meKmWU",
-        "column_eWVDHf"
+        "column_39nyae"
       ],
       "settings": {
         "title": "",
