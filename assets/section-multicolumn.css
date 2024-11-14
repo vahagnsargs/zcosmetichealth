@@ -227,3 +227,7 @@
     display: list-item;
   }
 }
+.multicolumn-list__item {
+  width: 100%;
+  max-width: calc(25% - 12px);
+}
