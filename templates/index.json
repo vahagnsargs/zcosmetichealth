@@ -436,60 +436,241 @@
         "spacing_bottom_mobile": 6
       }
     },
-    "multicolumn_ai7aWf": {
-      "type": "multicolumn",
+    "dual_tiles_EfhYJf": {
+      "type": "dual-tiles",
       "blocks": {
-        "column_M4CRtd": {
-          "type": "column",
+        "tile_PqLBMi": {
+          "type": "tile",
           "settings": {
-            "image": "shopify://shop_images/225office.jpg",
-            "title": "Not your average medical spa",
-            "text": "<p>Located in the heart of the Sherman Oaks area of Los Angeles, the Z Center for Cosmetic Health is a direct reflection of the perfectionism that has driven our founder and medical director Dr. Michael Zadeh throughout his whole life.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_xBnnzT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/office_06a.jpg",
-            "title": "Cosmetic Procedures Los Angeles",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_qXbAMi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/office_04-1.png",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/225office.jpg",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
             "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_Bk3HKM": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Not your average medical spa",
+            "text_size": 2,
+            "content": "<p>Located in the heart of the Sherman Oaks area of Los Angeles, the Z Center for Cosmetic Health is a direct reflection of the perfectionism that has driven our founder and medical director Dr. Michael Zadeh throughout his whole life.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
           }
         }
       },
       "block_order": [
-        "column_M4CRtd",
-        "column_xBnnzT",
-        "column_qXbAMi"
+        "tile_PqLBMi",
+        "tile_Bk3HKM"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
       ],
       "settings": {
-        "title": "<strong>View Our Office</strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "About Us",
-        "button_link": "shopify://pages/get-the-sexy-plump-lips-you-always-wanted-with-injectable-fillers",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_ViPdH4": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_tTcjDE": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-end",
+            "title": "Cosmetic Procedures Los Angeles",
+            "text_size": 2,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_B3agma": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/office_06a.jpg",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_tTcjDE",
+        "tile_B3agma"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_tDCUXy": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_rhpUqr": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/office_04-1.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_ddadGP": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-end",
+            "title": "",
+            "text_size": 2,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now!",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_rhpUqr",
+        "tile_ddadGP"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 35,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
       }
     }
   },
@@ -500,6 +681,8 @@
     "dual_tiles_GpEnyP",
     "testimonials_BGwr4d",
     "store_locator_fND6MD",
-    "multicolumn_ai7aWf"
+    "dual_tiles_EfhYJf",
+    "dual_tiles_ViPdH4",
+    "dual_tiles_tDCUXy"
   ]
 }
