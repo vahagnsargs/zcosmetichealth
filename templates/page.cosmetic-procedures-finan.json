@@ -256,6 +256,73 @@
         "slider_arrows_position": "hero__swiper-buttons--sides",
         "slider_arrows_color": "text-colors-inverse"
       }
+    },
+    "photo_gallery_wdUhmW": {
+      "type": "photo-gallery",
+      "blocks": {
+        "column_xmTBf7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/women-abs-4_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/coolsculpting\">Coolsculpting</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AQzXtB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SM-Lips_2x-1_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/dermal-fillers\">Dermal Fillers</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GQ8PUN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/botox-brow1_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/botox/\">Botox</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xrBw9N": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/crows-feet-2_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/ultherapy/\">Ultherapy</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xmTBf7",
+        "column_AQzXtB",
+        "column_GQ8PUN",
+        "column_xrBw9N"
+      ],
+      "settings": {
+        "title": "<strong>Photo Gallery</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "missing translation: \"t:sections.multicolumn.settings.button_label.default\"",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -264,6 +331,7 @@
     "dual_tiles_HqTG4M",
     "dual_tiles_DXjzQT",
     "seo_content_pc3cet",
-    "hero_banner_PMqfLA"
+    "hero_banner_PMqfLA",
+    "photo_gallery_wdUhmW"
   ]
 }
