@@ -219,7 +219,7 @@
         "item_mAnCeB"
       ],
       "custom_css": [
-        ".marquee__item img{height:140px;}"
+        ".marquee__item img {height: 140px;}"
       ],
       "settings": {
         "enable_animation": true,
@@ -381,7 +381,7 @@
       ],
       "custom_css": [
         ".h6 {font-size: 24px;}",
-        ".testimonial__quote {font-size:16px;}"
+        ".testimonial__quote {font-size: 16px;}"
       ],
       "settings": {
         "padding_vertical_desktop": "",
@@ -392,62 +392,6 @@
         "gap_between_desktop": 2,
         "gap_between_mobile": 2,
         "title": ""
-      }
-    },
-    "trust_indicators_3XN9VP": {
-      "type": "trust-indicators",
-      "blocks": {
-        "indicator_EUD4CC": {
-          "type": "indicator",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-default",
-            "decorator": "shopify://shop_images/Voluma-before-after-1_2x_8636a7d2-f9ca-433e-af58-ee99f568495b.gif",
-            "decorator_svg_code": "",
-            "color_scheme_decorator": "text-colors-default",
-            "color_scheme_background_decorator": "background-colors-accent-2",
-            "title": "Text-block 1",
-            "link_title": "Learn more",
-            "link_url": "/"
-          }
-        },
-        "indicator_diEPjt": {
-          "type": "indicator",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-default",
-            "decorator_svg_code": "",
-            "color_scheme_decorator": "text-colors-default",
-            "color_scheme_background_decorator": "background-colors-accent-2",
-            "title": "Text-block 2",
-            "link_title": "Learn more",
-            "link_url": "/"
-          }
-        },
-        "indicator_ajKUUR": {
-          "type": "indicator",
-          "settings": {
-            "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-default",
-            "decorator_svg_code": "",
-            "color_scheme_decorator": "text-colors-default",
-            "color_scheme_background_decorator": "background-colors-accent-2",
-            "title": "Text-block 3",
-            "link_title": "Learn more",
-            "link_url": "/"
-          }
-        }
-      },
-      "block_order": [
-        "indicator_EUD4CC",
-        "indicator_diEPjt",
-        "indicator_ajKUUR"
-      ],
-      "settings": {
-        "slider_mobile": true,
-        "layout": "layout-2",
-        "padding_vertical_desktop": "",
-        "padding_vertical_mobile": ""
       }
     },
     "store_locator_fND6MD": {
@@ -490,6 +434,62 @@
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
       }
+    },
+    "multicolumn_ai7aWf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_M4CRtd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/225office.jpg",
+            "title": "Not your average medical spa",
+            "text": "<p>Located in the heart of the Sherman Oaks area of Los Angeles, the Z Center for Cosmetic Health is a direct reflection of the perfectionism that has driven our founder and medical director Dr. Michael Zadeh throughout his whole life.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xBnnzT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/office_06a.jpg",
+            "title": "Cosmetic Procedures Los Angeles",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qXbAMi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/office_04-1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_M4CRtd",
+        "column_xBnnzT",
+        "column_qXbAMi"
+      ],
+      "settings": {
+        "title": "<strong>View Our Office</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "About Us",
+        "button_link": "shopify://pages/get-the-sexy-plump-lips-you-always-wanted-with-injectable-fillers",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -498,7 +498,7 @@
     "marquees_wN3tnh",
     "dual_tiles_GpEnyP",
     "testimonials_BGwr4d",
-    "trust_indicators_3XN9VP",
-    "store_locator_fND6MD"
+    "store_locator_fND6MD",
+    "multicolumn_ai7aWf"
   ]
 }
