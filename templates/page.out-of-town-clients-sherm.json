@@ -72,11 +72,79 @@
         "slider_arrows_position": "hero__swiper-buttons--sides",
         "slider_arrows_color": "text-colors-inverse"
       }
+    },
+    "photo_gallery_EDJxnp": {
+      "type": "photo-gallery",
+      "blocks": {
+        "column_4YXrpj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/women-abs-4_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/coolsculpting\">Coolsculpting</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bGKpgf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SM-Lips_2x-1_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/dermal-fillers\">Dermal Fillers</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U6A8Nr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/botox-brow1_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/botox/\">Botox</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MQ9hqP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/crows-feet-2_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/ultherapy/\">Ultherapy</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4YXrpj",
+        "column_bGKpgf",
+        "column_U6A8Nr",
+        "column_MQ9hqP"
+      ],
+      "settings": {
+        "title": "<strong>Photo Gallery</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "main",
     "seo_content_zV7zyJ",
-    "hero_banner_Uxdkg9"
+    "hero_banner_Uxdkg9",
+    "photo_gallery_EDJxnp"
   ]
 }
