@@ -15,6 +15,13 @@
   .owl-stage {display: flex;}
   .multicolumn-list.owl { flex-direction: column-reverse; overflow: hidden;}
   .multicolumn-list.owl .owl-dots {display:none;}
+  .multicolumn-list.owl .owl-prev:after{content:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/download.svg?v=1731705184");}
+  .multicolumn-list.owl .owl-prev { background: transparent; border: none; width: 32px; height: 32px;}
+  .multicolumn-list.owl .owl-prev span {display:none;}
+  .multicolumn-list.owl .owl-next:after{content:url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/download_1.svg?v=1731705397");}
+  .multicolumn-list.owl .owl-next { background: transparent; border: none; width: 32px; height: 32px;}
+    .multicolumn-list.owl .owl-next span {display:none;}
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
