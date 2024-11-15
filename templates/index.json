@@ -138,8 +138,8 @@
         "column_47QXj7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/botox-brow1.gif",
-            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/botox/\">Botox</a>",
+            "image": "shopify://shop_images/body2x.jpg",
+            "title": "<a href=\"https://www.zcosmetichealth.com/body-procedures-los-angeles\">Body</a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -148,8 +148,8 @@
         "column_JizWaY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/crows-feet-2.gif",
-            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/ultherapy/\">Ultherapy</a>",
+            "image": "shopify://shop_images/Skincare2x.jpg",
+            "title": "Injectables",
             "text": "",
             "link_label": "",
             "link": ""
@@ -158,8 +158,8 @@
         "column_6YFLEW": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/women-abs-4_28ae7147-609f-4669-926a-93ce97618875.gif",
-            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/coolsculpting\">Coolsculpting</a>",
+            "image": "shopify://shop_images/Face-Copy-2x_1.jpg",
+            "title": "<a href=\"https://www.zcosmetichealth.com/facial-procedures-los-angeles\">Face</a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -168,8 +168,8 @@
         "column_rkMQNA": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/SM-Lips_2x-1.gif",
-            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/dermal-fillers\">Dermal Fillers</a>",
+            "image": "shopify://shop_images/Skincare-Copy-2x.jpg",
+            "title": "Skin care",
             "text": "",
             "link_label": "",
             "link": ""
@@ -183,7 +183,7 @@
         "column_rkMQNA"
       ],
       "settings": {
-        "title": "Photo Gallery",
+        "title": "Our Services",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -378,6 +378,73 @@
         "spacing_bottom_desktop": 6,
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
+      }
+    },
+    "photo_gallery_9RzXa4": {
+      "type": "photo-gallery",
+      "blocks": {
+        "column_EhghKn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/botox-brow1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/botox/\">Botox</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9nY7gW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/crows-feet-2.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/ultherapy/\">Ultherapy</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rgctMf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/women-abs-4_28ae7147-609f-4669-926a-93ce97618875.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/coolsculpting\">Coolsculpting</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aPdAf8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SM-Lips_2x-1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/dermal-fillers\">Dermal Fillers</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EhghKn",
+        "column_9nY7gW",
+        "column_rgctMf",
+        "column_aPdAf8"
+      ],
+      "settings": {
+        "title": "Photo Gallery",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "testimonials_BGwr4d": {
@@ -747,6 +814,7 @@
     "photo_gallery_gMFprf",
     "marquees_wN3tnh",
     "dual_tiles_GpEnyP",
+    "photo_gallery_9RzXa4",
     "testimonials_BGwr4d",
     "store_locator_fND6MD",
     "dual_tiles_EfhYJf",
