@@ -31,8 +31,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -59,9 +61,11 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
             "image_desktop": "shopify://shop_images/BeforeAfter.jpg",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
             "image_mobile": "shopify://shop_images/BeforeAfter.jpg",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -142,11 +146,79 @@
         "slider_arrows_position": "hero__swiper-buttons--sides",
         "slider_arrows_color": "text-colors-inverse"
       }
+    },
+    "photo_gallery_GjnJHM": {
+      "type": "photo-gallery",
+      "blocks": {
+        "column_FewYzA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/women-abs-4_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/coolsculpting\">Coolsculpting</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yJrrQd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SM-Lips_2x-1_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/dermal-fillers\">Dermal Fillers</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wwTEND": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/botox-brow1_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/botox/\">Botox</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Q6Kwf7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/crows-feet-2_1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/ultherapy/\">Ultherapy</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FewYzA",
+        "column_yJrrQd",
+        "column_wwTEND",
+        "column_Q6Kwf7"
+      ],
+      "settings": {
+        "title": "<strong>Photo Gallery</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "dual_tiles_Kw7C7M",
-    "hero_banner_NpNzyj"
+    "hero_banner_NpNzyj",
+    "photo_gallery_GjnJHM"
   ]
 }
