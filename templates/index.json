@@ -672,6 +672,73 @@
         "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 0
       }
+    },
+    "photo_gallery_gMFprf": {
+      "type": "photo-gallery",
+      "blocks": {
+        "column_47QXj7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/botox-brow1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/botox/\">Botox</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JizWaY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/crows-feet-2.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/ultherapy/\">Ultherapy</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6YFLEW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/women-abs-4_28ae7147-609f-4669-926a-93ce97618875.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/coolsculpting\">Coolsculpting</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rkMQNA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SM-Lips_2x-1.gif",
+            "title": "<a href=\"https://www.zcosmetichealth.com/procedures/dermal-fillers\">Dermal Fillers</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_47QXj7",
+        "column_JizWaY",
+        "column_6YFLEW",
+        "column_rkMQNA"
+      ],
+      "settings": {
+        "title": "Photo Gallery",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -683,6 +750,7 @@
     "store_locator_fND6MD",
     "dual_tiles_EfhYJf",
     "dual_tiles_ViPdH4",
-    "dual_tiles_tDCUXy"
+    "dual_tiles_tDCUXy",
+    "photo_gallery_gMFprf"
   ]
 }
