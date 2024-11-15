@@ -33,9 +33,9 @@
         "0de49fd3-060f-40bc-baeb-cf0131bae43e": {
           "type": "menu",
           "settings": {
-            "title": "Menu Column",
+            "title": "About",
             "title_url": "",
-            "menu": ""
+            "menu": "about"
           }
         },
         "762130ce-c112-474e-ab41-0e908f95e578": {
