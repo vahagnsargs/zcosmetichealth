@@ -200,7 +200,10 @@
 .expert-pmu-artist .media--overlay:after { background: transparent;}
 .expert-pmu-artist .line {display: block; width: 100%; border-top: solid 1px #B9C6CC;}
 /* expert-pmu-artist */
-.card-slider .card-slider__slide {    width: 100%;}
+@media (max-width: 768px){
+  .card-slider .card-slider__slide { width: 100% !important;}
+}
+
 
 
 
