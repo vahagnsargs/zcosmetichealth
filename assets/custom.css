@@ -88,7 +88,7 @@
 .book-appointment .contact-form{height:auto;}
 .book-appointment .contact-form{max-width:100%;}
 .book-appointment .container{    padding: 60px 0 0;}
-.section-dual-tiles__tile{background-color:#02153f!important;}
+.section-dual-tiles__tile{background-color:transparent !important;}
 .book-appointment{height:auto;}
 .book-appointment .container-content p{max-width:initial;}
 .book-appointment .container-content h2{font-size:40px;}  
