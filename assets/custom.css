@@ -204,8 +204,12 @@
   .card-slider .card-slider__slide { width: 100% !important;}
   .content--absolute .section-dual-tiles__content {position:static !important;}
 }
+/* template--about-us */
+@media (max-width: 768px){
+  .template--about-us .hero-banner .hero__content {margin-bottom:auto;}
+}
 
-
+/* template--about-us */
 
 
 
