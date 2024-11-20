@@ -211,6 +211,9 @@
   .countdown-timer__subtitle-desktop {display:block !important;}
   .section-seo-content .section-seo-content__inner {padding-top:0; padding-bottom:0;}
   .section-seo-content {padding-top:20px !important; padding-bottom:20px !important;}
+  .section-full-width-banner { min-height: auto;}
+  .section-full-width-banner .media {position: static; height: fit-content;}
+  .section-full-width-banner .media img {object-fit: contain; position: static;}
 }
 /* template--about-us */
 @media (max-width: 768px){
