@@ -1,1 +1,378 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_UTLgEj":{"type":"hero-banner","blocks":{"slide_raqdRW":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Ultherapy-BG_2x-9-scaled.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"JUVEDERM VOLUMA XC","content":"<p>Restore your natural facial contours<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"\/"}}},"block_order":["slide_raqdRW"],"settings":{"slider_height":60,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_9VDQ43":{"type":"dual-tiles","blocks":{"tile_hCRXGc":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"What is JUVÉDERM VOLUMA™ XC injectable gel?","text_size":2,"content":"<p>Juvederm Voluma XC injectable gel is the first and only filler FDA-approved to instantly add volume to the cheek area. It gives you a subtle lift, helping to restore contour and a more youthful profile, for up to 2 years. Juvederm Voluma XC will replenish lost skin volume, helping you regain a youthful curve to the cheeks and can be used to enhance the overall shape of your face. Shortly after treatment with Juvederm Voluma XC with Lidocaine, you should notice that the shape of your face will appear fuller and rounder, giving your face a softer, more youthful appearance.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_hCRXGc"],"settings":{"section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--70-30","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":3,"spacing_top_mobile":0,"spacing_bottom_mobile":2}},"request_an_appointment_x8x6rd":{"type":"request-an-appointment","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_QFfagK":{"type":"dual-tiles","blocks":{"tile_qztNdf":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Voluma-before-after-1_2x_1.gif","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_gptW4P":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"The Difference Between Juvederm Voluma XC and Juvederm Ultra XC","text_size":2,"content":"<p>Juvederm Voluma XC is different than Juvederm Ultra XC and works on a different area of the face. Juvederm Ultra XC is a lighter compound which is perfect for smoothing out moderate to severe wrinkles and folds around the nose and mouth (nasolabial folds and smile lines), underneath the eyes (tear trough deformities), and for lip enhancement. The results of Juvederm Ultra XC will last around 1 year.<\/p><p>Juvederm Voluma XC, on the other hand, has been specifically created to replace lost facial volume in the cheeks, cheekbones and chin. It was developed to be smoother than other hyaluronic acid facial fillers, making it easier to inject during the filler treatment and resulting in a smooth, natural look and feel. Juvederm Voluma XC will give you a natural look and feel, with results which have been proven to last up to 2 years.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_qztNdf","tile_gptW4P"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":60,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"dual_tiles_bMEp9d":{"type":"dual-tiles","blocks":{"tile_iwWwbd":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"","text_size":2,"content":"<h2>Is Treatment With Juvederm Voluma XC Painful?<\/h2><p>The smooth consistency of Juvederm Voluma XC along with the skill of Dr. Zadeh will make your Juvederm Voluma treatment a smooth and easy one. Each syringe of Juvederm Voluma XC contains Lidocaine, a numbing medication, which will help reduce any discomfort and give you a more comfortable experience.<\/p><p><\/p><h2>Will There Be Any Swelling?<\/h2><p>You may experience slight redness, swelling, or bruising at the injected area after your Juvederm Voluma XC treatment. These effects should not last for more than a week. You will also be able to cover up any skin discoloration with makeup.<\/p><p><\/p>","button_style":"button--filled","button_separator":false,"button_text":"Click To Book","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_Dg4PjW":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Voluma-before-after-1_2x2_1.gif","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_iwWwbd","tile_Dg4PjW"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":60,"layout":"section-dual-tiles--70-30","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":6,"spacing_top_mobile":0,"spacing_bottom_mobile":3}},"dual_tiles_4HijT7":{"type":"dual-tiles","blocks":{"tile_Pa4Xi6":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_1.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_mzkUhc":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why Wait?","text_size":2.5,"content":"<p>Dr. Michael Zadeh is a certified Juvederm Voluma injector for the Sherman Oaks and Los Angeles areas. For a smooth, comfortable experience combined with long-lasting results, don’t wait – schedule your consultation with Dr. Zadeh today and see if Juvederm Voluma XC is right for you.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Schedule An Appointment","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_Pa4Xi6","tile_mzkUhc"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":6,"spacing_bottom_mobile":6}}},"order":["main","hero_banner_UTLgEj","dual_tiles_9VDQ43","request_an_appointment_x8x6rd","dual_tiles_QFfagK","dual_tiles_bMEp9d","dual_tiles_4HijT7"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_UTLgEj": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_raqdRW": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Ultherapy-BG_2x-9-scaled.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "JUVEDERM VOLUMA XC",
+            "content": "<p>Restore your natural facial contours</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_raqdRW"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_9VDQ43": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_hCRXGc": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "What is JUVÉDERM VOLUMA™ XC injectable gel?",
+            "text_size": 2,
+            "content": "<p>Juvederm Voluma XC injectable gel is the first and only filler FDA-approved to instantly add volume to the cheek area. It gives you a subtle lift, helping to restore contour and a more youthful profile, for up to 2 years. Juvederm Voluma XC will replenish lost skin volume, helping you regain a youthful curve to the cheeks and can be used to enhance the overall shape of your face. Shortly after treatment with Juvederm Voluma XC with Lidocaine, you should notice that the shape of your face will appear fuller and rounder, giving your face a softer, more youthful appearance.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_hCRXGc"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "request_an_appointment_x8x6rd": {
+      "type": "request-an-appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_QFfagK": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_qztNdf": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Voluma-before-after-1_2x_1.gif",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_gptW4P": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "The Difference Between Juvederm Voluma XC and Juvederm Ultra XC",
+            "text_size": 2,
+            "content": "<p>Juvederm Voluma XC is different than Juvederm Ultra XC and works on a different area of the face. Juvederm Ultra XC is a lighter compound which is perfect for smoothing out moderate to severe wrinkles and folds around the nose and mouth (nasolabial folds and smile lines), underneath the eyes (tear trough deformities), and for lip enhancement. The results of Juvederm Ultra XC will last around 1 year.</p><p>Juvederm Voluma XC, on the other hand, has been specifically created to replace lost facial volume in the cheeks, cheekbones and chin. It was developed to be smoother than other hyaluronic acid facial fillers, making it easier to inject during the filler treatment and resulting in a smooth, natural look and feel. Juvederm Voluma XC will give you a natural look and feel, with results which have been proven to last up to 2 years.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_qztNdf",
+        "tile_gptW4P"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 60,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_bMEp9d": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_iwWwbd": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 2,
+            "content": "<h2>Is Treatment With Juvederm Voluma XC Painful?</h2><p>The smooth consistency of Juvederm Voluma XC along with the skill of Dr. Zadeh will make your Juvederm Voluma treatment a smooth and easy one. Each syringe of Juvederm Voluma XC contains Lidocaine, a numbing medication, which will help reduce any discomfort and give you a more comfortable experience.</p><p></p><h2>Will There Be Any Swelling?</h2><p>You may experience slight redness, swelling, or bruising at the injected area after your Juvederm Voluma XC treatment. These effects should not last for more than a week. You will also be able to cover up any skin discoloration with makeup.</p><p></p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Click To Book",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_Dg4PjW": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Voluma-before-after-1_2x2_1.gif",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_iwWwbd",
+        "tile_Dg4PjW"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 60,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "dual_tiles_4HijT7": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_Pa4Xi6": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_1.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_mzkUhc": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why Wait?",
+            "text_size": 2.5,
+            "content": "<p>Dr. Michael Zadeh is a certified Juvederm Voluma injector for the Sherman Oaks and Los Angeles areas. For a smooth, comfortable experience combined with long-lasting results, don’t wait – schedule your consultation with Dr. Zadeh today and see if Juvederm Voluma XC is right for you.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Schedule An Appointment",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_Pa4Xi6",
+        "tile_mzkUhc"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_UTLgEj",
+    "dual_tiles_9VDQ43",
+    "request_an_appointment_x8x6rd",
+    "dual_tiles_QFfagK",
+    "dual_tiles_bMEp9d",
+    "dual_tiles_4HijT7"
+  ]
+}
