@@ -1,1 +1,376 @@
-{"sections":{"1658995208ad05f95f":{"type":"hero-banner","blocks":{"e3867974-072c-4cfe-968e-a10d22e8941a":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/AboutUs-scaled-1.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-start","subtitle":"","subtitle_url":"","title":"Cosmetic Procedures Los Angeles","content":"","enable_vertical_line":false,"button_style":"button--outlined-inverse","button_text":"","button_url":""}}},"block_order":["e3867974-072c-4cfe-968e-a10d22e8941a"],"settings":{"slider_height":100,"slider_autoplay":true,"slider_autoplay_interval":5,"slider_arrows":true,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"seo_content_eJYf6B":{"type":"seo-content","settings":{"padding_vertical_desktop":"pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","text_size":1,"title":"Now you can look good and feel even better!","content":"<p>Your physical appearance is just a small part of who you are, but when you don’t feel comfortable in your own skin the emotional consequences can be devastating to your self-esteem. Time can take away your looks, but it doesn’t have to take away your self-confidence. Our job is to help you improve your self-image and regain your confidence. At the Z Center for Cosmetic Health, you’re not just another client. You’re a member of the family.<\/p>"}},"659a65bf-3115-47f3-af72-a53dd56039e2":{"type":"dual-tiles","blocks":{"template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-0":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","image_desktop":"shopify:\/\/shop_images\/Center-for-cosmetic-health_2x_7e68675b-c7b5-4827-a874-db40b5e94c82.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-end","title":"","text_size":2.5,"content":"","button_style":"button--outlined","button_separator":false,"button_text":"","button_url":"shopify:\/\/collections\/swimwear","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":1.6,"block_padding_bottom":1.6,"block_padding_left":1.6,"block_padding_right":1.6}},"template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-1":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Room_2x_062575d7-267e-4cc2-a246-637547fb9be1.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-end","title":"","text_size":2.5,"content":"","button_style":"button--outlined","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":1.6,"block_padding_bottom":1.6,"block_padding_left":1.6,"block_padding_right":1.6}}},"block_order":["template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-0","template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-1"],"custom_css":[],"settings":{"section_width":"max-w-page","section_height":50,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"dual_tiles_NXKiyt":{"type":"dual-tiles","blocks":{"tile_dhfCMQ":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Not your average medical spa","text_size":2,"content":"<p>Located in the heart of the Sherman Oaks area of Los Angeles, the <strong>Z Center for Cosmetic Health<\/strong> is a direct reflection of the perfectionism that has driven our founder and medical director Dr. Michael Zadeh throughout his whole life.<\/p><p>A Board Certified Surgeon and Fellow of the American College of Surgeons, Dr. Zadeh’s accomplishments in the field of Minimally Invasive Surgery along with his commitment to superior patient care have made him a three-time winner of the <a href=\"http:\/\/www.pr.com\/press-release\/462399\" target=\"_blank\">Patients’ Choice<\/a> and <a href=\"http:\/\/www.free-press-release.com\/news-michael-a-zadeh-m-d-receives-2011-best-of-encino-award-1325290520.html\" target=\"_blank\">Best in Encino<\/a> awards and one of only 3% of physicians in the nation to receive the prestigious <strong>Most Compassionate Doctor Recognition<\/strong>. Dr. Zadeh’s commitment to Five-Star Patient Care and State-of-the-Art Technology led to the establishment of the Z Center for Cosmetic Health.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_GPAWdM":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/MedicalSPA_2x_b4afcaac-7466-4b56-b344-adf993c2beba.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_dhfCMQ","tile_GPAWdM"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":45,"layout":"section-dual-tiles--70-30","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"dual_tiles_P6jQzj":{"type":"dual-tiles","blocks":{"tile_LeghJj":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","image_desktop":"shopify:\/\/shop_images\/PersonalizedTreatments_2x_9e6deb9c-f08a-4e48-a47e-f158c5e5c1d0.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":3.2,"block_padding_bottom":3.2,"block_padding_left":3.2,"block_padding_right":0}},"tile_abmAYC":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Personalized treatments that give you the best results.","text_size":2,"content":"<p>Dr. Zadeh has personally designed the Z Center for Cosmetic Health as a specialized center, to provide you with comprehensive and personalized care. Unlike most medical spas which occupy large spaces and have multiple non-physician staff members providing their cosmetic treatments, at the Z Center for Cosmetic Health <strong>Dr. Zadeh is personally involved with all treatments.<\/strong> Our treatments work perfectly together, promoting cosmetic health in an intimate and relaxing setting. No one can stop the aging process. It’s inevitable. However, by using the latest advances in medical science along with our state-of-the-art non-surgical treatments we will rejuvenate your beauty in a natural and non-invasive way, making you look good and feel even better. At the Z Center for Cosmetic Health we can help <strong>put time back on your side.<\/strong><\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_LeghJj","tile_abmAYC"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":60,"layout":"section-dual-tiles--30-70","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"seo_content_MgqieL":{"type":"seo-content","custom_css":[".section-seo-content__content {text-align: left;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","text_size":1,"title":"Beverly Hills luxurywithout leaving the valley","content":"<p>Dr. Zadeh is known for his meticulous attention to detail, which is apparent from the minute you step into our uniquely designed space and is reflected in his outstanding treatment results and the loyalty of his longstanding clients. Our top priority is your satisfaction. We take pride in providing you with the most advanced technology in a first-class environment. Our menu of services is highly specialized, using only the top of the line FDA approved technology with proven results in several clinical studies. We are the first center in the Sherman Oaks area to offer:<\/p><ul><li>Non-surgical skin tightening using the revolutionary Ultherapy ultrasound technology.<\/li><li>Non-invasive fat reduction, body contouring using the CoolSculpting fat freezing technique, and EMSculpt muscle toning.<\/li><li>Totally painless 20 minute laser hair removal, safe for all skin types.<\/li><\/ul><p><\/p><p>All injection procedures are personally performed by Dr. Zadeh himself, whose intimate knowledge and understanding of facial anatomy enables him to provide precise injections that produce the exact results you desire and avoids treatment complications. Our outstanding and knowledgeable staff will make sure that your experience with us is a pleasant one with maximum comfort.<\/p><p>So, are you ready to reclaim your vitality? Schedule your consultation today and experience our personalized five-star care. The new you begins with Z!<\/p>"}},"hero_banner_nwftyy":{"type":"hero-banner","blocks":{"slide_Vez8Ti":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-default","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/TEAM-Background_1x_7718854e-e7d2-4709-aa7c-7f33177f62fa.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"Now You Can Look Good AndFeel Even Better","content":"<p>Dr. Michael Zadeh | Board Certified General Surgeon<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Meet The Doctor","button_url":"\/"}}},"block_order":["slide_Vez8Ti"],"settings":{"slider_height":80,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}}},"order":["1658995208ad05f95f","seo_content_eJYf6B","659a65bf-3115-47f3-af72-a53dd56039e2","dual_tiles_NXKiyt","dual_tiles_P6jQzj","seo_content_MgqieL","hero_banner_nwftyy"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1658995208ad05f95f": {
+      "type": "hero-banner",
+      "blocks": {
+        "e3867974-072c-4cfe-968e-a10d22e8941a": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/AboutUs-scaled-1.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-start",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Cosmetic Procedures Los Angeles",
+            "content": "",
+            "enable_vertical_line": false,
+            "button_style": "button--outlined-inverse",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "e3867974-072c-4cfe-968e-a10d22e8941a"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": true,
+        "slider_autoplay_interval": 5,
+        "slider_arrows": true,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "seo_content_eJYf6B": {
+      "type": "seo-content",
+      "settings": {
+        "padding_vertical_desktop": "pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "text_size": 1,
+        "title": "Now you can look good and feel even better!",
+        "content": "<p>Your physical appearance is just a small part of who you are, but when you don’t feel comfortable in your own skin the emotional consequences can be devastating to your self-esteem. Time can take away your looks, but it doesn’t have to take away your self-confidence. Our job is to help you improve your self-image and regain your confidence. At the Z Center for Cosmetic Health, you’re not just another client. You’re a member of the family.</p>"
+      }
+    },
+    "659a65bf-3115-47f3-af72-a53dd56039e2": {
+      "type": "dual-tiles",
+      "blocks": {
+        "template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-0": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "image_desktop": "shopify://shop_images/Center-for-cosmetic-health_2x_7e68675b-c7b5-4827-a874-db40b5e94c82.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-end",
+            "title": "",
+            "text_size": 2.5,
+            "content": "",
+            "button_style": "button--outlined",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "shopify://collections/swimwear",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 1.6,
+            "block_padding_bottom": 1.6,
+            "block_padding_left": 1.6,
+            "block_padding_right": 1.6
+          }
+        },
+        "template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-1": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Room_2x_062575d7-267e-4cc2-a246-637547fb9be1.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-end",
+            "title": "",
+            "text_size": 2.5,
+            "content": "",
+            "button_style": "button--outlined",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 1.6,
+            "block_padding_bottom": 1.6,
+            "block_padding_left": 1.6,
+            "block_padding_right": 1.6
+          }
+        }
+      },
+      "block_order": [
+        "template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-0",
+        "template--16809880650043__659a65bf-3115-47f3-af72-a53dd56039e2-1667604434dda13274-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 50,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_NXKiyt": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_dhfCMQ": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Not your average medical spa",
+            "text_size": 2,
+            "content": "<p>Located in the heart of the Sherman Oaks area of Los Angeles, the <strong>Z Center for Cosmetic Health</strong> is a direct reflection of the perfectionism that has driven our founder and medical director Dr. Michael Zadeh throughout his whole life.</p><p>A Board Certified Surgeon and Fellow of the American College of Surgeons, Dr. Zadeh’s accomplishments in the field of Minimally Invasive Surgery along with his commitment to superior patient care have made him a three-time winner of the <a href=\"http://www.pr.com/press-release/462399\" target=\"_blank\">Patients’ Choice</a> and <a href=\"http://www.free-press-release.com/news-michael-a-zadeh-m-d-receives-2011-best-of-encino-award-1325290520.html\" target=\"_blank\">Best in Encino</a> awards and one of only 3% of physicians in the nation to receive the prestigious <strong>Most Compassionate Doctor Recognition</strong>. Dr. Zadeh’s commitment to Five-Star Patient Care and State-of-the-Art Technology led to the establishment of the Z Center for Cosmetic Health.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_GPAWdM": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/MedicalSPA_2x_b4afcaac-7466-4b56-b344-adf993c2beba.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_dhfCMQ",
+        "tile_GPAWdM"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 45,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "dual_tiles_P6jQzj": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_LeghJj": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/PersonalizedTreatments_2x_9e6deb9c-f08a-4e48-a47e-f158c5e5c1d0.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 3.2,
+            "block_padding_bottom": 3.2,
+            "block_padding_left": 3.2,
+            "block_padding_right": 0
+          }
+        },
+        "tile_abmAYC": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Personalized treatments that give you the best results.",
+            "text_size": 2,
+            "content": "<p>Dr. Zadeh has personally designed the Z Center for Cosmetic Health as a specialized center, to provide you with comprehensive and personalized care. Unlike most medical spas which occupy large spaces and have multiple non-physician staff members providing their cosmetic treatments, at the Z Center for Cosmetic Health <strong>Dr. Zadeh is personally involved with all treatments.</strong> Our treatments work perfectly together, promoting cosmetic health in an intimate and relaxing setting. No one can stop the aging process. It’s inevitable. However, by using the latest advances in medical science along with our state-of-the-art non-surgical treatments we will rejuvenate your beauty in a natural and non-invasive way, making you look good and feel even better. At the Z Center for Cosmetic Health we can help <strong>put time back on your side.</strong></p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_LeghJj",
+        "tile_abmAYC"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 60,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "seo_content_MgqieL": {
+      "type": "seo-content",
+      "custom_css": [
+        ".section-seo-content__content {text-align: left;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "text_size": 1,
+        "title": "Beverly Hills luxurywithout leaving the valley",
+        "content": "<p>Dr. Zadeh is known for his meticulous attention to detail, which is apparent from the minute you step into our uniquely designed space and is reflected in his outstanding treatment results and the loyalty of his longstanding clients. Our top priority is your satisfaction. We take pride in providing you with the most advanced technology in a first-class environment. Our menu of services is highly specialized, using only the top of the line FDA approved technology with proven results in several clinical studies. We are the first center in the Sherman Oaks area to offer:</p><ul><li>Non-surgical skin tightening using the revolutionary Ultherapy ultrasound technology.</li><li>Non-invasive fat reduction, body contouring using the CoolSculpting fat freezing technique, and EMSculpt muscle toning.</li><li>Totally painless 20 minute laser hair removal, safe for all skin types.</li></ul><p></p><p>All injection procedures are personally performed by Dr. Zadeh himself, whose intimate knowledge and understanding of facial anatomy enables him to provide precise injections that produce the exact results you desire and avoids treatment complications. Our outstanding and knowledgeable staff will make sure that your experience with us is a pleasant one with maximum comfort.</p><p>So, are you ready to reclaim your vitality? Schedule your consultation today and experience our personalized five-star care. The new you begins with Z!</p>"
+      }
+    },
+    "hero_banner_nwftyy": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_Vez8Ti": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-default",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/TEAM-Background_1x_7718854e-e7d2-4709-aa7c-7f33177f62fa.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Now You Can Look Good AndFeel Even Better",
+            "content": "<p>Dr. Michael Zadeh | Board Certified General Surgeon</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Meet The Doctor",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Vez8Ti"
+      ],
+      "settings": {
+        "slider_height": 80,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    }
+  },
+  "order": [
+    "1658995208ad05f95f",
+    "seo_content_eJYf6B",
+    "659a65bf-3115-47f3-af72-a53dd56039e2",
+    "dual_tiles_NXKiyt",
+    "dual_tiles_P6jQzj",
+    "seo_content_MgqieL",
+    "hero_banner_nwftyy"
+  ]
+}
