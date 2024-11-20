@@ -206,6 +206,8 @@
   .content--absolute .section-dual-tiles__content {position:static !important;}
   .content--absolute .section-dual-tiles__content * {color:#111;}
   .about-iframe iframe {max-width:100%;}
+  .section-testimonials .media { padding: 0;}
+  .section-testimonials .media img {position: relative;}
 }
 /* template--about-us */
 @media (max-width: 768px){
