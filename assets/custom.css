@@ -214,7 +214,7 @@
   .section-full-width-banner { min-height: auto !important;}
   .section-full-width-banner .media {position: static !important; height: fit-content !important;}
   .section-full-width-banner .media img {object-fit: contain !important; position: static !important;}
-  .section-seo-content__inner {background:transparent ;}
+  .section-seo-content__inner {background:transparent !important;}
 }
 /* template--about-us */
 @media (max-width: 768px){
