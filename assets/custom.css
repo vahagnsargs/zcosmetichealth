@@ -210,6 +210,7 @@
   .section-testimonials .media img {position: relative;}
   .countdown-timer__subtitle-desktop {display:block !important;}
   .section-seo-content .section-seo-content__inner {padding-top:0; padding-bottom:0;}
+  .section-seo-content {padding-top:20px; padding-bottom:20px;}
 }
 /* template--about-us */
 @media (max-width: 768px){
