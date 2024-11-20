@@ -168,7 +168,7 @@
         "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 6,
         "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 6
+        "spacing_bottom_mobile": 0
       }
     },
     "dual_tiles_qBwpLy": {
@@ -246,8 +246,8 @@
         "gap_between_tiles_mobile": 0,
         "spacing_top_desktop": 6,
         "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
       }
     },
     "full_width_banner_g8TDpg": {
@@ -264,6 +264,7 @@
         "color_scheme_background": "background-colors-accent-2",
         "image_desktop": "shopify://shop_images/1600x600-hero-t2t-elite-1-1.jpg",
         "video_desktop_external": "",
+        "image_mobile": "shopify://shop_images/1600x600-hero-t2t-elite-1-1.jpg",
         "video_mobile_external": "",
         "content_position_horizontal": "align-center text-center",
         "content_position_vertical": "justify-end",
@@ -303,8 +304,8 @@
         "banner_layout": "section-full-width-banner--full",
         "spacing_top_desktop": 6,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0,
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-inverse",
         "image_desktop": "shopify://shop_images/Group-30-1.png",
@@ -363,7 +364,7 @@
         "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 0,
         "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6,
+        "spacing_bottom_mobile": 0,
         "color_scheme_text": "text-colors-secondary",
         "color_scheme_background": "background-colors-inverse",
         "image_desktop": "shopify://shop_images/Mask-Group-1.jpg",
@@ -468,8 +469,8 @@
         "gap_between_tiles_mobile": 0,
         "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
       }
     },
     "seo_content_TMp3Hd": {
