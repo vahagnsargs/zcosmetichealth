@@ -205,6 +205,7 @@
   .card-slider .card-slider__slide { width: 100% !important;}
   .content--absolute .section-dual-tiles__content {position:static !important;}
   .content--absolute .section-dual-tiles__content * {color:#111;}
+  .about-iframe iframe {max-width:100%;}
 }
 /* template--about-us */
 @media (max-width: 768px){
