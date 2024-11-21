@@ -108,8 +108,8 @@
         "gap_between_tiles_mobile": 0,
         "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
       }
     },
     "request_an_appointment_k7dE8N": {
@@ -198,8 +198,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
       }
     },
     "dual_tiles_nY3zBX": {
@@ -210,8 +210,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -238,8 +240,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-2",
             "image_desktop": "shopify://shop_images/em-machine1_1x_4602f1d9-09d1-4550-b654-0bdeea33c9ad.png",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -277,8 +281,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 6,
         "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
       }
     },
     "dual_tiles_jrdJfL": {
@@ -289,8 +293,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -410,8 +416,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
       }
     }
   },
