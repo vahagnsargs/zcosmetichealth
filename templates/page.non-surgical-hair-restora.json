@@ -158,7 +158,7 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 2,
+        "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 2
       }
     },
@@ -242,7 +242,7 @@
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
         "spacing_top_mobile": 2,
-        "spacing_bottom_mobile": 2
+        "spacing_bottom_mobile": 0
       }
     },
     "dual_tiles_wdV9bd": {
@@ -324,7 +324,7 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 2,
+        "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 2
       }
     },
@@ -336,6 +336,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
             "video_mobile_external": "https://www.youtube.com/watch?v=k8omx_WZpw8",
@@ -485,7 +486,7 @@
         "spacing_top_desktop": 6,
         "spacing_bottom_desktop": 6,
         "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 4
+        "spacing_bottom_mobile": 0
       }
     }
   },
