@@ -159,7 +159,7 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 6,
+        "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 6
       }
     },
@@ -502,7 +502,7 @@
         "layout": "image_none",
         "spacing_top_desktop": 6,
         "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
+        "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 6,
         "border_style": "top-bottom-border",
         "title": "Spring sale",
