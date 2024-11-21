@@ -53,7 +53,7 @@
         "slide_L4tdcz"
       ],
       "custom_css": [
-        ".hero__entry {max-width:800px;}"
+        ".hero__entry {max-width: 800px;}"
       ],
       "settings": {
         "slider_height": 60,
@@ -81,7 +81,7 @@
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
             "title": "Now, there is a better solution for removing unwanted hair",
-            "text_size": 3,
+            "text_size": 2.5,
             "content": "",
             "button_style": "button--filled",
             "button_separator": false,
@@ -108,8 +108,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
       }
     },
     "custom_liquid_aiEfMp": {
@@ -212,7 +212,7 @@
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
         "spacing_top_mobile": 2,
-        "spacing_bottom_mobile": 2
+        "spacing_bottom_mobile": 0
       }
     },
     "dual_tiles_eWAHMb": {
@@ -294,7 +294,7 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 2,
+        "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 2
       }
     },
@@ -378,7 +378,7 @@
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
         "spacing_top_mobile": 2,
-        "spacing_bottom_mobile": 2
+        "spacing_bottom_mobile": 0
       }
     },
     "dual_tiles_EKQHJF": {
@@ -460,7 +460,7 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 2,
+        "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 2
       }
     },
@@ -510,8 +510,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
             "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_1.png",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -537,8 +539,10 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-left align-start",
@@ -576,8 +580,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 6,
         "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 0,
-        "spacing_bottom_mobile": 4
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
       }
     }
   },
