@@ -108,8 +108,8 @@
         "gap_between_tiles_mobile": 0,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 3
       }
     },
     "request_an_appointment_k7dE8N": {
@@ -198,8 +198,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
       }
     },
     "dual_tiles_AQitUB": {
@@ -281,8 +281,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 6,
         "spacing_bottom_desktop": 6,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
       }
     },
     "seo_content_zV7zyJ": {
@@ -360,7 +360,8 @@
       "custom_css": [
         "svg {width: 70px; height: auto;}",
         ".section-trust-indicators__decorator {width: 100px; height: 100px;}",
-        ".section-trust-indicators__title {font-size: 18px !important; text-transform: none;}"
+        ".section-trust-indicators__title {font-size: 18px !important; text-transform: none;}",
+        "@media (max-width: 749px) {.swiper-wrapper {flex-direction: column; align-items: center; }}"
       ],
       "settings": {
         "slider_mobile": true,
@@ -448,8 +449,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
       }
     }
   },
