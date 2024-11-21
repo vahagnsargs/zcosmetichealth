@@ -108,7 +108,7 @@
         "gap_between_tiles_mobile": 0,
         "spacing_top_desktop": 0,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
+        "spacing_top_mobile": 3,
         "spacing_bottom_mobile": 6
       }
     },
@@ -167,8 +167,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 3,
-        "spacing_top_mobile": 3,
-        "spacing_bottom_mobile": 3
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
       }
     },
     "seo_content_zV7zyJ": {
@@ -262,8 +262,8 @@
         "gap_between_tiles_mobile": 0.2,
         "spacing_top_desktop": 3,
         "spacing_bottom_desktop": 0,
-        "spacing_top_mobile": 6,
-        "spacing_bottom_mobile": 6
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
       }
     }
   },
