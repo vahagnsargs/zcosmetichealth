@@ -1,1 +1,507 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_WiMPMK":{"type":"hero-banner","blocks":{"slide_bTUdLX":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Group_549.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"MICRONEEDLING SHERMAN OAKS","content":"<p>Imagine a specific cocktail of skin products, customized for your skin, is directly and comfortably delivered into the dermis of your skin using 20 gold microneedles, each thinner than a strand of hair. No waste, no absorption issues, and no uncertainty.<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"\/"}}},"block_order":["slide_bTUdLX"],"custom_css":[".hero__entry {max-width: 1000px;}"],"settings":{"slider_height":60,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_4Exgxf":{"type":"dual-tiles","blocks":{"tile_PCdRPb":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Watch Dr. Zadeh Perform The Microneedling Procedure","text_size":2,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_qKjmpg":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-2","video_desktop_external":"https:\/\/www.youtube.com\/watch?v=HPt3hP0MZ_M","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_PCdRPb","tile_qKjmpg"],"settings":{"section_width":"max-w-page","section_height":45,"layout":"section-dual-tiles--50-50","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":2}},"request_an_appointment_wXabia":{"type":"request-an-appointment","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_7AqbW6":{"type":"dual-tiles","blocks":{"tile_rErk66":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why they do not receive the results","text_size":2,"content":"<p>Every day millions of Americans spend large sums of money on various skin care products. They use these skin care products religiously, following the directions for use, and yet they either do not receive the results that they had hoped for or it takes too long for the results to show.<\/p><p>Why? One of the reasons is the fact that the skin’s absorption process is a complicated one. While using cleansers and toners before applying skin care products can help open your pores and improve the absorption of these products, the delivery of the potent elements of any skin care product to the dermis (the layer of the skin where collagen and elastic fibers are present) is minimal.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_qRrF9X":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-2","image_desktop":"shopify:\/\/shop_images\/1_2x_b93a85d5-3bd4-4272-bb97-c3f0295c5d6d.jpg","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_rErk66","tile_qRrF9X"],"settings":{"section_width":"max-w-page","section_height":60,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"dual_tiles_X6dGpX":{"type":"dual-tiles","blocks":{"tile_9hjGBD":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-2","image_desktop":"shopify:\/\/shop_images\/2_2x_d4ca4d2d-b012-49e0-bd85-b082875ea909.jpg","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_bQF77P":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Microneedling","text_size":2,"content":"<p>Microneedling, also called Skin Needling or Collagen Induction Therapy (CIT) involves repeatedly puncturing the skin with tiny, sterile needles (microneedling the skin) in order to stimulate the skin’s natural self-repair mechanism to create new collagen.<\/p><p>With microneedling we are able to treat the deeper parts of the skin without effecting the top layer of skin. Microneedling treats various skin conditions such as fine lines and wrinkles, light scarring from acne and photo damage, and improves skin color and other skin texture changes.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_9hjGBD","tile_bQF77P"],"settings":{"section_width":"max-w-page","section_height":50,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"dual_tiles_rV9NJL":{"type":"dual-tiles","blocks":{"tile_dX933y":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"A Revolutionary New Microneedle Device","text_size":2,"content":"<p>There are several microneedling devices and techniques in the market today. Dr. Zadeh uses a revolutionary new microneedle device that contains 24 karat gold needles – each of which is smaller than a strand of hair. Using this device, Dr. Zadeh is able to deliver products directly into the dermal layer of the skin with no pain, bleeding, bruising or downtime. No other microneedling device can do this. Delivering these products deeper into the skin results in a more healthy and vibrant appearance of the skin. Dr. Zadeh customizes the products he uses based on your individual needs. Some examples of the products used include Vitamin Complexes, Growth Factors, Antioxidants, Botox, Dermal Fillers and Stem Cells.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_ex3Eqa":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-2","image_desktop":"shopify:\/\/shop_images\/3_2x_ed82523e-5495-4cb3-9aed-90d43891e485.jpg","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_dX933y","tile_ex3Eqa"],"settings":{"section_width":"max-w-page","section_height":50,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"seo_content_Wcbh8t":{"type":"seo-content","settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-secondary","color_scheme_background":"background-colors-accent-1","text_size":1.5,"title":"","content":"<p>If you are ready to experience this new revolutionary Microneedling treatment feel free to contact us to schedule your consultation and determine which treatment is best for you.<\/p>"}},"seo_content_j8ha7z":{"type":"seo-content","custom_css":["li {text-align: left; max-width: 500px; margin: auto;}"],"settings":{"padding_vertical_desktop":"","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","text_size":1,"title":"What Conditions Can Be Treated With Microneedling?","content":"<p>Dr. Zadeh’s Microneedling technique can be used to treat:<\/p><ol><li>Fine lines and wrinkles of the face including underneath the eyes and around the mouth<\/li><li>Oily Skin<\/li><li>Acne Scars<\/li><li>Rosacea<\/li><li>Hyper pigmentation<\/li><li>Melasma<\/li><li>General Facial Rejuvenation<\/li><li>… and more!<\/li><\/ol>"}},"accordions_tVKjeJ":{"type":"accordions","blocks":{"topic_phL3JT":{"type":"topic","settings":{"is_open":true,"title":"What can I expect with Dr. Zadeh’s microneedling procedure?","content":"<p>The procedure is virtually pain free and unlike many microneedling procedures does not require the use of topical anesthetics. The skin of the face is cleansed, and your customized therapeutic solution is delivered through the microneedles underneath the skin, smoothing the skin in an even and attractive fashion. You will feel an immediate tightness of the skin. There may be some mild redness similar to a sunburn which resolves in 24-72 hours. There is no bleeding after the procedure. You may return to your regular activities immediately. Aftercare instructions will be given to you at the time of your treatment.<\/p>","page":""}},"topic_FWiGih":{"type":"topic","settings":{"is_open":false,"title":"How long does the actual procedure last?","content":"<p>Depending on the area and extent of treatment most microneedling procedures can be performed in 15 minutes or less.<\/p>","page":""}},"topic_cA7UHC":{"type":"topic","settings":{"is_open":false,"title":"How is Dr. Zadeh’s microneedling technique different than other microneedle devices, such as a dermal roller?","content":"<p>The special device that Dr. Zadeh uses for his microneedle treatments provides delivery of skin nutrients directly into the dermis of the skin. Dermal rollers require treatment be spread on the skin surface. Spreading therapeutic agent results in substantial product loss and decreases the ability to target treatment. Dr. Zadeh’s microneedling treatment is also less traumatic than a Dermaroller as it avoids the microscopic tearing forces seen with Dermarollers, causing unnecessary injury.<\/p>","page":""}}},"block_order":["topic_phL3JT","topic_FWiGih","topic_cA7UHC"],"settings":{"padding_vertical_desktop":"","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","title":"FAQ"}},"countdown_timer_DCKRFw":{"type":"countdown-timer","settings":{"fullwidth":false,"layout":"image_none","spacing_top_desktop":4,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6,"border_style":"top-bottom-border","title":"","subtitle":"Have any other questions?Feel free to give us a call and ask!","subtitle_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","timer_year":0,"timer_month":"01","timer_day":1,"timer_hour":0,"timer_minute":0,"timer_extend":0,"timer_end_message":"","show_timer_days":true,"show_timer_hours":true,"show_timer_minutes":true,"show_timer_seconds":true,"action_preference":"button","newsletter_button_label":"Submit","button_style":"button--filled","button_text":"Call: (818) 789-5500","button_url":"tel: (818) 789-5500"}}},"order":["main","hero_banner_WiMPMK","dual_tiles_4Exgxf","request_an_appointment_wXabia","dual_tiles_7AqbW6","dual_tiles_X6dGpX","dual_tiles_rV9NJL","seo_content_Wcbh8t","seo_content_j8ha7z","accordions_tVKjeJ","countdown_timer_DCKRFw"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_WiMPMK": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_bTUdLX": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Group_549.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "MICRONEEDLING SHERMAN OAKS",
+            "content": "<p>Imagine a specific cocktail of skin products, customized for your skin, is directly and comfortably delivered into the dermis of your skin using 20 gold microneedles, each thinner than a strand of hair. No waste, no absorption issues, and no uncertainty.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_bTUdLX"
+      ],
+      "custom_css": [
+        ".hero__entry {max-width: 1000px;}"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_4Exgxf": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_PCdRPb": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Watch Dr. Zadeh Perform The Microneedling Procedure",
+            "text_size": 2,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_qKjmpg": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_external": "https://www.youtube.com/watch?v=HPt3hP0MZ_M",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_PCdRPb",
+        "tile_qKjmpg"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 45,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "request_an_appointment_wXabia": {
+      "type": "request-an-appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_7AqbW6": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_rErk66": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why they do not receive the results",
+            "text_size": 2,
+            "content": "<p>Every day millions of Americans spend large sums of money on various skin care products. They use these skin care products religiously, following the directions for use, and yet they either do not receive the results that they had hoped for or it takes too long for the results to show.</p><p>Why? One of the reasons is the fact that the skin’s absorption process is a complicated one. While using cleansers and toners before applying skin care products can help open your pores and improve the absorption of these products, the delivery of the potent elements of any skin care product to the dermis (the layer of the skin where collagen and elastic fibers are present) is minimal.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_qRrF9X": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/1_2x_b93a85d5-3bd4-4272-bb97-c3f0295c5d6d.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_rErk66",
+        "tile_qRrF9X"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 60,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "dual_tiles_X6dGpX": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_9hjGBD": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/2_2x_d4ca4d2d-b012-49e0-bd85-b082875ea909.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_bQF77P": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Microneedling",
+            "text_size": 2,
+            "content": "<p>Microneedling, also called Skin Needling or Collagen Induction Therapy (CIT) involves repeatedly puncturing the skin with tiny, sterile needles (microneedling the skin) in order to stimulate the skin’s natural self-repair mechanism to create new collagen.</p><p>With microneedling we are able to treat the deeper parts of the skin without effecting the top layer of skin. Microneedling treats various skin conditions such as fine lines and wrinkles, light scarring from acne and photo damage, and improves skin color and other skin texture changes.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_9hjGBD",
+        "tile_bQF77P"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 50,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_rV9NJL": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_dX933y": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "A Revolutionary New Microneedle Device",
+            "text_size": 2,
+            "content": "<p>There are several microneedling devices and techniques in the market today. Dr. Zadeh uses a revolutionary new microneedle device that contains 24 karat gold needles – each of which is smaller than a strand of hair. Using this device, Dr. Zadeh is able to deliver products directly into the dermal layer of the skin with no pain, bleeding, bruising or downtime. No other microneedling device can do this. Delivering these products deeper into the skin results in a more healthy and vibrant appearance of the skin. Dr. Zadeh customizes the products he uses based on your individual needs. Some examples of the products used include Vitamin Complexes, Growth Factors, Antioxidants, Botox, Dermal Fillers and Stem Cells.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_ex3Eqa": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/3_2x_ed82523e-5495-4cb3-9aed-90d43891e485.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_dX933y",
+        "tile_ex3Eqa"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 50,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "seo_content_Wcbh8t": {
+      "type": "seo-content",
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1.5,
+        "title": "",
+        "content": "<p>If you are ready to experience this new revolutionary Microneedling treatment feel free to contact us to schedule your consultation and determine which treatment is best for you.</p>"
+      }
+    },
+    "seo_content_j8ha7z": {
+      "type": "seo-content",
+      "custom_css": [
+        "li {text-align: left; max-width: 500px; margin: auto;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "text_size": 1,
+        "title": "What Conditions Can Be Treated With Microneedling?",
+        "content": "<p>Dr. Zadeh’s Microneedling technique can be used to treat:</p><ol><li>Fine lines and wrinkles of the face including underneath the eyes and around the mouth</li><li>Oily Skin</li><li>Acne Scars</li><li>Rosacea</li><li>Hyper pigmentation</li><li>Melasma</li><li>General Facial Rejuvenation</li><li>… and more!</li></ol>"
+      }
+    },
+    "accordions_tVKjeJ": {
+      "type": "accordions",
+      "blocks": {
+        "topic_phL3JT": {
+          "type": "topic",
+          "settings": {
+            "is_open": true,
+            "title": "What can I expect with Dr. Zadeh’s microneedling procedure?",
+            "content": "<p>The procedure is virtually pain free and unlike many microneedling procedures does not require the use of topical anesthetics. The skin of the face is cleansed, and your customized therapeutic solution is delivered through the microneedles underneath the skin, smoothing the skin in an even and attractive fashion. You will feel an immediate tightness of the skin. There may be some mild redness similar to a sunburn which resolves in 24-72 hours. There is no bleeding after the procedure. You may return to your regular activities immediately. Aftercare instructions will be given to you at the time of your treatment.</p>",
+            "page": ""
+          }
+        },
+        "topic_FWiGih": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "How long does the actual procedure last?",
+            "content": "<p>Depending on the area and extent of treatment most microneedling procedures can be performed in 15 minutes or less.</p>",
+            "page": ""
+          }
+        },
+        "topic_cA7UHC": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "How is Dr. Zadeh’s microneedling technique different than other microneedle devices, such as a dermal roller?",
+            "content": "<p>The special device that Dr. Zadeh uses for his microneedle treatments provides delivery of skin nutrients directly into the dermis of the skin. Dermal rollers require treatment be spread on the skin surface. Spreading therapeutic agent results in substantial product loss and decreases the ability to target treatment. Dr. Zadeh’s microneedling treatment is also less traumatic than a Dermaroller as it avoids the microscopic tearing forces seen with Dermarollers, causing unnecessary injury.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "topic_phL3JT",
+        "topic_FWiGih",
+        "topic_cA7UHC"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "title": "FAQ"
+      }
+    },
+    "countdown_timer_DCKRFw": {
+      "type": "countdown-timer",
+      "settings": {
+        "fullwidth": false,
+        "layout": "image_none",
+        "spacing_top_desktop": 4,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 6,
+        "border_style": "top-bottom-border",
+        "title": "",
+        "subtitle": "Have any other questions?Feel free to give us a call and ask!",
+        "subtitle_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "timer_year": 0,
+        "timer_month": "01",
+        "timer_day": 1,
+        "timer_hour": 0,
+        "timer_minute": 0,
+        "timer_extend": 0,
+        "timer_end_message": "",
+        "show_timer_days": true,
+        "show_timer_hours": true,
+        "show_timer_minutes": true,
+        "show_timer_seconds": true,
+        "action_preference": "button",
+        "newsletter_button_label": "Submit",
+        "button_style": "button--filled",
+        "button_text": "Call: (818) 789-5500",
+        "button_url": "tel: (818) 789-5500"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_WiMPMK",
+    "dual_tiles_4Exgxf",
+    "request_an_appointment_wXabia",
+    "dual_tiles_7AqbW6",
+    "dual_tiles_X6dGpX",
+    "dual_tiles_rV9NJL",
+    "seo_content_Wcbh8t",
+    "seo_content_j8ha7z",
+    "accordions_tVKjeJ",
+    "countdown_timer_DCKRFw"
+  ]
+}
