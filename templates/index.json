@@ -359,7 +359,7 @@
         "tile_6Mj4J6"
       ],
       "settings": {
-        "section_width": "max-w-full",
+        "section_width": "max-w-page",
         "section_height": 60,
         "layout": "section-dual-tiles--50-50",
         "gap_between_tiles": 0,
