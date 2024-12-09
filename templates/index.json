@@ -88,7 +88,7 @@
         ".hero__content {max-width: 50%; margin-left: auto; display: flex; justify-content: center;}"
       ],
       "settings": {
-        "slider_height": 65,
+        "slider_height": 60,
         "slider_autoplay": false,
         "slider_autoplay_interval": 6,
         "slider_arrows": false,
