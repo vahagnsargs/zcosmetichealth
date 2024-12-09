@@ -45,7 +45,7 @@
         ".hero__entry {max-width: 500px;}"
       ],
       "settings": {
-        "slider_height": 85,
+        "slider_height": 70,
         "slider_autoplay": true,
         "slider_autoplay_interval": 5,
         "slider_arrows": true,
