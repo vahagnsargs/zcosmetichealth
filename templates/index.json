@@ -248,7 +248,7 @@
           "type": "tile",
           "settings": {
             "color_scheme_text": "text-colors-default",
-            "color_scheme_background": "background-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
             "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",

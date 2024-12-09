@@ -23,7 +23,7 @@
     "color_text_inverse": "#FFFFFF",
     "color_background_body": "#fffefc",
     "color_background_accent_1": "#f5ebdf",
-    "color_background_accent_2": "#282830",
+    "color_background_accent_2": "#cedfdc",
     "color_background_primary": "#000000",
     "color_background_dark": "#333232",
     "color_background_light": "#E6E2E1",
@@ -31,7 +31,7 @@
     "color_border_dark": "#333232",
     "color_border_light": "#9E9A99",
     "color_button_filled_text": "#FFFFFF",
-    "color_button_filled_background": "#2a3ca6",
+    "color_button_filled_background": "#1a1a1a",
     "color_button_outlined_text": "#111111",
     "color_button_outlined_background": "rgba(0,0,0,0)",
     "color_link": "#333232",
@@ -146,9 +146,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Sahara": {
@@ -448,9 +446,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Mirage": {
       "type_heading_font": "lato_n3",
@@ -728,9 +724,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Cosmetics": {
       "type_heading_font": "poppins_n4",
@@ -869,9 +863,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     }
   }
 }
