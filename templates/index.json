@@ -211,6 +211,165 @@
         "spacing_bottom_mobile": 0
       }
     },
+    "dual_tiles_KDR4Vj": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_jeXPHP": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Background_2.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "1/1",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 3.2,
+            "block_padding_bottom": 3.2,
+            "block_padding_left": 3.2,
+            "block_padding_right": 0
+          }
+        },
+        "tile_iWDBEL": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Special Offers",
+            "text_size": 2.5,
+            "content": "<p>Discover limited-time discounts on our most popular treatments.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "View Offers",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_jeXPHP",
+        "tile_iWDBEL"
+      ],
+      "settings": {
+        "section_width": "max-w-full",
+        "section_height": 60,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_zABkDL": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_GUebh7": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Gradient.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "1/1",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "CoolSculpting Body Contouring",
+            "text_size": 2.5,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 3.2,
+            "block_padding_bottom": 3.2,
+            "block_padding_left": 3.2,
+            "block_padding_right": 0
+          }
+        },
+        "tile_6Mj4J6": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Gradient_1.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "1/1",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Skin Rejuvenation Treatments",
+            "text_size": 2.5,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 3.2,
+            "block_padding_bottom": 3.2,
+            "block_padding_left": 3.2,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_GUebh7",
+        "tile_6Mj4J6"
+      ],
+      "settings": {
+        "section_width": "max-w-full",
+        "section_height": 60,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
     "photo_gallery_gMFprf": {
       "type": "photo-gallery",
       "blocks": {
@@ -778,7 +937,7 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "",
+            "title": "xcvxc",
             "text_size": 1,
             "content": "",
             "button_style": "button--filled",
@@ -903,6 +1062,8 @@
     "1658995208ad05f95f",
     "dual_tiles_kBgCJf",
     "dual_tiles_CADwVC",
+    "dual_tiles_KDR4Vj",
+    "dual_tiles_zABkDL",
     "photo_gallery_gMFprf",
     "marquees_wN3tnh",
     "dual_tiles_GpEnyP",
