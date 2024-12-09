@@ -77,7 +77,7 @@
       ],
       "settings": {
         "hero_alt_banner_height": 40,
-        "padding_vertical_desktop": "pt-0-desktop",
+        "padding_vertical_desktop": "",
         "padding_vertical_mobile": "",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
