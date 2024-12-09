@@ -122,6 +122,9 @@
         "text_6qGtDk",
         "media_mzMpAp"
       ],
+      "custom_css": [
+        ".hero-alt__title {font-size: 35px;}"
+      ],
       "settings": {
         "hero_alt_banner_height": 40,
         "padding_vertical_desktop": "",
@@ -155,6 +158,9 @@
       "block_order": [
         "media_DnUx9N",
         "text_kHVDah"
+      ],
+      "custom_css": [
+        ".hero-alt__title {font-size: 35px;}"
       ],
       "settings": {
         "hero_alt_banner_height": 80,
