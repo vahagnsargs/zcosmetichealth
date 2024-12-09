@@ -40,11 +40,55 @@
       "block_order": [
         "8d591e0b-d408-44f1-8bd2-9b71f529aa90"
       ],
+      "custom_css": [
+        ".hero__title {max-width: 614px;}",
+        ".hero__entry {max-width: 500px;}"
+      ],
       "settings": {
         "slider_height": 85,
         "slider_autoplay": true,
         "slider_autoplay_interval": 5,
         "slider_arrows": true,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "hero_banner_tT4Ymj": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_Hzee6x": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Section.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-start text-left",
+            "content_position_vertical": "justify-end",
+            "subtitle": "Seasonal Spotlight 2024",
+            "subtitle_url": "",
+            "title": "Luxury Aesthetic Care  Delivered with Precision",
+            "content": "<p>Discover the latest in skin rejuvenation, body contouring,  and advanced injectables to keep you glowing all year round.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--outlined-inverse",
+            "button_text": "Explore New Treatments",
+            "button_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Hzee6x"
+      ],
+      "settings": {
+        "slider_height": 65,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
         "slider_arrows_position": "hero__swiper-buttons--sides",
         "slider_arrows_color": "text-colors-inverse"
       }
@@ -746,6 +790,7 @@
   },
   "order": [
     "1658995208ad05f95f",
+    "hero_banner_tT4Ymj",
     "hero_alt_KJwqFx",
     "hero_alt_wAekJd",
     "dual_tiles_KDR4Vj",
