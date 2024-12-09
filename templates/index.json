@@ -72,8 +72,8 @@
             "content_position_vertical": "justify-end",
             "subtitle": "Seasonal Spotlight 2024",
             "subtitle_url": "",
-            "title": "Luxury Aesthetic Care  Delivered with Precision",
-            "content": "<p>Discover the latest in skin rejuvenation, body contouring,  and advanced injectables to keep you glowing all year round.</p>",
+            "title": "Luxury Aesthetic Care Delivered with Precision",
+            "content": "<p>Discover the latest in skin rejuvenation, body contouring, and advanced injectables to keep you glowing all year round.</p>",
             "enable_vertical_line": true,
             "button_style": "button--outlined-inverse",
             "button_text": "Explore New Treatments",
@@ -83,6 +83,9 @@
       },
       "block_order": [
         "slide_Hzee6x"
+      ],
+      "custom_css": [
+        ".hero__content {max-width: 50%; margin-left: auto; display: flex; justify-content: center;}"
       ],
       "settings": {
         "slider_height": 65,
