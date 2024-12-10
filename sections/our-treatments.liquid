@@ -34,6 +34,19 @@
       >
         <div class="swiper-wrapper card-slider__wrapper">
           {%- for block in section.blocks -%}
+            {%- if block.settings.link_title != blank and block.settings.link_url != blank -%}
+              {%- capture link_html -%}
+                <div class="testimonial__link">
+                  {%- render 'button',
+                    type: 'text',
+                    class: 'button button--text small-hide custom_class',
+                    value: block.settings.link_title,
+                  -%}
+
+
+                </div><!-- /.testimonial__link -->
+              {%- endcapture -%}
+            {%- endif -%}
             <div class="swiper-slide card-slider__slide">
               <div class="testimonial {{ section.settings.layout }}">
                 <div>
