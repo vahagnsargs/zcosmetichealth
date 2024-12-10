@@ -5,6 +5,7 @@
   {{- 'section-testimonials.css' | asset_url | stylesheet_tag -}}
   <style>
     .our-treatments .owl-carousel .owl-item img {height: auto;}
+    .our-treatments .slide-info
   </style>
   {% comment %} <script src="{{- 'swiper-bundle.min.js' | asset_url -}}" defer="defer"></script> {% endcomment %}
   <script src="{{- 'card-slider.js' | asset_url -}}" defer="defer"></script>
@@ -35,7 +36,7 @@
             -%}
             <div class="slide-info">
               {%- if block.settings.title != blank -%}
-                <h2>
+                <h2 class="hero__title">
                   {%- if block.settings.link != blank -%}
                     <a href="{{ block.settings.link }}"></a>
                   {%- endif -%}
