@@ -61,26 +61,31 @@
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/FAE_Hotel_Sages_-834_2_-min_jpg.jpg",
-            "quote": "<p>Face</p>",
-            "author": "",
-            "link_title": "",
-            "link_url": "/"
+            "title": "FaceFace",
+            "link": "/"
           }
         },
         "testimonial_jjdikz": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/FAE_Hotel_Sages_-834_2_-min_jpg.jpg",
-            "quote": "<p>Face</p>",
-            "author": "",
-            "link_title": "",
-            "link_url": "/"
+            "image": "shopify://shop_images/Gradient.png",
+            "title": "Body",
+            "link": "/"
+          }
+        },
+        "testimonial_ninexY": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Gradient_430886b4-fee3-425f-8573-dee2d3ccdf08.png",
+            "title": "non-surgical",
+            "link": "/"
           }
         }
       },
       "block_order": [
         "testimonial_aPAk9h",
-        "testimonial_jjdikz"
+        "testimonial_jjdikz",
+        "testimonial_ninexY"
       ],
       "settings": {
         "padding_vertical_desktop": "",
