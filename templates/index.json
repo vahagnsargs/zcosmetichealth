@@ -97,7 +97,8 @@
         "gap_between_mobile": 2,
         "title": "Our Treatments",
         "lable": "View All Treatments",
-        "url": "#"
+        "url": "#",
+        "items": 3
       }
     },
     "hero_banner_tT4Ymj": {
@@ -197,7 +198,8 @@
         "gap_between_mobile": 2,
         "title": "Popular Treatments",
         "lable": "View All Treatments",
-        "url": "#"
+        "url": "#",
+        "items": 4
       }
     },
     "hero_alt_KJwqFx": {
