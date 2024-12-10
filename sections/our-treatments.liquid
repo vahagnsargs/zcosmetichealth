@@ -25,7 +25,7 @@
     <div class="container">
       {{ section_title }}
 
-      <div class="carousel">
+      <div class="owl-carousel">
         {%- for block in section.blocks -%}
           <div class="slide-item">
             {%- liquid
@@ -59,7 +59,7 @@
   <!-- /.section-testimonials -->
 {%- endif -%}
 <script>
-    $('.carousel').owlCarousel({
+    $('.owl-carousel').owlCarousel({
       loop:true,
       margin:10,
       nav:true,
