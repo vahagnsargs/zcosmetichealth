@@ -18,9 +18,9 @@
     <div class="container">
       {%- if section.settings.title != blank -%}
         <div>
-          <h6 class="section-testimonials__title">
+          <h2 class="title">
             {{- section.settings.title -}}
-          </h6>
+          </h2>
           <!-- /.section-testimonials__title -->
           {%- if section.settings.lable != blank -%}
             <a class="button button--filled button--uppercase" href="{{ section.settings.url }}">
@@ -39,7 +39,7 @@
             -%}
             <div class="slide-info">
               {%- if block.settings.title != blank -%}
-                <h2 class="hero__title">
+                <h3 class="hero__title">
                   {%- if block.settings.link != blank -%}
                     <a href="{{ block.settings.link }}"></a>
                   {%- endif -%}
@@ -47,7 +47,7 @@
                   {%- if block.settings.link != blank -%}
                     </a>
                   {%- endif -%}
-                </h2>
+                </h3>
               {%- endif -%}
               <!-- /.testimonial__content -->
               <!-- /.testimonial__body -->
