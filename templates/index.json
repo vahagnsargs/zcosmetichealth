@@ -480,6 +480,56 @@
         "spacing_bottom_mobile": 0
       }
     },
+    "our_treatments_hxMDtD": {
+      "type": "our-treatments",
+      "blocks": {
+        "testimonial_4grf8p": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/6.jpg",
+            "title": "Featured on  FOX 11 News",
+            "subtitle": "",
+            "link": "/"
+          }
+        },
+        "testimonial_7RERj9": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/8_5311b77b-db85-4a4d-a841-48faf396d322.jpg",
+            "title": "CoolSculpting Transformations",
+            "subtitle": "",
+            "link": "/"
+          }
+        },
+        "testimonial_Qk7e4V": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/7.jpg",
+            "title": "botox  spotlight",
+            "subtitle": "",
+            "link": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_4grf8p",
+        "testimonial_7RERj9",
+        "testimonial_Qk7e4V"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-inverse",
+        "color_scheme_background": "background-colors-default",
+        "layout": "image-right",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "As Seen On",
+        "lable": "Follow Us @zcosmetichealth",
+        "url": "#",
+        "items": 3
+      }
+    },
     "testimonials_cdEzgG": {
       "type": "testimonials",
       "blocks": {
@@ -931,6 +981,7 @@
     "dual_tiles_KDR4Vj",
     "countdown_timer_GdKebt",
     "dual_tiles_zABkDL",
+    "our_treatments_hxMDtD",
     "testimonials_cdEzgG",
     "before_and_after_Ki96Qm",
     "store_locator_fND6MD",
