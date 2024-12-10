@@ -101,7 +101,8 @@
         "title": "Our Treatments",
         "lable": "View All Treatments",
         "url": "#",
-        "items": 3
+        "items": 3,
+        "margin": 2
       }
     },
     "hero_banner_tT4Ymj": {
@@ -211,7 +212,8 @@
         "title": "Popular Treatments",
         "lable": "View All Treatments",
         "url": "#",
-        "items": 4
+        "items": 4,
+        "margin": 2
       }
     },
     "hero_alt_KJwqFx": {
@@ -517,7 +519,7 @@
         "testimonial_Qk7e4V"
       ],
       "custom_css": [
-        ".hero__title {max-width: 260px; text-align:center;}"
+        ".hero__title {max-width: 260px; text-align: center;}"
       ],
       "settings": {
         "padding_vertical_desktop": "",
@@ -530,7 +532,8 @@
         "title": "As Seen On",
         "lable": "Follow Us @zcosmetichealth",
         "url": "#",
-        "items": 3
+        "items": 3,
+        "margin": 40
       }
     },
     "testimonials_cdEzgG": {
