@@ -28,24 +28,23 @@
       <div class="owl-carousel">
         {%- for block in section.blocks -%}
           <div class="slide-item">
-              <>
-                {%- liquid
-                  if block.settings.image != blank
-                    render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
-                  endif
-                -%}
-                <div>
-                  {%- if block.settings.title != blank -%}
-                    <h2>
-                      {%- if block.settings.link != blank -%}
-                        <a href="{{ block.settings.link }}"></a>
-                      {%- endif -%}
-                      {%- if block.settings.link != blank -%}
-                        </a>
-                      {%- endif -%}
-                    </h2>
+            {%- liquid
+              if block.settings.image != blank
+                render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
+              endif
+            -%}
+            <div>
+              {%- if block.settings.title != blank -%}
+                <h2>
+                  {%- if block.settings.link != blank -%}
+                    <a href="{{ block.settings.link }}"></a>
                   {%- endif -%}
-                <!-- /.testimonial__content --> 
+                  {%- if block.settings.link != blank -%}
+                    </a>
+                  {%- endif -%}
+                </h2>
+              {%- endif -%}
+              <!-- /.testimonial__content -->
               <!-- /.testimonial__body -->
             </div>
             <!-- /.testimonial -->
