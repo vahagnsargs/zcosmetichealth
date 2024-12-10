@@ -63,6 +63,7 @@
             "image": "shopify://shop_images/FAE_Hotel_Sages_-834_2_-min_jpg.jpg",
             "title": "FaceFace",
             "subtitle": "",
+            "lable": "",
             "link": "/"
           }
         },
@@ -72,6 +73,7 @@
             "image": "shopify://shop_images/Gradient.png",
             "title": "Body",
             "subtitle": "",
+            "lable": "",
             "link": "/"
           }
         },
@@ -81,6 +83,7 @@
             "image": "shopify://shop_images/Gradient_430886b4-fee3-425f-8573-dee2d3ccdf08.png",
             "title": "non-surgical",
             "subtitle": "",
+            "lable": "",
             "link": "/"
           }
         }
@@ -159,6 +162,7 @@
             "image": "shopify://shop_images/Link_-_Honey_Top_Ivory.jpg",
             "title": "CoolSculpting",
             "subtitle": "Starting at $250/session",
+            "lable": "",
             "link": "/"
           }
         },
@@ -168,6 +172,7 @@
             "image": "shopify://shop_images/FAEStudio-047_jpg.jpg",
             "title": "Botox",
             "subtitle": "$12/unit",
+            "lable": "",
             "link": "/"
           }
         },
@@ -177,6 +182,7 @@
             "image": "shopify://shop_images/Link_-_Goldie_Top_Ivory.jpg",
             "title": "Microneedling",
             "subtitle": "Starting at $350/session",
+            "lable": "",
             "link": "/"
           }
         },
@@ -186,6 +192,7 @@
             "image": "shopify://shop_images/Link_-_Aria_One_Piece_Espresso.jpg",
             "title": "Ultherapy",
             "subtitle": "Starting at $600",
+            "lable": "",
             "link": "/"
           }
         }
@@ -491,6 +498,7 @@
             "image": "shopify://shop_images/6.jpg",
             "title": "Featured on  FOX 11 News",
             "subtitle": "",
+            "lable": "Watch Now",
             "link": "/"
           }
         },
@@ -500,6 +508,7 @@
             "image": "shopify://shop_images/8_5311b77b-db85-4a4d-a841-48faf396d322.jpg",
             "title": "CoolSculpting Transformations",
             "subtitle": "",
+            "lable": "Learn More",
             "link": "/"
           }
         },
@@ -509,6 +518,7 @@
             "image": "shopify://shop_images/7.jpg",
             "title": "botox  spotlight",
             "subtitle": "",
+            "lable": "Book Now",
             "link": "/"
           }
         }
