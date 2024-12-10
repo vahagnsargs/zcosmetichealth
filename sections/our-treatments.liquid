@@ -4,7 +4,7 @@
   {{- 'component-testimonial.css' | asset_url | stylesheet_tag -}}
   {{- 'section-testimonials.css' | asset_url | stylesheet_tag -}}
   <style>
-    .swiper-slide { max-width: 25% !important; width:100% !important;}
+    .our-treatments .owl-carousel .owl-item img {height: auto;}
   </style>
   {% comment %} <script src="{{- 'swiper-bundle.min.js' | asset_url -}}" defer="defer"></script> {% endcomment %}
   <script src="{{- 'card-slider.js' | asset_url -}}" defer="defer"></script>
@@ -33,7 +33,7 @@
                 render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
               endif
             -%}
-            <div>
+            <div class="slide-info">
               {%- if block.settings.title != blank -%}
                 <h2>
                   {%- if block.settings.link != blank -%}
