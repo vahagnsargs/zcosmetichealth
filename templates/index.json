@@ -145,6 +145,61 @@
         "slider_arrows_color": "text-colors-inverse"
       }
     },
+    "our_treatments_WtLaq8": {
+      "type": "our-treatments",
+      "blocks": {
+        "testimonial_JacAtD": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Link_-_Honey_Top_Ivory.jpg",
+            "title": "CoolSculpting",
+            "link": "/"
+          }
+        },
+        "testimonial_beP3zd": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/FAEStudio-047_jpg.jpg",
+            "title": "Botox",
+            "link": "/"
+          }
+        },
+        "testimonial_d4KTtK": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Link_-_Goldie_Top_Ivory.jpg",
+            "title": "Microneedling",
+            "link": "/"
+          }
+        },
+        "testimonial_KxBBnw": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Link_-_Aria_One_Piece_Espresso.jpg",
+            "title": "Ultherapy",
+            "link": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_JacAtD",
+        "testimonial_beP3zd",
+        "testimonial_d4KTtK",
+        "testimonial_KxBBnw"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-inverse",
+        "color_scheme_background": "background-colors-accent-1",
+        "layout": "image-right",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "Popular Treatments",
+        "lable": "View All Treatments",
+        "url": "#"
+      }
+    },
     "hero_alt_KJwqFx": {
       "type": "hero-alt",
       "blocks": {
@@ -856,6 +911,7 @@
     "1658995208ad05f95f",
     "our_treatments_Vh6jhw",
     "hero_banner_tT4Ymj",
+    "our_treatments_WtLaq8",
     "hero_alt_KJwqFx",
     "hero_alt_wAekJd",
     "dual_tiles_KDR4Vj",
