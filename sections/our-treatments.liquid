@@ -5,7 +5,7 @@
   {{- 'section-testimonials.css' | asset_url | stylesheet_tag -}}
   <style>
     .our-treatments .owl-carousel .owl-item img {height: auto;}
-    .our-treatments .slide-info
+    .our-treatments .slide-info {position: absolute; width: 100%; height: 100%; top: 0; left: 0; display: flex; align-items: flex-end; justify-content: center;}
   </style>
   {% comment %} <script src="{{- 'swiper-bundle.min.js' | asset_url -}}" defer="defer"></script> {% endcomment %}
   <script src="{{- 'card-slider.js' | asset_url -}}" defer="defer"></script>
