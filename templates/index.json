@@ -62,6 +62,7 @@
           "settings": {
             "image": "shopify://shop_images/FAE_Hotel_Sages_-834_2_-min_jpg.jpg",
             "title": "FaceFace",
+            "subtitle": "",
             "link": "/"
           }
         },
@@ -70,6 +71,7 @@
           "settings": {
             "image": "shopify://shop_images/Gradient.png",
             "title": "Body",
+            "subtitle": "",
             "link": "/"
           }
         },
@@ -78,6 +80,7 @@
           "settings": {
             "image": "shopify://shop_images/Gradient_430886b4-fee3-425f-8573-dee2d3ccdf08.png",
             "title": "non-surgical",
+            "subtitle": "",
             "link": "/"
           }
         }
@@ -154,6 +157,7 @@
           "settings": {
             "image": "shopify://shop_images/Link_-_Honey_Top_Ivory.jpg",
             "title": "CoolSculpting",
+            "subtitle": "Starting at $250/session",
             "link": "/"
           }
         },
@@ -162,6 +166,7 @@
           "settings": {
             "image": "shopify://shop_images/FAEStudio-047_jpg.jpg",
             "title": "Botox",
+            "subtitle": "$12/unit",
             "link": "/"
           }
         },
@@ -170,6 +175,7 @@
           "settings": {
             "image": "shopify://shop_images/Link_-_Goldie_Top_Ivory.jpg",
             "title": "Microneedling",
+            "subtitle": "Starting at $350/session",
             "link": "/"
           }
         },
@@ -178,6 +184,7 @@
           "settings": {
             "image": "shopify://shop_images/Link_-_Aria_One_Piece_Espresso.jpg",
             "title": "Ultherapy",
+            "subtitle": "Starting at $600",
             "link": "/"
           }
         }
