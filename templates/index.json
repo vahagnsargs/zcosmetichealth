@@ -529,7 +529,8 @@
         "testimonial_Qk7e4V"
       ],
       "custom_css": [
-        ".hero__title {max-width: 260px; text-align: center;}"
+        ".hero__title {max-width: 260px; text-align: center;}",
+        ".slide-info {align-items: center !important; padding-bottom: 45px; gap: 24px; justify-content: flex-end !important;}"
       ],
       "settings": {
         "padding_vertical_desktop": "",
