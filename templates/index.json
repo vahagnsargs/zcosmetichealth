@@ -95,7 +95,9 @@
         "layout": "image-right",
         "gap_between_desktop": 2,
         "gap_between_mobile": 2,
-        "title": "From the people"
+        "title": "Our Treatments",
+        "lable": "View All Treatments",
+        "url": "#"
       }
     },
     "hero_banner_tT4Ymj": {
