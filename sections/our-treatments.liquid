@@ -11,11 +11,17 @@
   <script src="{{- 'card-slider.js' | asset_url -}}" defer="defer"></script>
 
   {%- if section.settings.title != blank -%}
-    {%- capture section_title -%}
+    <div>
       <h6 class="section-testimonials__title small-up-hide">
         {{- section.settings.title -}}
-      </h6><!-- /.section-testimonials__title -->
-    {%- endcapture -%}
+      </h6>
+      <!-- /.section-testimonials__title -->
+      {%- if section.settings.lable != blank -%}
+        <a class="button button--filled button--uppercase" href="{{ section.settings.url }}">
+          {{- section.settings.link -}}
+        </a>
+      {%- endif -%}
+      <div>
   {%- endif -%}
 
   {%- capture section_additional_classes -%}
