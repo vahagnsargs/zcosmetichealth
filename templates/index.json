@@ -312,10 +312,10 @@
             "content_layout": "content--absolute",
             "block_margin_left": 0,
             "block_margin_right": 0,
-            "block_padding_top": 3.2,
-            "block_padding_bottom": 3.2,
-            "block_padding_left": 3.2,
-            "block_padding_right": 0
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 1.6
           }
         },
         "tile_6Mj4J6": {
@@ -342,9 +342,9 @@
             "content_layout": "content--absolute",
             "block_margin_left": 0,
             "block_margin_right": 0,
-            "block_padding_top": 3.2,
-            "block_padding_bottom": 3.2,
-            "block_padding_left": 3.2,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 1.6,
             "block_padding_right": 0
           }
         }
@@ -359,8 +359,8 @@
         "layout": "section-dual-tiles--50-50",
         "gap_between_tiles": 0,
         "gap_between_tiles_mobile": 0,
-        "spacing_top_desktop": 0,
-        "spacing_bottom_desktop": 0,
+        "spacing_top_desktop": 4,
+        "spacing_bottom_desktop": 4,
         "spacing_top_mobile": 0,
         "spacing_bottom_mobile": 0
       }
@@ -542,6 +542,9 @@
         "indicator_YFCpMF",
         "indicator_XfTGBW",
         "indicator_JCNPib"
+      ],
+      "custom_css": [
+        ".section-trust-indicators__decorator img {width:100%; height:100%;}"
       ],
       "settings": {
         "slider_mobile": true,
