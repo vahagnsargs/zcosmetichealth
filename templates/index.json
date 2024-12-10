@@ -54,6 +54,45 @@
         "slider_arrows_color": "text-colors-inverse"
       }
     },
+    "our_treatments_Vh6jhw": {
+      "type": "our-treatments",
+      "blocks": {
+        "testimonial_aPAk9h": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/FAE_Hotel_Sages_-834_2_-min_jpg.jpg",
+            "quote": "<p>Face</p>",
+            "author": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_jjdikz": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/FAE_Hotel_Sages_-834_2_-min_jpg.jpg",
+            "quote": "<p>Face</p>",
+            "author": "",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_aPAk9h",
+        "testimonial_jjdikz"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "layout": "no-image",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "From the people"
+      }
+    },
     "hero_banner_tT4Ymj": {
       "type": "hero-banner",
       "blocks": {
@@ -544,7 +583,7 @@
         "indicator_JCNPib"
       ],
       "custom_css": [
-        ".section-trust-indicators__decorator img {width:100%; height:100%;}"
+        ".section-trust-indicators__decorator img {width: 100%; height: 100%;}"
       ],
       "settings": {
         "slider_mobile": true,
@@ -620,6 +659,7 @@
         "tile_PqLBMi",
         "tile_Bk3HKM"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}"
@@ -703,6 +743,7 @@
         "tile_tTcjDE",
         "tile_B3agma"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}"
@@ -786,6 +827,7 @@
         "tile_rhpUqr",
         "tile_ddadGP"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}"
@@ -805,6 +847,7 @@
   },
   "order": [
     "1658995208ad05f95f",
+    "our_treatments_Vh6jhw",
     "hero_banner_tT4Ymj",
     "hero_alt_KJwqFx",
     "hero_alt_wAekJd",
