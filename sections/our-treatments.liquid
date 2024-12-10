@@ -66,6 +66,12 @@
                   {{ block.settings.subtitle }}
                 </div>
               {%- endif -%}
+              {%- if block.settings.lable != blank -%}
+                <a href="{{ block.settings.link }}" class="button section-dual-tiles__button button--outlined-inverse button--uppercase">
+                  {{ block.settings.lable }}
+                </div>
+              {%- endif -%}
+              
               <!-- /.testimonial__content -->
               <!-- /.testimonial__body -->
             </div>
@@ -314,9 +320,13 @@
           "id": "subtitle",
           "label": "subtitle"
         },
-
         {
-          "type": "url",
+          "type": "text",
+          "id": "lable",
+          "label": "lable"
+        },
+        {
+          "type": "url", 
           "id": "link",
           "label": "t:sections.testimonials.blocks.testimonial.settings.link_url.label",
           "info": "t:sections.testimonials.blocks.testimonial.settings.link_url.info",
