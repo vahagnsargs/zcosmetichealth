@@ -27,9 +27,8 @@
 
       <div class="owl-carousel">
         {%- for block in section.blocks -%}
-          <div class="swiper-slide card-slider__slide">
-            <div class="testimonial {{ section.settings.layout }}">
-              <div>
+          <div class="slide-item">
+              <>
                 {%- liquid
                   if block.settings.image != blank
                     render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
@@ -46,9 +45,7 @@
                       {%- endif -%}
                     </h2>
                   {%- endif -%}
-                </div>
-                <!-- /.testimonial__content -->
-              </div>
+                <!-- /.testimonial__content --> 
               <!-- /.testimonial__body -->
             </div>
             <!-- /.testimonial -->
