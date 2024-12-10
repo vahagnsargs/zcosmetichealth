@@ -61,6 +61,9 @@
                   {%- endif -%}
                 </h3>
               {%- endif -%}
+              {%- if block.settings.subtitle != blank -%}
+                {{ block.settings.subtitle }}
+              {%- endif -%}
               <!-- /.testimonial__content -->
               <!-- /.testimonial__body -->
             </div>
@@ -286,14 +289,19 @@
           "id": "image",
           "label": "t:sections.testimonials.blocks.testimonial.settings.image.label"
         },
-
         {
           "type": "text",
           "id": "title",
-          "label": "title"        },
+          "label": "title"
+        },
         {
           "type": "header",
           "content": "t:sections.testimonials.blocks.testimonial.settings.header_link.content"
+        },
+        {
+          "type": "text",
+          "id": "subtitle",
+          "label": "subtitle"
         },
 
         {
