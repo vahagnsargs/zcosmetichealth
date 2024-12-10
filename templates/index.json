@@ -90,7 +90,7 @@
       "settings": {
         "padding_vertical_desktop": "",
         "padding_vertical_mobile": "",
-        "color_scheme_text": "text-colors-default",
+        "color_scheme_text": "text-colors-inverse",
         "color_scheme_background": "background-colors-default",
         "layout": "image-right",
         "gap_between_desktop": 2,
