@@ -10,28 +10,25 @@
   {% comment %} <script src="{{- 'swiper-bundle.min.js' | asset_url -}}" defer="defer"></script> {% endcomment %}
   <script src="{{- 'card-slider.js' | asset_url -}}" defer="defer"></script>
 
-  {%- if section.settings.title != blank -%}
-    <div>
-      <h6 class="section-testimonials__title small-up-hide">
-        {{- section.settings.title -}}
-      </h6>
-      <!-- /.section-testimonials__title -->
-      {%- if section.settings.lable != blank -%}
-        <a class="button button--filled button--uppercase" href="{{ section.settings.url }}">
-          {{- section.settings.link -}}
-        </a>
-      {%- endif -%}
-      <div>
-  {%- endif -%}
-
   {%- capture section_additional_classes -%}
     {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }} {{ section.settings.layout }}
   {%- endcapture -%}
 
   <section class="section-testimonials our-treatments overflow-hidden js-animation-fade-in {{ section_additional_classes | strip }}">
     <div class="container">
-      {{ section_title }}
-
+      {%- if section.settings.title != blank -%}
+        <div>
+          <h6 class="section-testimonials__title small-up-hide">
+            {{- section.settings.title -}}
+          </h6>
+          <!-- /.section-testimonials__title -->
+          {%- if section.settings.lable != blank -%}
+            <a class="button button--filled button--uppercase" href="{{ section.settings.url }}">
+              {{- section.settings.link -}}
+            </a>
+          {%- endif -%}
+          <div>
+      {%- endif -%}
       <div class="owl-carousel">
         {%- for block in section.blocks -%}
           <div class="slide-item">
