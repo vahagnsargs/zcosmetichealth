@@ -42,10 +42,11 @@
       ],
       "custom_css": [
         ".hero__title {max-width: 614px;}",
-        ".hero__entry {max-width: 500px;}"
+        ".hero__entry {max-width: 500px;}",
+        ".hero__content {justify-content: center; padding-top: 150px;}"
       ],
       "settings": {
-        "slider_height": 70,
+        "slider_height": 80,
         "slider_autoplay": true,
         "slider_autoplay_interval": 5,
         "slider_arrows": true,
@@ -85,7 +86,9 @@
         "slide_Hzee6x"
       ],
       "custom_css": [
-        ".hero__content {max-width: 50%; margin-left: auto; display: flex; justify-content: center;}"
+        ".hero__content {max-width: 50%; margin-left: auto; display: flex; justify-content: center;}",
+        ".hero__title {max-width: 614px;}",
+        ".hero__entry {max-width: 500px;}"
       ],
       "settings": {
         "slider_height": 60,
@@ -298,9 +301,9 @@
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
+            "content_position_vertical": "justify-end",
             "title": "CoolSculpting Body Contouring",
-            "text_size": 2.5,
+            "text_size": 2,
             "content": "",
             "button_style": "button--outlined-inverse",
             "button_separator": false,
@@ -328,9 +331,9 @@
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
-            "content_position_vertical": "justify-center",
+            "content_position_vertical": "justify-end",
             "title": "Skin Rejuvenation Treatments",
-            "text_size": 2.5,
+            "text_size": 2,
             "content": "",
             "button_style": "button--outlined-inverse",
             "button_separator": false,
@@ -409,7 +412,7 @@
           "settings": {
             "image": "shopify://shop_images/Rectangle_5.jpg",
             "title": "Image before",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "image_after_slide_7X6Bca": {
@@ -417,7 +420,7 @@
           "settings": {
             "image": "shopify://shop_images/Rectangle_3_4.jpg",
             "title": "Image after",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         }
       },
