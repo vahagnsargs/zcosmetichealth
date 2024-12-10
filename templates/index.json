@@ -87,7 +87,7 @@
         "padding_vertical_mobile": "",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default",
-        "layout": "no-image",
+        "layout": "image-right",
         "gap_between_desktop": 2,
         "gap_between_mobile": 2,
         "title": "From the people"
