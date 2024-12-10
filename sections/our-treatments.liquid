@@ -83,7 +83,7 @@
 <script>
     $('.owl-carousel').owlCarousel({
       loop:true,
-      margin:2,
+      margin:{{ section.settings.margin }},
       nav:true,
       responsive:{
           0:{
@@ -275,6 +275,15 @@
       "max": 10,
       "step": 1,
       "default": 3
+    },
+    {
+      "type": "range",
+      "id": "margin",
+      "label": "margin",
+      "min": 0,
+      "max": 50,
+      "step": 2,
+      "default": 2
     }
   ],
   "blocks": [
