@@ -197,7 +197,7 @@
       ],
       "custom_css": [
         ".slide-info {position: static; padding: 0; margin-top: 15px; flex-direction: column; align-items: center !important; gap: 8px;}",
-        ".slide-info .text {color: #111; text-align: center; font-size: 16px; font-weight: 400; line-height: 19px;}",
+        ".slide-info .text {color: #111; text-align: center; font-size: 14px; font-weight: 400; line-height: 19px;}",
         ".hero__title {color: #111; text-align: center; text-transform: capitalize; font-size: 15px; line-height: 24px;}"
       ],
       "settings": {
