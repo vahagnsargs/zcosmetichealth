@@ -106,7 +106,7 @@
           "type": "text",
           "settings": {
             "subtitle": "Board Certified General Surgeon",
-            "title": "About Dr.  Michael Zadeh",
+            "title": "About Dr.\nMichael Zadeh",
             "content": "<p>Dr. Michael Zadeh is a highly accomplished and board-certified general surgeon who has dedicated his career to helping individuals feel their absolute best, both inside and out.</p>",
             "button_style": "button--filled",
             "button_text": "learn more",
@@ -257,8 +257,8 @@
       "settings": {
         "fullwidth": false,
         "layout": "image_none",
-        "spacing_top_desktop": 3,
-        "spacing_bottom_desktop": 3,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6,
         "border_style": "top-bottom-border",
