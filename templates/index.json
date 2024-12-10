@@ -674,6 +674,71 @@
         "content": "<p>At Z Cosmetic Health, our mission is to empower individuals to look and feel their best. We believe that confidence begins with feeling comfortable in your own skin, and we are committed to providing the highest quality care in a welcoming and supportive environment.</p><p>Our treatments are designed to enhance your natural beauty, using cutting-edge technologies and personalized approaches that prioritize your unique needs. But our mission goes beyond aesthetics—it’s about fostering self-esteem, well-being, and a renewed sense of self-confidence.</p>"
       }
     },
+    "our_treatments_GLDJ7Y": {
+      "type": "our-treatments",
+      "blocks": {
+        "testimonial_hqJGkz": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/IG1_jpg.jpg",
+            "title": "",
+            "subtitle": "",
+            "lable": "",
+            "link": "/"
+          }
+        },
+        "testimonial_dyTykH": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/IG2_jpg.jpg",
+            "title": "",
+            "subtitle": "",
+            "lable": "",
+            "link": "/"
+          }
+        },
+        "testimonial_bmrKCU": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/IG3_jpg.jpg",
+            "title": "",
+            "subtitle": "",
+            "lable": "",
+            "link": "/"
+          }
+        },
+        "testimonial_Hzc6Ei": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/IG6_jpg.jpg",
+            "title": "",
+            "subtitle": "",
+            "lable": "",
+            "link": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hqJGkz",
+        "testimonial_dyTykH",
+        "testimonial_bmrKCU",
+        "testimonial_Hzc6Ei"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-inverse",
+        "color_scheme_background": "background-colors-default",
+        "layout": "image-right",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "Discover our posts",
+        "lable": "Follow Us @zcosmetichealth",
+        "url": "#",
+        "items": 4,
+        "margin": 4
+      }
+    },
     "trust_indicators_mFEi8E": {
       "type": "trust-indicators",
       "blocks": {
@@ -1003,6 +1068,7 @@
     "before_and_after_Ki96Qm",
     "store_locator_fND6MD",
     "seo_content_eW7hdT",
+    "our_treatments_GLDJ7Y",
     "trust_indicators_mFEi8E",
     "dual_tiles_EfhYJf",
     "dual_tiles_ViPdH4",
