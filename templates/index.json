@@ -516,6 +516,9 @@
         "testimonial_7RERj9",
         "testimonial_Qk7e4V"
       ],
+      "custom_css": [
+        ".hero__title {max-width: 260px; text-align:center;}"
+      ],
       "settings": {
         "padding_vertical_desktop": "",
         "padding_vertical_mobile": "",
