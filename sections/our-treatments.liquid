@@ -25,84 +25,61 @@
     <div class="container">
       {{ section_title }}
 
-      <card-slider
-        class="swiper card-slider card-slider--testimonials js-testimonials {{ section.settings.layout }}"
-        data-swiper-options='
-          {
-              "spaceBetweenDesktop": {{ section.settings.gap_between_desktop }},
-              "spaceBetweenMobile": {{ section.settings.gap_between_mobile }}
-          }
-        '
-      >
-        <div class="swiper-wrapper card-slider__wrapper">
-          {%- for block in section.blocks -%}
-            {%- if block.settings.link_title != blank and block.settings.link_url != blank -%}
-              {%- capture link_html -%}
-                <div class="testimonial__link">
-                  {%- render 'button',
-                    type: 'text',
-                    class: 'button button--text small-hide custom_class',
-                    value: block.settings.link_title,
-                  -%}
-
-
-                </div><!-- /.testimonial__link -->
-              {%- endcapture -%}
-            {%- endif -%}
-
-            <div class="swiper-slide card-slider__slide">
-              <div class="testimonial {{ section.settings.layout }}">
+      <div class="owl-carousel">
+        {%- for block in section.blocks -%}
+          <div class="swiper-slide card-slider__slide">
+            <div class="testimonial {{ section.settings.layout }}">
+              <div>
+                {%- liquid
+                  if block.settings.image != blank
+                    render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
+                  endif
+                -%}
                 <div>
-                  {%- liquid
-                    if block.settings.image != blank
-                      render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
-                    endif
-                  -%}
-                  <div>
-                    {%- if block.settings.title != blank -%}
-                      <h2>
-                        {%- if block.settings.link != blank -%}
-                          <a href="{{ block.settings.link }}"></a>
-                        {%- endif -%}
-                        {%- if block.settings.link != blank -%}
-                          </a>
-                        {%- endif -%}
-                      </h2>
-                    {%- endif -%}
-                  </div>
-                  <!-- /.testimonial__content -->
+                  {%- if block.settings.title != blank -%}
+                    <h2>
+                      {%- if block.settings.link != blank -%}
+                        <a href="{{ block.settings.link }}"></a>
+                      {%- endif -%}
+                      {%- if block.settings.link != blank -%}
+                        </a>
+                      {%- endif -%}
+                    </h2>
+                  {%- endif -%}
                 </div>
-                <!-- /.testimonial__body -->
+                <!-- /.testimonial__content -->
               </div>
-              <!-- /.testimonial -->
+              <!-- /.testimonial__body -->
             </div>
-            <!-- /.swiper-slide -->
-          {%- endfor -%}
-        </div>
-        <!-- /.swiper-wrapper -->
-
-        <div class="swiper-buttons small-hide svg-color-inherit card-slider__buttons no-js-hidden">
-          <div class="card-slider__buttons-inner">
-            <button class="swiper-button text-current swiper-button--prev">
-              {%- render 'icon-arrow-right-small' -%}
-            </button>
-
-            <button class="swiper-button text-current swiper-button--next">
-              {%- render 'icon-arrow-right-small' -%}
-            </button>
+            <!-- /.testimonial -->
           </div>
-          <!-- /.card-slider__buttons-inner -->
-        </div>
-        <!-- /.swiper-buttons -->
-      </card-slider>
-      <!-- /.swiper -->
-      <!-- /.swiper -->
+          <!-- /.swiper-slide -->
+        {%- endfor -%}
+      </div>
+      <!-- /.swiper-wrapper -->
     </div>
     <!-- /.container -->
   </section>
   <!-- /.section-testimonials -->
 {%- endif -%}
-
+<script>
+    $('.owl-carousel').owlCarousel({
+      loop:true,
+      margin:10,
+      nav:true,
+      responsive:{
+          0:{
+              items:1
+          },
+          600:{
+              items:3
+          },
+          1000:{
+              items:5
+          }
+      }
+  })
+</script>
 {% schema %}
 {
   "name": "our treatments",
