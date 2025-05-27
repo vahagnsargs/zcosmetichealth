@@ -105,7 +105,10 @@
 
 @media screen and (max-width: 749px) {
   .multicolumn-list {
-    margin: 0;
+    margin: 0;    display: flex
+;
+    flex-wrap: wrap!important;
+    gap: 10px;
     width: 100%;
   }
 
@@ -239,4 +242,6 @@
 .multicolumn .page-width {max-width:1440px; padding:0 50px; margin:auto;}
 @media screen and (max-width: 750px) {
   .multicolumn .page-width {padding:0 20px;}
+  .multicolumn-list__item{max-width:unset;}
+
 }

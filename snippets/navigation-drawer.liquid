@@ -22,13 +22,13 @@
     </summary><!-- /.drawer__button -->
 
     <div class="drawer__content js-drawer" id="Navigation-menu-drawer-{{- append_id -}}" tabindex="-1">
-      <button
+      {%- comment -%}<button
         class="drawer__button-close header-drawer__button-close svg-color-inherit button-reset small-hide medium-hide no-js-hidden js-btn-close-drawer"
         aria-label="{{- 'accessibility.close_menu_drawer' | t -}}"
       >
         {%- render 'icon-arrow-right' -%}
       </button><!-- /.drawer__button -->
-
+{%- endcomment -%}
       <div class="drawer__row large-up-hide">
         {%- render 'search' with input_id: 'mobile' -%}
       </div><!-- /.drawer__row -->
@@ -69,7 +69,7 @@
                   {%- endfor -%}
                 {%- endcapture -%}
 
-                <li class="drawer__menu-item">
+                <li class="drawer__menu-item base-{{ link_handle }}">
                   {%- if link.links.size > 0 or menu_dropdown_images_size > 0 -%}
                     <details class="accordion__section" id="Details-menu-drawer-menu-item-{{- forloop.index -}}">
                       <summary class="drawer__nav-link h4 js-btn{% if link.child_active %} is-current{% endif %}">
@@ -83,20 +83,99 @@
                             <ul class="drawer__menu list-unstyled" role="list">
                               {%- for child_link in link.links -%}
                                 <li class="drawer__submenu-first-item">
+                                  
+                                
+                                
+                                  {%- for block in section.blocks -%}
+
+                                            {%- assign block_link_handle = block.settings.menu_icon_title | handleize -%}
+                                            {%- assign link_handle = child_link.title | handleize -%}
+                                            
+                          
+                                            {%- if link_handle != block_link_handle -%}
+                                             
+                                              {%- continue -%}
+                                            {%- endif -%}
+                     
+                                            {%- comment -%}{%- render 'image', image: block.settings.menu_icon_image, class:"menu_icon_image", alt: block.settings.menu_icon_image.alt | escape -%}
+                                            {%- endcomment -%}
+                                            {%- comment -%}
+                                               {% if block.type=='menu_icon' %}
+                                                  <img class="menu_icon_image" src="{{  block.settings.menu_icon_image | image_url }}">
+                                                {% endif %}
+                                            {%- endcomment -%}
+                                            
+                                            {%- if linklists[block.settings.menu_icon_menu].links.size > 0 -%}
+                                              
+                                              {%- capture menu_icon_items -%}
+                                                <div class="header__menu__sublinks_content drawer__menu list-unstyled">
+                                                  {%- if link_handle == block_link_handle -%}
+                                                    <h2>{{ block.settings.menu_icon_sub_title }}</h2>
+                                                  {%- endif -%}
+                                                   <ul class="header__menu_icon-sublinks menu_icon_items list-unstyled">
+                                                      {%- for icon_child_link in linklists[block.settings.menu_icon_menu].links -%}
+                                                        
+                                                        {%- assign link_handle = icon_child_link.title | handleize -%}
+                                                        {%- assign menu_dropdown_items_size = 0 -%}
+                                                        <li class="header__menu_icon-sublinks-title {{ icon_child_link.title | handle }}">
+                                                          {%- for block in section.blocks -%}
+                                                            {%- case block.type -%}
+                                                              {%- when 'sub_menu_icon' -%}
+                                                                  {%- assign menu_icon_title = block.settings.menu_icon_title | handle  -%}
+                                                                  {%- assign icon_child_link_title = icon_child_link.title | handle -%}
+                                                                 
+                                                                {%- if menu_icon_title == icon_child_link_title -%}
+                                                                  
+                                                                   <img class="sub_menu_icon" src="{{  block.settings.menu_icon_image | image_url }}">                                                      
+                                                                {%- endif -%}
+                                                             {%- endcase -%} 
+                                                           {%- endfor -%}  
+                                                        <div class="header__menu_icon-sublinks-group">
+                                                          <a  href="{{- icon_child_link.url -}}">{{- icon_child_link.title | escape -}} </a>
+                                                            {%- if icon_child_link.links.size > 0 -%}
+                                                              <ul class="header__menu_icon-sublinks-clild list-unstyled">
+                                                                {%- for grand_child_link in icon_child_link.links -%}
+                                                                  <li class="header__nav-sublinks-item grand-child-link grand-child-link-{{- grand_child_link.title | handle -}}">
+                                                                    <a
+                                                                      href="{{- grand_child_link.url -}}"
+                                                                      class="header__nav-dropdown-link{% if grand_child_link.current %} is-current{% endif %}"
+                                                                      {% if grand_child_link.current %} aria-current="page"{% endif %}
+                                                                    >
+                                                                      {{- grand_child_link.title | escape -}}
+                                                                    </a>
+                                                                  </li>
+                                                                {%- endfor -%}
+                                                              </ul>
+                                                            {%- endif -%}
+                                                        </div>
+                                                        </li>
+                                                        
+                                                      {%- endfor -%}  
+                                                   </ul>  
+                                                </div>
+                                              {%- endcapture -%}
+                                            {%- endif -%}
+                                  {%- endfor -%}
                                   {%- if child_link.links.size > 0 and section.settings.drawer_layer -%}
-                                    <button class="drawer__submenu-btn {% if child_link.links.current %} is-current{% endif %}">
-                                      {{- child_link.title | escape -}}
-                                      {%- render 'icon-chevron-right' -%}
-                                    </button>
-                                  {%- else -%}
-                                    <a
-                                      href="{{- child_link.url -}}"
-                                      class="drawer__submenu-link color-body-text"
-                                      {% if child_link.current %}aria-current="page"{% endif %}
-                                    >
-                                      {{- child_link.title | escape -}}
-                                    </a>
-                                  {%- endif -%}
+                                      <button class="drawer__submenu-btn {% if child_link.links.current %} is-current{% endif %}">
+                                        {{- child_link.title | escape -}}
+                                        {%- render 'icon-chevron-right' -%}
+                                      </button>
+                                    {%- elsif  menu_icon_items -%}
+                                         <button class="drawer__submenu-btn {% if child_link.links.current %} is-current{% endif %}">
+                                          {{- child_link.title | escape -}}
+                                          {%- render 'icon-chevron-right' -%}
+                                        </button>
+                                    {%- else -%}
+                                      <a
+                                        href="{{- child_link.url -}}"
+                                        class="drawer__submenu-link color-body-text"
+                                        {% if child_link.current %}aria-current="page"{% endif %}
+                                      >
+                                        {{- child_link.title | escape -}}
+                                      
+                                      </a>
+                                    {%- endif -%}
                                   {%- if child_link.links.size > 0 -%}
                                     <div class="drawer__submenu-second {% if section.settings.drawer_layer %} drawer__submenu-layer{% endif %}" id="childlink-{{- child_link.title | handle -}}">
                                       <ul class="drawer__menu list-unstyled" role="list" tabindex="-1">
@@ -115,6 +194,14 @@
                                       </ul><!-- /.drawer__menu list-unstyled -->
                                     </div><!-- /.drawer__submenu -->
                                   {%- endif -%}
+
+                                   {%- if menu_icon_items -%}
+                                   <div class="drawer__submenu-second {% if section.settings.drawer_layer %} drawer__submenu-layer{% endif %}" id="childlink-{{- child_link.title | handle -}}">
+                                   {{ menu_icon_items }}
+                                   </div>
+                                  {%- endif -%}
+                                  
+                                  {%- capture menu_icon_items -%}{%- endcapture -%}
                                 </li><!-- /.drawer__submenu-item -->
                               {%- endfor -%}
                             </ul><!-- /.drawer__menu list-unstyled -->

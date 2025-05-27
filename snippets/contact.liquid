@@ -1,0 +1,105 @@
+<style>a.header__nav-link{color:black!important;}</style>
+  <div class="container container--small">
+    {%- form 'contact', id: 'ContactForm' -%}
+      {%- if form.posted_successfully? -%}
+        <h3 class="h4" tabindex="-1" autofocus>{{- 'contact.form.success' | t -}}</h3><!-- /.h4 -->
+      {%- elsif form.errors -%}
+        <div class="color-red">
+          {{- form.errors | default_errors -}}
+        </div><!-- /.color-red -->
+      {%- endif -%}
+
+      <div class="form-row form-row--double">
+        {%-
+          liquid
+          assign label = 'First Name' 
+          assign placeholder = 'First Name' 
+          capture attr
+            echo 'autocomplete="FirstName"'
+          endcapture
+          if form.name
+            assign value = form.FirstName
+          elsif customer
+            assign value = customer.name
+          else
+            assign value = ''
+          endif
+          render 'text-input', id: 'ContactForm-fname', label: label, name: 'contact[FirstName]', placeholder: placeholder, attr: attr, value: value
+        -%}
+        {%-
+          liquid
+          assign label = 'Last Name'
+          assign placeholder = 'Last Name'
+          capture attr
+            echo 'autocomplete="name"'
+          endcapture
+          if form.name
+            assign value = form.LastName
+          elsif customer
+            assign value = customer.name
+          else
+            assign value = ''
+          endif
+          render 'text-input', id: 'ContactForm-lname', label: label, name: 'contact[LastName]', placeholder: placeholder, attr: attr, value: value
+        -%}
+        {%-
+          liquid
+          assign label = 'Phone'
+          assign placeholder = 'Phone'
+          capture attr
+            echo 'autocomplete="phone"'
+          endcapture
+          if form.name
+            assign value = form.phone
+          elsif customer
+            assign value = customer.phone
+          else
+            assign value = ''
+          endif
+          render 'text-input', id: 'ContactForm-phone', label: label, name: 'contact[Phone]', placeholder: placeholder, attr: attr, value: value
+        -%}
+        
+        {%-
+          liquid
+          assign label = 'contact.form.email' | t | append: ' <span class="color-red" aria-hidden="true">*</span>'
+          assign placeholder = 'contact.form.email' | t
+          capture attr
+            echo 'autocomplete="email"'
+            echo 'spellcheck="false"'
+            echo 'autocapitalize="off"'
+            echo 'aria-required="true"'
+          endcapture
+          if form.email
+            assign value = form.email
+          elsif customer
+            assign value = customer.email
+          else
+            assign value = ''
+          endif
+          if form.errors contains 'email'
+            assign error = form.errors.translated_fields['email'] | capitalize | append: ' ' | append: form.errors.messages['email']
+            assign has_error = true
+          endif
+          render 'text-input', id: 'ContactForm-email', type: 'email', label: label, name: 'contact[email]', placeholder: placeholder, attr: attr, value: value, has_error: has_error, message: error
+        -%}
+      </div><!-- /.form-row form-row--double -->
+
+      <div class="form-row">
+        {%-
+          liquid
+          assign label = 'contact.form.message' | t
+          assign placeholder = 'contact.form.message' | t
+          render 'textarea-input', id: 'ContactForm-body', label: label, name: 'contact[message]', placeholder: placeholder, body: form.body
+        -%}
+      </div><!-- /.form-row -->
+
+      <div class="form-row form-row--actions">
+        {%- assign value = 'contact.form.submit' | t -%}
+        {%- render 'button', type: 'submit', style: 'solid', value: value, class: 'button' -%}
+        {%- assign value = nil -%}
+         {{ social_links_list }}
+      </div><!-- /.form-row -->
+    {%- endform -%}
+  </div><!-- /.container container--small -->
+
+

@@ -43,7 +43,7 @@
       {%- endif -%}
       <div class="owl-carousel">
         {%- for block in section.blocks -%}
-          <div class="slide-item">
+          <a class="slide-item"  href="{{ block.settings.link }}">
             {%- liquid
               if block.settings.image != blank
                 render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
@@ -52,13 +52,9 @@
             <div class="slide-info">
               {%- if block.settings.title != blank -%}
                 <h3 class="hero__title">
-                  {%- if block.settings.link != blank -%}
-                    <a href="{{ block.settings.link }}"></a>
-                  {%- endif -%}
+                
                   {{ block.settings.title }}
-                  {%- if block.settings.link != blank -%}
-                    </a>
-                  {%- endif -%}
+                 
                 </h3>
               {%- endif -%}
               {%- if block.settings.subtitle != blank -%}
@@ -67,19 +63,16 @@
                 </div>
               {%- endif -%}
               {%- if block.settings.lable != blank -%}
-                <a
-                  href="{{ block.settings.link }}"
-                  class="button section-dual-tiles__button button--outlined-inverse button--uppercase"
-                >
+               
                   {{ block.settings.lable }}
-                </a>
+                
               {%- endif -%}
 
               <!-- /.testimonial__content -->
               <!-- /.testimonial__body -->
             </div>
             <!-- /.testimonial -->
-          </div>
+          </a>
           <!-- /.swiper-slide -->
         {%- endfor -%}
       </div>

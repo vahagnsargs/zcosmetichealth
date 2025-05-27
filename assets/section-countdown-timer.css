@@ -331,8 +331,10 @@ div:empty.countdown-timer__image-container {
   .section-countdown-timer .countdown-timer__columns {
     padding: 0 8.4rem;
     border-block: 0;
-    border-inline: 0.1rem solid var(--color-border-elements);
+    /* border-inline: 0.1rem solid var(--color-border-elements); */
   }
+  .section-countdown-timer .countdown-timer__header-container{border-inline: 0.1rem solid var(--color-border-elements);        padding-right: 11px;        border-left: unset;}
+  .countdown-timer{border-inline: 0.1rem solid var(--color-border-elements);        padding-right: 11px;        border-left: unset;}
 }
 
 @media (min-width: 750px) and (max-width: 1024px) {

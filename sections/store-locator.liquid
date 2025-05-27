@@ -72,6 +72,8 @@
             assign store_direction = store_direction | replace: 'longitude', store_longitude_string
           %}
 
+         {% assign directions_link= block.settings.store_pin_link %}
+
           <div class="store-locator-cards__tile  store-locator-cards__aside-filtered {{ block.settings.color_scheme_text }} {{ block.settings.color_scheme_background }} {% if section.blocks.size <= 1 %}store-locator-cards__single-tile{% endif %}" data-image-number={{ forloop.index }}>
             {% render 'store-locator-pin', storeName: block.settings.title, storeAddress: block.settings.store_address | newline_to_br, storeOpeningHours: block.settings.store_opening_hours, storePin: block.settings.store_pin, storeLink: directions_link, storeTel: block.settings.store_tel, buttonStyle: block.settings.button_style, coordinateTitle: block.settings.coordinate_title,
             storeLongitude: block.settings.store_longitude, storeLatitude: block.settings.store_latitude %}
@@ -199,7 +201,7 @@
       "id": "section_height",
       "label": "t:sections.store-locator.settings.section_height.label",
       "info": "t:sections.store-locator.settings.section_height.info",
-      "min": 25,
+      "min": 0,
       "max": 100,
       "step": 5,
       "unit": "vh",

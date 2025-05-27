@@ -121,7 +121,7 @@ html.js .header.is-transparent {
 .header__logo img,
 .header__logo svg {
   width: 100%;
-  height: auto;
+  /* height: auto; */
 }
 .header__logo svg {
   fill: currentColor;
@@ -147,6 +147,7 @@ html.js .header.is-transparent {
 @media (hover: hover) {
   .header__logo a {
     transition: opacity var(--duration-default);
+    width:100;
   }
 
   .header__logo a:hover {
@@ -271,7 +272,7 @@ html.js .header.is-transparent {
 }
 
 .header__utils-item {
-  padding: .3rem .8rem;
+  padding-left:16px;padding-right:16px;
 }
 
 .header__utils-item:not(.header__utils-item--cart) {
@@ -348,7 +349,7 @@ html.js .header.is-transparent {
 }
 
 .header__nav-item + .header__nav-item {
-  margin-left: 1.6rem;
+  margin-left: 32px;
 }
 
 .header__nav-item.default-dropdown {
@@ -412,7 +413,7 @@ html.js .header.is-transparent {
   visibility: hidden;
   pointer-events: none;
   opacity: 0;
-  transition: visibility var(--duration-extra-long), opacity var(--duration-extra-long);
+  /* transition: visibility var(--duration-extra-long), opacity var(--duration-extra-long); */
 }
 
 .header__nav-item.has-dropdown:not(.default-dropdown) {
@@ -560,7 +561,7 @@ html.no-js .header__nav-item.default-dropdown .header__nav-links-item.has-dropdo
 
   .header__nav-item.default-dropdown .header__nav-links-item:hover > .header__nav-dropdown-link,
   .header__nav-dropdown .header__nav-dropdown-link:hover {
-    color: var(--color-body-text);
+    color: #000;
   }
 
   .header__nav-links-item > .header__nav-dropdown-link:hover {

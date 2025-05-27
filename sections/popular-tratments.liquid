@@ -1,0 +1,355 @@
+{%- if section.blocks.size > 0 -%}
+  {% comment %} {{- 'swiper-bundle.min.css' | asset_url | stylesheet_tag -}} {% endcomment %}
+  {{- 'component-card-slider.css' | asset_url | stylesheet_tag -}}
+  {{- 'component-testimonial.css' | asset_url | stylesheet_tag -}}
+  {{- 'section-testimonials.css' | asset_url | stylesheet_tag -}}
+  <style>
+    .our-treatments .owl-carousel .owl-item img {height: auto;}
+    .our-treatments .slide-info {position: absolute; width: 100%; height: 100%; top: 0; left: 0; display: flex; align-items: flex-end; justify-content: center; padding-bottom:45px;}
+    .our-treatments .title-wrap { display: flex; justify-content: space-between; gap: 20px; margin-bottom: 40px;}
+    .our-treatments .title-wrap .title {margin:0; color: #111; font-size: 35px; }
+    .our-treatments .slide-info .hero__title {margin:0;}
+    .our-treatments .owl-nav {display: flex !important; gap:100px; justify-content: flex-end; margin-top: 35px;}
+    .our-treatments .owl-nav button span{display:none;}
+    .our-treatments .owl-nav button { width: 40px; height: 40px;}
+    .our-treatments .owl-nav button.owl-prev { background-image: url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Next_slide_SVG.svg?v=1733850381");}
+    .our-treatments .owl-nav button.owl-next { background-image: url("https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Button_-_Next_slide_SVG_1.svg?v=1733850468");}
+
+    @media (max-width: 749px) {
+      .our-treatments .title-wrap {flex-direction: column; }
+    }
+  </style>
+  {% comment %} <script src="{{- 'swiper-bundle.min.js' | asset_url -}}" defer="defer"></script> {% endcomment %}
+  <script src="{{- 'card-slider.js' | asset_url -}}" defer="defer"></script>
+
+  {%- capture section_additional_classes -%}
+    {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }} {{ section.settings.layout }}
+  {%- endcapture -%}
+
+  <section class="section-testimonials our-treatments overflow-hidden js-animation-fade-in {{ section_additional_classes | strip }}">
+    <div class="container">
+      {%- if section.settings.title != blank -%}
+        <div class="title-wrap">
+          <h2 class="title">
+            {{- section.settings.title -}}
+          </h2>
+          <!-- /.section-testimonials__title -->
+          {%- if section.settings.lable != blank -%}
+            <a class="button button--filled button--uppercase" href="{{ section.settings.url }}">
+              {{- section.settings.lable -}}
+            </a>
+          {%- endif -%}
+        </div>
+      {%- endif -%}
+      <div class="owl-carousel">
+        {%- for block in section.blocks -%}
+          <div class="slide-item">
+            {%- liquid
+              if block.settings.image != blank
+                render 'image', image: block.settings.image, image_per_view: 2, alt: block.settings.image.alt | escape
+              endif
+            -%}
+            <div class="slide-info">
+              {%- if block.settings.title != blank -%}
+                <h3 class="hero__title">
+                  {%- if block.settings.link != blank -%}
+                    <a href="{{ block.settings.link }}"></a>
+                  {%- endif -%}
+                  {{ block.settings.title }}
+                  {%- if block.settings.link != blank -%}
+                    </a>
+                  {%- endif -%}
+                </h3>
+              {%- endif -%}
+              {%- if block.settings.subtitle != blank -%}
+                <div class="text">
+                  {{ block.settings.subtitle }}
+                </div>
+              {%- endif -%}
+              {%- if block.settings.lable != blank -%}
+                <a
+                  href="{{ block.settings.link }}"
+                  class="button section-dual-tiles__button button--outlined-inverse button--uppercase"
+                >
+                  {{ block.settings.lable }}
+                </a>
+              {%- endif -%}
+
+              <!-- /.testimonial__content -->
+              <!-- /.testimonial__body -->
+            </div>
+            <!-- /.testimonial -->
+          </div>
+          <!-- /.swiper-slide -->
+        {%- endfor -%}
+      </div>
+      <!-- /.swiper-wrapper -->
+    </div>
+    <!-- /.container -->
+  </section>
+  <!-- /.section-testimonials -->
+{%- endif -%}
+<script>
+    $('.owl-carousel').owlCarousel({
+      loop:true,
+      margin:{{ section.settings.margin }},
+      nav:true,
+      responsive:{
+          0:{
+              items:1
+          },
+          600:{
+              items:2
+          },
+          1000:{
+              items:{{ section.settings.items }}
+          }
+      }
+  })
+</script>
+{% schema %}
+{
+  "name": "Popular treatments",
+  "settings": [
+    {
+      "type": "header",
+      "content": "t:sections.global.settings.header_padding_vertical.content"
+    },
+    {
+      "type": "select",
+      "id": "padding_vertical_desktop",
+      "label": "t:sections.global.settings.padding_vertical_desktop.label",
+      "options": [
+        {
+          "value": "",
+          "label": "t:sections.global.settings.padding_vertical_desktop.options.default.label"
+        },
+        {
+          "value": "pt-0-desktop",
+          "label": "t:sections.global.settings.padding_vertical_desktop.options.top_none.label"
+        },
+        {
+          "value": "pb-0-desktop",
+          "label": "t:sections.global.settings.padding_vertical_desktop.options.bottom_none.label"
+        },
+        {
+          "value": "pt-0-desktop pb-0-desktop",
+          "label": "t:sections.global.settings.padding_vertical_desktop.options.top_bottom_none.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "padding_vertical_mobile",
+      "label": "t:sections.global.settings.padding_vertical_mobile.label",
+      "options": [
+        {
+          "value": "",
+          "label": "t:sections.global.settings.padding_vertical_mobile.options.default.label"
+        },
+        {
+          "value": "pt-0-mobile",
+          "label": "t:sections.global.settings.padding_vertical_mobile.options.top_none.label"
+        },
+        {
+          "value": "pb-0-mobile",
+          "label": "t:sections.global.settings.padding_vertical_mobile.options.bottom_none.label"
+        },
+        {
+          "value": "pt-0-mobile pb-0-mobile",
+          "label": "t:sections.global.settings.padding_vertical_mobile.options.top_bottom_none.label"
+        }
+      ]
+    },
+    {
+      "type": "header",
+      "content": "t:sections.global.settings.header_color_scheme.content"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme_text",
+      "label": "t:sections.global.settings.color_scheme_text.label",
+      "options": [
+        {
+          "value": "text-colors-default",
+          "label": "t:sections.global.settings.color_scheme_text.options.default.label"
+        },
+        {
+          "value": "text-colors-secondary",
+          "label": "t:sections.global.settings.color_scheme_text.options.secondary.label"
+        },
+        {
+          "value": "text-colors-inverse",
+          "label": "t:sections.global.settings.color_scheme_text.options.inverse.label"
+        }
+      ],
+      "default": "text-colors-default"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme_background",
+      "label": "t:sections.global.settings.color_scheme_background.label",
+      "options": [
+        {
+          "value": "background-colors-default",
+          "label": "t:sections.global.settings.color_scheme_background.options.default.label"
+        },
+        {
+          "value": "background-colors-secondary",
+          "label": "t:sections.global.settings.color_scheme_background.options.secondary.label"
+        },
+        {
+          "value": "background-colors-accent-1",
+          "label": "t:sections.global.settings.color_scheme_background.options.accent_one.label"
+        },
+        {
+          "value": "background-colors-accent-2",
+          "label": "t:sections.global.settings.color_scheme_background.options.accent_two.label"
+        },
+        {
+          "value": "background-colors-inverse",
+          "label": "t:sections.global.settings.color_scheme_background.options.inverse.label"
+        }
+      ],
+      "default": "background-colors-accent-1"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.testimonials.settings.header_general.content"
+    },
+    {
+      "type": "select",
+      "id": "layout",
+      "label": "t:sections.testimonials.settings.layout.label",
+      "info": "t:sections.testimonials.settings.layout.info",
+      "options": [
+        {
+          "value": "",
+          "label": "t:sections.testimonials.settings.layout.options.image_left.label"
+        },
+        {
+          "value": "image-right",
+          "label": "t:sections.testimonials.settings.layout.options.image_right.label"
+        },
+        {
+          "value": "no-image",
+          "label": "t:sections.testimonials.settings.layout.options.image_none.label"
+        }
+      ],
+      "default": "image-right"
+    },
+    {
+      "type": "range",
+      "id": "gap_between_desktop",
+      "label": "t:sections.global.settings.gap_between_desktop.label",
+      "min": 2,
+      "max": 64,
+      "step": 2,
+      "default": 2
+    },
+    {
+      "type": "range",
+      "id": "gap_between_mobile",
+      "label": "t:sections.global.settings.gap_between_mobile.label",
+      "min": 2,
+      "max": 64,
+      "step": 2,
+      "default": 2
+    },
+    {
+      "type": "header",
+      "content": "t:sections.testimonials.settings.header_text.content"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "t:sections.testimonials.settings.title.label",
+      "default": "From the people"
+    },
+    {
+      "type": "text",
+      "id": "lable",
+      "label": "lable"
+    },
+    {
+      "type": "text",
+      "id": "url",
+      "label": "url"
+    },
+    {
+      "type": "range",
+      "id": "items",
+      "label": "items",
+      "min": 1,
+      "max": 10,
+      "step": 1,
+      "default": 3
+    },
+    {
+      "type": "range",
+      "id": "margin",
+      "label": "margin",
+      "min": 0,
+      "max": 50,
+      "step": 2,
+      "default": 2
+    }
+  ],
+  "blocks": [
+    {
+      "type": "testimonial",
+      "name": "t:sections.testimonials.blocks.testimonial.name",
+      "settings": [
+        {
+          "type": "header",
+          "content": "t:sections.testimonials.blocks.testimonial.settings.header_media.content"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "t:sections.testimonials.blocks.testimonial.settings.image.label"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "title"
+        },
+        {
+          "type": "header",
+          "content": "t:sections.testimonials.blocks.testimonial.settings.header_link.content"
+        },
+        {
+          "type": "text",
+          "id": "subtitle",
+          "label": "subtitle"
+        },
+        {
+          "type": "text",
+          "id": "lable",
+          "label": "lable"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "t:sections.testimonials.blocks.testimonial.settings.link_url.label",
+          "info": "t:sections.testimonials.blocks.testimonial.settings.link_url.info",
+          "default": "/"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Popular treatments",
+      "blocks": [
+        {
+          "type": "testimonial"
+        },
+        {
+          "type": "testimonial"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

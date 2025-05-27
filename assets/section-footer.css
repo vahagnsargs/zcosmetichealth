@@ -39,8 +39,10 @@
 
 .footer input {
   color: #333232;
-  background-color: #FFFFFF;
+  background-color: transparent;
+  border: 1px solid #111;
 }
+
 /* placeholder color */
 .footer input::placeholder {
   color: #9E9A99;
@@ -69,7 +71,7 @@
 }
 
 .footer__links {
-  width: fit-content;
+  width: auto;
 }
 
 .footer__links li + li {

@@ -448,3 +448,14 @@ html.no-js .drawer__nav details[open] .drawer__nav-link svg {
   }
   /* ios 14 ios bug fix - end */
 }
+@media (max-width: 768px){
+.drawer__submenu-btn,.drawer__nav-link{color: #111 !important; font-family: Inter; font-size: 16px; font-style: normal; font-weight: 600; line-height: normal; text-transform: uppercase;margin-bottom: 24px;border:none !important;        margin-bottom: 0;}
+.header__menu_icon-sublinks .header__menu_icon-sublinks-title { margin-bottom: 10px; }
+  .search__controls{    display: flex;border-bottom: 1px solid #000;        justify-content: space-between;}
+  .search__controls .field.field--search field--search{width: -webkit-fill-available;}
+  .search__controls .field--search .field__input{    border: none;    --color-body-text: #000000;}
+  .search__controls .search__button { border: none !important;        background: transparent;}
+   .search__controls .search__button--clear{display: none !important;}
+  .drawer__utils-link{  color: #000;}
+  
+}

@@ -316,9 +316,7 @@ html.no-js .no-js-hidden {
   max-width: calc(var(--page-width) * 0.55556 + var(--page-gutter) * 2);
 }
 
-.container--small {
-  max-width: calc(var(--page-width) * 0.533);
-}
+
 
 .container--extra-small {
   max-width: calc(var(--page-width) * 0.45556 + var(--page-gutter) * 2);
@@ -449,7 +447,6 @@ html.no-js .no-js-hidden {
 
 @media screen and (max-width: 749px) {
   .small-hide {
-    display: none !important;
   }
 
   .small-visible {
@@ -1066,7 +1063,7 @@ img {
 
 .media {
   display: block;
-  background-color: var(--color-image-background);
+  /* background-color: var(--color-image-background); */
   position: relative;
   overflow: hidden;
 }
@@ -1075,7 +1072,7 @@ img {
   background-color: transparent;
 }
 
-.media--overlay:after {
+/* .media--overlay:after {
   content: '';
   position: absolute;
   top: 0;
@@ -1085,11 +1082,11 @@ img {
   background-image: var(--media-overlay-gradient-mobile);
   pointer-events: none;
   z-index: 2;
-}
+} */
 @media screen and (min-width: 750px) {
-  .media--overlay:after {
+  /* .media--overlay:after {
     background-image: var(--media-overlay-gradient-desktop);
-  }
+  } */
 }
 
 /* .media--overlay-horizontal:after {
@@ -2197,7 +2194,7 @@ dropdown-input.has-error .dropdown__button {
   .swiper-button:hover {
     opacity: 0.7;
   }
-}
+
 
 /* Swatches */
 .swatches ul {
@@ -2267,8 +2264,8 @@ input:disabled + .swatch:not(.is-active) {
 /* Section */
 
 .section {
-  padding: var(--section-vertical-padding) 0;
-  background-color: var(--color-body-background);
+  /* padding: var(--section-vertical-padding) 0;
+  background-color: var(--color-body-background); */
 }
 
 .section.layout-1 .container,
@@ -2304,6 +2301,7 @@ input:disabled + .swatch:not(.is-active) {
 }
 
 @media screen and (min-width: 750px) {
+
   .section.layout-1 .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -2792,9 +2790,6 @@ html.js .accordion__section.default-active .accordion__body {
 }
 
 @media screen and (min-width: 990px) {
-  .pt-0-desktop {
-    padding-top: 0 !important;
-  }
 
   .pb-0-desktop {
     padding-bottom: 0 !important;
@@ -2878,6 +2873,7 @@ html.js .js-animation-fade-in {
   html.js .js-animation-fade-in {
     animation: var(--theme-js-animations-on-mobile);
   }
+  
 }
 
 html.js .animation-init {
@@ -2968,9 +2964,6 @@ html.js .animation-none {
   padding-left: 1.8rem;
 }
 
-.entry--list-padding-none ul {
-  padding-left: 0;
-}
 
 /* preset specific styles */
 .template-theme--sahara .section.layout-1 .section__head {

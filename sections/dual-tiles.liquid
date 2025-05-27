@@ -2,8 +2,21 @@
   {{- 'section-dual-tiles.css' | asset_url | stylesheet_tag -}}
 
   {% style %}
+    .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
     .section-{{ section.id }} {
-      /* --section-height: {{ section.settings.section_height | default: '40' | append: 'vh' }}; */
+      --section-height: {{ section.settings.section_height | default: '40' | append: 'vh' }}; 
       --section-gap-between-tiles: {{ section.settings.gap_between_tiles_mobile | default: '0.2' | append: 'rem' }};
       margin-top: calc(var(--section-spacing-unit-mobile) * {{ section.settings.spacing_top_mobile }});
       margin-bottom: calc(var(--section-spacing-unit-mobile) * {{ section.settings.spacing_bottom_mobile }});
@@ -17,7 +30,9 @@
     }
   {% endstyle %}
 
-  <section class="section-dual-tiles section-{{ section.id }} container {{ section.settings.section_width }} pt-0x js-animation-fade-in{% if section.blocks.size > 1 %} {{ section.settings.layout }}{% endif %}">
+  <section class="section-dual-tiles section-{{ section.id }} section-{{ section.id }}-padding container {{ section.settings.section_width }} pt-0x js-animation-fade-in{% if section.blocks.size > 1 %} {{ section.settings.layout }}{% endif %}"
+     style="background:{{ section.settings.background }};"
+    >
     {%- for block in section.blocks -%}
 
       {% liquid
@@ -93,7 +108,7 @@
         endif
       -%}
 
-        <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}">
+        <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}" style="  min-height: unset;">
         {%- comment -%}
         Desktop media
         {%- endcomment -%}
@@ -135,16 +150,16 @@
         {%- endif -%}
 
         {%- if block.settings.title != blank or block.settings.button_text != blank and block.settings.button_url != blank -%}
-          <div class="section-dual-tiles__content">
+          <div class="section-dual-tiles__content" style="  min-height: unset;">
 
             {%- if block.settings.title != blank -%}
-              <h2 class="section-dual-tiles__title">
+              <h2 class="section-dual-tiles__title"  style="color:{{ block.settings.text_color }};font-size:{{ block.settings.heading_size }}px;">
                 {{- block.settings.title -}}
               </h2><!-- /.section-dual-tiles__title -->
             {%- endif -%}
 
             {%- if block.settings.content != blank -%}
-              <div class="section-dual-tiles__entry h5">
+              <div class="section-dual-tiles__entry h5"  style="color:{{ block.settings.text_color }}">
                 {{- block.settings.content -}}
               </div><!-- /.section-dual-tiles__text -->
             {%- endif -%}
@@ -172,6 +187,33 @@
 {
   "name": "t:sections.dual-tiles.name",
   "settings": [
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Bottom",
+      "default": 40
+    },
+    
+     {
+          "type": "color",
+          "label": "Background Color",
+          "id": "background",
+          "default": "#F5EBDF"
+    },
     {
       "type": "select",
       "id": "section_width",
@@ -301,6 +343,22 @@
           "type": "header",
           "content": "t:sections.global.settings.header_color_scheme.content"
         },
+        {
+          "type": "range",
+          "id": "heading_size",
+          "label": "Heading size",
+          "min": 1,
+          "max": 60,
+          "step": 1,
+          "default": 40,
+          "unit": "px"
+        },
+        {
+          "type": "color",
+          "label": "Text Color",
+          "id": "text_color",
+          "default": "#111111"
+        },   
         {
           "type": "select",
           "id": "color_scheme_text",

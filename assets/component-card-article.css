@@ -1,5 +1,5 @@
 .card-article > a {
-  display: block;
+  display: flex;
   line-height: normal;
 }
 

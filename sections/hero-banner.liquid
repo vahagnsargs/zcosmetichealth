@@ -145,7 +145,7 @@
           block.settings.button_text != blank and block.settings.button_url != blank
         -%}
           {% capture content_element %}
-            <div class="hero__content {{ hero_inner_setting_classes | strip }}">
+            <div class="hero__content sm:!max-w-[1310px] sm!m-[auto] {{ hero_inner_setting_classes | strip }}">
               {%- if block.settings.subtitle != blank -%}
                 <p class="hero__subtitle">
                   {%- if block.settings.subtitle_url != blank -%}
@@ -169,7 +169,7 @@
                   {{- block.settings.content -}}
                 </div><!-- /.hero__entry -->
               {%- endif -%}
-
+       <div class="buttons">
               {%- if block.settings.button_text != blank and block.settings.button_url != blank -%}
                 <div class="hero__button">
                   {%- render 'button',
@@ -181,6 +181,19 @@
                   -%}
                 </div><!-- /.hero__button -->
               {%- endif -%}
+
+               {%- if block.settings.button_text2 != blank and block.settings.button_url2 != blank -%}
+                <div class="hero__button second">
+                  {%- render 'button',
+                    type: 'link',
+                    class: 'button',
+                    button_style: block.settings.button_style,
+                    value: block.settings.button_text2,
+                    href: block.settings.button_url2
+                  -%}
+                </div><!-- /.hero__button -->
+              {%- endif -%}
+              </div>
             </div><!-- /.hero__content -->
           {% endcapture %}
         {%- endif -%}
@@ -206,7 +219,7 @@
     {%- endfor -%}
   {%- endcapture -%}<!-- /hero-slides -->
 
-  <section class="hero-banner section-{{- section.id -}}">
+  <section class="hero-banner  main section-{{- section.id -}}">
     {%- if section.blocks.size > 1 -%}
       <hero-slider
         class="swiper hero__swiper"
@@ -596,6 +609,18 @@
           "type": "url",
           "id": "button_url",
           "label": "t:sections.hero-banner.blocks.slide.settings.button_url.label",
+          "default": "/"
+        },
+        {
+          "type": "text",
+          "id": "button_text2",
+          "label": "Second button text",
+          "default": "View more"
+        },
+        {
+          "type": "url",
+          "id": "button_url2",
+          "label": "Second button url",
           "default": "/"
         }
       ]

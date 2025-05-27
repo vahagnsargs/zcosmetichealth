@@ -11,6 +11,14 @@
       column-gap: {{ section.settings.column_gap_desktop }}rem;
     }
   }
+      .blog__articles-grid {
+           column-gap: 1rem;
+    display: flex
+;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    }
 {% endstyle %}
 
 <script src="{{- 'collection-load-more.js' | asset_url -}}" defer="defer"></script>

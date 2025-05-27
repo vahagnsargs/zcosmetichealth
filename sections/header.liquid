@@ -138,6 +138,7 @@
           menu: linklists[section.settings.menu],
           submenu: linklists[section.settings.submenu],
           section: section,
+          section: section,
           append_id: 'header'
         -%}
 
@@ -164,12 +165,14 @@
                 %}
 
                 {%- capture menu_dropdown_items -%}
-                  {%- assign menu_remained_size = section.settings.menu_column_count | minus: link.links.size -%}
+                 {% comment %} {%- assign menu_remained_size = section.settings.menu_column_count | minus: link.links.size -%}{% endcomment %}
+                  {%- assign menu_remained_size = section.settings.menu_column_count  -%}
 
                   {%- for block in section.blocks -%}
 
                     {%- assign block_link_handle = block.settings.menu_link_title | handleize -%}
-
+                    
+  
                     {%- if link_handle != block_link_handle -%}
                       {%- continue -%}
                     {%- endif -%}
@@ -179,6 +182,7 @@
                     {%- if menu_remained_size == 0 -%}
                       {%- break -%}
                     {%- endif -%}
+                    
                     {%- assign menu_remained_size = menu_remained_size | minus: 1 -%}
 
                     {%- case block.type -%}
@@ -233,13 +237,14 @@
                   endif
                 -%}
 
-                <li class="header__nav-item js-nav-item{{ link_item_additional_classes }}">
+                <li class="header__nav-item js-nav-item{{ link_item_additional_classes }} base-{{ link_handle }}">
                   <a
                     href="{{- link.url -}}"
                     class="header__nav-link nav-text-link js-nav-link{% if link.child_active %} is-current{% endif %}"
                     title="{{- link.title | escape -}}"
                     {% if link.current %}aria-current="page"{% endif %}
                   >
+                    
                     {{- link.title | escape -}}
                   </a>
 
@@ -261,20 +266,92 @@
                     <div class="header__nav-dropdown js-dropdown">
                       <ul class="header__nav-links list-unstyled header__nav-grid--{{- size_of_columns -}}">
                         {%- for child_link in link.links -%}
-                          <li class="header__nav-links-item{% if default_dropdown %} js-nav-item{% endif %}{% if child_link.links.size > 0 %} has-dropdown{% endif %}">
+                          <li class="header__nav-links-item{% if default_dropdown %} js-nav-item{% endif %}{% if child_link.links.size > 0 %} has-dropdown{% endif %} child-link child-link-{{- child_link.title | handle -}}">
                             <a
                               href="{{- child_link.url -}}"
                               class="header__nav-dropdown-link{% if default_dropdown %} js-nav-link{% endif %}{% if child_link.current %} is-current{% endif %}"
                               aria-label="{{- child_link.title | escape -}}"
                               {% if child_link.current %}aria-current="page"{% endif %}
                             >
+                                {%- for block in section.blocks -%}
+
+                                  {%- assign block_link_handle = block.settings.menu_icon_title | handleize -%}
+                                  {%- assign link_handle = child_link.title | handleize -%}
+                                  
+                
+                                  {%- if link_handle != block_link_handle -%}
+                                    {%- continue -%}
+                                  {%- endif -%}
+          
+                                  {%- comment -%}{%- render 'image', image: block.settings.menu_icon_image, class:"menu_icon_image", alt: block.settings.menu_icon_image.alt | escape -%}
+                                  {%- endcomment -%}
+                                  
+                                     {% if block.type=='menu_icon' %}
+                                        <img class="menu_icon_image" src="{{  block.settings.menu_icon_image | image_url }}">
+                                      {% endif %}
+                                  
+                                  {%- if linklists[block.settings.menu_icon_menu].links.size > 0 -%}
+                                    
+                                    {%- capture menu_icon_items -%}
+                                      <div class="header__menu__sublinks_content">
+                                      {%- if link_handle == block_link_handle -%}
+                                      <h2>{{ block.settings.menu_icon_sub_title }}</h2>
+                                        {%- endif -%}
+                                       <ul class="header__menu_icon-sublinks menu_icon_items list-unstyled">
+                                          {%- for icon_child_link in linklists[block.settings.menu_icon_menu].links -%}
+                                            
+                                            {%- assign link_handle = icon_child_link.title | handleize -%}
+                                            {%- assign menu_dropdown_items_size = 0 -%}
+                                            <li class="header__menu_icon-sublinks-title {{ icon_child_link.title | handle }}">
+                                              {%- for block in section.blocks -%}
+                                                {%- case block.type -%}
+                                                  {%- when 'sub_menu_icon' -%}
+                                                      {%- assign menu_icon_title = block.settings.menu_icon_title | handle  -%}
+                                                      {%- assign icon_child_link_title = icon_child_link.title | handle -%}
+                                                     
+                                                    {%- if menu_icon_title == icon_child_link_title -%}
+                                                      
+                                                       <img class="sub_menu_icon" src="{{  block.settings.menu_icon_image | image_url }}">                                                      
+                                                    {%- endif -%}
+                                                 {%- endcase -%} 
+                                               {%- endfor -%}  
+                                            <div class="header__menu_icon-sublinks-group">
+                                              <a  href="{{- icon_child_link.url -}}">{{- icon_child_link.title | escape -}} </a>
+                                                {%- if icon_child_link.links.size > 0 -%}
+                                                  <ul class="header__menu_icon-sublinks-clild list-unstyled">
+                                                    {%- for grand_child_link in icon_child_link.links -%}
+                                                      <li class="header__nav-sublinks-item grand-child-link grand-child-link-{{- grand_child_link.title | handle -}}">
+                                                        <a
+                                                          href="{{- grand_child_link.url -}}"
+                                                          class="header__nav-dropdown-link{% if grand_child_link.current %} is-current{% endif %}"
+                                                          {% if grand_child_link.current %} aria-current="page"{% endif %}
+                                                        >
+                                                          {{- grand_child_link.title | escape -}}
+                                                        </a>
+                                                      </li>
+                                                    {%- endfor -%}
+                                                  </ul>
+                                                {%- endif -%}
+                                            </div>
+                                            </li>
+                                            
+                                          {%- endfor -%}  
+                                       </ul>  
+                                      </div>
+                                    {%- endcapture -%}
+                                  {%- endif -%}
+                                {%- endfor -%}
                               {{- child_link.title | escape -}}
+                              
+                            <img class="arrow-icon" src="https://cdn.shopify.com/s/files/1/0888/6393/2702/files/mynaui_chevron-up.png?v=1747174476">
                             </a>
 
+                            {{ menu_icon_items }}
+                            {%- capture menu_icon_items -%}{%- endcapture -%}
                             {%- if child_link.links.size > 0 -%}
                               <ul class="header__nav-sublinks list-unstyled">
                                 {%- for grand_child_link in child_link.links -%}
-                                  <li class="header__nav-sublinks-item">
+                                  <li class="header__nav-sublinks-item grand-child-link-{{- grand_child_link.title | handle -}}">
                                     <a
                                       href="{{- grand_child_link.url -}}"
                                       class="header__nav-dropdown-link{% if grand_child_link.current %} is-current{% endif %}"
@@ -386,7 +463,7 @@
             @@additional_links_placeholder@@
 
             <li class="header__utils-item small-hide medium-hide">
-              {%- render 'search-drawer', append_id: 'header' -%}
+            <a>Z Blog</a>
             </li>
 
             {%- if shop.customer_accounts_enabled -%}
@@ -396,11 +473,22 @@
                   class="header__utils-link svg-color-inherit"
                   title="{%- if customer -%}{{ 'accessibility.account' | t }}{%- else -%}{{ 'accessibility.sign_in' | t }}{%- endif -%}"
                 >
-                  {%- render 'icon-user' -%}
+                Gallery
                 </a>
               </li>
             {%- endif -%}
 
+            <li class="header__utils-item header__utils-item--cart">
+              <a
+                href="/pages/contact"
+                class="header__utils-link svg-color-inherit"
+                title="make an appointment"
+               
+              >
+             <button class="header-button">make an appointment</button>
+              </a>
+            </li>
+{% comment %}}
             <li class="header__utils-item header__utils-item--cart">
               <a
                 href="{{- routes.cart_url -}}"
@@ -409,9 +497,10 @@
                 id="cart-counter"
                 data-cart-link
               >
-                {%- render 'cart-counter' -%}
+             <button class="header-button">cart</button>
               </a>
             </li>
+{% endcomment %}        
           </ul>
         </nav>
       {%- endcapture -%}
@@ -555,7 +644,19 @@
     }
   </script>
 {%- endif -%}
+<script>
+   $('.header__nav-dropdown .child-link').first().addClass('active');
+$('.header__nav-dropdown .child-link').on('mouseover', function() {
+  $('.header__nav-dropdown .child-link').first().removeClass('active');
+  $(this).addClass('active');
+});
 
+$('.header__nav-dropdown .child-link').on('mouseout', function() {
+  $(this).removeClass('active');
+   $('.child-link').first().addClass('active');
+});
+
+</script>
 {% schema %}
 {
   "name": "t:sections.header.name",
@@ -819,6 +920,52 @@
     }
   ],
   "blocks": [
+    {
+      "type": "sub_menu_icon",
+      "name": "Sub Menu icon",
+      "settings": [
+        {
+          "type": "text",
+          "id": "menu_icon_title",
+          "label": "t:sections.header.blocks.image-link-text.settings.menu_link_title.label",
+          "info": "t:sections.header.blocks.image-link-text.settings.menu_link_title.info"
+        },
+        {
+          "type": "image_picker",
+          "id": "menu_icon_image",
+          "label": "t:sections.header.blocks.image-link-text.settings.image.label"
+        }
+      ]
+    },
+    {
+      "type": "menu_icon",
+      "name": "Menu icon",
+      "settings": [
+        {
+          "type": "text",
+          "id": "menu_icon_title",
+          "label": "t:sections.header.blocks.image-link-text.settings.menu_link_title.label",
+          "info": "t:sections.header.blocks.image-link-text.settings.menu_link_title.info"
+        },
+        {
+          "type": "text",
+          "id": "menu_icon_sub_title",
+          "label": "Sub Title",
+          "info": "t:sections.header.blocks.image-link-text.settings.menu_link_title.info"
+        },
+        {
+          "type": "image_picker",
+          "id": "menu_icon_image",
+          "label": "t:sections.header.blocks.image-link-text.settings.image.label"
+        },
+        {
+          "type": "link_list",
+          "id": "menu_icon_menu",
+          "label": "t:sections.header.settings.menu.label"
+         
+        }
+      ]
+    },
     {
       "type": "image-link-text",
       "name": "t:sections.header.blocks.image-link-text.name",

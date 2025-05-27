@@ -1155,13 +1155,27 @@ window.addEventListener('shopify:section:load', function () {
     document.querySelector('main section');
 });
 
-toggleHeaderIsScrolled();
+// toggleHeaderIsScrolled();
 
-windowDynamicEvents.forEach(eventType => {
-  window.addEventListener(eventType, function () {
-    toggleHeaderIsScrolled();
-  });
-});
+// windowDynamicEvents.forEach(eventType => {
+//   window.addEventListener(eventType, function () {
+//     toggleHeaderIsScrolled();
+//   });
+// });
+
+const header1 = document.getElementById('header');
+
+// Function to check the scroll position and add/remove the class
+function checkScroll() {
+  if (window.scrollY > 50) {  // You can change this value based on your needs
+    header1.classList.add('is-scrolled');
+  } else {
+    header1.classList.remove('is-scrolled');
+  }
+}
+
+// Listen for the scroll event
+window.addEventListener('scroll', checkScroll);
 
 window.addEventListener('scroll', function () {
   if (announcementBar) {

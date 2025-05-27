@@ -75,6 +75,15 @@
               style="--animation-order: {{ forloop.index }};"
             {% endif %}
           >
+            <a
+                    class="link animate-arrow"
+                    {% if block.settings.link == blank %}
+                      role="link" aria-disabled="true"
+                    {% else %}
+                      href="{{ block.settings.link }}"
+                    {% endif %}
+              style="display: inline-block;  width: 100%;"
+                  >
             <div class="multicolumn-card content-container">
               {%- if block.settings.image != blank -%}
                 {% if section.settings.image_ratio == 'adapt' or section.settings.image_ratio == 'circle' %}
@@ -163,19 +172,13 @@
                   <div class="rte">{{ block.settings.text }}</div>
                 {%- endif -%}
                 {%- if block.settings.link_label != blank -%}
-                  <a
-                    class="link animate-arrow"
-                    {% if block.settings.link == blank %}
-                      role="link" aria-disabled="true"
-                    {% else %}
-                      href="{{ block.settings.link }}"
-                    {% endif %}
-                  >
+                 
                     {{- block.settings.link_label | escape -}}
-                  </a>
+                  
                 {%- endif -%}
               </div>
             </div>
+           </a>
           </li>
         {%- endfor -%}
       </ul>

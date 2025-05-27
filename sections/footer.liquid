@@ -127,6 +127,7 @@
                     <h5 class="footer__menu-title">
                       {{- 'socials.title' | t -}}
                     </h5>
+                    
 
                     {%- capture social_links_list -%}
                       <ul class="footer__links list-unstyled svg-color-inherit{% if block.settings.icons %} footer__links--cols{% endif %}">
@@ -152,8 +153,8 @@
                         {%- endfor -%}
                       </ul><!-- /.footer__menu-links list-unstyled -->
                     {%- endcapture -%}
-
-                    {{ social_links_list }}
+                    {% render 'contact' , social_links_list:social_links_list %}
+                   
                   </div><!-- /.footer__menu -->
                 </div><!-- /.footer__col -->
 
@@ -193,6 +194,7 @@
                       </summary>
 
                       <div class="footer__links-mobile-item-dropdown accordion__body" id="Accordion-dropdown-socials-1">
+                        
                         {{- social_links_list -}}
                       </div><!-- /.footer__nav-mobile-dropdown -->
                     </details><!-- /.footer__links-details -->
