@@ -1,1 +1,77 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"b7f1dbf8-fb4b-4c72-ad35-cf47b087fc1f":{"type":"menu","settings":{"title":"Our Services","title_url":"","menu":"our-services"}},"ba2e09f9-38b3-4ed6-93ae-c2cd3420c2c0":{"type":"menu","settings":{"title":"Skincare","title_url":"#","menu":"skincare"}},"0de49fd3-060f-40bc-baeb-cf0131bae43e":{"type":"menu","settings":{"title":"About","title_url":"","menu":"about"}},"socials_6nrG9q":{"type":"socials","settings":{"icons":true}}},"block_order":["b7f1dbf8-fb4b-4c72-ad35-cf47b087fc1f","ba2e09f9-38b3-4ed6-93ae-c2cd3420c2c0","0de49fd3-060f-40bc-baeb-cf0131bae43e","socials_6nrG9q"],"custom_css":[],"settings":{"first_accordion_show":true,"social_links":true,"social_links_in_new_tab":true,"color_scheme_text":"color-text-primary","color_scheme_background":"color-background-inverse","layout":"footer--logo-none","logo_svg_code":"","logo_width":160,"logo_width_mobile":130,"footer_bottom_content_alignment":"row","enable_payment_icons":true,"custom_payment_types":"","payment_icons_color":false,"copyright":"<p>Z Center for Cosmetic Health © 2025 | All rights reserved.<\/p>","enable_follow_on_shop":true}}},"order":["footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "b7f1dbf8-fb4b-4c72-ad35-cf47b087fc1f": {
+          "type": "menu",
+          "settings": {
+            "title": "Our Services",
+            "title_url": "",
+            "menu": "our-services"
+          }
+        },
+        "ba2e09f9-38b3-4ed6-93ae-c2cd3420c2c0": {
+          "type": "menu",
+          "settings": {
+            "title": "Skincare",
+            "title_url": "#",
+            "menu": "skincare"
+          }
+        },
+        "0de49fd3-060f-40bc-baeb-cf0131bae43e": {
+          "type": "menu",
+          "settings": {
+            "title": "About",
+            "title_url": "",
+            "menu": "about"
+          }
+        },
+        "socials_6nrG9q": {
+          "type": "socials",
+          "settings": {
+            "icons": true
+          }
+        }
+      },
+      "block_order": [
+        "b7f1dbf8-fb4b-4c72-ad35-cf47b087fc1f",
+        "ba2e09f9-38b3-4ed6-93ae-c2cd3420c2c0",
+        "0de49fd3-060f-40bc-baeb-cf0131bae43e",
+        "socials_6nrG9q"
+      ],
+      "custom_css": [],
+      "settings": {
+        "first_accordion_show": true,
+        "social_links": true,
+        "social_links_in_new_tab": true,
+        "color_scheme_text": "color-text-primary",
+        "color_scheme_background": "color-background-inverse",
+        "layout": "footer--logo-none",
+        "logo_svg_code": "",
+        "logo_width": 160,
+        "logo_width_mobile": 130,
+        "footer_bottom_content_alignment": "row",
+        "enable_payment_icons": true,
+        "custom_payment_types": "",
+        "payment_icons_color": false,
+        "copyright": "<p>Z Center for Cosmetic Health © 2025 | All rights reserved.</p>",
+        "enable_follow_on_shop": true
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

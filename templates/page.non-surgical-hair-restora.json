@@ -1,1 +1,549 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_UQ7mBc":{"type":"hero-banner","blocks":{"slide_L4tdcz":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Ultherapy-BG_2x-1.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-start text-left","content_position_vertical":"justify-end","subtitle":"","subtitle_url":"","title":"NON-SURGICAL HAIR RESTORATION","content":"<p><br\/>Our unique ExCell non-surgical hair restoration technique harnesses the power of regenerative exosomes and pepfactor peptides to provide results that are equivalent or superior to platelet rich plasma (PRP), without the need to draw your blood! Our paraben-free, steroid-free, and hypoallergenic patented technologies and ingredients are clinically proven to rejuvenate and regenerate the skin and Scalp<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"#shopify-section-template--24036801773854__request_an_appointment_zMwVfx","button_text2":"View more","button_url2":"\/"}}},"block_order":["slide_L4tdcz"],"custom_css":[".hero__entry {max-width: 800px;}",".hero__inner {height: 100%;}",".hero__content {height: 100%;}","p {text-transform: math-auto;}"],"settings":{"slider_height":100,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"spacing_AzJ46r":{"type":"spacing","settings":{"color_scheme_background":"background-colors-default","spacing_desktop":88,"spacing_mobile":49}},"request_an_appointment_zMwVfx":{"type":"request-an-appointment","custom_css":["@media (max-width: 768px) {h2 {max-width: 315px; margin-bottom: 20px; margin: auto; }}"],"settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_DEAwpx":{"type":"dual-tiles","blocks":{"tile_6DfREe":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"PEPFACTOR SCALP","text_size":2,"content":"<p>Hair loss is a common problem that can leave many feeling self-conscious. PepFactor promotes thicker, vibrant and luscious-looking hair.<\/p><p>Enriched with Copper Peptide, antioxidants and our proprietary PepFactor ingredients, PepFactor Scalp helps encourage more voluminous, younger-feeling hair, with most treatments showing visible results after just four weeks.<\/p><p>Created by doctors and scientists, PepFactor provides a powerful non-surgical solution for scalp rejuvenation that uses a minimally invasive procedure called micro-infusion in conjunction with the application of our PepFactor serum. Microneedling Promotes natural hair regrowth and you can expect to see initial improvements within 8-12 weeks from your first PepFactor treatment. PepFactor can be safely used in conjunction with other therapies to promote confidence in our clients with fuller looking hair.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_TFMMBh":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Group-22.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_6DfREe","tile_TFMMBh"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":45,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":0,"spacing_bottom_mobile":2}},"dual_tiles_eWAHMb":{"type":"dual-tiles","blocks":{"tile_f9cNjn":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/ThermiTight_BK-before-and-after_2_300dpi.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_RGgUhM":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"PEPFACTOR SCALP BENEFITS","text_size":2,"content":"<p>PepFactor Scalp treatments lead to a number of benefits that help clients feel and look younger and more confident in only a few treatments. Some benefits include:<br\/>​​<br\/>Makes the hair appear more voluminous, lustrous, and healthy<br\/>Non-Surgical with lasting results & minimal discomfort<br\/>Quick procedures with no blood drawing necessary<br\/>Affordable and effective<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_f9cNjn","tile_RGgUhM"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-page","section_height":45,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":0}},"dual_tiles_wdV9bd":{"type":"dual-tiles","blocks":{"tile_maXVak":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"HOW DOES PEPFACTOR WORK?","text_size":2,"content":"<p>What sets PepFactor Scalp apart from other non-surgical hair loss solutions is its revolutionary formula combined with copper peptides. PepFactor Scalp does not require any blood draw. Overall this amazing procedure restores and encourages more voluminous, younger-feeling hair, with visible results in just 8-12 weeks.<br\/>​<br\/>Full results can be experienced 6 months after a series of 6-8 treatments. Results can vary from person to person. Maintenance treatments will be needed once goal results are achieved.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_6iP3UT":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/ThermiTight_BK-before-and-after_2_300dpi-1.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_maXVak","tile_6iP3UT"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":45,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":0,"spacing_bottom_mobile":2}},"dual_tiles_69UeFn":{"type":"dual-tiles","blocks":{"tile_HERAFa":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"https:\/\/www.youtube.com\/watch?v=k8omx_WZpw8","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"Stem Cell Hair Restoration","text_size":2,"content":"<p>Thicker Hair Without Surgery<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_DzyFWG":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"https:\/\/www.youtube.com\/watch?v=k8omx_WZpw8","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_HERAFa","tile_DzyFWG"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--50-50","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":2}},"dual_tiles_QQDQkf":{"type":"dual-tiles","blocks":{"tile_xki9MU":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_1.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"#shopify-section-template--24036801773854__request_an_appointment_zMwVfx","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_jEk6Am":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"","text_size":1,"content":"<p>Ready for thicker, fuller hair? Contact us to schedule your consultation with Dr. Zadeh to see if our hair restoration treatment is appropriate for you!<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"#shopify-section-template--24036801773854__request_an_appointment_zMwVfx","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_xki9MU","tile_jEk6Am"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles__actions {max-width: 200px; margin: auto;}",".section-dual-tiles__actions a {color: #fff;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":0,"spacing_bottom_mobile":0}}},"order":["main","hero_banner_UQ7mBc","spacing_AzJ46r","request_an_appointment_zMwVfx","dual_tiles_DEAwpx","dual_tiles_eWAHMb","dual_tiles_wdV9bd","dual_tiles_69UeFn","dual_tiles_QQDQkf"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_UQ7mBc": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_L4tdcz": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Ultherapy-BG_2x-1.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-start text-left",
+            "content_position_vertical": "justify-end",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "NON-SURGICAL HAIR RESTORATION",
+            "content": "<p><br/>Our unique ExCell non-surgical hair restoration technique harnesses the power of regenerative exosomes and pepfactor peptides to provide results that are equivalent or superior to platelet rich plasma (PRP), without the need to draw your blood! Our paraben-free, steroid-free, and hypoallergenic patented technologies and ingredients are clinically proven to rejuvenate and regenerate the skin and Scalp</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "#shopify-section-template--24036801773854__request_an_appointment_zMwVfx",
+            "button_text2": "View more",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_L4tdcz"
+      ],
+      "custom_css": [
+        ".hero__entry {max-width: 800px;}",
+        ".hero__inner {height: 100%;}",
+        ".hero__content {height: 100%;}",
+        "p {text-transform: math-auto;}"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "spacing_AzJ46r": {
+      "type": "spacing",
+      "settings": {
+        "color_scheme_background": "background-colors-default",
+        "spacing_desktop": 88,
+        "spacing_mobile": 49
+      }
+    },
+    "request_an_appointment_zMwVfx": {
+      "type": "request-an-appointment",
+      "custom_css": [
+        "@media (max-width: 768px) {h2 {max-width: 315px; margin-bottom: 20px; margin: auto; }}"
+      ],
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_DEAwpx": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_6DfREe": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "PEPFACTOR SCALP",
+            "text_size": 2,
+            "content": "<p>Hair loss is a common problem that can leave many feeling self-conscious. PepFactor promotes thicker, vibrant and luscious-looking hair.</p><p>Enriched with Copper Peptide, antioxidants and our proprietary PepFactor ingredients, PepFactor Scalp helps encourage more voluminous, younger-feeling hair, with most treatments showing visible results after just four weeks.</p><p>Created by doctors and scientists, PepFactor provides a powerful non-surgical solution for scalp rejuvenation that uses a minimally invasive procedure called micro-infusion in conjunction with the application of our PepFactor serum. Microneedling Promotes natural hair regrowth and you can expect to see initial improvements within 8-12 weeks from your first PepFactor treatment. PepFactor can be safely used in conjunction with other therapies to promote confidence in our clients with fuller looking hair.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_TFMMBh": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Group-22.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_6DfREe",
+        "tile_TFMMBh"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 45,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "dual_tiles_eWAHMb": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_f9cNjn": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/ThermiTight_BK-before-and-after_2_300dpi.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_RGgUhM": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "PEPFACTOR SCALP BENEFITS",
+            "text_size": 2,
+            "content": "<p>PepFactor Scalp treatments lead to a number of benefits that help clients feel and look younger and more confident in only a few treatments. Some benefits include:<br/>​​<br/>Makes the hair appear more voluminous, lustrous, and healthy<br/>Non-Surgical with lasting results & minimal discomfort<br/>Quick procedures with no blood drawing necessary<br/>Affordable and effective</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_f9cNjn",
+        "tile_RGgUhM"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-page",
+        "section_height": 45,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_wdV9bd": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_maXVak": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "HOW DOES PEPFACTOR WORK?",
+            "text_size": 2,
+            "content": "<p>What sets PepFactor Scalp apart from other non-surgical hair loss solutions is its revolutionary formula combined with copper peptides. PepFactor Scalp does not require any blood draw. Overall this amazing procedure restores and encourages more voluminous, younger-feeling hair, with visible results in just 8-12 weeks.<br/>​<br/>Full results can be experienced 6 months after a series of 6-8 treatments. Results can vary from person to person. Maintenance treatments will be needed once goal results are achieved.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_6iP3UT": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/ThermiTight_BK-before-and-after_2_300dpi-1.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_maXVak",
+        "tile_6iP3UT"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 45,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "dual_tiles_69UeFn": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_HERAFa": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "https://www.youtube.com/watch?v=k8omx_WZpw8",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Stem Cell Hair Restoration",
+            "text_size": 2,
+            "content": "<p>Thicker Hair Without Surgery</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_DzyFWG": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "https://www.youtube.com/watch?v=k8omx_WZpw8",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_HERAFa",
+        "tile_DzyFWG"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "dual_tiles_QQDQkf": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_xki9MU": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_1.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "#shopify-section-template--24036801773854__request_an_appointment_zMwVfx",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_jEk6Am": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "<p>Ready for thicker, fuller hair? Contact us to schedule your consultation with Dr. Zadeh to see if our hair restoration treatment is appropriate for you!</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#shopify-section-template--24036801773854__request_an_appointment_zMwVfx",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_xki9MU",
+        "tile_jEk6Am"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles__actions {max-width: 200px; margin: auto;}",
+        ".section-dual-tiles__actions a {color: #fff;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_UQ7mBc",
+    "spacing_AzJ46r",
+    "request_an_appointment_zMwVfx",
+    "dual_tiles_DEAwpx",
+    "dual_tiles_eWAHMb",
+    "dual_tiles_wdV9bd",
+    "dual_tiles_69UeFn",
+    "dual_tiles_QQDQkf"
+  ]
+}

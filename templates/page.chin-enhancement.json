@@ -1,1 +1,516 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_bjwbDz":{"type":"hero-banner","blocks":{"slide_3m8BRY":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Emsculpt_2x-scaled_89273340-952e-48f5-a40e-5c4e60d57257.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-end text-right","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"Chin Enhancement","content":"<p>The shape and size of your chin can dramatically change the look of your face. Because of this, chin augmentation has always been a popular cosmetic treatment.<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"#shopify-section-template--24036800987422__request_an_appointment_k7dE8N","button_text2":"","button_url2":"\/"}}},"block_order":["slide_3m8BRY"],"custom_css":[".hero__entry {max-width: 1000px;}"],"settings":{"slider_height":100,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_FgLiDd":{"type":"dual-tiles","blocks":{"tile_FWJanz":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"Fillers","text_size":2,"content":"<p>In the past, those seeking to change the shape of their chin had only one option: to undergo surgery, which was time consuming, painful, and often quite stressful.<\/p><p>Today, however, there is a simple and pain-free way to enhance the chin with absolutely no surgery: fillers.<\/p><p>Fillers are perhaps more commonly known for their ability to treat common signs of aging, like wrinkles and lack of fullness in the skin. However, fillers are also excellent for changing the shape of the face, including enhancing the chin. Fillers can easily change the shape of the chin, including correcting a “weak” chin, through strategic application. When a chin is out of balance with the rest of one’s face, it can create a “recessive” chin.<\/p><p>Among both men and women, this “weak” chin is often a source of stress. A weaker chin can greatly disrupt the symmetry of the face, which is one of the things that influences our perception of attractiveness. But fillers can enhance a weak chin, restoring a symmetric appearance to the face.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_FWJanz"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":55,"layout":"section-dual-tiles--30-70","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":3}},"request_an_appointment_k7dE8N":{"type":"request-an-appointment","custom_css":["@media (max-width: 768px) {h2 {text-align: center; }}"],"settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_iNi6dd":{"type":"dual-tiles","blocks":{"tile_ypFA9j":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_2.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_rXyGG4":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"","text_size":1.5,"content":"<p>Why Dr. Zadeh?<\/p><h2>Because He Cares.<\/h2><p>There are a wide range of treatments for chin enhancements, each with their own pros and cons. Sometimes the best solution is a combination of treatments. Dr. Zadeh is a Board Certified Surgeon who has developed the best techniques to achieve optimal results in chin enhancement. Using his detailed knowledge of facial anatomy and superior techniques, Dr. Zadeh is able to apply the treatment skillfully, to produce a natural and healthy look.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"#shopify-section-template--24036800987422__request_an_appointment_k7dE8N","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_ypFA9j","tile_rXyGG4"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles__actions {text-align: center;}",".section-dual-tiles__actions a {color: #fff;}","h2 {margin-top: 10px !important;}","p {margin: 0px;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":0,"spacing_top_mobile":3,"spacing_bottom_mobile":0}},"dual_tiles_AQitUB":{"type":"dual-tiles","blocks":{"tile_6dBwHk":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"HOW DO FILLERS WORK FOR CHIN AUGMENTATION?","text_size":2,"content":"<p>As with any application of fillers, getting fillers for chin augmentation is a fast and simple process. A session generally takes around 15 minutes and requires no downtime. The results of fillers for chin enhancement can be seen right away.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_EBXKTf":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/thermi-cellulite-copy-21_2x_fc01bcdb-5d3e-4a54-ba4e-f38ced5a2235.gif","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_6dBwHk","tile_EBXKTf"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--70-30","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":0,"spacing_bottom_mobile":3}},"seo_content_zV7zyJ":{"type":"seo-content","custom_css":["h2 {font-size: 20px;}",".section-seo-content {padding: 0px;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"pt-0-mobile pb-0-mobile","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","text_size":1,"title":"When changing the shape of the face with fillers, it’s important to remember that this is an artistic cosmetic treatment. For the best results, you should only go to a doctor who is experienced with using fillers to change the shape of the face, like Dr. Zadeh.","content":""}},"seo_content_fUHJYW":{"type":"seo-content","custom_css":["p {font-size: 20px;}",".section-seo-content__inner {margin-bottom: 0px !important;}",".section-seo-content {padding: 0px;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"How Long Does Chin Enhancement With Fillers Last?","content":"<p>Fillers are a safe and simple way to get the same look as a surgical enhancement.<\/p>"}},"trust_indicators_AUPmBE":{"type":"trust-indicators","blocks":{"indicator_MdfrfH":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator_svg_code":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"172\" height=\"184\" viewbox=\"0 0 172 184\" fill=\"none\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n<rect width=\"172\" height=\"184\" fill=\"url(#pattern0_3015_4)\"><\/rect>\n<defs>\n<pattern id=\"pattern0_3015_4\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_3015_4\" transform=\"scale(0.00581395 0.00543478)\"><\/use>\n<\/pattern>\n<image id=\"image0_3015_4\" width=\"172\" height=\"184\" xlink:href=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKwAAAC4CAMAAABJqPdnAAAAilBMVEVMaXEGBgYAAABUVFQKCgp8fHxHR0eAgIAlJSVmZmYgICAtLS03NzddXV1ycnIvLy8AAACDg4NGRkY3NzdaWlqJiYkYGBgKCgpeXl4PDw84ODgzMzMxMTF4eHgUFBRCQkIDAwOsrKwhISHd3d1FRUW9vb1UVFSjo6NPT098fHyWlpYrKysBAQEGBgYSe1NzAAAALHRSTlMA+P2m8zKbBNAQ5sy+NIY8UUAhw0Qn9XuV3WbhKiLryd0d3g+6Ml9AeHdcwFSeOC8AAAaBSURBVHja7Z15e6o6EMYNICCgvSgo5dT0sgjK8v2\/3j3vzeG4NlgFy5L3jz61zhN\/1mQmM1mcTL5QEMi\/td1OWtB2q6qyHASNNdgr2Pk8DCn9+GgD9u2NUl2fz8cJO53qumG0A\/vxYRi6Pp0KWAHbJOxy2Tbscjls2Pn87aaSxDAo9f23FuT7lIZhktx+luPSegVrmuVNFX9UtiB+26Y5DFhdLwrTtKzVmSzLNBWFkOtnnhfaJkRRbr9qUej6UGAVBe5ZO9Nk4rq6Tun1M88LAQcTGde9ftXpVFGGBns9+db193c02Lxc9\/1d129NvscAO51i8m3bbcDaNoLC7VcdOqxtWxbctmU5TtOojsPajuPrf8XQYXe7MESoWK2KIgzTtEnUNDUM\/BMQjHR9txsTrKYtFkXhea6LYkRRLBZw182Ita2q263ret5128OGnc1kuSxZ53ccQmR5NmsKdjaLY0LYoLXtorhse9iwmoYPSFVnM\/ab5zUJy9rWtNkMXczznu6zPYJl7qUs898ipOmQm6aUEpLnlkWIYVy6xaHDalqS6DoSuzDMsuYcFxRFWYaAgJCQJJdtDx2WlY8cJ8saLPieIWWZ49wqH40B9mc0NNh20sLHUskhwZZlHGMR7eelqnFclsOBZcXHogNiFDUlzx7BEuL7\/3REvk8Itxv0CvZWyfNn9GB9tuOwYm7QJqymBcH8BxQE1SR8qLBIlMuSkLpFNywMNWdVlsdkf7iwKDwYRp6bXFFaFJTyrfKcWfFbynMUQFFQGQNsktSFiMVCkvZ7vtVkst9LEkqafKskGRdsXUFYkjabOge\/2TBYvtV4YMvS918J6\/tlKWAFrIAVsAJWwApYAStgBayA7T5sXVozmRwOklT3loAhSYdDnVWSdAFWewEstoJMpzZXnidJnpemPJs0ZVb8lqbTaovLGGCxXdTgSlGKYr3mW4Xhel0UisJvCdtexwMbhnH8yRVeoM4qjrH5klJ+S8xqHLBlud8HwZYrNnT4VkHArHgW0H4\/Htj6oHB\/uP06KGhamgKx9XDbIdhXTGSwJdMwFgsB2ywsULHwlGUCtklYvAq2urJtkwL2GdjTw1RsydUwHIe9DQH7OKznmWZ1LOUSVcA+DhtFsoyNZegKFaptH4edgH28G0RRHBfFarXbATUMT1EF7LOuCwcBKZUkoHa81tUrWOCaJlCvjxjyYNMUhzqGAnvv5ghsO+GLbTupHuHip1tHN3mbI9K0KCTpBLc92M0rYJGKu1whyVZVvlUQqCpS8fO\/XVvxU3E8K0l\/32TPYQlZ14iQe63K8h4rnutC4ZrSP7jtwSqvgKX0vUYozClKnRUKo\/e1dQ4bhp53hEWx+e8w6zms7+OgKU8YYJsN30rTEBSw2ZRv5fvnsOheGORHVMPAz\/9xew1779LSs4W520tLOPhNKbapAvdwQEdCSgQXpih9h\/255VAUlXBlSxCgeG9ZknRMNR3nN76AfQgWiWUcRxH+utvB8RkGe9TBVfEewQK1KKoBWYWCi4mogP02LOAoRegFLnNZWYZhdoYrYL8J+\/lZlqsVXBbCAa5uwyOkQsA9mdYI2G\/CrtemWbksdsiFPYoiHLSNYwH7CCyKdmyywgRcNtXWNDxnWSeBQcDeDXs4oAgKVFzAx0oi7AKuwwGJQBV+Bez3YBEKmJMCLNwWw2W\/4xqnTqyKNwb7qrSGJYPHj\/kYAjQNLutsaA0AFlOH5fKDK5aK862WS5aKf93GucuCtluEhP3+xtAaBKyi\/FsjpByE1Fmh5PZVW+wqwyNqFLGUEZdyYmh53g3UXsMuFr\/ukmk+Z4VrnE9xZNkwgD6bXUxdBgIL42XrQmpIKULBble5SVztiJJxnn8xtHoP274YFhtaGM4sbLBLDSWJi9pD2NddgQUktlGCBVhcGssSwiBAQLi81LHfsIQkifMSoaR57rIqREy90QVqkqBewSK8kRcJF4ZcTkB3O0y0gcwdWj2E9TzrRVqt1utfv6qrG6MoSdjATlNcKnYHas9gX6f5\/PRKNmx8UBTbxoaUs+KbgP22oghDqdoqxS7RxpdAdK4L9A52MskybJc6bv0FbkdRewaLr\/TB4SzWFVwXU0RZ7ihqr2BZYQMfPbuWm5MaCthvoyJJZMCKoqqd7a89gj1uIUHCjwPCDX4d54hh4f5PC3GdVo9gMbR0vbMjv7ewtwryArYJ5Tlb8BSwo4ZtTv8BHXy0y1kousUAAAAASUVORK5CYII=\"><\/image>\n<\/defs>\n<\/svg>","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-inverse","title":"Fillers are a temporary treatment, though they are easy to maintain for those who want long-term results.A single session of fillers generally lasts around 9 to 12 months.","link_title":"","link_url":""}},"indicator_yPraWX":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator_svg_code":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"146\" height=\"166\" viewbox=\"0 0 146 166\" fill=\"none\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n<rect width=\"146\" height=\"166\" fill=\"url(#pattern0_3015_3)\"><\/rect>\n<defs>\n<pattern id=\"pattern0_3015_3\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_3015_3\" transform=\"scale(0.00684932 0.0060241)\"><\/use>\n<\/pattern>\n<image id=\"image0_3015_3\" width=\"146\" height=\"166\" xlink:href=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJIAAACmCAMAAAAGTiYHAAAANlBMVEVMaXEiHiAiHh8fGhodGx0hHh8gHR0iHh8ZDAwiHh8iHR8YGBghHh4jHR8hHR8iHx8hHBwiHh+HNkLzAAAAEXRSTlMAeOQ6IqRP8wfStRVchGuVLozgv7YAAASKSURBVHja7dyLkqMgEAVQ36KIj\/\/\/2d2bDiUaUVBjWsae2trs1tTkjCA0DSaKnqDIMqWEeEjroCQZhqpihGJH0iD8kfIhLYUQACkVRV3HBMWQFEVosrpG12aDYkjKsrIchjxnhGJHkhINxwrFjkSgPNd\/M0CxI5kQIVig2JFMEE0tP0f9lCSEUvNEdg4aUZdMLuxIQuT5MEzffgl0IYodiUBVZRJsoCmKkru2vR+paeLYj9S2w5AkUo6MNRBCKTRz\/T90E96NVFVluSdBw+UnSl2vg+IYvwK+xwkUCCmK+p4SNI3aBmWZEGg4pwV5IKSmGQaCADWmtHaQ55qLDSlNi1ckSVkW73AHlSXezGy8JZTnNWJHyrJhIdLUFYTvLIp1lOc1YkjCj25fgYZr37F9i44gxBpqx73GkLRnEJiC1lAHQDcnIcWYgmyoQ6Bbk2gSWZo45yj8OQBiSYpj\/DC3jj0uf9ZRZXkAxJLkc\/Oby0QbijYr7CldqCRzgHRBbS2hQiTNJxEGKHYklF\/mkwihuu7zuy9BsSPpSeSzPFPX2AK0ocAllG8J5H6kcRJZaiTbMgMDJYoYaYolZ9OETdIJGzWAG4pAXQeMLviETKKOTQVhVxSB0KGp2HPyNWJHoo6NYmeSYJh0QY0g+pfLYv7OpHFxRK+wMCfU8vD4CTo92JGoY+slQlGgo1YVBgPbJPL1a8SORB1bH\/ZBSEkbXXVt67AXXCNWJJ3UZtm0M6cpFdyTpOuKAmV1SlH6vmkwVHz9GjEimYn\/HAVWnqOrU5Tl+HopyQuVNF8cfaLQVGmqVJ5Xr8A2DWBf70dsSCjlzRdHhLK\/4ZfHI3YkmkQ+pwugbG95ybzGiEQd2y81vWReY0TSN79PCn\/JNWJEMgdIV9RF14gNaT6JuKDcQUJgU5oVSfqTUJ6aTyJ9jze0l2B8Gg1b2i6bIfcj0SRyzuIoDJJOSfr+O5NIKCQ6aueG8h8gwyFp1NZBoT2TSEgkOqQ6DGuofRNtSCSUaghlm0Z85n5pfPX9+7is8fUDkhmaZIZjeoKHNKkks9R4fvnRsBEOiTQ7Eg4A4zAGbVQtoXw6thBdV08CXWL6P5sFenYk2jZuGoAwWH423rHEf8cgwJCEDfeu0yCU\/mhrT0\/CRxdHYZCo4E4gOlKHQqhGHV9AhkHSt35RYMtGpyg6WTm+yA6LpBTevq71409AnbEJEQKJbv441iwzcWjb7QLD9sdh3J9kDpAO87NlWbq+iLg7aQTtD2zYr\/8EPCLq\/MuyI50BciF532uMSEdBUvavQGrTtvT64FFFdqTjjUbb89OwH4+5I+mMjl0U3Svo8DC9di0t3oGE7YjjN\/+pgwBDEo5HnTbeBks6Nx6SWzeoqq8\/JvQDklKsPs2OJYkeH\/\/a7n4gJPrIiiRh1HTsSCiTlyUlpw\/JFijQKIUlcVU9pLUkHiUtFABPfvYhFFKPzTo62ovNLveHpv4UqUXnpqlESh4dnCGpQXM9pI3IaMMUDxtiEOCQoDAkRePHEzl+dNUfJaH14lgpbAayySof0mr8A6VzuTQp2odRAAAAAElFTkSuQmCC\"><\/image>\n<\/defs>\n<\/svg>","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-inverse","title":"The temporary nature of fillers makes them an excellent option for those who are unsure if they would want to undergo surgical chin enhancement. Plus, they’re instantly reversible if a patient ever decides they don’t like the look of their fillers.","link_title":"","link_url":"\/"}},"indicator_hDFM3X":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator_svg_code":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"160\" height=\"186\" viewbox=\"0 0 160 186\" fill=\"none\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n<rect width=\"160\" height=\"186\" fill=\"url(#pattern0_3014_2)\"><\/rect>\n<defs>\n<pattern id=\"pattern0_3014_2\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_3014_2\" transform=\"scale(0.00625 0.00537634)\"><\/use>\n<\/pattern>\n<image id=\"image0_3014_2\" width=\"160\" height=\"186\" xlink:href=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAC6CAMAAAAeXLbiAAAA6lBMVEVMaXGkpKSRkZFxcXHMzMw4ODjFxcV7e3scHBwRERFHR0cICAjV1dW\/v79VVVWLi4t8fHwDAwMhISEYGBiZmZmKioqDg4NaWlpcXFzAwMCMjIwLCwtMTEw1NTUnJydOTk4\/Pz+lpaUsLCwtLS1\/f3+pqanR0dFlZWXKysqoqKgRERG1tbWOjo5UVFQrKyuGhoabm5tpaWlLS0unp6ehoaEuLi4NDQ1CQkJjY2NDQ0NUVFR0dHRhYWFVVVVDQ0M1NTU9PT1xcXE4ODgfHx97e3tEREQHBwcREREAAAAJCQkZGRkxMTEAAAAFBQWsKeGyAAAATHRSTlMAJhyNDMMcBOTzu\/oGFBcLfvvc62NCa5ahNE\/4n8zYs7pHzdRgOyGYK1XsRXGprjdULqkxE8TiVnSSgnWJRbIwdVqozVHIq2buxZD7fQ5FRQAADU5JREFUGBnNwQdbVIeCMOD3HA4M4iAgiA3EBsFY0FhyoybPKn5fNnd\/cJ7ctaTYrmKLMRALdpQmDH2GKZu5LDeYUAajm\/O+4i6wapG9Kq1xW6U2z8x56aB5t7HVjEGfS5jS7753FYq5QMkOqdCl2YANaqxVMKNfG2552yFjXtuoUmCNR9o8kvTMRzJuWZ1QzAVWlPCxtV5olTOgziXl0t6SSFtO6HP3lNknRLd214wpTeh9SPtgAsuqcMRt9caVG5H1Z1U4pNwrGaFy\/catJBRzgSUd9tJak3LGpL1PCfsk3JbXoN1ZywnFXGCBwEk\/KKqwQ9YTZTI+lIR2VV4oFxqUUtRuqx8N+k0o5gIL7PdQZFyjMbXeyPjwjnim2qwKg1J2azfhW78JxVxkgRGdHhlxxC19CuYEPrXOuEGTJqWl\/TkJCWlpc7owqkynjLWGEFgoFHORBSYw5ojL1vjCdwgc0m0DKtSj1xMnzRpx3+oktNho1oheGXknpHWZU2lWt00anXNBlYVCMRdZIMKMR7bYLoVTIv3+pkugxR0FnXYi8KNyx0y4Y2WB\/9BnVqRWQYNWZ23TY1KjAUW7NPnBY4F1qvRZKBRzkQUqsNlPGmzX45Q+D+TN6UPohbwXjutUdFO5Fs+lLe6QKq+krNWq6LJqW02o0C+0Xrkm41LWKSCPAEnjfhOKucgCrQIvsAvr3TUub6G82zgiZcCgNTpxwcdu+aOkrXp0qkPgv32sxohhT8wbQ6MJCUVNRoWm7DZkoVDMRRb4XqU9bqrAWr9YXJeipDIXHZDUazFThnS6ICHllH26LGbAXoyq9hodehSkLRSKucgCFTaow4RaA+YklUlptV6tf2rSYNotgQkT+N5S8kITduuRc1ZRwpy0he5pk8dh38jrdN3bQjEX+ZfQcRn1nrot4bYe+7xQNOmQpHu2m1bvjYQZ24yp8dq45Qz61pxAp9s+UvBMuRpZZboljCu6r8Euo8hi3AGVsm4pKArFXOBXgTonvHbXGefMKFNjUkHaDs2u6zDjtQFbbDYiMCAl8JGXxi0vKaNBwoxGtV7qU2OdjEkdnnuoTBon1En5QaNjuKJGv0pN7iAUc5GIwBo\/eSxyXqeUH9SaUm6HYYN26hNI+btbNtqIYWWq9FjZjDX6dNjstWbt2nFFuUoFb+zTLWlC3gW7EWDaiGEdEn5UISMUc5Fa\/uaql8hqxSwKKrULNXps0lrb5HDIWS3KpG3yxknXZCwva7dAyn2hck+dQaTdJQM2GbDbL5iU1403bmmUxx2tzvgaoZgLbOe1rKyizQ77Ws4BLZ7o0Whah5tS\/i7EeRnbNJi1xk2NqvRYWrUae0y5olZSnyb7kPEPSevsdk2tvDe2SUkji6ysOeU2SwnFXKSKUNacfuc0e6JKQV5C2nYXFI2oRyDysR89Q6NBScupdtAbl7HWAQMGFUWYMCFn1kduq9Sn0bAKG2xx3by8nIJQzEVesduP5lSpUyVhBoEJTYbt8xOeeOaQU4qmhNbb4o5pyxlwVVKVbQKcUXTFBkUNxjT6DoFKtZ75VK0hC33iO6GYC\/wn35syb78W\/1DvsK\/lJORs1eyyvL0eKyiY1WbYqIzSdBhVjQllJtXqUW1KuToTxvG5WiMuavA3Vw2Z95FnyoViLnKNejlpc9aiwYRbTvheWtIGr7VqMKpKVpOkYSkZpbqjQrPneKLOkI3WShr3XFbRI5\/oQRnKzUvotU2\/UMxFttNt1rxnGrT51gbXJKRN6BKpFKmwS69KV61WxkWhelRqUS6lV0pCVtEU6gzZ55y0eft1qzIhFHOBfWz3wm1z2rS566kW+\/1DxvuVNCGStdAXHnklVC1pQNqcPXa5ZkAo5iIJAiPm9RuSlLAVNQa9XxPIWijpmkbl1vlUl7R5T40ZRSjmIjcY8Ea7HkUp+70wqwq7DPrQJv2X89JmkTTvsM26ZBCKucivpp3SZd5zJ93zTJsnPrxOHHRZDSbNG7JZoCgUc4FfRbY44LF7irY4bNgNSVUGpH1YZb5yz6CESft0Kdpjly6vFYViLvKrrPWYFsli3E0DZn3qhlkfVsJmF4SqHfZUl6I2AwaMmxOKuci\/dMv5WMYLjGtX474fnfLYPaWIZL2Lgn4NntuLtYoij33phdvmhGIu8i9pv0g5aLuLuOkrCS9QpxSNat33Lrba6wFu+NIsIlvt97WceaGYi\/yvjA3OOqPJa414btQFGStrN+hdTWFctayf9QoE9usSyZkXirnIv91w2GXHdWtEmaxAJCdvebV26\/EukipckNZql681yvnM1yJpvwnFXGSBG9rctV\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\/AVpyNZjeli0AAAAASUVORK5CYII=\"><\/image>\n<\/defs>\n<\/svg>","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-inverse","title":"While fillers are often the choice of people who want to “try out” chin enhancement, many people maintain their fillers to achieve long-term chin augmentation.","link_title":"","link_url":"\/"}}},"block_order":["indicator_MdfrfH","indicator_yPraWX","indicator_hDFM3X"],"custom_css":["svg {width: 70px; height: auto;}",".section-trust-indicators__decorator {width: 100px; height: 100px;}",".section-trust-indicators__title {font-size: 18px !important; text-transform: none;}",".section-trust-indicators__tile {max-width: 250px; margin-top: 85px;}","@media (max-width: 749px) {.swiper-wrapper {flex-direction: column; align-items: center; }}"],"settings":{"slider_mobile":true,"layout":"layout-1","padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"pt-0-mobile pb-0-mobile"}},"dual_tiles_kCtnnW":{"type":"dual-tiles","blocks":{"tile_mMGHLk":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_2.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_9RihKV":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Get a Stronger Chin, Right Away","text_size":1.5,"content":"<p>If you’re thinking of trying fillers for chin enhancement, a stronger chin is just a call away. Find out if fillers for chin augmentation are right for you by making a free consultation appointment with Dr. Zadeh.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Schedule An Appointment","button_url":"#shopify-section-template--24036800987422__request_an_appointment_k7dE8N","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_mMGHLk","tile_9RihKV"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles__actions {text-align: center;}",".section-dual-tiles__actions a {color: #fff;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":4,"spacing_top_mobile":3,"spacing_bottom_mobile":0}}},"order":["main","hero_banner_bjwbDz","dual_tiles_FgLiDd","request_an_appointment_k7dE8N","dual_tiles_iNi6dd","dual_tiles_AQitUB","seo_content_zV7zyJ","seo_content_fUHJYW","dual_tiles_kCtnnW","trust_indicators_AUPmBE"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_bjwbDz": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_3m8BRY": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Emsculpt_2x-scaled_89273340-952e-48f5-a40e-5c4e60d57257.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-end text-right",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Chin Enhancement",
+            "content": "<p>The shape and size of your chin can dramatically change the look of your face. Because of this, chin augmentation has always been a popular cosmetic treatment.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "#shopify-section-template--24036800987422__request_an_appointment_k7dE8N",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_3m8BRY"
+      ],
+      "custom_css": [
+        ".hero__entry {max-width: 1000px;}"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_FgLiDd": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_FWJanz": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Fillers",
+            "text_size": 2,
+            "content": "<p>In the past, those seeking to change the shape of their chin had only one option: to undergo surgery, which was time consuming, painful, and often quite stressful.</p><p>Today, however, there is a simple and pain-free way to enhance the chin with absolutely no surgery: fillers.</p><p>Fillers are perhaps more commonly known for their ability to treat common signs of aging, like wrinkles and lack of fullness in the skin. However, fillers are also excellent for changing the shape of the face, including enhancing the chin. Fillers can easily change the shape of the chin, including correcting a “weak” chin, through strategic application. When a chin is out of balance with the rest of one’s face, it can create a “recessive” chin.</p><p>Among both men and women, this “weak” chin is often a source of stress. A weaker chin can greatly disrupt the symmetry of the face, which is one of the things that influences our perception of attractiveness. But fillers can enhance a weak chin, restoring a symmetric appearance to the face.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_FWJanz"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 55,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "request_an_appointment_k7dE8N": {
+      "type": "request-an-appointment",
+      "custom_css": [
+        "@media (max-width: 768px) {h2 {text-align: center; }}"
+      ],
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_iNi6dd": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_ypFA9j": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_rXyGG4": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1.5,
+            "content": "<p>Why Dr. Zadeh?</p><h2>Because He Cares.</h2><p>There are a wide range of treatments for chin enhancements, each with their own pros and cons. Sometimes the best solution is a combination of treatments. Dr. Zadeh is a Board Certified Surgeon who has developed the best techniques to achieve optimal results in chin enhancement. Using his detailed knowledge of facial anatomy and superior techniques, Dr. Zadeh is able to apply the treatment skillfully, to produce a natural and healthy look.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#shopify-section-template--24036800987422__request_an_appointment_k7dE8N",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_ypFA9j",
+        "tile_rXyGG4"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles__actions {text-align: center;}",
+        ".section-dual-tiles__actions a {color: #fff;}",
+        "h2 {margin-top: 10px !important;}",
+        "p {margin: 0px;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_AQitUB": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_6dBwHk": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "HOW DO FILLERS WORK FOR CHIN AUGMENTATION?",
+            "text_size": 2,
+            "content": "<p>As with any application of fillers, getting fillers for chin augmentation is a fast and simple process. A session generally takes around 15 minutes and requires no downtime. The results of fillers for chin enhancement can be seen right away.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_EBXKTf": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/thermi-cellulite-copy-21_2x_fc01bcdb-5d3e-4a54-ba4e-f38ced5a2235.gif",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_6dBwHk",
+        "tile_EBXKTf"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "seo_content_zV7zyJ": {
+      "type": "seo-content",
+      "custom_css": [
+        "h2 {font-size: 20px;}",
+        ".section-seo-content {padding: 0px;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "text_size": 1,
+        "title": "When changing the shape of the face with fillers, it’s important to remember that this is an artistic cosmetic treatment. For the best results, you should only go to a doctor who is experienced with using fillers to change the shape of the face, like Dr. Zadeh.",
+        "content": ""
+      }
+    },
+    "seo_content_fUHJYW": {
+      "type": "seo-content",
+      "custom_css": [
+        "p {font-size: 20px;}",
+        ".section-seo-content__inner {margin-bottom: 0px !important;}",
+        ".section-seo-content {padding: 0px;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "How Long Does Chin Enhancement With Fillers Last?",
+        "content": "<p>Fillers are a safe and simple way to get the same look as a surgical enhancement.</p>"
+      }
+    },
+    "trust_indicators_AUPmBE": {
+      "type": "trust-indicators",
+      "blocks": {
+        "indicator_MdfrfH": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"172\" height=\"184\" viewbox=\"0 0 172 184\" fill=\"none\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<rect width=\"172\" height=\"184\" fill=\"url(#pattern0_3015_4)\"></rect>\n<defs>\n<pattern id=\"pattern0_3015_4\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_3015_4\" transform=\"scale(0.00581395 0.00543478)\"></use>\n</pattern>\n<image id=\"image0_3015_4\" width=\"172\" height=\"184\" xlink:href=\"data:image/png;base64,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\"></image>\n</defs>\n</svg>",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "Fillers are a temporary treatment, though they are easy to maintain for those who want long-term results.A single session of fillers generally lasts around 9 to 12 months.",
+            "link_title": "",
+            "link_url": ""
+          }
+        },
+        "indicator_yPraWX": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"146\" height=\"166\" viewbox=\"0 0 146 166\" fill=\"none\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<rect width=\"146\" height=\"166\" fill=\"url(#pattern0_3015_3)\"></rect>\n<defs>\n<pattern id=\"pattern0_3015_3\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_3015_3\" transform=\"scale(0.00684932 0.0060241)\"></use>\n</pattern>\n<image id=\"image0_3015_3\" width=\"146\" height=\"166\" xlink:href=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJIAAACmCAMAAAAGTiYHAAAANlBMVEVMaXEiHiAiHh8fGhodGx0hHh8gHR0iHh8ZDAwiHh8iHR8YGBghHh4jHR8hHR8iHx8hHBwiHh+HNkLzAAAAEXRSTlMAeOQ6IqRP8wfStRVchGuVLozgv7YAAASKSURBVHja7dyLkqMgEAVQ36KIj///2d2bDiUaUVBjWsae2trs1tTkjCA0DSaKnqDIMqWEeEjroCQZhqpihGJH0iD8kfIhLYUQACkVRV3HBMWQFEVosrpG12aDYkjKsrIchjxnhGJHkhINxwrFjkSgPNd/M0CxI5kQIVig2JFMEE0tP0f9lCSEUvNEdg4aUZdMLuxIQuT5MEzffgl0IYodiUBVZRJsoCmKkru2vR+paeLYj9S2w5AkUo6MNRBCKTRz/T90E96NVFVluSdBw+UnSl2vg+IYvwK+xwkUCCmK+p4SNI3aBmWZEGg4pwV5IKSmGQaCADWmtHaQ55qLDSlNi1ckSVkW73AHlSXezGy8JZTnNWJHyrJhIdLUFYTvLIp1lOc1YkjCj25fgYZr37F9i44gxBpqx73GkLRnEJiC1lAHQDcnIcWYgmyoQ6Bbk2gSWZo45yj8OQBiSYpj/DC3jj0uf9ZRZXkAxJLkc/Oby0QbijYr7CldqCRzgHRBbS2hQiTNJxEGKHYklF/mkwihuu7zuy9BsSPpSeSzPFPX2AK0ocAllG8J5H6kcRJZaiTbMgMDJYoYaYolZ9OETdIJGzWAG4pAXQeMLviETKKOTQVhVxSB0KGp2HPyNWJHoo6NYmeSYJh0QY0g+pfLYv7OpHFxRK+wMCfU8vD4CTo92JGoY+slQlGgo1YVBgPbJPL1a8SORB1bH/ZBSEkbXXVt67AXXCNWJJ3UZtm0M6cpFdyTpOuKAmV1SlH6vmkwVHz9GjEimYn/HAVWnqOrU5Tl+HopyQuVNF8cfaLQVGmqVJ5Xr8A2DWBf70dsSCjlzRdHhLK/4ZfHI3YkmkQ+pwugbG95ybzGiEQd2y81vWReY0TSN79PCn/JNWJEMgdIV9RF14gNaT6JuKDcQUJgU5oVSfqTUJ6aTyJ9jze0l2B8Gg1b2i6bIfcj0SRyzuIoDJJOSfr+O5NIKCQ6aueG8h8gwyFp1NZBoT2TSEgkOqQ6DGuofRNtSCSUaghlm0Z85n5pfPX9+7is8fUDkhmaZIZjeoKHNKkks9R4fvnRsBEOiTQ7Eg4A4zAGbVQtoXw6thBdV08CXWL6P5sFenYk2jZuGoAwWH423rHEf8cgwJCEDfeu0yCU/mhrT0/CRxdHYZCo4E4gOlKHQqhGHV9AhkHSt35RYMtGpyg6WTm+yA6LpBTevq71409AnbEJEQKJbv441iwzcWjb7QLD9sdh3J9kDpAO87NlWbq+iLg7aQTtD2zYr/8EPCLq/MuyI50BciF532uMSEdBUvavQGrTtvT64FFFdqTjjUbb89OwH4+5I+mMjl0U3Svo8DC9di0t3oGE7YjjN/+pgwBDEo5HnTbeBks6Nx6SWzeoqq8/JvQDklKsPs2OJYkeH//a7n4gJPrIiiRh1HTsSCiTlyUlpw/JFijQKIUlcVU9pLUkHiUtFABPfvYhFFKPzTo62ovNLveHpv4UqUXnpqlESh4dnCGpQXM9pI3IaMMUDxtiEOCQoDAkRePHEzl+dNUfJaH14lgpbAayySof0mr8A6VzuTQp2odRAAAAAElFTkSuQmCC\"></image>\n</defs>\n</svg>",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "The temporary nature of fillers makes them an excellent option for those who are unsure if they would want to undergo surgical chin enhancement. Plus, they’re instantly reversible if a patient ever decides they don’t like the look of their fillers.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_hDFM3X": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"160\" height=\"186\" viewbox=\"0 0 160 186\" fill=\"none\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<rect width=\"160\" height=\"186\" fill=\"url(#pattern0_3014_2)\"></rect>\n<defs>\n<pattern id=\"pattern0_3014_2\" patterncontentunits=\"objectBoundingBox\" width=\"1\" height=\"1\">\n<use xlink:href=\"#image0_3014_2\" transform=\"scale(0.00625 0.00537634)\"></use>\n</pattern>\n<image id=\"image0_3014_2\" width=\"160\" height=\"186\" xlink:href=\"data:image/png;base64,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\"></image>\n</defs>\n</svg>",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-inverse",
+            "title": "While fillers are often the choice of people who want to “try out” chin enhancement, many people maintain their fillers to achieve long-term chin augmentation.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_MdfrfH",
+        "indicator_yPraWX",
+        "indicator_hDFM3X"
+      ],
+      "custom_css": [
+        "svg {width: 70px; height: auto;}",
+        ".section-trust-indicators__decorator {width: 100px; height: 100px;}",
+        ".section-trust-indicators__title {font-size: 18px !important; text-transform: none;}",
+        ".section-trust-indicators__tile {max-width: 250px; margin-top: 85px;}",
+        "@media (max-width: 749px) {.swiper-wrapper {flex-direction: column; align-items: center; }}"
+      ],
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile"
+      }
+    },
+    "dual_tiles_kCtnnW": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_mMGHLk": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_9RihKV": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Get a Stronger Chin, Right Away",
+            "text_size": 1.5,
+            "content": "<p>If you’re thinking of trying fillers for chin enhancement, a stronger chin is just a call away. Find out if fillers for chin augmentation are right for you by making a free consultation appointment with Dr. Zadeh.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Schedule An Appointment",
+            "button_url": "#shopify-section-template--24036800987422__request_an_appointment_k7dE8N",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_mMGHLk",
+        "tile_9RihKV"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles__actions {text-align: center;}",
+        ".section-dual-tiles__actions a {color: #fff;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 4,
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_bjwbDz",
+    "dual_tiles_FgLiDd",
+    "request_an_appointment_k7dE8N",
+    "dual_tiles_iNi6dd",
+    "dual_tiles_AQitUB",
+    "seo_content_zV7zyJ",
+    "seo_content_fUHJYW",
+    "dual_tiles_kCtnnW",
+    "trust_indicators_AUPmBE"
+  ]
+}

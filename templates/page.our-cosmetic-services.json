@@ -1,1 +1,238 @@
-{"sections":{"main":{"type":"main-page","custom_css":["h1 {text-align: center;}","p {text-align: center;}",".text-colors-default {padding-bottom: 0px !important;}"],"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"multicolumn_DH7BVJ":{"type":"multicolumn","blocks":{"column_BzFbcr":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Fat-Removal_2x_307f1bc4-a288-4f5b-8154-091277620425.jpg","title":"","text":"","link_label":"Fat Removal","link":"shopify:\/\/pages\/coolsculpting-los-angeles"}},"column_NUadBL":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Body-Toning_2x_4aeca546-7f13-4c67-8996-c6fa3f8d247b.jpg","title":"","text":"","link_label":"Body Toning","link":"shopify:\/\/pages\/emsculpt-neo"}},"column_LpPGec":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Non-Surgical_2x_1.jpg","title":"","text":"","link_label":"Non-Surgical Face & Neck Lift","link":""}},"column_gBHJJJ":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Botox-Cosmetic_2x_bf9e9784-27dc-43b4-b10a-2f43fdd36010.jpg","title":"","text":"","link_label":"Botox","link":""}},"column_afXMKc":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Dermal-Fillers_2x_c7db3536-14fd-4487-b3c7-36a3b1f0dbc0.jpg","title":"","text":"","link_label":"Dermal Fillers","link":"shopify:\/\/pages\/juvederm-ultra-xc-los-angeles"}},"column_G9Lya9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Under-Eye_2x_bdcc6f30-4a67-4e15-8900-d81621005bb4.jpg","title":"","text":"","link_label":"Treatment for Dark Eye Circles","link":"shopify:\/\/pages\/treatment-for-dark-eye-circles-sherman-oaks"}},"column_jLbwK7":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Lip_2x_fd4a74c7-47a2-4721-8c3e-71b8ccf9be0a.jpg","title":"","text":"","link_label":"Lip Enhancement","link":"shopify:\/\/pages\/get-the-sexy-plump-lips-you-always-wanted-with-injectable-fillers"}},"column_39nyae":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Laser-Hair_2x_d791f1d2-5583-49c0-8df3-59ed4e9223c1.jpg","title":"","text":"","link_label":"Laser Hair Removal","link":"shopify:\/\/pages\/laser-hair-removal-los-angeles"}},"column_LbXHWk":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Excessive-Sweating_2x_00d5e931-1b90-48c2-a377-0a41e70ae82d.jpg","title":"","text":"","link_label":"Excessive Sweating","link":"shopify:\/\/pages\/mole-removal"}},"column_F8hqxq":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skin-Care_2x_3765771f-d74a-4317-8bcc-ea70c7759e9c.jpg","title":"","text":"","link_label":"Skin Care Products","link":"shopify:\/\/pages\/zadeh-md-skin"}},"column_meKmWU":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Moleskin_2x_1f538582-e3b3-4ea3-9eed-7f4759d9f6a6.jpg","title":"","text":"","link_label":"Mole & Skin Tag Removal","link":"shopify:\/\/pages\/mole-removal-sherman-oaks"}},"column_eWVDHf":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Nano-Ray_2x_2e79ab05-6a05-4ad0-8f63-e76ff6858c94.jpg","title":"","text":"","link_label":"Nano-Ray Laser","link":"shopify:\/\/pages\/laser-resurfacing-los-angeles"}}},"block_order":["column_BzFbcr","column_NUadBL","column_LpPGec","column_gBHJJJ","column_afXMKc","column_G9Lya9","column_jLbwK7","column_39nyae","column_LbXHWk","column_F8hqxq","column_meKmWU","column_eWVDHf"],"custom_css":["@media (max-width: 768px) {.multicolumn-list {display: flex; flex-direction: column; } ul li {max-width: 100% !important; }}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"hero_banner_x8Xwzz":{"type":"hero-banner","blocks":{"slide_74YW7W":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/TEAM-Background_1x_6e51b195-9f9e-4576-b817-a21835753299.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-end","subtitle":"","subtitle_url":"","title":"Now You Can Look Good And Feel Even Better","content":"<p>Dr. Michael Zadeh | Board Certified General Surgeon<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Meet The Doctor","button_url":"shopify:\/\/pages\/about","button_text2":"View more","button_url2":"shopify:\/\/pages\/about"}}},"block_order":["slide_74YW7W"],"custom_css":["h3 {font-size: 42px;}","@media (max-width: 768px) {p{padding:20px; }"],"settings":{"slider_height":50,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}}},"order":["main","multicolumn_DH7BVJ","hero_banner_x8Xwzz"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {text-align: center;}",
+        "p {text-align: center;}",
+        ".text-colors-default {padding-bottom: 0px !important;}"
+      ],
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "multicolumn_DH7BVJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BzFbcr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Fat-Removal_2x_307f1bc4-a288-4f5b-8154-091277620425.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Fat Removal",
+            "link": "shopify://pages/coolsculpting-los-angeles"
+          }
+        },
+        "column_NUadBL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Body-Toning_2x_4aeca546-7f13-4c67-8996-c6fa3f8d247b.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Body Toning",
+            "link": "shopify://pages/emsculpt-neo"
+          }
+        },
+        "column_LpPGec": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Non-Surgical_2x_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Non-Surgical Face & Neck Lift",
+            "link": ""
+          }
+        },
+        "column_gBHJJJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Botox-Cosmetic_2x_bf9e9784-27dc-43b4-b10a-2f43fdd36010.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Botox",
+            "link": ""
+          }
+        },
+        "column_afXMKc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Dermal-Fillers_2x_c7db3536-14fd-4487-b3c7-36a3b1f0dbc0.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Dermal Fillers",
+            "link": "shopify://pages/juvederm-ultra-xc-los-angeles"
+          }
+        },
+        "column_G9Lya9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Under-Eye_2x_bdcc6f30-4a67-4e15-8900-d81621005bb4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Treatment for Dark Eye Circles",
+            "link": "shopify://pages/treatment-for-dark-eye-circles-sherman-oaks"
+          }
+        },
+        "column_jLbwK7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lip_2x_fd4a74c7-47a2-4721-8c3e-71b8ccf9be0a.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Lip Enhancement",
+            "link": "shopify://pages/get-the-sexy-plump-lips-you-always-wanted-with-injectable-fillers"
+          }
+        },
+        "column_39nyae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Laser-Hair_2x_d791f1d2-5583-49c0-8df3-59ed4e9223c1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Laser Hair Removal",
+            "link": "shopify://pages/laser-hair-removal-los-angeles"
+          }
+        },
+        "column_LbXHWk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Excessive-Sweating_2x_00d5e931-1b90-48c2-a377-0a41e70ae82d.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Excessive Sweating",
+            "link": "shopify://pages/mole-removal"
+          }
+        },
+        "column_F8hqxq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skin-Care_2x_3765771f-d74a-4317-8bcc-ea70c7759e9c.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Skin Care Products",
+            "link": "shopify://pages/zadeh-md-skin"
+          }
+        },
+        "column_meKmWU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Moleskin_2x_1f538582-e3b3-4ea3-9eed-7f4759d9f6a6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Mole & Skin Tag Removal",
+            "link": "shopify://pages/mole-removal-sherman-oaks"
+          }
+        },
+        "column_eWVDHf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Nano-Ray_2x_2e79ab05-6a05-4ad0-8f63-e76ff6858c94.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Nano-Ray Laser",
+            "link": "shopify://pages/laser-resurfacing-los-angeles"
+          }
+        }
+      },
+      "block_order": [
+        "column_BzFbcr",
+        "column_NUadBL",
+        "column_LpPGec",
+        "column_gBHJJJ",
+        "column_afXMKc",
+        "column_G9Lya9",
+        "column_jLbwK7",
+        "column_39nyae",
+        "column_LbXHWk",
+        "column_F8hqxq",
+        "column_meKmWU",
+        "column_eWVDHf"
+      ],
+      "custom_css": [
+        "@media (max-width: 768px) {.multicolumn-list {display: flex; flex-direction: column; } ul li {max-width: 100% !important; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "hero_banner_x8Xwzz": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_74YW7W": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/TEAM-Background_1x_6e51b195-9f9e-4576-b817-a21835753299.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-end",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Now You Can Look Good And Feel Even Better",
+            "content": "<p>Dr. Michael Zadeh | Board Certified General Surgeon</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Meet The Doctor",
+            "button_url": "shopify://pages/about",
+            "button_text2": "View more",
+            "button_url2": "shopify://pages/about"
+          }
+        }
+      },
+      "block_order": [
+        "slide_74YW7W"
+      ],
+      "custom_css": [
+        "h3 {font-size: 42px;}",
+        "@media (max-width: 768px) {p{padding:20px; }"
+      ],
+      "settings": {
+        "slider_height": 50,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_DH7BVJ",
+    "hero_banner_x8Xwzz"
+  ]
+}

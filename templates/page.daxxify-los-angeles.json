@@ -1,1 +1,611 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_HUxbmH":{"type":"hero-banner","blocks":{"slide_tzCAP4":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-inverse","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Group-112-1.png","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"","content":"<p>Ready for long-lasting results? It’s about time! Z Center For Cosmetic Health is one of the first to offer DAXXIFY, the only long-lasting frown line treatment powered by a peptide.Results with DAXXIFY last on average 6 months and up to 9 months for some. That’s a full year of smoother lines with as few as 2 treatments.*<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"CLICK TO BOOK","button_url":"#shopify-section-template--24036801249566__request_an_appointment_7fWrPc","button_text2":"","button_url2":"\/"}}},"block_order":["slide_tzCAP4"],"custom_css":[".hero__content {max-width: 700px; margin-left: auto; margin-right: 10%;}","b.media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"slider_height":100,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_6LtxHD":{"type":"dual-tiles","blocks":{"tile_ATw4CC":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"Make an Appointment","text_size":2,"content":"<p>Are you ready for a newer innovative way to reduce your wrinkles and fine lines? Introducing DAXXIFY™ – the only long-lasting, peptide-powered frown line wrinkle treatment and the first innovation of its kind in over 20 years.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_ATw4CC"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":25,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"request_an_appointment_7fWrPc":{"type":"request-an-appointment","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_FkKncX":{"type":"dual-tiles","blocks":{"tile_PNy3Ap":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/image-183.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":2,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_PNy3Ap"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":3,"spacing_bottom_mobile":3}},"hero_banner_EqNXzU":{"type":"hero-banner","blocks":{"slide_ggEdqm":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Group-113.png","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"Discover DAXXIFY™ & How It Is Different","content":"","enable_vertical_line":true,"button_style":"button--filled","button_text":"","button_url":"\/","button_text2":"View more","button_url2":"\/"}}},"block_order":["slide_ggEdqm"],"disabled":true,"custom_css":[".media img {object-fit: cover;}",".hero-banner .hero__content .hero__entry p {color: #000; font-family: Inter; font-size: 18px; font-style: normal; font-weight: 400; line-height: 27px;}",".media--overlay:after {background: transparent;}",".hero-banner .hero__content .hero__entry {max-width: 1000px; margin: auto;}"],"settings":{"slider_height":100,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-secondary"}},"rich_text_eB4jJD":{"type":"rich-text","blocks":{"heading_tUhJyP":{"type":"heading","settings":{"heading":"Discover DAXXIFY™ & How It Is Different","heading_size":40,"heading_color":"#111111"}},"text_ULKcJF":{"type":"text","settings":{"text":"<p>DAXXIFY™ is an injectable, anti-wrinkle treatment that helps target dynamic wrinkles on a patient’s face. These areas include the frown lines (11 lines) between the brows, forehead lines, and wrinkles around the eyes (crow’s feet). Daxxify is a neuromodulator and is in the same class as Botox, Dysport, Xeomin, and Jeuveau<\/p><p><\/p><p>.Nearly 90% of patients say they wish their Botox results lasted longer. With DAXXIFY™, you can keep your frown lines smoother for up to twice as long as Botox. Most dynamic wrinkle treatments such as Botox currently last 3 – 4 months and require up to 4 treatments a year to maintain results.<\/p><p>The active ingredient in many of these products is botulinum toxin A. This ingredient smooths out moderate to severe frown lines on a patient’s face. DAXXIFY™ became notable immediately for being the first product of its kind to use a novel peptide as a stabilizer, meaning that it doesn’t contain byproducts from either humans or animals of any kind.<\/p><p>DAXXIFY™ is FDA approved to help smooth moderate to severe lines between the brows. It is the only long-lasting frown line treatment powered by a peptide with results that last can last up to 6 months before return to full pre-treatment muscle function.<\/p>"}},"button_9p8rrH":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_tUhJyP","text_ULKcJF","button_9p8rrH"],"custom_css":[".rich-text {background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0888\/6393\/2702\/files\/Group-113_206c5214-d7fa-42b7-8938-47ed3d679523.png?v=1744540847); background-size: 100%;}"],"settings":{"full_width":false,"background":"#ffffff","max_width":1500,"blocks_gap":20,"flex_direction":"column","desktop_content_position":"center","content_alignment":"center","padding_top":40,"padding_bottom":40}},"dual_tiles_HJwLHn":{"type":"dual-tiles","blocks":{"tile_xTgQFe":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_2.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_kU6A9J":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why Dr. Zadeh?","text_size":1,"content":"<h3><strong>Because He Cares.<\/strong><\/h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs all Emsculpt procedures.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"#shopify-section-template--24036801249566__request_an_appointment_7fWrPc","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_xTgQFe","tile_kU6A9J"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles__actions {display: flex; flex-direction: row; justify-content: center;}",".section-dual-tiles__actions a {color: #fff;}",".section-dual-tiles__entry {display: flex; flex-direction: column; align-items: center;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"marquees_39WjLN":{"type":"marquees","blocks":{"item_9FNWHL":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/sd.png","icon_svg_code":"","title":"","link":""}},"item_XyUqLY":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/ult.png","icon_svg_code":"","title":"","link":""}},"item_7AbQHL":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/cscp.png","icon_svg_code":"","title":"","link":""}},"item_3cCFUb":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rcp_1.png","icon_svg_code":"","title":"","link":""}},"item_9tYEDK":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rstd.png","icon_svg_code":"","title":"","link":""}},"item_mpPAAk":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pclogo.png","icon_svg_code":"","title":"","link":""}},"item_T6MHpy":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pc.png","icon_svg_code":"","title":"","link":""}}},"block_order":["item_9FNWHL","item_XyUqLY","item_7AbQHL","item_3cCFUb","item_9tYEDK","item_mpPAAk","item_T6MHpy"],"settings":{"enable_animation":true,"marquee_duration_rate":5,"marquee_font_size":4,"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","padding_vertical_desktop":"","padding_vertical_mobile":""}},"dual_tiles_qpAfUc":{"type":"dual-tiles","blocks":{"tile_iDAjxP":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x_0ad6c769-1e82-487b-b31e-4fce72a540db.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_VxFRX3":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"Is The Long-Lasting Frown Line Treatment Right For Me?","text_size":2,"content":"<p>If you want more time with less lines, don’t wait!<br\/>Call or schedule an appointment with Z Center For Cosmetic Health today.<br\/><strong>(818) 264 4084<\/strong><\/p>","button_style":"button--filled","button_separator":false,"button_text":"Schedule An Appointment","button_url":"#shopify-section-template--24036801249566__request_an_appointment_7fWrPc","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_iDAjxP","tile_VxFRX3"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles__actions {display: flex; flex-direction: row; justify-content: center;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":2}},"seo_content_KBzYKD":{"type":"seo-content","disabled":true,"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","text_size":1,"title":"","content":"<p>*At least 50% of patients in clinical studies had no or minor frown lines 6 months after treatment. Between 3% and 5% of patients in clinical studies had no or minor frown lines 9 months after treatment. In other safety studies, between 5% and 17% of patients still had noticeable improvement 9 months later.<br\/>IMPORTANT SAFETY INFORMATION for DAXXIFYTM (daxibotulinumtoxinA-Ianm) injection<br\/>DAXXIFYTM may cause serious side effects that can be life threatening. Get medical help right away if you have any of these problems any time (hours to weeks) after injection of DAXXIFYTM:<br\/>• Problems swallowing, speaking, or breathing due to weakening of associated muscles can be severe and result in loss of life. You are at the highest risk if these problems are pre-existing before injection.<br\/>Swallowing problems may last for several months.<br\/>• Spread of toxin effects. The effect of botulinum toxin may affect areas away from the injection site and cause serious symptoms that include loss of strength and all-over muscle weakness, double vision,<br\/>blurred vision and drooping eyelids, hoarseness or change or loss of voice, trouble saying words clearly, loss of bladder control, trouble breathing, and trouble swallowing.<br\/>Do not receive DAXXIFYTM if you are allergic to any of the ingredients in DAXXIFYTM (see Medication Guide for ingredients); had an allergic reaction to any other botulinum toxin product such as<br\/>rimabotulinumtoxinB (MYOBLOC®), onabotulinumtoxinA (BOTOX®\/BOTOX® Cosmetic), abobotulinumtoxinA (DYSPORT®), incobotulinumtoxinA (XEOMIN®) or prabotulinumtoxinA-xvfs (JEUVEAU®); or have a skin<br\/>infection at the planned injection site.<br\/>DAXXIFYTM dosing units are not the same as, or comparable to, any other botulinum toxin product.<br\/>Tell your healthcare provider about all your medical conditions, including any side effects from botulinum toxin products, including dry eye; breathing, swallowing, bleeding, or heart problems; plans to have<br\/>surgery; weakness of forehead muscles; drooping eyelids; have had surgery on your face; are pregnant or breastfeeding or plan to become pregnant or breastfeed.<br\/>Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.<br\/>Using DAXXIFYTM with certain other medicines may cause serious side effects. Do not start any new medicines until you have told your healthcare provider that you have received DAXXIFYTM in the past.<br\/>Especially tell your healthcare provider if you have received any other botulinum toxin product in the last 4 months or any in the past, and exactly which product you received (such as BOTOX®, BOTOX®<br\/>Cosmetic, MYOBLOC®, DYSPORT®, XEOMIN®, or JEUVEAU®). DAXXIFYTM may cause serious side effects, including allergic reactions (such as itching, rash, redness, swelling, wheezing, trouble breathing, or dizziness<br\/>or feeling faint), heart problems (such as irregular heartbeat and heart attack), and eye problems (including dry eye, reduced blinking, and corneal problems). Tell your healthcare provider or get medical help<br\/>right away if you experience a serious side effect. No serious adverse events of distant spread of toxin effect associated with dermatologic use of DAXXIFYTM have been reported in clinical studies at the dose of<br\/>40 Units for glabellar lines. The most common side effects of DAXXIFYTM include headache, eyelid drooping, and loss of ability to move the muscles in your face.<br\/>These are not all the possible side effects of DAXXIFYTM. For more information, see the full Prescribing Information including Boxed Warning, and refer to the Medication Guide or talk with your doctor. To report<br\/>side effects associated with DAXXIFYTM, please call 1-877-373-8669. You may also report side effects to the FDA at 1-800-FDA-1088 or visit www.fda.gov\/medwatch.<br\/>APPROVED USE<br\/>DAXXIFYTM is a prescription medicine that is injected into muscles and used in adults to temporarily improve the look of moderate to severe frown lines between the eyebrows.<\/p>"}},"rich_text_zdUjrj":{"type":"rich-text","blocks":{"text_wteVFc":{"type":"text","settings":{"text":"<p>*At least 50% of patients in clinical studies had no or minor frown lines 6 months after treatment. Between 3% and 5% of patients in clinical studies had no or minor frown lines 9 months after treatment. In other safety studies, between 5% and 17% of patients still had noticeable improvement 9 months later.<br\/>IMPORTANT SAFETY INFORMATION for DAXXIFYTM (daxibotulinumtoxinA-Ianm) injection<br\/>DAXXIFYTM may cause serious side effects that can be life threatening. Get medical help right away if you have any of these problems any time (hours to weeks) after injection of DAXXIFYTM:<br\/>• Problems swallowing, speaking, or breathing due to weakening of associated muscles can be severe and result in loss of life. You are at the highest risk if these problems are pre-existing before injection.<br\/>Swallowing problems may last for several months.<br\/>• Spread of toxin effects. The effect of botulinum toxin may affect areas away from the injection site and cause serious symptoms that include loss of strength and all-over muscle weakness, double vision,<br\/>blurred vision and drooping eyelids, hoarseness or change or loss of voice, trouble saying words clearly, loss of bladder control, trouble breathing, and trouble swallowing.<br\/>Do not receive DAXXIFYTM if you are allergic to any of the ingredients in DAXXIFYTM (see Medication Guide for ingredients); had an allergic reaction to any other botulinum toxin product such as<br\/>rimabotulinumtoxinB (MYOBLOC®), onabotulinumtoxinA (BOTOX®\/BOTOX® Cosmetic), abobotulinumtoxinA (DYSPORT®), incobotulinumtoxinA (XEOMIN®) or prabotulinumtoxinA-xvfs (JEUVEAU®); or have a skin<br\/>infection at the planned injection site.<br\/>DAXXIFYTM dosing units are not the same as, or comparable to, any other botulinum toxin product.<br\/>Tell your healthcare provider about all your medical conditions, including any side effects from botulinum toxin products, including dry eye; breathing, swallowing, bleeding, or heart problems; plans to have<br\/>surgery; weakness of forehead muscles; drooping eyelids; have had surgery on your face; are pregnant or breastfeeding or plan to become pregnant or breastfeed.<br\/>Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.<br\/>Using DAXXIFYTM with certain other medicines may cause serious side effects. Do not start any new medicines until you have told your healthcare provider that you have received DAXXIFYTM in the past.<br\/>Especially tell your healthcare provider if you have received any other botulinum toxin product in the last 4 months or any in the past, and exactly which product you received (such as BOTOX®, BOTOX®<br\/>Cosmetic, MYOBLOC®, DYSPORT®, XEOMIN®, or JEUVEAU®). DAXXIFYTM may cause serious side effects, including allergic reactions (such as itching, rash, redness, swelling, wheezing, trouble breathing, or dizziness<br\/>or feeling faint), heart problems (such as irregular heartbeat and heart attack), and eye problems (including dry eye, reduced blinking, and corneal problems). Tell your healthcare provider or get medical help<br\/>right away if you experience a serious side effect. No serious adverse events of distant spread of toxin effect associated with dermatologic use of DAXXIFYTM have been reported in clinical studies at the dose of<br\/>40 Units for glabellar lines. The most common side effects of DAXXIFYTM include headache, eyelid drooping, and loss of ability to move the muscles in your face.<br\/>These are not all the possible side effects of DAXXIFYTM. For more information, see the full Prescribing Information including Boxed Warning, and refer to the Medication Guide or talk with your doctor. To report<br\/>side effects associated with DAXXIFYTM, please call 1-877-373-8669. You may also report side effects to the FDA at 1-800-FDA-1088 or visit www.fda.gov\/medwatch.<br\/>APPROVED USE<br\/>DAXXIFYTM is a prescription medicine that is injected into muscles and used in adults to temporarily improve the look of moderate to severe frown lines between the eyebrows.<\/p>"}}},"block_order":["text_wteVFc"],"settings":{"full_width":false,"background":"#ffffff","max_width":1400,"blocks_gap":20,"flex_direction":"column","desktop_content_position":"center","content_alignment":"center","padding_top":40,"padding_bottom":40}}},"order":["main","hero_banner_HUxbmH","dual_tiles_6LtxHD","request_an_appointment_7fWrPc","dual_tiles_FkKncX","hero_banner_EqNXzU","rich_text_eB4jJD","dual_tiles_HJwLHn","marquees_39WjLN","dual_tiles_qpAfUc","seo_content_KBzYKD","rich_text_zdUjrj"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_HUxbmH": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_tzCAP4": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-inverse",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Group-112-1.png",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "",
+            "content": "<p>Ready for long-lasting results? It’s about time! Z Center For Cosmetic Health is one of the first to offer DAXXIFY, the only long-lasting frown line treatment powered by a peptide.Results with DAXXIFY last on average 6 months and up to 9 months for some. That’s a full year of smoother lines with as few as 2 treatments.*</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "CLICK TO BOOK",
+            "button_url": "#shopify-section-template--24036801249566__request_an_appointment_7fWrPc",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tzCAP4"
+      ],
+      "custom_css": [
+        ".hero__content {max-width: 700px; margin-left: auto; margin-right: 10%;}",
+        "b.media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_6LtxHD": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_ATw4CC": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Make an Appointment",
+            "text_size": 2,
+            "content": "<p>Are you ready for a newer innovative way to reduce your wrinkles and fine lines? Introducing DAXXIFY™ – the only long-lasting, peptide-powered frown line wrinkle treatment and the first innovation of its kind in over 20 years.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_ATw4CC"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 25,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "request_an_appointment_7fWrPc": {
+      "type": "request-an-appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_FkKncX": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_PNy3Ap": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/image-183.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 2,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_PNy3Ap"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "hero_banner_EqNXzU": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_ggEdqm": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Group-113.png",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Discover DAXXIFY™ & How It Is Different",
+            "content": "",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "",
+            "button_url": "/",
+            "button_text2": "View more",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ggEdqm"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".media img {object-fit: cover;}",
+        ".hero-banner .hero__content .hero__entry p {color: #000; font-family: Inter; font-size: 18px; font-style: normal; font-weight: 400; line-height: 27px;}",
+        ".media--overlay:after {background: transparent;}",
+        ".hero-banner .hero__content .hero__entry {max-width: 1000px; margin: auto;}"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-secondary"
+      }
+    },
+    "rich_text_eB4jJD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tUhJyP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover DAXXIFY™ & How It Is Different",
+            "heading_size": 40,
+            "heading_color": "#111111"
+          }
+        },
+        "text_ULKcJF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DAXXIFY™ is an injectable, anti-wrinkle treatment that helps target dynamic wrinkles on a patient’s face. These areas include the frown lines (11 lines) between the brows, forehead lines, and wrinkles around the eyes (crow’s feet). Daxxify is a neuromodulator and is in the same class as Botox, Dysport, Xeomin, and Jeuveau</p><p></p><p>.Nearly 90% of patients say they wish their Botox results lasted longer. With DAXXIFY™, you can keep your frown lines smoother for up to twice as long as Botox. Most dynamic wrinkle treatments such as Botox currently last 3 – 4 months and require up to 4 treatments a year to maintain results.</p><p>The active ingredient in many of these products is botulinum toxin A. This ingredient smooths out moderate to severe frown lines on a patient’s face. DAXXIFY™ became notable immediately for being the first product of its kind to use a novel peptide as a stabilizer, meaning that it doesn’t contain byproducts from either humans or animals of any kind.</p><p>DAXXIFY™ is FDA approved to help smooth moderate to severe lines between the brows. It is the only long-lasting frown line treatment powered by a peptide with results that last can last up to 6 months before return to full pre-treatment muscle function.</p>"
+          }
+        },
+        "button_9p8rrH": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tUhJyP",
+        "text_ULKcJF",
+        "button_9p8rrH"
+      ],
+      "custom_css": [
+        ".rich-text {background: url(https://cdn.shopify.com/s/files/1/0888/6393/2702/files/Group-113_206c5214-d7fa-42b7-8938-47ed3d679523.png?v=1744540847); background-size: 100%;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "background": "#ffffff",
+        "max_width": 1500,
+        "blocks_gap": 20,
+        "flex_direction": "column",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "dual_tiles_HJwLHn": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_xTgQFe": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_kU6A9J": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why Dr. Zadeh?",
+            "text_size": 1,
+            "content": "<h3><strong>Because He Cares.</strong></h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs all Emsculpt procedures.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#shopify-section-template--24036801249566__request_an_appointment_7fWrPc",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_xTgQFe",
+        "tile_kU6A9J"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles__actions {display: flex; flex-direction: row; justify-content: center;}",
+        ".section-dual-tiles__actions a {color: #fff;}",
+        ".section-dual-tiles__entry {display: flex; flex-direction: column; align-items: center;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "marquees_39WjLN": {
+      "type": "marquees",
+      "blocks": {
+        "item_9FNWHL": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/sd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_XyUqLY": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/ult.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_7AbQHL": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/cscp.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_3cCFUb": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rcp_1.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_9tYEDK": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rstd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_mpPAAk": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pclogo.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_T6MHpy": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pc.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_9FNWHL",
+        "item_XyUqLY",
+        "item_7AbQHL",
+        "item_3cCFUb",
+        "item_9tYEDK",
+        "item_mpPAAk",
+        "item_T6MHpy"
+      ],
+      "settings": {
+        "enable_animation": true,
+        "marquee_duration_rate": 5,
+        "marquee_font_size": 4,
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    },
+    "dual_tiles_qpAfUc": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_iDAjxP": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x_0ad6c769-1e82-487b-b31e-4fce72a540db.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_VxFRX3": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Is The Long-Lasting Frown Line Treatment Right For Me?",
+            "text_size": 2,
+            "content": "<p>If you want more time with less lines, don’t wait!<br/>Call or schedule an appointment with Z Center For Cosmetic Health today.<br/><strong>(818) 264 4084</strong></p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Schedule An Appointment",
+            "button_url": "#shopify-section-template--24036801249566__request_an_appointment_7fWrPc",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_iDAjxP",
+        "tile_VxFRX3"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles__actions {display: flex; flex-direction: row; justify-content: center;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "seo_content_KBzYKD": {
+      "type": "seo-content",
+      "disabled": true,
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "text_size": 1,
+        "title": "",
+        "content": "<p>*At least 50% of patients in clinical studies had no or minor frown lines 6 months after treatment. Between 3% and 5% of patients in clinical studies had no or minor frown lines 9 months after treatment. In other safety studies, between 5% and 17% of patients still had noticeable improvement 9 months later.<br/>IMPORTANT SAFETY INFORMATION for DAXXIFYTM (daxibotulinumtoxinA-Ianm) injection<br/>DAXXIFYTM may cause serious side effects that can be life threatening. Get medical help right away if you have any of these problems any time (hours to weeks) after injection of DAXXIFYTM:<br/>• Problems swallowing, speaking, or breathing due to weakening of associated muscles can be severe and result in loss of life. You are at the highest risk if these problems are pre-existing before injection.<br/>Swallowing problems may last for several months.<br/>• Spread of toxin effects. The effect of botulinum toxin may affect areas away from the injection site and cause serious symptoms that include loss of strength and all-over muscle weakness, double vision,<br/>blurred vision and drooping eyelids, hoarseness or change or loss of voice, trouble saying words clearly, loss of bladder control, trouble breathing, and trouble swallowing.<br/>Do not receive DAXXIFYTM if you are allergic to any of the ingredients in DAXXIFYTM (see Medication Guide for ingredients); had an allergic reaction to any other botulinum toxin product such as<br/>rimabotulinumtoxinB (MYOBLOC®), onabotulinumtoxinA (BOTOX®/BOTOX® Cosmetic), abobotulinumtoxinA (DYSPORT®), incobotulinumtoxinA (XEOMIN®) or prabotulinumtoxinA-xvfs (JEUVEAU®); or have a skin<br/>infection at the planned injection site.<br/>DAXXIFYTM dosing units are not the same as, or comparable to, any other botulinum toxin product.<br/>Tell your healthcare provider about all your medical conditions, including any side effects from botulinum toxin products, including dry eye; breathing, swallowing, bleeding, or heart problems; plans to have<br/>surgery; weakness of forehead muscles; drooping eyelids; have had surgery on your face; are pregnant or breastfeeding or plan to become pregnant or breastfeed.<br/>Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.<br/>Using DAXXIFYTM with certain other medicines may cause serious side effects. Do not start any new medicines until you have told your healthcare provider that you have received DAXXIFYTM in the past.<br/>Especially tell your healthcare provider if you have received any other botulinum toxin product in the last 4 months or any in the past, and exactly which product you received (such as BOTOX®, BOTOX®<br/>Cosmetic, MYOBLOC®, DYSPORT®, XEOMIN®, or JEUVEAU®). DAXXIFYTM may cause serious side effects, including allergic reactions (such as itching, rash, redness, swelling, wheezing, trouble breathing, or dizziness<br/>or feeling faint), heart problems (such as irregular heartbeat and heart attack), and eye problems (including dry eye, reduced blinking, and corneal problems). Tell your healthcare provider or get medical help<br/>right away if you experience a serious side effect. No serious adverse events of distant spread of toxin effect associated with dermatologic use of DAXXIFYTM have been reported in clinical studies at the dose of<br/>40 Units for glabellar lines. The most common side effects of DAXXIFYTM include headache, eyelid drooping, and loss of ability to move the muscles in your face.<br/>These are not all the possible side effects of DAXXIFYTM. For more information, see the full Prescribing Information including Boxed Warning, and refer to the Medication Guide or talk with your doctor. To report<br/>side effects associated with DAXXIFYTM, please call 1-877-373-8669. You may also report side effects to the FDA at 1-800-FDA-1088 or visit www.fda.gov/medwatch.<br/>APPROVED USE<br/>DAXXIFYTM is a prescription medicine that is injected into muscles and used in adults to temporarily improve the look of moderate to severe frown lines between the eyebrows.</p>"
+      }
+    },
+    "rich_text_zdUjrj": {
+      "type": "rich-text",
+      "blocks": {
+        "text_wteVFc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*At least 50% of patients in clinical studies had no or minor frown lines 6 months after treatment. Between 3% and 5% of patients in clinical studies had no or minor frown lines 9 months after treatment. In other safety studies, between 5% and 17% of patients still had noticeable improvement 9 months later.<br/>IMPORTANT SAFETY INFORMATION for DAXXIFYTM (daxibotulinumtoxinA-Ianm) injection<br/>DAXXIFYTM may cause serious side effects that can be life threatening. Get medical help right away if you have any of these problems any time (hours to weeks) after injection of DAXXIFYTM:<br/>• Problems swallowing, speaking, or breathing due to weakening of associated muscles can be severe and result in loss of life. You are at the highest risk if these problems are pre-existing before injection.<br/>Swallowing problems may last for several months.<br/>• Spread of toxin effects. The effect of botulinum toxin may affect areas away from the injection site and cause serious symptoms that include loss of strength and all-over muscle weakness, double vision,<br/>blurred vision and drooping eyelids, hoarseness or change or loss of voice, trouble saying words clearly, loss of bladder control, trouble breathing, and trouble swallowing.<br/>Do not receive DAXXIFYTM if you are allergic to any of the ingredients in DAXXIFYTM (see Medication Guide for ingredients); had an allergic reaction to any other botulinum toxin product such as<br/>rimabotulinumtoxinB (MYOBLOC®), onabotulinumtoxinA (BOTOX®/BOTOX® Cosmetic), abobotulinumtoxinA (DYSPORT®), incobotulinumtoxinA (XEOMIN®) or prabotulinumtoxinA-xvfs (JEUVEAU®); or have a skin<br/>infection at the planned injection site.<br/>DAXXIFYTM dosing units are not the same as, or comparable to, any other botulinum toxin product.<br/>Tell your healthcare provider about all your medical conditions, including any side effects from botulinum toxin products, including dry eye; breathing, swallowing, bleeding, or heart problems; plans to have<br/>surgery; weakness of forehead muscles; drooping eyelids; have had surgery on your face; are pregnant or breastfeeding or plan to become pregnant or breastfeed.<br/>Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.<br/>Using DAXXIFYTM with certain other medicines may cause serious side effects. Do not start any new medicines until you have told your healthcare provider that you have received DAXXIFYTM in the past.<br/>Especially tell your healthcare provider if you have received any other botulinum toxin product in the last 4 months or any in the past, and exactly which product you received (such as BOTOX®, BOTOX®<br/>Cosmetic, MYOBLOC®, DYSPORT®, XEOMIN®, or JEUVEAU®). DAXXIFYTM may cause serious side effects, including allergic reactions (such as itching, rash, redness, swelling, wheezing, trouble breathing, or dizziness<br/>or feeling faint), heart problems (such as irregular heartbeat and heart attack), and eye problems (including dry eye, reduced blinking, and corneal problems). Tell your healthcare provider or get medical help<br/>right away if you experience a serious side effect. No serious adverse events of distant spread of toxin effect associated with dermatologic use of DAXXIFYTM have been reported in clinical studies at the dose of<br/>40 Units for glabellar lines. The most common side effects of DAXXIFYTM include headache, eyelid drooping, and loss of ability to move the muscles in your face.<br/>These are not all the possible side effects of DAXXIFYTM. For more information, see the full Prescribing Information including Boxed Warning, and refer to the Medication Guide or talk with your doctor. To report<br/>side effects associated with DAXXIFYTM, please call 1-877-373-8669. You may also report side effects to the FDA at 1-800-FDA-1088 or visit www.fda.gov/medwatch.<br/>APPROVED USE<br/>DAXXIFYTM is a prescription medicine that is injected into muscles and used in adults to temporarily improve the look of moderate to severe frown lines between the eyebrows.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_wteVFc"
+      ],
+      "settings": {
+        "full_width": false,
+        "background": "#ffffff",
+        "max_width": 1400,
+        "blocks_gap": 20,
+        "flex_direction": "column",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_HUxbmH",
+    "dual_tiles_6LtxHD",
+    "request_an_appointment_7fWrPc",
+    "dual_tiles_FkKncX",
+    "hero_banner_EqNXzU",
+    "rich_text_eB4jJD",
+    "dual_tiles_HJwLHn",
+    "marquees_39WjLN",
+    "dual_tiles_qpAfUc",
+    "seo_content_KBzYKD",
+    "rich_text_zdUjrj"
+  ]
+}

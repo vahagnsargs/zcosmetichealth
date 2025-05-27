@@ -1,1 +1,552 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_9DxktF":{"type":"hero-banner","blocks":{"slide_zBEV6g":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Ultherapy-BG_2x-8-scaled.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-end text-right","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"KYBELLA Eliminate Stubborn “Double Chin” Fat with Kybella.","content":"","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"#shopify-section-template--24036801577246__request_an_appointment_BAW4WD","button_text2":"","button_url2":"\/"}}},"block_order":["slide_zBEV6g"],"settings":{"slider_height":100,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_YW6YBY":{"type":"dual-tiles","blocks":{"tile_NMLPMr":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/unnamed-5.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_mCFXJJ":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"WHAT IS KYBELLA?","text_size":2,"content":"<p>Deoxycholic acid is the body’s way of breaking down and absorbing dietary fat. With Kybella treatments, a synthetic version of doxycholic acid is applied via a series of injections to submental fullness below the chin, destroying fat cells permanently so that they can no longer absorb fat.<\/p><p>Over a series of treatments, Kybella can drastically reduce the appearance of this double chin fat, slimming the area. Kybella is a non-surgical alternative to treatments like liposuction, and also does not require maintenance once a patient’s desired fat reduction is achieved. Because of how Kybella affects fat cells, the treated fat cells can simply no longer store fat.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_NMLPMr","tile_mCFXJJ"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}","p {font-size: calc(var(--font-heading-scale) * var(--h5-multiplier)); line-height: calc(1 + 0.6 \/ var(--font-heading-scale)); font-family: var(--font-heading-family); font-style: var(--font-heading-style); font-weight: var(--font-heading-weight); word-break: break-word;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#F5EBDF","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"seo_content_k8K6M6":{"type":"seo-content","custom_css":["p {font-size: calc(var(--font-heading-scale) * var(--h5-multiplier));}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"pt-0-mobile pb-0-mobile","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"","content":"<p>For many people, the stubborn fat below the chin, commonly known as a double chin, is one of the most difficult kinds of fat to lose. They may eat well, exercise regularly, and yet still be left with this stubborn fat. Now there is a non-surgical option to treat this tricky fat: Kybella.<\/p><p>Kybella is FDA-approved, and is currently the only FDA-approved injection that can treat submental fat.<\/p><p>Kybella is a non-surgical procedure that permanently reduces stubborn fat below the chin. The active ingredient in Kybella is deoxycholic acid, a naturally occurring molecule in the body.<\/p>"}},"dual_tiles_eUM4WN":{"type":"dual-tiles","blocks":{"tile_zjgNy7":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"What Is Submental Fullness?","text_size":2,"content":"<p>Submental fullness is a clinical term for the gathering of excess fat under the chin, commonly referred to as a “double chin.” Submental fullness may occur because of the effects of aging, weight gain, or due to genetics.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_zjgNy7"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#F5EBDF","section_width":"max-w-page","section_height":35,"layout":"section-dual-tiles--50-50","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"request_an_appointment_BAW4WD":{"type":"request-an-appointment","custom_css":["@media (max-width: 768px) {h2 {max-width: 320px; }}"],"settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"spacing_LQhtFU":{"type":"spacing","settings":{"color_scheme_background":"background-colors-default","spacing_desktop":60,"spacing_mobile":30}},"dual_tiles_kf6NPg":{"type":"dual-tiles","blocks":{"tile_fngXPC":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_2.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_6Wp887":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why Dr. Zadeh?","text_size":1,"content":"<h3><strong>Because He Cares.<\/strong><\/h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs all Kybella procedures.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"#shopify-section-template--24036801577246__request_an_appointment_BAW4WD","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_fngXPC","tile_6Wp887"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}","h3 {margin: auto; max-width: 281px; margin-bottom: 20px;}",".section-dual-tiles__actions {max-width: 200px; margin: auto;}",".section-dual-tiles__actions a {color: #fff;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#F5EBDF","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":0,"spacing_bottom_desktop":2,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"marquees_Teyk4j":{"type":"marquees","blocks":{"item_LDzRpF":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/sd.png","icon_svg_code":"","title":"","link":""}},"item_zFRAa8":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/ult.png","icon_svg_code":"","title":"","link":""}},"item_TTr8nT":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/cscp.png","icon_svg_code":"","title":"","link":""}},"item_KKeh3V":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rcp_1.png","icon_svg_code":"","title":"","link":""}},"item_R8PKMr":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rstd.png","icon_svg_code":"","title":"","link":""}},"item_B9cjjW":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pclogo.png","icon_svg_code":"","title":"","link":""}},"item_9YTMfc":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pc.png","icon_svg_code":"","title":"","link":""}}},"block_order":["item_LDzRpF","item_zFRAa8","item_TTr8nT","item_KKeh3V","item_R8PKMr","item_B9cjjW","item_9YTMfc"],"settings":{"enable_animation":true,"marquee_duration_rate":6,"marquee_font_size":4,"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"pt-0-mobile pb-0-mobile"}},"spacing_gKULAE":{"type":"spacing","settings":{"color_scheme_background":"background-colors-default","spacing_desktop":40,"spacing_mobile":20}},"testimonials_xUMc3f":{"type":"testimonials","blocks":{"testimonial_7KBzjV":{"type":"testimonial","settings":{"quote":"<h3><strong>How is Kybella administered?<\/strong><\/h3>","author":"Kybella is a non-surgical procedure. It is applied through a series of up to six sessions of injections, each of which takes about 15 to 20 minutes. The number of injections will vary according to each patients’ needs. Kybella is currently only used for the double chin area.","link_title":"","link_url":"\/"}},"testimonial_9WbPLq":{"type":"testimonial","settings":{"quote":"<h3><strong>How many treatments will I need?<\/strong><\/h3>","author":"The number of treatment sessions you will need depends on your specific goals for treatment, as well as your amount of submental fullness. You may need between one and six treatments, each of which would take place a month apart.","link_title":"","link_url":"\/"}},"testimonial_baQCan":{"type":"testimonial","settings":{"quote":"<h3><strong>What is the recovery time?<\/strong><\/h3>","author":"Kybella will usually cause some swelling, bruising, redness, or numbness in the treatment area, which will go away naturally. The amount of time this will take will vary by patient.","link_title":"","link_url":"\/"}},"testimonial_6MQgaM":{"type":"testimonial","settings":{"quote":"<h3><strong>What should I expect?<\/strong><\/h3>","author":"Kybella treatment takes place over the course of 1-6 sessions of injections, each of which should be about 15 to 20 minutes long. These treatments will take place a month apart. The results of each treatment are usually seen 4-6 weeks after the session. Once you reach your desired fat reduction goals, no further treatments of Kybella will be needed.","link_title":"","link_url":"\/"}},"testimonial_q3NCRk":{"type":"testimonial","settings":{"quote":"<h3><strong>Who is Kybella for?<\/strong><\/h3>","author":"Kybella could be used for any adult who is troubled by their submental fullness, or double chin. It may be especially useful for patients who eat well and exercise, yet still have stubborn submental fullness that they cannot get rid of. Kybella is also a great option for those who want to treat this submental fullness non-surgically. Only your doctor can decide if Kybella is right for you. Schedule a consultation with Dr. Zadeh to discuss your specific treatment needs and medical history.","link_title":"","link_url":"\/"}}},"block_order":["testimonial_7KBzjV","testimonial_9WbPLq","testimonial_baQCan","testimonial_6MQgaM","testimonial_q3NCRk"],"custom_css":["h6 {font-size: 32px;}","@media (max-width: 768px) {h6 {text-align: center; margin: auto; line-height: 35px; } .swiper-slide {left: 15px; }}"],"settings":{"padding_vertical_desktop":"","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","layout":"no-image","gap_between_desktop":2,"gap_between_mobile":2,"title":"Frequently Asked Questions"}},"countdown_timer_kMq7x9":{"type":"countdown-timer","custom_css":["@media (max-width: 768px) {.section-countdown-timer .countdown-timer__container {flex-direction: column; } p {text-align: center; }}"],"settings":{"fullwidth":false,"layout":"image_none","spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":3,"spacing_bottom_mobile":3,"border_style":"top-bottom-border","title":"","subtitle":"Schedule a consultation with Dr. Zadeh today to see if Kybella is right for you.","subtitle_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","timer_year":0,"timer_month":"01","timer_day":1,"timer_hour":0,"timer_minute":0,"timer_extend":0,"timer_end_message":"","show_timer_days":true,"show_timer_hours":true,"show_timer_minutes":true,"show_timer_seconds":true,"action_preference":"button","newsletter_button_label":"Submit","button_style":"button--filled","button_text":"Schedule An Appointment","button_url":"#shopify-section-template--24036801577246__request_an_appointment_BAW4WD"}}},"order":["main","hero_banner_9DxktF","dual_tiles_YW6YBY","seo_content_k8K6M6","dual_tiles_eUM4WN","request_an_appointment_BAW4WD","spacing_LQhtFU","dual_tiles_kf6NPg","marquees_Teyk4j","spacing_gKULAE","testimonials_xUMc3f","countdown_timer_kMq7x9"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_9DxktF": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_zBEV6g": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Ultherapy-BG_2x-8-scaled.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-end text-right",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "KYBELLA Eliminate Stubborn “Double Chin” Fat with Kybella.",
+            "content": "",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "#shopify-section-template--24036801577246__request_an_appointment_BAW4WD",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_zBEV6g"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_YW6YBY": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_NMLPMr": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/unnamed-5.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_mCFXJJ": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "WHAT IS KYBELLA?",
+            "text_size": 2,
+            "content": "<p>Deoxycholic acid is the body’s way of breaking down and absorbing dietary fat. With Kybella treatments, a synthetic version of doxycholic acid is applied via a series of injections to submental fullness below the chin, destroying fat cells permanently so that they can no longer absorb fat.</p><p>Over a series of treatments, Kybella can drastically reduce the appearance of this double chin fat, slimming the area. Kybella is a non-surgical alternative to treatments like liposuction, and also does not require maintenance once a patient’s desired fat reduction is achieved. Because of how Kybella affects fat cells, the treated fat cells can simply no longer store fat.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_NMLPMr",
+        "tile_mCFXJJ"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "p {font-size: calc(var(--font-heading-scale) * var(--h5-multiplier)); line-height: calc(1 + 0.6 / var(--font-heading-scale)); font-family: var(--font-heading-family); font-style: var(--font-heading-style); font-weight: var(--font-heading-weight); word-break: break-word;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "seo_content_k8K6M6": {
+      "type": "seo-content",
+      "custom_css": [
+        "p {font-size: calc(var(--font-heading-scale) * var(--h5-multiplier));}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "",
+        "content": "<p>For many people, the stubborn fat below the chin, commonly known as a double chin, is one of the most difficult kinds of fat to lose. They may eat well, exercise regularly, and yet still be left with this stubborn fat. Now there is a non-surgical option to treat this tricky fat: Kybella.</p><p>Kybella is FDA-approved, and is currently the only FDA-approved injection that can treat submental fat.</p><p>Kybella is a non-surgical procedure that permanently reduces stubborn fat below the chin. The active ingredient in Kybella is deoxycholic acid, a naturally occurring molecule in the body.</p>"
+      }
+    },
+    "dual_tiles_eUM4WN": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_zjgNy7": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "What Is Submental Fullness?",
+            "text_size": 2,
+            "content": "<p>Submental fullness is a clinical term for the gathering of excess fat under the chin, commonly referred to as a “double chin.” Submental fullness may occur because of the effects of aging, weight gain, or due to genetics.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_zjgNy7"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 35,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "request_an_appointment_BAW4WD": {
+      "type": "request-an-appointment",
+      "custom_css": [
+        "@media (max-width: 768px) {h2 {max-width: 320px; }}"
+      ],
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "spacing_LQhtFU": {
+      "type": "spacing",
+      "settings": {
+        "color_scheme_background": "background-colors-default",
+        "spacing_desktop": 60,
+        "spacing_mobile": 30
+      }
+    },
+    "dual_tiles_kf6NPg": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_fngXPC": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_6Wp887": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why Dr. Zadeh?",
+            "text_size": 1,
+            "content": "<h3><strong>Because He Cares.</strong></h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs all Kybella procedures.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#shopify-section-template--24036801577246__request_an_appointment_BAW4WD",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_fngXPC",
+        "tile_6Wp887"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "h3 {margin: auto; max-width: 281px; margin-bottom: 20px;}",
+        ".section-dual-tiles__actions {max-width: 200px; margin: auto;}",
+        ".section-dual-tiles__actions a {color: #fff;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 2,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "marquees_Teyk4j": {
+      "type": "marquees",
+      "blocks": {
+        "item_LDzRpF": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/sd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_zFRAa8": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/ult.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_TTr8nT": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/cscp.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_KKeh3V": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rcp_1.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_R8PKMr": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rstd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_B9cjjW": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pclogo.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_9YTMfc": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pc.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_LDzRpF",
+        "item_zFRAa8",
+        "item_TTr8nT",
+        "item_KKeh3V",
+        "item_R8PKMr",
+        "item_B9cjjW",
+        "item_9YTMfc"
+      ],
+      "settings": {
+        "enable_animation": true,
+        "marquee_duration_rate": 6,
+        "marquee_font_size": 4,
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile"
+      }
+    },
+    "spacing_gKULAE": {
+      "type": "spacing",
+      "settings": {
+        "color_scheme_background": "background-colors-default",
+        "spacing_desktop": 40,
+        "spacing_mobile": 20
+      }
+    },
+    "testimonials_xUMc3f": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_7KBzjV": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>How is Kybella administered?</strong></h3>",
+            "author": "Kybella is a non-surgical procedure. It is applied through a series of up to six sessions of injections, each of which takes about 15 to 20 minutes. The number of injections will vary according to each patients’ needs. Kybella is currently only used for the double chin area.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_9WbPLq": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>How many treatments will I need?</strong></h3>",
+            "author": "The number of treatment sessions you will need depends on your specific goals for treatment, as well as your amount of submental fullness. You may need between one and six treatments, each of which would take place a month apart.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_baQCan": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>What is the recovery time?</strong></h3>",
+            "author": "Kybella will usually cause some swelling, bruising, redness, or numbness in the treatment area, which will go away naturally. The amount of time this will take will vary by patient.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_6MQgaM": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>What should I expect?</strong></h3>",
+            "author": "Kybella treatment takes place over the course of 1-6 sessions of injections, each of which should be about 15 to 20 minutes long. These treatments will take place a month apart. The results of each treatment are usually seen 4-6 weeks after the session. Once you reach your desired fat reduction goals, no further treatments of Kybella will be needed.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_q3NCRk": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h3><strong>Who is Kybella for?</strong></h3>",
+            "author": "Kybella could be used for any adult who is troubled by their submental fullness, or double chin. It may be especially useful for patients who eat well and exercise, yet still have stubborn submental fullness that they cannot get rid of. Kybella is also a great option for those who want to treat this submental fullness non-surgically. Only your doctor can decide if Kybella is right for you. Schedule a consultation with Dr. Zadeh to discuss your specific treatment needs and medical history.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_7KBzjV",
+        "testimonial_9WbPLq",
+        "testimonial_baQCan",
+        "testimonial_6MQgaM",
+        "testimonial_q3NCRk"
+      ],
+      "custom_css": [
+        "h6 {font-size: 32px;}",
+        "@media (max-width: 768px) {h6 {text-align: center; margin: auto; line-height: 35px; } .swiper-slide {left: 15px; }}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "layout": "no-image",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "Frequently Asked Questions"
+      }
+    },
+    "countdown_timer_kMq7x9": {
+      "type": "countdown-timer",
+      "custom_css": [
+        "@media (max-width: 768px) {.section-countdown-timer .countdown-timer__container {flex-direction: column; } p {text-align: center; }}"
+      ],
+      "settings": {
+        "fullwidth": false,
+        "layout": "image_none",
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 3,
+        "spacing_bottom_mobile": 3,
+        "border_style": "top-bottom-border",
+        "title": "",
+        "subtitle": "Schedule a consultation with Dr. Zadeh today to see if Kybella is right for you.",
+        "subtitle_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "timer_year": 0,
+        "timer_month": "01",
+        "timer_day": 1,
+        "timer_hour": 0,
+        "timer_minute": 0,
+        "timer_extend": 0,
+        "timer_end_message": "",
+        "show_timer_days": true,
+        "show_timer_hours": true,
+        "show_timer_minutes": true,
+        "show_timer_seconds": true,
+        "action_preference": "button",
+        "newsletter_button_label": "Submit",
+        "button_style": "button--filled",
+        "button_text": "Schedule An Appointment",
+        "button_url": "#shopify-section-template--24036801577246__request_an_appointment_BAW4WD"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_9DxktF",
+    "dual_tiles_YW6YBY",
+    "seo_content_k8K6M6",
+    "dual_tiles_eUM4WN",
+    "request_an_appointment_BAW4WD",
+    "spacing_LQhtFU",
+    "dual_tiles_kf6NPg",
+    "marquees_Teyk4j",
+    "spacing_gKULAE",
+    "testimonials_xUMc3f",
+    "countdown_timer_kMq7x9"
+  ]
+}

@@ -1,1 +1,947 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_hR43zM":{"type":"hero-banner","blocks":{"slide_H7TCUa":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Group-29-1.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-start text-left","content_position_vertical":"justify-center","subtitle":"CoolSculpting® Elite","subtitle_url":"","title":"Coolsculpting LOS ANGELES","content":"<p>Free Consultation | Limited Time Only<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Schedule A Consultation","button_url":"#shopify-section-template--24036801085726__request_an_appointment_wcj8gh","button_text2":"","button_url2":"\/"}}},"block_order":["slide_H7TCUa"],"settings":{"slider_height":100,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"spacing_T6DimF":{"type":"spacing","settings":{"color_scheme_background":"background-colors-default","spacing_desktop":60,"spacing_mobile":30}},"request_an_appointment_wcj8gh":{"type":"request-an-appointment","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"seo_content_7cbnFz":{"type":"seo-content","custom_css":[".section-seo-content {padding: 0px;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"COOLSCULPTING ELITE NON-INVASIVE FAT FREEZING LOS ANGELES","content":""}},"dual_tiles_faFg3C":{"type":"dual-tiles","blocks":{"tile_XNhNCC":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/000-1_1.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_kWMfRN":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Don’t like what you see when you look in the mirror? We’re here to help!","text_size":1.5,"content":"<p>As a leading CoolSculpting Elite provider in the Sherman Oaks and Los Angeles areas we help both women and men get rid of stubborn areas of fat for good. This amazing non-surgical treatment works on those pesky love handles that nobody loves, the dreaded tummy pooch and even that double chin you see in the mirror every morning. This body contouring system kills fat cells with FDA-approved cryolipolysis technology, freezing away fat in minutes without the need for surgery and no down time. Contact us to see if CoolSculpting is right for you.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_XNhNCC","tile_kWMfRN"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}","h2 {font-size: 30px !important;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":50,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":6,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"dual_tiles_qBwpLy":{"type":"dual-tiles","blocks":{"tile_Q8KNa4":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"COOLSCULPTING ELITE NON-INVASIVE FAT FREEZING","text_size":2,"content":"<h3>By DR. MICHAEL ZADEH<\/h3><p>CoolSculpting by Zeltiq is the coolest, revolutionary new way to lose those annoying bumps and bulges of stubborn fat without surgery. Created by Harvard Scientists, this unique technology freezes fat cells and causes a reduction of body fat. When fat cells freeze, they experience cell death, and your lymphatic system handles the rest.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_6zaT63":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"https:\/\/www.youtube.com\/watch?v=1LbOJ2WQMLU","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_Q8KNa4","tile_6zaT63"],"custom_css":[],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-full","section_height":60,"layout":"section-dual-tiles--50-50","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"full_width_banner_g8TDpg":{"type":"full-width-banner","settings":{"full_width_banner_height":70,"full_width_banner_mobile_height":75,"banner_layout":"section-full-width-banner--full","spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":6,"spacing_bottom_mobile":6,"color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","image_desktop":"shopify:\/\/shop_images\/1600x600-hero-t2t-elite-1-1.jpg","video_desktop_external":"","image_mobile":"shopify:\/\/shop_images\/1600x600-hero-t2t-elite-1-1.jpg","video_mobile_external":"","content_position_horizontal":"align-center text-center","content_position_vertical":"justify-end","content_padding_top":9.6,"content_padding_bottom":9.6,"content_padding_left":32,"content_padding_right":32}},"full_width_banner_rjQwiA":{"type":"full-width-banner","blocks":{"title_CmQQN6":{"type":"title","settings":{"title":"Why Choose COOLSCULPTING ELITE?"}},"content_tNY3VM":{"type":"content","settings":{"content":"<p><strong>FDA CLEARED<\/strong><\/p><p>Fat freezing lets you easily get rid of the unwanted fat around your tummy, waist, arms and thighs in a non-invasive way. Even the fat that refuses to go away with diet and exercise can be effectively reduced with CoolSculpting.<\/p><p><strong>NON-SURGICAL<\/strong><\/p><p>The result is a noticeable, natural-looking reduction in fat bulges. Unlike most other methods of fat removal, the CoolSculpting procedure is totally non-invasive.<\/p><p><strong>ELIMINATES FAT<\/strong><\/p><p>That means no needles, no incisions, no surgery, and best of all: no downtime. Sit back and relax, read your favorite book, work on your laptop, or watch Netflix on our huge flat screen TV and let the CoolSculpting machine do all the work in getting rid of your unwanted fat.<\/p><p>The entire procedure takes an hour and does not even need anesthesia or pain medication.<\/p>"}}},"block_order":["title_CmQQN6","content_tNY3VM"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"full_width_banner_height":70,"full_width_banner_mobile_height":75,"banner_layout":"section-full-width-banner--full","spacing_top_desktop":6,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0,"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Group-30-1.png","video_desktop_external":"","video_mobile_external":"","content_position_horizontal":"align-center text-center","content_position_vertical":"justify-end","content_padding_top":9.6,"content_padding_bottom":9.6,"content_padding_left":32,"content_padding_right":32}},"countdown_timer_eb6GPm":{"type":"countdown-timer","custom_css":[".countdown-timer__header-container {width: 100%;}","p {max-width: 594px !important; line-height: 46px !important; margin: auto; font-size: 26px !important; text-align: center !important;}",".countdown-timer__container {margin-bottom: 30px;}",".countdown-timer__container {flex-direction:column!important;;"],"settings":{"fullwidth":false,"layout":"image_none","spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0,"border_style":"top-bottom-border","title":"","subtitle":"As a non-invasive procedure,patient satisfaction is high!“The treatment itself was not uncomfortable and afterward I felt great.”","subtitle_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","timer_year":-1,"timer_month":"01","timer_day":1,"timer_hour":0,"timer_minute":0,"timer_extend":0,"timer_end_message":"","show_timer_days":true,"show_timer_hours":true,"show_timer_minutes":true,"show_timer_seconds":true,"action_preference":"button","newsletter_button_label":"Submit","button_style":"button--filled","button_text":"Read More Reviews","button_url":"https:\/\/zcosmetichealth.myshopify.com\/pages\/cosmetic-surgery-testimonials-sherman-oaks"}},"full_width_banner_ygREmT":{"type":"full-width-banner","custom_css":[".media--overlay:after {background: transparent;}"],"settings":{"full_width_banner_height":70,"full_width_banner_mobile_height":75,"banner_layout":"section-full-width-banner--full","spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":6,"spacing_bottom_mobile":0,"color_scheme_text":"text-colors-secondary","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Mask-Group-1.jpg","video_desktop_external":"","video_mobile_external":"","content_position_horizontal":"align-center text-center","content_position_vertical":"justify-end","content_padding_top":9.6,"content_padding_bottom":9.6,"content_padding_left":32,"content_padding_right":32}},"seo_content_knTVnt":{"type":"seo-content","custom_css":[".section-seo-content {padding: 0px;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"Freeze Away Belly Fat Procedure with Before and After","content":""}},"dual_tiles_xtUfe6":{"type":"dual-tiles","blocks":{"tile_qCF4mM":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","video_desktop_external":"https:\/\/www.youtube.com\/watch?v=xEtt3tvm_ks","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_CCgbYR":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/CS-Elite-System-Image_Overhead-Wide-Shot-with-White-Background-1.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_qCF4mM","tile_CCgbYR"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":55,"layout":"section-dual-tiles--50-50","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"seo_content_TMp3Hd":{"type":"seo-content","custom_css":[".section-seo-content {padding: 0px;}",".section-seo-content .section-seo-content__content h2 {margin-bottom: 20px;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"Before and After","content":"<p>Are you considering treatment to burn fat without a workout?<br\/>Contact Dr. Zadeh today to see if it’s right for you.<\/p>"}},"dual_tiles_dkeJTG":{"type":"dual-tiles","blocks":{"tile_LA9mRm":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/women-butt-2-y_2x_57725a0b-e0d3-43eb-8652-84ec3d08358b.gif","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_8jAPtG":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/women-abs-4-i_2x_2f7a080b-b939-4af4-abb8-98c2936f782c.gif","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_LA9mRm","tile_8jAPtG"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"dual_tiles_yDGAFE":{"type":"dual-tiles","blocks":{"tile_UhwgpX":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_1.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_UJaV98":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why Dr. Zadeh?","text_size":1,"content":"<h3><strong>Because He Cares.<\/strong><\/h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs the Coolsculpting procedures.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"#shopify-section-template--24036801085726__request_an_appointment_wcj8gh","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_UhwgpX","tile_UJaV98"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}","h3 {font-size: 32px;}",".section-dual-tiles__actions {max-width: 200px; margin: auto;}","a {color: #fff;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":3,"spacing_top_mobile":6,"spacing_bottom_mobile":3}},"marquees_LJnAUN":{"type":"marquees","blocks":{"item_ypamPW":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/sd.png","icon_svg_code":"","title":"","link":""}},"item_LznLDd":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/ult.png","icon_svg_code":"","title":"","link":""}},"item_CVRWHx":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/cscp.png","icon_svg_code":"","title":"","link":""}},"item_3ewwtH":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rcp_1.png","icon_svg_code":"","title":"","link":""}},"item_XUbpnt":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rstd.png","icon_svg_code":"","title":"","link":""}},"item_jtQ6NH":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pclogo.png","icon_svg_code":"","title":"","link":""}},"item_fapbVk":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pc.png","icon_svg_code":"","title":"","link":""}}},"block_order":["item_ypamPW","item_LznLDd","item_CVRWHx","item_3ewwtH","item_XUbpnt","item_jtQ6NH","item_fapbVk"],"settings":{"enable_animation":true,"marquee_duration_rate":5,"marquee_font_size":4,"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","padding_vertical_desktop":"","padding_vertical_mobile":""}},"testimonials_iApmH4":{"type":"testimonials","blocks":{"testimonial_NjQQLV":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/Group100137.jpg","quote":"<p>The CoolSculpting<br\/>procedure was recently awarded <strong>“The Best Fat Reducing Treatment” <\/strong>by New Beauty!<\/p>","author":"","link_title":"","link_url":""}},"testimonial_gPxTBr":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/Group100135.jpg","quote":"<p>With more than 4 million CoolSculpting treatments performed worldwide, it is proven to be a safe and effective treatment for non-surgical fat reduction.<\/p>","author":"","link_title":"","link_url":""}},"testimonial_NCpaWJ":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/Group100136.jpg","quote":"<p>The CoolSculpting procedure is the world’s #1 non-surgical fat reduction treatment.*<\/p>","author":"","link_title":"","link_url":""}}},"block_order":["testimonial_NjQQLV","testimonial_gPxTBr","testimonial_NCpaWJ"],"custom_css":[".media img {object-fit: contain; max-height: 200px; margin-bottom: auto;}",".media--overlay:after {background: transparent;}",".section-testimonials {padding-bottom: 0px !important;}"],"settings":{"padding_vertical_desktop":"","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","layout":"image-right","gap_between_desktop":2,"gap_between_mobile":2,"title":""}},"seo_content_wNfyk8":{"type":"seo-content","custom_css":[".section-seo-content {padding: 0px;}",".section-testimonials {padding-bottom: 0px !important;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"NO WONDER SO MANY PEOPLE FEEL CONFIDENT IN THE SAFETY OF COOLSCULPTING TREATMENTS.","content":"<p>CoolSculpting is safe, effective and FDA-approved. Most importantly, it works. Results look natural and can be seen as early as three weeks following treatment, with the most dramatic results after one to three months. Most people only need one treatment session to get back into those skinny jeans. What’s more, there are no pills or supplements. And as long as you maintain your normal diet and exercise, your long-term results should remain stable.<\/p>"}},"testimonials_trdaJc":{"type":"testimonials","blocks":{"testimonial_Bgzype":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/PROCEDURE-SAFETY_2x_1be3e7cb-6fc6-4ee0-a690-b28be431cba3.svg","quote":"<p>PROCEDURE SAFETY<\/p>","author":"CoolSculpting technology safely delivers precisely controlled cooling to gently and effectively target the fat cells underneath the skin while leaving the skin itself unaffected.","link_title":"","link_url":""}},"testimonial_cxFMC4":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/CLINICIAN-SAFETY_2x_b358bab0-45de-4f4d-be5b-4be6d8e40466.svg","quote":"<p>CLINICIAN SAFETY<\/p>","author":"Thousands of specialists have undergone in-depth training and certification to ensure your safety. CoolSculpting treatments are performed only in a medical office under the supervision of a licensed professional to guarantee the highest standards of care.","link_title":"","link_url":""}},"testimonial_AwnVG7":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/DEVICE-SAFETY_2x_5e319048-62be-4a62-b54b-a54ba1c5f0c2.svg","quote":"<p>DEVICE SAFETY<\/p>","author":"CoolSculpting systems are the only controlled cooling devices that are designed with built-in safety measures. If sensors detect that the skin is getting too cold, the system will shut down automatically.","link_title":"","link_url":""}}},"block_order":["testimonial_Bgzype","testimonial_cxFMC4","testimonial_AwnVG7"],"custom_css":[".media img {object-fit: contain; max-height: 200px; margin-bottom: auto;}",".media--overlay:after {background: transparent;}",".section-testimonials {padding-top: 0px !important;}"],"settings":{"padding_vertical_desktop":"","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","layout":"","gap_between_desktop":2,"gap_between_mobile":2,"title":""}}},"order":["main","hero_banner_hR43zM","spacing_T6DimF","request_an_appointment_wcj8gh","seo_content_7cbnFz","dual_tiles_faFg3C","dual_tiles_qBwpLy","full_width_banner_g8TDpg","full_width_banner_rjQwiA","countdown_timer_eb6GPm","full_width_banner_ygREmT","seo_content_knTVnt","dual_tiles_xtUfe6","seo_content_TMp3Hd","dual_tiles_dkeJTG","dual_tiles_yDGAFE","marquees_LJnAUN","testimonials_iApmH4","seo_content_wNfyk8","testimonials_trdaJc"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_hR43zM": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_H7TCUa": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Group-29-1.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-start text-left",
+            "content_position_vertical": "justify-center",
+            "subtitle": "CoolSculpting® Elite",
+            "subtitle_url": "",
+            "title": "Coolsculpting LOS ANGELES",
+            "content": "<p>Free Consultation | Limited Time Only</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Schedule A Consultation",
+            "button_url": "#shopify-section-template--24036801085726__request_an_appointment_wcj8gh",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_H7TCUa"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "spacing_T6DimF": {
+      "type": "spacing",
+      "settings": {
+        "color_scheme_background": "background-colors-default",
+        "spacing_desktop": 60,
+        "spacing_mobile": 30
+      }
+    },
+    "request_an_appointment_wcj8gh": {
+      "type": "request-an-appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "seo_content_7cbnFz": {
+      "type": "seo-content",
+      "custom_css": [
+        ".section-seo-content {padding: 0px;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "COOLSCULPTING ELITE NON-INVASIVE FAT FREEZING LOS ANGELES",
+        "content": ""
+      }
+    },
+    "dual_tiles_faFg3C": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_XNhNCC": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/000-1_1.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_kWMfRN": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Don’t like what you see when you look in the mirror? We’re here to help!",
+            "text_size": 1.5,
+            "content": "<p>As a leading CoolSculpting Elite provider in the Sherman Oaks and Los Angeles areas we help both women and men get rid of stubborn areas of fat for good. This amazing non-surgical treatment works on those pesky love handles that nobody loves, the dreaded tummy pooch and even that double chin you see in the mirror every morning. This body contouring system kills fat cells with FDA-approved cryolipolysis technology, freezing away fat in minutes without the need for surgery and no down time. Contact us to see if CoolSculpting is right for you.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_XNhNCC",
+        "tile_kWMfRN"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "h2 {font-size: 30px !important;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 50,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_qBwpLy": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_Q8KNa4": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "COOLSCULPTING ELITE NON-INVASIVE FAT FREEZING",
+            "text_size": 2,
+            "content": "<h3>By DR. MICHAEL ZADEH</h3><p>CoolSculpting by Zeltiq is the coolest, revolutionary new way to lose those annoying bumps and bulges of stubborn fat without surgery. Created by Harvard Scientists, this unique technology freezes fat cells and causes a reduction of body fat. When fat cells freeze, they experience cell death, and your lymphatic system handles the rest.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_6zaT63": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "https://www.youtube.com/watch?v=1LbOJ2WQMLU",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_Q8KNa4",
+        "tile_6zaT63"
+      ],
+      "custom_css": [],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-full",
+        "section_height": 60,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "full_width_banner_g8TDpg": {
+      "type": "full-width-banner",
+      "settings": {
+        "full_width_banner_height": 70,
+        "full_width_banner_mobile_height": 75,
+        "banner_layout": "section-full-width-banner--full",
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "color_scheme_text": "text-colors-inverse",
+        "color_scheme_background": "background-colors-accent-2",
+        "image_desktop": "shopify://shop_images/1600x600-hero-t2t-elite-1-1.jpg",
+        "video_desktop_external": "",
+        "image_mobile": "shopify://shop_images/1600x600-hero-t2t-elite-1-1.jpg",
+        "video_mobile_external": "",
+        "content_position_horizontal": "align-center text-center",
+        "content_position_vertical": "justify-end",
+        "content_padding_top": 9.6,
+        "content_padding_bottom": 9.6,
+        "content_padding_left": 32,
+        "content_padding_right": 32
+      }
+    },
+    "full_width_banner_rjQwiA": {
+      "type": "full-width-banner",
+      "blocks": {
+        "title_CmQQN6": {
+          "type": "title",
+          "settings": {
+            "title": "Why Choose COOLSCULPTING ELITE?"
+          }
+        },
+        "content_tNY3VM": {
+          "type": "content",
+          "settings": {
+            "content": "<p><strong>FDA CLEARED</strong></p><p>Fat freezing lets you easily get rid of the unwanted fat around your tummy, waist, arms and thighs in a non-invasive way. Even the fat that refuses to go away with diet and exercise can be effectively reduced with CoolSculpting.</p><p><strong>NON-SURGICAL</strong></p><p>The result is a noticeable, natural-looking reduction in fat bulges. Unlike most other methods of fat removal, the CoolSculpting procedure is totally non-invasive.</p><p><strong>ELIMINATES FAT</strong></p><p>That means no needles, no incisions, no surgery, and best of all: no downtime. Sit back and relax, read your favorite book, work on your laptop, or watch Netflix on our huge flat screen TV and let the CoolSculpting machine do all the work in getting rid of your unwanted fat.</p><p>The entire procedure takes an hour and does not even need anesthesia or pain medication.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title_CmQQN6",
+        "content_tNY3VM"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "full_width_banner_height": 70,
+        "full_width_banner_mobile_height": 75,
+        "banner_layout": "section-full-width-banner--full",
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0,
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "image_desktop": "shopify://shop_images/Group-30-1.png",
+        "video_desktop_external": "",
+        "video_mobile_external": "",
+        "content_position_horizontal": "align-center text-center",
+        "content_position_vertical": "justify-end",
+        "content_padding_top": 9.6,
+        "content_padding_bottom": 9.6,
+        "content_padding_left": 32,
+        "content_padding_right": 32
+      }
+    },
+    "countdown_timer_eb6GPm": {
+      "type": "countdown-timer",
+      "custom_css": [
+        ".countdown-timer__header-container {width: 100%;}",
+        "p {max-width: 594px !important; line-height: 46px !important; margin: auto; font-size: 26px !important; text-align: center !important;}",
+        ".countdown-timer__container {margin-bottom: 30px;}",
+        ".countdown-timer__container {flex-direction:column!important;;"
+      ],
+      "settings": {
+        "fullwidth": false,
+        "layout": "image_none",
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0,
+        "border_style": "top-bottom-border",
+        "title": "",
+        "subtitle": "As a non-invasive procedure,patient satisfaction is high!“The treatment itself was not uncomfortable and afterward I felt great.”",
+        "subtitle_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "timer_year": -1,
+        "timer_month": "01",
+        "timer_day": 1,
+        "timer_hour": 0,
+        "timer_minute": 0,
+        "timer_extend": 0,
+        "timer_end_message": "",
+        "show_timer_days": true,
+        "show_timer_hours": true,
+        "show_timer_minutes": true,
+        "show_timer_seconds": true,
+        "action_preference": "button",
+        "newsletter_button_label": "Submit",
+        "button_style": "button--filled",
+        "button_text": "Read More Reviews",
+        "button_url": "https://zcosmetichealth.myshopify.com/pages/cosmetic-surgery-testimonials-sherman-oaks"
+      }
+    },
+    "full_width_banner_ygREmT": {
+      "type": "full-width-banner",
+      "custom_css": [
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "full_width_banner_height": 70,
+        "full_width_banner_mobile_height": 75,
+        "banner_layout": "section-full-width-banner--full",
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 0,
+        "color_scheme_text": "text-colors-secondary",
+        "color_scheme_background": "background-colors-inverse",
+        "image_desktop": "shopify://shop_images/Mask-Group-1.jpg",
+        "video_desktop_external": "",
+        "video_mobile_external": "",
+        "content_position_horizontal": "align-center text-center",
+        "content_position_vertical": "justify-end",
+        "content_padding_top": 9.6,
+        "content_padding_bottom": 9.6,
+        "content_padding_left": 32,
+        "content_padding_right": 32
+      }
+    },
+    "seo_content_knTVnt": {
+      "type": "seo-content",
+      "custom_css": [
+        ".section-seo-content {padding: 0px;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "Freeze Away Belly Fat Procedure with Before and After",
+        "content": ""
+      }
+    },
+    "dual_tiles_xtUfe6": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_qCF4mM": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_external": "https://www.youtube.com/watch?v=xEtt3tvm_ks",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_CCgbYR": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/CS-Elite-System-Image_Overhead-Wide-Shot-with-White-Background-1.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_qCF4mM",
+        "tile_CCgbYR"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 55,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "seo_content_TMp3Hd": {
+      "type": "seo-content",
+      "custom_css": [
+        ".section-seo-content {padding: 0px;}",
+        ".section-seo-content .section-seo-content__content h2 {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "Before and After",
+        "content": "<p>Are you considering treatment to burn fat without a workout?<br/>Contact Dr. Zadeh today to see if it’s right for you.</p>"
+      }
+    },
+    "dual_tiles_dkeJTG": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_LA9mRm": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/women-butt-2-y_2x_57725a0b-e0d3-43eb-8652-84ec3d08358b.gif",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_8jAPtG": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/women-abs-4-i_2x_2f7a080b-b939-4af4-abb8-98c2936f782c.gif",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_LA9mRm",
+        "tile_8jAPtG"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_yDGAFE": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_UhwgpX": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_1.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_UJaV98": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why Dr. Zadeh?",
+            "text_size": 1,
+            "content": "<h3><strong>Because He Cares.</strong></h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs the Coolsculpting procedures.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#shopify-section-template--24036801085726__request_an_appointment_wcj8gh",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_UhwgpX",
+        "tile_UJaV98"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "h3 {font-size: 32px;}",
+        ".section-dual-tiles__actions {max-width: 200px; margin: auto;}",
+        "a {color: #fff;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "marquees_LJnAUN": {
+      "type": "marquees",
+      "blocks": {
+        "item_ypamPW": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/sd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_LznLDd": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/ult.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_CVRWHx": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/cscp.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_3ewwtH": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rcp_1.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_XUbpnt": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rstd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_jtQ6NH": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pclogo.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_fapbVk": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pc.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_ypamPW",
+        "item_LznLDd",
+        "item_CVRWHx",
+        "item_3ewwtH",
+        "item_XUbpnt",
+        "item_jtQ6NH",
+        "item_fapbVk"
+      ],
+      "settings": {
+        "enable_animation": true,
+        "marquee_duration_rate": 5,
+        "marquee_font_size": 4,
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    },
+    "testimonials_iApmH4": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_NjQQLV": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Group100137.jpg",
+            "quote": "<p>The CoolSculpting<br/>procedure was recently awarded <strong>“The Best Fat Reducing Treatment” </strong>by New Beauty!</p>",
+            "author": "",
+            "link_title": "",
+            "link_url": ""
+          }
+        },
+        "testimonial_gPxTBr": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Group100135.jpg",
+            "quote": "<p>With more than 4 million CoolSculpting treatments performed worldwide, it is proven to be a safe and effective treatment for non-surgical fat reduction.</p>",
+            "author": "",
+            "link_title": "",
+            "link_url": ""
+          }
+        },
+        "testimonial_NCpaWJ": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Group100136.jpg",
+            "quote": "<p>The CoolSculpting procedure is the world’s #1 non-surgical fat reduction treatment.*</p>",
+            "author": "",
+            "link_title": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_NjQQLV",
+        "testimonial_gPxTBr",
+        "testimonial_NCpaWJ"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain; max-height: 200px; margin-bottom: auto;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-testimonials {padding-bottom: 0px !important;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "layout": "image-right",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": ""
+      }
+    },
+    "seo_content_wNfyk8": {
+      "type": "seo-content",
+      "custom_css": [
+        ".section-seo-content {padding: 0px;}",
+        ".section-testimonials {padding-bottom: 0px !important;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "NO WONDER SO MANY PEOPLE FEEL CONFIDENT IN THE SAFETY OF COOLSCULPTING TREATMENTS.",
+        "content": "<p>CoolSculpting is safe, effective and FDA-approved. Most importantly, it works. Results look natural and can be seen as early as three weeks following treatment, with the most dramatic results after one to three months. Most people only need one treatment session to get back into those skinny jeans. What’s more, there are no pills or supplements. And as long as you maintain your normal diet and exercise, your long-term results should remain stable.</p>"
+      }
+    },
+    "testimonials_trdaJc": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_Bgzype": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/PROCEDURE-SAFETY_2x_1be3e7cb-6fc6-4ee0-a690-b28be431cba3.svg",
+            "quote": "<p>PROCEDURE SAFETY</p>",
+            "author": "CoolSculpting technology safely delivers precisely controlled cooling to gently and effectively target the fat cells underneath the skin while leaving the skin itself unaffected.",
+            "link_title": "",
+            "link_url": ""
+          }
+        },
+        "testimonial_cxFMC4": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/CLINICIAN-SAFETY_2x_b358bab0-45de-4f4d-be5b-4be6d8e40466.svg",
+            "quote": "<p>CLINICIAN SAFETY</p>",
+            "author": "Thousands of specialists have undergone in-depth training and certification to ensure your safety. CoolSculpting treatments are performed only in a medical office under the supervision of a licensed professional to guarantee the highest standards of care.",
+            "link_title": "",
+            "link_url": ""
+          }
+        },
+        "testimonial_AwnVG7": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/DEVICE-SAFETY_2x_5e319048-62be-4a62-b54b-a54ba1c5f0c2.svg",
+            "quote": "<p>DEVICE SAFETY</p>",
+            "author": "CoolSculpting systems are the only controlled cooling devices that are designed with built-in safety measures. If sensors detect that the skin is getting too cold, the system will shut down automatically.",
+            "link_title": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_Bgzype",
+        "testimonial_cxFMC4",
+        "testimonial_AwnVG7"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain; max-height: 200px; margin-bottom: auto;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-testimonials {padding-top: 0px !important;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "layout": "",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_hR43zM",
+    "spacing_T6DimF",
+    "request_an_appointment_wcj8gh",
+    "seo_content_7cbnFz",
+    "dual_tiles_faFg3C",
+    "dual_tiles_qBwpLy",
+    "full_width_banner_g8TDpg",
+    "full_width_banner_rjQwiA",
+    "countdown_timer_eb6GPm",
+    "full_width_banner_ygREmT",
+    "seo_content_knTVnt",
+    "dual_tiles_xtUfe6",
+    "seo_content_TMp3Hd",
+    "dual_tiles_dkeJTG",
+    "dual_tiles_yDGAFE",
+    "marquees_LJnAUN",
+    "testimonials_iApmH4",
+    "seo_content_wNfyk8",
+    "testimonials_trdaJc"
+  ]
+}

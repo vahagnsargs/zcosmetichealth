@@ -1,1 +1,557 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_HUxbmH":{"type":"hero-banner","blocks":{"slide_tzCAP4":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Emsculpt_2x-scaled.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-end text-right","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"How To Define The Jawline","content":"<p>A defined jawline is something many people desire. Having a more chiseled jawline can make you look healthier, slimmer, and more attractive. On the other hand, a weak jawline can do the opposite, causing those with weaker jawlines to feel stressed about their appearance.<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"#shopify-section-template--24036801446174__request_an_appointment_7fWrPc","button_text2":"","button_url2":"\/"}}},"block_order":["slide_tzCAP4"],"custom_css":[".hero__entry {max-width: 1000px;}",".hero__content {height: 100%;}",".hero__inner {height: 100%;}"],"settings":{"slider_height":100,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_6LtxHD":{"type":"dual-tiles","blocks":{"tile_ATw4CC":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"A Defined Jawline","text_size":2.5,"content":"<p>Luckily, those who would like to strengthen a weaker jawline have options. There are a number of simple cosmetic treatments that can correct a weak jawline and give you that chiseled jawline you’ve been dreaming of. Let’s take a look at five of our favorite non-surgical treatments for a defined jawline: fillers, Ultherapy, Thermitight, Sculptra, and Kybella.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_ATw4CC"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--70-30","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":1}},"request_an_appointment_7fWrPc":{"type":"request-an-appointment","custom_css":["h3 {text-align: center;}","@media (max-width: 768px) {h2 {max-width: 325px; }}"],"settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_HJwLHn":{"type":"dual-tiles","blocks":{"tile_xTgQFe":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_2.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_kU6A9J":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why Dr. Zadeh?","text_size":1,"content":"<h3><strong>Because He Cares.<\/strong><\/h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs all Emsculpt procedures.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"#shopify-section-template--24036801446174__request_an_appointment_7fWrPc","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_xTgQFe","tile_kU6A9J"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}","h3 {text-align: center;}",".section-dual-tiles__actions {text-align: center;}",".section-dual-tiles__actions a {color: #fff;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":4,"spacing_bottom_desktop":2,"spacing_top_mobile":2,"spacing_bottom_mobile":1}},"marquees_39WjLN":{"type":"marquees","blocks":{"item_9FNWHL":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/sd.png","icon_svg_code":"","title":"","link":""}},"item_XyUqLY":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/ult.png","icon_svg_code":"","title":"","link":""}},"item_7AbQHL":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/cscp.png","icon_svg_code":"","title":"","link":""}},"item_3cCFUb":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rcp_1.png","icon_svg_code":"","title":"","link":""}},"item_9tYEDK":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/rstd.png","icon_svg_code":"","title":"","link":""}},"item_mpPAAk":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pclogo.png","icon_svg_code":"","title":"","link":""}},"item_T6MHpy":{"type":"item","settings":{"icon":"shopify:\/\/shop_images\/pc.png","icon_svg_code":"","title":"","link":""}}},"block_order":["item_9FNWHL","item_XyUqLY","item_7AbQHL","item_3cCFUb","item_9tYEDK","item_mpPAAk","item_T6MHpy"],"settings":{"enable_animation":true,"marquee_duration_rate":5,"marquee_font_size":4,"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","padding_vertical_desktop":"","padding_vertical_mobile":""}},"dual_tiles_nR9Hpa":{"type":"dual-tiles","blocks":{"tile_8EtpBX":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"How to Define the Jawline at Z Cosmetic","text_size":2,"content":"<p>If you want to get a more defined jawline, contact us today for your free consultation with Dr. Zadeh.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Schedule An Appointment","button_url":"#shopify-section-template--24036801446174__request_an_appointment_7fWrPc","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_8EtpBX"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}","@media (max-width: 768px) {.section-dual-tiles__content a {color: #fff; }}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#f5ebdf","section_width":"max-w-page","section_height":45,"layout":"section-dual-tiles--30-70","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":0,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"dual_tiles_fmQMY3":{"type":"dual-tiles","blocks":{"tile_LpdcMM":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Fillers for a Defined Jawline","text_size":2,"content":"<p>One way you can strengthen the jawline is through the use of fillers. Fillers are an injectable treatment that can “fill” the skin, making it look more full or changing its shape. So, fillers can easily be applied to the jawline to create a more bold and full look.<\/p><p>Fillers are an excellent way to change the shape of your face and jaw with absolutely no surgery. They require no downtime, give immediate results, and are also easily reversed if a patient decides they don’t like the results. Fillers are a temporary treatment, with different fillers lasting between 6 months to 2 years, but they are easily maintained if you’d like to keep them up long term.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_rXzmYT":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Group79778342.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_LpdcMM","tile_rXzmYT"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--70-30","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":3,"spacing_bottom_desktop":3,"spacing_top_mobile":2,"spacing_bottom_mobile":2}},"our_work_j9zCFr":{"type":"our-work","blocks":{"indicator_VGDBPx":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"Text-block 1Ultherapy to Tighten the Jawline","maintext":"<p><br\/>Ultherapy is a skin-tightening treatment that is excellent for correcting loose skin around the Jawline. It’s a particularly great choice for those experiencing sagging around their jawline due to aging.<\/p><p>Ultherapy works through the application of energy. When this ultrasound energy is applied to the skin, collagen (the natural substance that keeps skin firm and smooth) growth is stimulated. Over a gradual period of time, the body will create more collagen, which tightens and smooths the skin.<\/p><p>After an Ultherapy treatment, it takes about six months on average to see optimal skin rejuvenation. However, the results of the treatment are quite long-lasting, with patients often seeing results for up to several years.<\/p>","link_title":"","link_url":"\/"}},"indicator_ACreRP":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/thermitightlogo.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"For Dramatic Skin-Tightening on the Jaw","maintext":"<p>Thermitight is another collagen-stimulating treatment that tightens the skin. It gives dramatic skin-tightening results that can be seen as early as a few weeks after treatment, with full results being seen after 3-6 months. Thermitight offers the best skin-tightening results of any non-surgical treatment. It produces its incredible results through the application of controlled heat energy that works deep under the skin.<\/p><p>Thermitight is a great option for those looking to correct loose skin around their jawline, without having to undergo a surgical treatment.<\/p>","link_title":"","link_url":"\/"}},"indicator_payVgj":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/sculptra-logo1-1.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"","maintext":"<p><br\/>Sculptra is a specialized filler made out of poly-L-lactic acid. Like other kinds of fillers, Sculptra can change the shape of the jaw through strategically placed injections. Unlike other fillers, however, Sculptra also stimulates collagen growth, allowing the results of Sculptra to last far longer than other fillers. While other fillers may last for 6 months to 2 years, Sculptra can last for up to 3 to 5 years<\/p>","link_title":"","link_url":"\/"}},"indicator_ea7Wzf":{"type":"indicator","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default","decorator":"shopify:\/\/shop_images\/kybellalogo.png","decorator_svg_code":"","color_scheme_decorator":"text-colors-default","color_scheme_background_decorator":"background-colors-accent-2","title":"For Dramatic Skin-Tightening on the Jaw","maintext":"<p>Kybella is an excellent way for those with excess fat around their jaw to get a more defined look. Kybella is a synthetic, injectable form of deoxycholic acid, the naturally occurring molecule that allows our bodies to break down and absorb fat. When Kybella is injected skillfully around the jawline and chin area, it can dissolve excess fat, giving the patient a more chiseled jawline.<br\/><\/p><p>Kybella is administered in a series of 2 to 4 treatments, each of which takes around 15 to 20 minutes. Once a patient has reached their desired look, the results of Kybella are permanent, as long as they don’t gain weight after treatment.<\/p>","link_title":"","link_url":"\/"}}},"block_order":["indicator_VGDBPx","indicator_ACreRP","indicator_payVgj","indicator_ea7Wzf"],"custom_css":[".our-work {background: #f5ebdf;}",".our-work .section-trust-indicators__tile {background: #f5ebdf;}",".section-trust-indicators .section-trust-indicators__tile {max-width: 330px;}","h3 {margin: auto;}"],"settings":{"title":"Other options for Jawline Treatment","slider_mobile":true,"layout":"layout-2","padding_vertical_desktop":"","padding_vertical_mobile":""}}},"order":["main","hero_banner_HUxbmH","dual_tiles_6LtxHD","request_an_appointment_7fWrPc","dual_tiles_HJwLHn","marquees_39WjLN","dual_tiles_nR9Hpa","dual_tiles_fmQMY3","our_work_j9zCFr"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_HUxbmH": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_tzCAP4": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Emsculpt_2x-scaled.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-end text-right",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "How To Define The Jawline",
+            "content": "<p>A defined jawline is something many people desire. Having a more chiseled jawline can make you look healthier, slimmer, and more attractive. On the other hand, a weak jawline can do the opposite, causing those with weaker jawlines to feel stressed about their appearance.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "#shopify-section-template--24036801446174__request_an_appointment_7fWrPc",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tzCAP4"
+      ],
+      "custom_css": [
+        ".hero__entry {max-width: 1000px;}",
+        ".hero__content {height: 100%;}",
+        ".hero__inner {height: 100%;}"
+      ],
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_6LtxHD": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_ATw4CC": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "A Defined Jawline",
+            "text_size": 2.5,
+            "content": "<p>Luckily, those who would like to strengthen a weaker jawline have options. There are a number of simple cosmetic treatments that can correct a weak jawline and give you that chiseled jawline you’ve been dreaming of. Let’s take a look at five of our favorite non-surgical treatments for a defined jawline: fillers, Ultherapy, Thermitight, Sculptra, and Kybella.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_ATw4CC"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 1
+      }
+    },
+    "request_an_appointment_7fWrPc": {
+      "type": "request-an-appointment",
+      "custom_css": [
+        "h3 {text-align: center;}",
+        "@media (max-width: 768px) {h2 {max-width: 325px; }}"
+      ],
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_HJwLHn": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_xTgQFe": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_kU6A9J": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why Dr. Zadeh?",
+            "text_size": 1,
+            "content": "<h3><strong>Because He Cares.</strong></h3><p>As an award winning doctor, Dr. Zadeh goes beyond accolades and awards to provide his patients with the utmost care and consideration. Unlike other cosmetic centers, Dr. Zadeh himself performs all Emsculpt procedures.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "#shopify-section-template--24036801446174__request_an_appointment_7fWrPc",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_xTgQFe",
+        "tile_kU6A9J"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "h3 {text-align: center;}",
+        ".section-dual-tiles__actions {text-align: center;}",
+        ".section-dual-tiles__actions a {color: #fff;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 4,
+        "spacing_bottom_desktop": 2,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 1
+      }
+    },
+    "marquees_39WjLN": {
+      "type": "marquees",
+      "blocks": {
+        "item_9FNWHL": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/sd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_XyUqLY": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/ult.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_7AbQHL": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/cscp.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_3cCFUb": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rcp_1.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_9tYEDK": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/rstd.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_mpPAAk": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pclogo.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        },
+        "item_T6MHpy": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/pc.png",
+            "icon_svg_code": "",
+            "title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_9FNWHL",
+        "item_XyUqLY",
+        "item_7AbQHL",
+        "item_3cCFUb",
+        "item_9tYEDK",
+        "item_mpPAAk",
+        "item_T6MHpy"
+      ],
+      "settings": {
+        "enable_animation": true,
+        "marquee_duration_rate": 5,
+        "marquee_font_size": 4,
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    },
+    "dual_tiles_nR9Hpa": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_8EtpBX": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "How to Define the Jawline at Z Cosmetic",
+            "text_size": 2,
+            "content": "<p>If you want to get a more defined jawline, contact us today for your free consultation with Dr. Zadeh.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Schedule An Appointment",
+            "button_url": "#shopify-section-template--24036801446174__request_an_appointment_7fWrPc",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_8EtpBX"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "@media (max-width: 768px) {.section-dual-tiles__content a {color: #fff; }}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#f5ebdf",
+        "section_width": "max-w-page",
+        "section_height": 45,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_fmQMY3": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_LpdcMM": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Fillers for a Defined Jawline",
+            "text_size": 2,
+            "content": "<p>One way you can strengthen the jawline is through the use of fillers. Fillers are an injectable treatment that can “fill” the skin, making it look more full or changing its shape. So, fillers can easily be applied to the jawline to create a more bold and full look.</p><p>Fillers are an excellent way to change the shape of your face and jaw with absolutely no surgery. They require no downtime, give immediate results, and are also easily reversed if a patient decides they don’t like the results. Fillers are a temporary treatment, with different fillers lasting between 6 months to 2 years, but they are easily maintained if you’d like to keep them up long term.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_rXzmYT": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Group79778342.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_LpdcMM",
+        "tile_rXzmYT"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 3,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 2
+      }
+    },
+    "our_work_j9zCFr": {
+      "type": "our-work",
+      "blocks": {
+        "indicator_VGDBPx": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "Text-block 1Ultherapy to Tighten the Jawline",
+            "maintext": "<p><br/>Ultherapy is a skin-tightening treatment that is excellent for correcting loose skin around the Jawline. It’s a particularly great choice for those experiencing sagging around their jawline due to aging.</p><p>Ultherapy works through the application of energy. When this ultrasound energy is applied to the skin, collagen (the natural substance that keeps skin firm and smooth) growth is stimulated. Over a gradual period of time, the body will create more collagen, which tightens and smooths the skin.</p><p>After an Ultherapy treatment, it takes about six months on average to see optimal skin rejuvenation. However, the results of the treatment are quite long-lasting, with patients often seeing results for up to several years.</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_ACreRP": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/thermitightlogo.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "For Dramatic Skin-Tightening on the Jaw",
+            "maintext": "<p>Thermitight is another collagen-stimulating treatment that tightens the skin. It gives dramatic skin-tightening results that can be seen as early as a few weeks after treatment, with full results being seen after 3-6 months. Thermitight offers the best skin-tightening results of any non-surgical treatment. It produces its incredible results through the application of controlled heat energy that works deep under the skin.</p><p>Thermitight is a great option for those looking to correct loose skin around their jawline, without having to undergo a surgical treatment.</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_payVgj": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/sculptra-logo1-1.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "",
+            "maintext": "<p><br/>Sculptra is a specialized filler made out of poly-L-lactic acid. Like other kinds of fillers, Sculptra can change the shape of the jaw through strategically placed injections. Unlike other fillers, however, Sculptra also stimulates collagen growth, allowing the results of Sculptra to last far longer than other fillers. While other fillers may last for 6 months to 2 years, Sculptra can last for up to 3 to 5 years</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_ea7Wzf": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/kybellalogo.png",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "For Dramatic Skin-Tightening on the Jaw",
+            "maintext": "<p>Kybella is an excellent way for those with excess fat around their jaw to get a more defined look. Kybella is a synthetic, injectable form of deoxycholic acid, the naturally occurring molecule that allows our bodies to break down and absorb fat. When Kybella is injected skillfully around the jawline and chin area, it can dissolve excess fat, giving the patient a more chiseled jawline.<br/></p><p>Kybella is administered in a series of 2 to 4 treatments, each of which takes around 15 to 20 minutes. Once a patient has reached their desired look, the results of Kybella are permanent, as long as they don’t gain weight after treatment.</p>",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_VGDBPx",
+        "indicator_ACreRP",
+        "indicator_payVgj",
+        "indicator_ea7Wzf"
+      ],
+      "custom_css": [
+        ".our-work {background: #f5ebdf;}",
+        ".our-work .section-trust-indicators__tile {background: #f5ebdf;}",
+        ".section-trust-indicators .section-trust-indicators__tile {max-width: 330px;}",
+        "h3 {margin: auto;}"
+      ],
+      "settings": {
+        "title": "Other options for Jawline Treatment",
+        "slider_mobile": true,
+        "layout": "layout-2",
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_HUxbmH",
+    "dual_tiles_6LtxHD",
+    "request_an_appointment_7fWrPc",
+    "dual_tiles_HJwLHn",
+    "marquees_39WjLN",
+    "dual_tiles_nR9Hpa",
+    "dual_tiles_fmQMY3",
+    "our_work_j9zCFr"
+  ]
+}

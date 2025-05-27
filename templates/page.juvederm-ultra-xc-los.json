@@ -1,1 +1,528 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_gEjjgz":{"type":"hero-banner","blocks":{"slide_tkgEVY":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-2","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Juvederm-Ultra_2x-scaled-1.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"Juvederm  Ultra  Xc  Los  Angeles","content":"<p>Juvederm Ultra XC is the smooth gel dermal filler of choice used at Z Center for Cosmetic Health to instantly smooth away wrinkles around your mouth and nose. With just one treatment, you’ll get smooth and natural-looking results that last up to a year. Juvederm Ultra XC is the first FDA-approved hyaluronic acid dermal filler that has proven its safety and effectiveness in multiple scientific studies. To maximize your comfort, we use the latest formulation of Juvederm Ultra XC which contains lidocaine, a common local anesthetic which helps decrease pain by numbing the injection site and reducing the overall time of the treatment.<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"Click To Book","button_url":"#shopify-section-template--24036801511710__request_an_appointment_gW3C7c","button_text2":"","button_url2":"\/"}}},"block_order":["slide_tkgEVY"],"custom_css":[".hero__inner,.hero__content {height: 100%;}","p {font-size: 16px;}"],"settings":{"slider_height":60,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"dual_tiles_4wxdcY":{"type":"dual-tiles","blocks":{"tile_XHJr4L":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"Is Juvederm Ultra XC Right for You?","text_size":2,"content":"<p>Everyone’s skin ages differently and Juvederm Ultra XC may be used to rejuvenate multiple problem areas.<\/p><p>At the Z Center for Cosmetic Health, Dr. Zadeh uses Juvederm Ultra XC to treat:<\/p><p><\/p><h4><strong>01  <\/strong>Smile lines around the nose and mouth (Nasolabial folds)<\/h4><h4><strong>02 <\/strong>Dark circles and bags underneath the eyes<em> <\/em>(tear trough deformity).<\/h4><h4><strong>03 <\/strong>Volume loss of the cheeks and the jaw line.<\/h4><h4><strong>04  <\/strong>Lip augmentation.<\/h4><h4><strong>05 <\/strong>Chin enhancement<\/h4><h4><strong>06 <\/strong>Bumps, hooks, drooping tips, and other imperfections of the nose <strong>(nonsurgical nose job)<\/strong>.<\/h4>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_XHJr4L"],"custom_css":[],"settings":{"padding_top":40,"padding_bottom":40,"background":"#F5EBDF","section_width":"max-w-page","section_height":60,"layout":"section-dual-tiles--50-50","gap_between_tiles":0,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":5,"spacing_bottom_desktop":6,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"request_an_appointment_gW3C7c":{"type":"request-an-appointment","custom_css":["@media (max-width: 768px) {h2 {max-width: 320px; }}"],"settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_yYKkD4":{"type":"dual-tiles","blocks":{"tile_WQHxQ7":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-start","title":"Treatment of LaughLines With Juvederm","text_size":2,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_V6HnVE":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Group100112.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_WQHxQ7","tile_V6HnVE"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#F5EBDF","section_width":"max-w-page","section_height":35,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":3,"spacing_bottom_desktop":0,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"dual_tiles_G4QqrK":{"type":"dual-tiles","blocks":{"tile_pETA4h":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Group100113.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_qF84hE":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-start","title":"Lip Enhancementby Dr. Zadeh","text_size":2,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_pETA4h","tile_qF84hE"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-page","section_height":35,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":0,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":0}},"seo_content_xtfYwM":{"type":"seo-content","custom_css":["p {font-size: 24px;}",".section-seo-content {padding-top: 0px; padding-bottom: 96px !important;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","text_size":1,"title":"","content":"<p>With Juvederm Ultra XC you can smooth away unwanted wrinkles andrestore natural contours. The results are immediate and very naturallooking. There is little or no down time and most people return totheir normal daily activities right after their visit.<\/p>"}},"dual_tiles_jibYMn":{"type":"dual-tiles","blocks":{"tile_9medCD":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x-4_2.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_wQJbFM":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Ready to look years younger in minutes?","text_size":2,"content":"<p>For a smooth, comfortable experience combined with long-lasting results, don’t wait – call us to schedule your consultation for Juvederm Ultra XC treatment today<a href=\"tel:+18187895500\">(818) 789-5500<\/a>.<\/p><p>Dr. Zadeh is an experienced and skilled provider of Restylane Lyft treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.<\/p><p>All injections are performed by Dr. Zadeh himself.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Book Now","button_url":"shopify:\/\/pages\/contact","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_9medCD","tile_wQJbFM"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles__actions {max-width: 200px; margin: auto;}",".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black!;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#ffffff","section_width":"max-w-page","section_height":60,"layout":"section-dual-tiles--30-70","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":0,"spacing_bottom_desktop":4,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"dual_tiles_WMpDFa":{"type":"dual-tiles","blocks":{"tile_NMn4Ah":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Group100114.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_kQF8NK":{"type":"tile","settings":{"heading_size":40,"text_color":"#111111","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Group100115.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"Read More","button_url":"https:\/\/zcosmetichealth.myshopify.com\/pages\/cosmetic-surgery-testimonials-sherman-oaks","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_NMn4Ah","tile_kQF8NK"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}","a {color: #fff;}",".section-dual-tiles__tile.content--absolute .media {margin-bottom: 23%;}",".section-dual-tiles__content {right: 50%;}"],"settings":{"padding_top":40,"padding_bottom":40,"background":"#F5EBDF","section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--50-50","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":2,"spacing_bottom_mobile":6}}},"order":["main","hero_banner_gEjjgz","dual_tiles_4wxdcY","request_an_appointment_gW3C7c","dual_tiles_yYKkD4","dual_tiles_G4QqrK","seo_content_xtfYwM","dual_tiles_jibYMn","dual_tiles_WMpDFa"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_gEjjgz": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_tkgEVY": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Juvederm-Ultra_2x-scaled-1.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Juvederm  Ultra  Xc  Los  Angeles",
+            "content": "<p>Juvederm Ultra XC is the smooth gel dermal filler of choice used at Z Center for Cosmetic Health to instantly smooth away wrinkles around your mouth and nose. With just one treatment, you’ll get smooth and natural-looking results that last up to a year. Juvederm Ultra XC is the first FDA-approved hyaluronic acid dermal filler that has proven its safety and effectiveness in multiple scientific studies. To maximize your comfort, we use the latest formulation of Juvederm Ultra XC which contains lidocaine, a common local anesthetic which helps decrease pain by numbing the injection site and reducing the overall time of the treatment.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "Click To Book",
+            "button_url": "#shopify-section-template--24036801511710__request_an_appointment_gW3C7c",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tkgEVY"
+      ],
+      "custom_css": [
+        ".hero__inner,.hero__content {height: 100%;}",
+        "p {font-size: 16px;}"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_4wxdcY": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_XHJr4L": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Is Juvederm Ultra XC Right for You?",
+            "text_size": 2,
+            "content": "<p>Everyone’s skin ages differently and Juvederm Ultra XC may be used to rejuvenate multiple problem areas.</p><p>At the Z Center for Cosmetic Health, Dr. Zadeh uses Juvederm Ultra XC to treat:</p><p></p><h4><strong>01  </strong>Smile lines around the nose and mouth (Nasolabial folds)</h4><h4><strong>02 </strong>Dark circles and bags underneath the eyes<em> </em>(tear trough deformity).</h4><h4><strong>03 </strong>Volume loss of the cheeks and the jaw line.</h4><h4><strong>04  </strong>Lip augmentation.</h4><h4><strong>05 </strong>Chin enhancement</h4><h4><strong>06 </strong>Bumps, hooks, drooping tips, and other imperfections of the nose <strong>(nonsurgical nose job)</strong>.</h4>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_XHJr4L"
+      ],
+      "custom_css": [],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 60,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 5,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "request_an_appointment_gW3C7c": {
+      "type": "request-an-appointment",
+      "custom_css": [
+        "@media (max-width: 768px) {h2 {max-width: 320px; }}"
+      ],
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_yYKkD4": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_WQHxQ7": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-start",
+            "title": "Treatment of LaughLines With Juvederm",
+            "text_size": 2,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_V6HnVE": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Group100112.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_WQHxQ7",
+        "tile_V6HnVE"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 35,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 3,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "dual_tiles_G4QqrK": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_pETA4h": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Group100113.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_qF84hE": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-start",
+            "title": "Lip Enhancementby Dr. Zadeh",
+            "text_size": 2,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_pETA4h",
+        "tile_qF84hE"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-page",
+        "section_height": 35,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "seo_content_xtfYwM": {
+      "type": "seo-content",
+      "custom_css": [
+        "p {font-size: 24px;}",
+        ".section-seo-content {padding-top: 0px; padding-bottom: 96px !important;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "text_size": 1,
+        "title": "",
+        "content": "<p>With Juvederm Ultra XC you can smooth away unwanted wrinkles andrestore natural contours. The results are immediate and very naturallooking. There is little or no down time and most people return totheir normal daily activities right after their visit.</p>"
+      }
+    },
+    "dual_tiles_jibYMn": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_9medCD": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_wQJbFM": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Ready to look years younger in minutes?",
+            "text_size": 2,
+            "content": "<p>For a smooth, comfortable experience combined with long-lasting results, don’t wait – call us to schedule your consultation for Juvederm Ultra XC treatment today<a href=\"tel:+18187895500\">(818) 789-5500</a>.</p><p>Dr. Zadeh is an experienced and skilled provider of Restylane Lyft treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_9medCD",
+        "tile_wQJbFM"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles__actions {max-width: 200px; margin: auto;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black!;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#ffffff",
+        "section_width": "max-w-page",
+        "section_height": 60,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 0,
+        "spacing_bottom_desktop": 4,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "dual_tiles_WMpDFa": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_NMn4Ah": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Group100114.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_kQF8NK": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Group100115.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Read More",
+            "button_url": "https://zcosmetichealth.myshopify.com/pages/cosmetic-surgery-testimonials-sherman-oaks",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_NMn4Ah",
+        "tile_kQF8NK"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: #fff;}",
+        ".section-dual-tiles__tile.content--absolute .media {margin-bottom: 23%;}",
+        ".section-dual-tiles__content {right: 50%;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 2,
+        "spacing_bottom_mobile": 6
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_gEjjgz",
+    "dual_tiles_4wxdcY",
+    "request_an_appointment_gW3C7c",
+    "dual_tiles_yYKkD4",
+    "dual_tiles_G4QqrK",
+    "seo_content_xtfYwM",
+    "dual_tiles_jibYMn",
+    "dual_tiles_WMpDFa"
+  ]
+}

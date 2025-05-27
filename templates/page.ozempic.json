@@ -1,1 +1,468 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"breadcrumbs":true,"info_title":"","info_content":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"hero_banner_WMdi6k":{"type":"hero-banner","blocks":{"slide_AEihgf":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-default","header_menu_text_color":"#ffffff","image":"shopify:\/\/shop_images\/Group-7_1.jpg","video_external":"","enable_media_overlay_desktop":true,"video_external_mobile":"","enable_media_overlay_mobile":true,"content_position_horizontal":"align-center text-center","content_position_vertical":"justify-center","subtitle":"","subtitle_url":"","title":"Unlock the Power of Ozempic for Weight Loss Success!","content":"<p>If you’ve been trying diet after diet without lasting success, you’re not alone. The challenges of weight management are tough, but there’s hope. We’re introducing our Ozempic-Only Weight Loss Program, designed to help you reach your goals and take control of your health.<\/p>","enable_vertical_line":true,"button_style":"button--filled","button_text":"","button_url":"\/","button_text2":"","button_url2":"\/"}}},"block_order":["slide_AEihgf"],"custom_css":[".hero__entry {max-width: 1000px;}",".hero__content {padding-top: 70px;}",".hero__inner, .hero__content {height: 100%; }"],"settings":{"slider_height":60,"slider_autoplay":false,"slider_autoplay_interval":6,"slider_arrows":false,"slider_arrows_position":"hero__swiper-buttons--sides","slider_arrows_color":"text-colors-inverse"}},"spacing_8UqxU4":{"type":"spacing","settings":{"color_scheme_background":"background-colors-default","spacing_desktop":60,"spacing_mobile":45}},"request_an_appointment_79Yk6E":{"type":"request-an-appointment","custom_css":["h2 {max-width: 430px; margin: auto; margin-bottom: 42px;}","@media (max-width: 768px) {h2 {max-width: 319px; margin: auto; margin-bottom: 30px; }}"],"settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-default"}},"dual_tiles_EkYVpz":{"type":"dual-tiles","blocks":{"tile_ThmHj8":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"About OurOzempic Program","text_size":2,"content":"<p><strong>Under the expert care of Dr. Michael Zadeh,<\/strong> we offer a science-backed approach that focuses solely on Ozempic\/Wegovy (semaglutide), a groundbreaking medication proven to support effective weight management. This program combines compassionate care, personalized support, and evidence-based treatment to empower your weight loss journey.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_FFVr66":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x_bd77de8e-fe55-4cc7-82b4-5a325472fb0b.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_ThmHj8","tile_FFVr66"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--70-30","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":6}},"dual_tiles_aRnQFC":{"type":"dual-tiles","blocks":{"tile_9zEJY6":{"type":"tile","settings":{"color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-accent-1","image_desktop":"shopify:\/\/shop_images\/Group-8_1.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":3.2,"block_padding_bottom":3.2,"block_padding_left":0,"block_padding_right":0}},"tile_CUCx7E":{"type":"tile","settings":{"color_scheme_text":"text-colors-inverse","color_scheme_background":"background-colors-secondary","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"How Ozempic Transforms Your Weight Loss:","text_size":2,"content":"<p><strong>Reduced Appetite:<\/strong> Ozempic\/Wegovy helps regulate hormones that control hunger, promoting a feeling of fullness and reducing cravings.<\/p><p><strong>Enhanced Fat Burning:<\/strong> It encourages the body to burn stored fat for energy, boosting metabolism and helping you achieve steady, sustainable weight loss.<\/p><p><strong>Improved Blood Sugar Levels:<\/strong> Ozempic\/Wegovy can help stabilize blood sugar levels, particularly for individuals with pre-diabetes or type 2 diabetes, reducing long-term health risks.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_9zEJY6","tile_CUCx7E"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles__tile {background: #aec1d0;}"],"settings":{"section_width":"max-w-full","section_height":60,"layout":"section-dual-tiles--50-50","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":6,"spacing_bottom_mobile":3}},"dual_tiles_dL87XG":{"type":"dual-tiles","blocks":{"tile_3rthK7":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Why Choose Our Program?","text_size":2,"content":"<p><strong>Expert guidance:<\/strong> Dr. Zadeh and his team will guide you every step of the way, offering personalized support and addressing your individual needs.<\/p><p><strong>Safety:<\/strong> We will administer the injections for you. You don’t have to worry about needles, safe storage of medications, or maintaining an aseptic environment at home.<\/p><p><strong>FDA Approved Medications:<\/strong> We use the brand name Ozempic\/Wegovy from the manufacturer. We do not use the compounded Semaglutide which has been associated with complications and adverse events.<\/p><p><strong>Nutrition plans and counseling available:<\/strong> Learn healthy habits and get a customized meal plan that works for your food preferences and lifestyle. Your healthy eating plan will focus on sustainable changes that create long-term success.<\/p><p><strong>Exercise plans available:<\/strong> We help you keep the weight off with exercise plans formulated by a certified personal trainer. The right physical activity habits can help you achieve a healthy lifestyle and improve your quality of life.<\/p><p><strong>Motivational support:<\/strong> We believe in your potential and offer a supportive environment to overcome challenges and celebrate victories as you build healthy habits.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_TXRf4T":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/DSC00189-copy-2.jpg","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_3rthK7","tile_TXRf4T"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}"],"settings":{"section_width":"max-w-page","section_height":70,"layout":"section-dual-tiles--70-30","gap_between_tiles":0.2,"gap_between_tiles_mobile":0.2,"spacing_top_desktop":6,"spacing_bottom_desktop":0,"spacing_top_mobile":0,"spacing_bottom_mobile":0}},"seo_content_B9zMRV":{"type":"seo-content","custom_css":[".section-seo-content .section-seo-content__content {max-width: 953px !important;}",".section-seo-content__inner {padding-top: 0px !important;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","text_size":1,"title":"Ready To Break Free From The Cycle Of Frustration And Achieve Sustainable, Long-Term Weight Loss?","content":"<p>We understand the decision to start a new program can be daunting. That’s why we offer a detailed consultation with Dr. Zadeh to discuss your health goals and answer any questions you may have. Contact us to schedule your consultation today!<\/p>"}},"seo_content_iJNYPj":{"type":"seo-content","custom_css":[".section-seo-content__content .entry--list-padding-none {text-align: left;}"],"settings":{"padding_vertical_desktop":"pt-0-desktop pb-0-desktop","padding_vertical_mobile":"","color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","text_size":1,"title":"FAQs:","content":"<p><strong>Q: How does Ozempic work?<\/strong><\/p><p>Ozempic\/Wegovy stimulates the GLP-1 receptors in your brain to promote fullness and reduce appetite. It slows digestion and reduces cravings, leading to healthier food choices while improving blood sugar levels.<\/p><p><strong>Q: Is Ozempic safe?<\/strong><\/p><p>Yes, Ozempic\/Wegovy is FDA-approved and has undergone rigorous clinical testing. Our team will review your medical history during consultation to ensure it’s safe and appropriate for you.<\/p><p><strong>Q: How much weight can I lose with Ozempic?<\/strong><\/p><p>Individual results vary, but studies have shown that people lose around 15% of their initial body weight when using Ozempic\/Wegovy with lifestyle changes.<\/p><p><strong>Q: How long does the program last?<\/strong><\/p><p>The program is tailored to your specific goals, with a recommended minimum commitment of 3 months to ensure gradual and sustainable results.<\/p><p><strong>Q: When will I see results?<\/strong><\/p><p>Results often begin to show within a few weeks and continue over 3 months or longer.<\/p><p><strong>Q: Can Ozempic provide other health benefits?<\/strong><\/p><p>Ozempic\/Wegovy can help manage type 2 diabetes. Weight loss also reduces the risk of heart disease and high blood pressure.<\/p>"}},"dual_tiles_kqVYMN":{"type":"dual-tiles","blocks":{"tile_cwyHFE":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","image_desktop":"shopify:\/\/shop_images\/Dr.Michael-Zadeh_1x_0ad6c769-1e82-487b-b31e-4fce72a540db.png","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-center align-center","content_position_vertical":"justify-center","title":"","text_size":1,"content":"","button_style":"button--filled","button_separator":false,"button_text":"","button_url":"\/","content_layout":"content--relative","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}},"tile_33BVUn":{"type":"tile","settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-inverse","video_desktop_external":"","video_desktop_aspect_ratio":"16\/9","placeholder_svg_code":"","video_mobile_external":"","video_mobile_aspect_ratio":"16\/9","video_mobile_compact":false,"content_position_horizontal":"text-left align-start","content_position_vertical":"justify-center","title":"Take the First Step Toward Your New Life","text_size":2,"content":"<p>Contact us to schedule your consultation and unlock the power of Ozempic\/Wegovy to achieve your weight loss dreams.<\/p>","button_style":"button--filled","button_separator":false,"button_text":"Contact Us","button_url":"shopify:\/\/pages\/contact","content_layout":"content--absolute","block_margin_left":0,"block_margin_right":0,"block_padding_top":0,"block_padding_bottom":0,"block_padding_left":0,"block_padding_right":0}}},"block_order":["tile_cwyHFE","tile_33BVUn"],"custom_css":[".media img {object-fit: contain;}",".media--overlay:after {background: transparent;}",".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"],"settings":{"section_width":"max-w-page","section_height":40,"layout":"section-dual-tiles--30-70","gap_between_tiles":0,"gap_between_tiles_mobile":0,"spacing_top_desktop":6,"spacing_bottom_desktop":6,"spacing_top_mobile":0,"spacing_bottom_mobile":3}}},"order":["main","hero_banner_WMdi6k","spacing_8UqxU4","request_an_appointment_79Yk6E","dual_tiles_EkYVpz","dual_tiles_aRnQFC","dual_tiles_dL87XG","seo_content_B9zMRV","seo_content_iJNYPj","dual_tiles_kqVYMN"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "breadcrumbs": true,
+        "info_title": "",
+        "info_content": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_banner_WMdi6k": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_AEihgf": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-default",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Group-7_1.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "Unlock the Power of Ozempic for Weight Loss Success!",
+            "content": "<p>If you’ve been trying diet after diet without lasting success, you’re not alone. The challenges of weight management are tough, but there’s hope. We’re introducing our Ozempic-Only Weight Loss Program, designed to help you reach your goals and take control of your health.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "",
+            "button_url": "/",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_AEihgf"
+      ],
+      "custom_css": [
+        ".hero__entry {max-width: 1000px;}",
+        ".hero__content {padding-top: 70px;}",
+        ".hero__inner, .hero__content {height: 100%; }"
+      ],
+      "settings": {
+        "slider_height": 60,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "spacing_8UqxU4": {
+      "type": "spacing",
+      "settings": {
+        "color_scheme_background": "background-colors-default",
+        "spacing_desktop": 60,
+        "spacing_mobile": 45
+      }
+    },
+    "request_an_appointment_79Yk6E": {
+      "type": "request-an-appointment",
+      "custom_css": [
+        "h2 {max-width: 430px; margin: auto; margin-bottom: 42px;}",
+        "@media (max-width: 768px) {h2 {max-width: 319px; margin: auto; margin-bottom: 30px; }}"
+      ],
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "dual_tiles_EkYVpz": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_ThmHj8": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "About OurOzempic Program",
+            "text_size": 2,
+            "content": "<p><strong>Under the expert care of Dr. Michael Zadeh,</strong> we offer a science-backed approach that focuses solely on Ozempic/Wegovy (semaglutide), a groundbreaking medication proven to support effective weight management. This program combines compassionate care, personalized support, and evidence-based treatment to empower your weight loss journey.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_FFVr66": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x_bd77de8e-fe55-4cc7-82b4-5a325472fb0b.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_ThmHj8",
+        "tile_FFVr66"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "dual_tiles_aRnQFC": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_9zEJY6": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Group-8_1.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 3.2,
+            "block_padding_bottom": 3.2,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_CUCx7E": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-secondary",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "How Ozempic Transforms Your Weight Loss:",
+            "text_size": 2,
+            "content": "<p><strong>Reduced Appetite:</strong> Ozempic/Wegovy helps regulate hormones that control hunger, promoting a feeling of fullness and reducing cravings.</p><p><strong>Enhanced Fat Burning:</strong> It encourages the body to burn stored fat for energy, boosting metabolism and helping you achieve steady, sustainable weight loss.</p><p><strong>Improved Blood Sugar Levels:</strong> Ozempic/Wegovy can help stabilize blood sugar levels, particularly for individuals with pre-diabetes or type 2 diabetes, reducing long-term health risks.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_9zEJY6",
+        "tile_CUCx7E"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles__tile {background: #aec1d0;}"
+      ],
+      "settings": {
+        "section_width": "max-w-full",
+        "section_height": 60,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 3
+      }
+    },
+    "dual_tiles_dL87XG": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_3rthK7": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Why Choose Our Program?",
+            "text_size": 2,
+            "content": "<p><strong>Expert guidance:</strong> Dr. Zadeh and his team will guide you every step of the way, offering personalized support and addressing your individual needs.</p><p><strong>Safety:</strong> We will administer the injections for you. You don’t have to worry about needles, safe storage of medications, or maintaining an aseptic environment at home.</p><p><strong>FDA Approved Medications:</strong> We use the brand name Ozempic/Wegovy from the manufacturer. We do not use the compounded Semaglutide which has been associated with complications and adverse events.</p><p><strong>Nutrition plans and counseling available:</strong> Learn healthy habits and get a customized meal plan that works for your food preferences and lifestyle. Your healthy eating plan will focus on sustainable changes that create long-term success.</p><p><strong>Exercise plans available:</strong> We help you keep the weight off with exercise plans formulated by a certified personal trainer. The right physical activity habits can help you achieve a healthy lifestyle and improve your quality of life.</p><p><strong>Motivational support:</strong> We believe in your potential and offer a supportive environment to overcome challenges and celebrate victories as you build healthy habits.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_TXRf4T": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/DSC00189-copy-2.jpg",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_3rthK7",
+        "tile_TXRf4T"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 70,
+        "layout": "section-dual-tiles--70-30",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 0,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 0
+      }
+    },
+    "seo_content_B9zMRV": {
+      "type": "seo-content",
+      "custom_css": [
+        ".section-seo-content .section-seo-content__content {max-width: 953px !important;}",
+        ".section-seo-content__inner {padding-top: 0px !important;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-inverse",
+        "text_size": 1,
+        "title": "Ready To Break Free From The Cycle Of Frustration And Achieve Sustainable, Long-Term Weight Loss?",
+        "content": "<p>We understand the decision to start a new program can be daunting. That’s why we offer a detailed consultation with Dr. Zadeh to discuss your health goals and answer any questions you may have. Contact us to schedule your consultation today!</p>"
+      }
+    },
+    "seo_content_iJNYPj": {
+      "type": "seo-content",
+      "custom_css": [
+        ".section-seo-content__content .entry--list-padding-none {text-align: left;}"
+      ],
+      "settings": {
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "text_size": 1,
+        "title": "FAQs:",
+        "content": "<p><strong>Q: How does Ozempic work?</strong></p><p>Ozempic/Wegovy stimulates the GLP-1 receptors in your brain to promote fullness and reduce appetite. It slows digestion and reduces cravings, leading to healthier food choices while improving blood sugar levels.</p><p><strong>Q: Is Ozempic safe?</strong></p><p>Yes, Ozempic/Wegovy is FDA-approved and has undergone rigorous clinical testing. Our team will review your medical history during consultation to ensure it’s safe and appropriate for you.</p><p><strong>Q: How much weight can I lose with Ozempic?</strong></p><p>Individual results vary, but studies have shown that people lose around 15% of their initial body weight when using Ozempic/Wegovy with lifestyle changes.</p><p><strong>Q: How long does the program last?</strong></p><p>The program is tailored to your specific goals, with a recommended minimum commitment of 3 months to ensure gradual and sustainable results.</p><p><strong>Q: When will I see results?</strong></p><p>Results often begin to show within a few weeks and continue over 3 months or longer.</p><p><strong>Q: Can Ozempic provide other health benefits?</strong></p><p>Ozempic/Wegovy can help manage type 2 diabetes. Weight loss also reduces the risk of heart disease and high blood pressure.</p>"
+      }
+    },
+    "dual_tiles_kqVYMN": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_cwyHFE": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x_0ad6c769-1e82-487b-b31e-4fce72a540db.png",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_33BVUn": {
+          "type": "tile",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-inverse",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-left align-start",
+            "content_position_vertical": "justify-center",
+            "title": "Take the First Step Toward Your New Life",
+            "text_size": 2,
+            "content": "<p>Contact us to schedule your consultation and unlock the power of Ozempic/Wegovy to achieve your weight loss dreams.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Contact Us",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_cwyHFE",
+        "tile_33BVUn"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"
+      ],
+      "settings": {
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--30-70",
+        "gap_between_tiles": 0,
+        "gap_between_tiles_mobile": 0,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 0,
+        "spacing_bottom_mobile": 3
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_banner_WMdi6k",
+    "spacing_8UqxU4",
+    "request_an_appointment_79Yk6E",
+    "dual_tiles_EkYVpz",
+    "dual_tiles_aRnQFC",
+    "dual_tiles_dL87XG",
+    "seo_content_B9zMRV",
+    "seo_content_iJNYPj",
+    "dual_tiles_kqVYMN"
+  ]
+}
