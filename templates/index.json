@@ -60,6 +60,9 @@
     },
     "book_appointment_thqbgY": {
       "type": "book-appointment",
+      "custom_css": [
+        "section{max-width: unset;}"
+      ],
       "name": "Book an Appointment",
       "settings": {
         "color_scheme_text": "text-colors-default",
