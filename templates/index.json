@@ -60,8 +60,9 @@
     },
     "book_appointment_thqbgY": {
       "type": "book-appointment",
+      "disabled": true,
       "custom_css": [
-        "section{max-width: unset;}"
+        "section {max-width: unset;}"
       ],
       "name": "Book an Appointment",
       "settings": {
@@ -95,6 +96,7 @@
         "media_fhxWEP",
         "text_3LfUzL"
       ],
+      "disabled": true,
       "settings": {
         "hero_alt_banner_height": 80,
         "padding_vertical_desktop": "pt-0-desktop",
