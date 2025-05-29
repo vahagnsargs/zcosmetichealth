@@ -1,1 +1,138 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"cee0c4f6-5546-43a3-bfc3-2f3afa36d9d5":{"type":"text-slide","settings":{"content":"<p>Transform your look with Sherman Oaks’ #1 Rated Med Spa<\/p>","dropdown_cards":false,"color_scheme_background_dropdown":"background-colors-default","color_scheme_text_dropdown":"text-colors-default","card_item_1__title":"","card_item_1__content":"","card_item_1__button_text":"","card_item_1__button_url":"","card_item_2__title":"","card_item_2__content":"","card_item_2__button_text":"","card_item_2__button_url":"","card_item_3__title":"","card_item_3__content":"","card_item_3__button_text":"","card_item_3__button_url":"","countdown":false,"timer_year":2023,"timer_month":"01","timer_day":1,"timer_hour":0,"timer_minute":0,"timer_extend":0,"timer_end_message":"Sale has ended","show_timer_days":true,"show_timer_hours":true,"show_timer_minutes":true,"show_timer_seconds":true}},"5e0cad2e-d931-416e-ac29-51a4a683ade2":{"type":"text-slide","settings":{"content":"<p>Make an announcement here<\/p>","dropdown_cards":false,"color_scheme_background_dropdown":"background-colors-default","color_scheme_text_dropdown":"text-colors-default","card_item_1__title":"","card_item_1__content":"","card_item_1__button_text":"","card_item_1__button_url":"","card_item_2__title":"","card_item_2__content":"","card_item_2__button_text":"","card_item_2__button_url":"","card_item_3__title":"","card_item_3__content":"","card_item_3__button_text":"","card_item_3__button_url":"","countdown":false,"timer_year":2023,"timer_month":"01","timer_day":1,"timer_hour":0,"timer_minute":0,"timer_extend":0,"timer_end_message":"Sale has ended","show_timer_days":true,"show_timer_hours":true,"show_timer_minutes":true,"show_timer_seconds":true}}},"block_order":["cee0c4f6-5546-43a3-bfc3-2f3afa36d9d5","5e0cad2e-d931-416e-ac29-51a4a683ade2"],"settings":{"color_scheme_text":"text-colors-default","color_scheme_background":"background-colors-accent-1","slider_autoplay_interval":5}},"header":{"type":"header","blocks":{"menu_icon_3eyML6":{"type":"menu_icon","disabled":true,"settings":{"menu_icon_title":"face","menu_icon_sub_title":"","menu_icon_image":"shopify:\/\/shop_images\/Background.webp","menu_icon_menu":"weight-loss-ozempic"}},"menu_icon_BTAnJ3":{"type":"menu_icon","settings":{"menu_icon_title":"face","menu_icon_sub_title":"CONCERNS & SOLUTIONS","menu_icon_image":"shopify:\/\/shop_images\/Background_1.png","menu_icon_menu":"weight-loss-ozempic"}},"menu_icon_UBw8nc":{"type":"menu_icon","settings":{"menu_icon_title":"body","menu_icon_sub_title":"ConcernS & SOLUTIONS","menu_icon_image":"shopify:\/\/shop_images\/Background_2.png","menu_icon_menu":"body"}},"menu_icon_GnH3mw":{"type":"menu_icon","settings":{"menu_icon_title":"men","menu_icon_sub_title":"ConcernS & SOLUTIONS","menu_icon_image":"shopify:\/\/shop_images\/Background_4.png","menu_icon_menu":"men"}},"menu_icon_8i8xWL":{"type":"menu_icon","settings":{"menu_icon_title":"SKIN","menu_icon_sub_title":"ConcernS & SOLUTIONS","menu_icon_image":"shopify:\/\/shop_images\/Background_3.png","menu_icon_menu":"skin"}},"sub_menu_icon_atmDtC":{"type":"sub_menu_icon","settings":{"menu_icon_title":"face","menu_icon_image":"shopify:\/\/shop_images\/Background_78119196-99bf-46d9-8aaa-ecd67c287ec7.png"}},"sub_menu_icon_gWXENT":{"type":"sub_menu_icon","settings":{"menu_icon_title":"sweat-reduction","menu_icon_image":"shopify:\/\/shop_images\/Background_4c5ebdab-dc28-4aa1-8974-3a5a85c1a2d6.png"}},"sub_menu_icon_pcpHXe":{"type":"sub_menu_icon","settings":{"menu_icon_title":"body","menu_icon_image":"shopify:\/\/shop_images\/Background_dd3a70d7-4ab3-4735-b5c6-4bb12c5439ab.png"}},"sub_menu_icon_fUMxRj":{"type":"sub_menu_icon","settings":{"menu_icon_title":"brotox-fillers","menu_icon_image":"shopify:\/\/shop_images\/Background_0fad90f6-9b51-47f1-b055-ada56319e44f.png"}},"sub_menu_icon_nht3AC":{"type":"sub_menu_icon","settings":{"menu_icon_title":"hair","menu_icon_image":"shopify:\/\/shop_images\/Background_e01856b8-97de-4e02-8145-c9eca8ef037b.png"}},"sub_menu_icon_WqJDFU":{"type":"sub_menu_icon","settings":{"menu_icon_title":"skin","menu_icon_image":"shopify:\/\/shop_images\/Background_55356589-45cb-4405-8f5e-c68fedddd14c.png"}},"sub_menu_icon_pzU89q":{"type":"sub_menu_icon","settings":{"menu_icon_title":"lip-augmentation","menu_icon_image":"shopify:\/\/shop_images\/Background_009e6eae-5369-4eec-ae3c-e5fe74616e1f.png"}},"sub_menu_icon_Jbmicb":{"type":"sub_menu_icon","settings":{"menu_icon_title":"wrinkle-treatments","menu_icon_image":"shopify:\/\/shop_images\/Background_b1b211f4-a6ab-477c-98fb-7b216c37d522.png"}},"sub_menu_icon_FDRbdj":{"type":"sub_menu_icon","settings":{"menu_icon_title":"rejuvenation-resurfacing","menu_icon_image":"shopify:\/\/shop_images\/Background_be4ee782-5e6f-4e1b-9839-8e0ba3c4ec27.png"}},"sub_menu_icon_tHEQbb":{"type":"sub_menu_icon","settings":{"menu_icon_title":"dermal-fillers","menu_icon_image":"shopify:\/\/shop_images\/Background_518c395e-0834-450b-9c3f-169b78d4fd20.png"}},"sub_menu_icon_PdreJe":{"type":"sub_menu_icon","settings":{"menu_icon_title":"skin-care","menu_icon_image":"shopify:\/\/shop_images\/Background_e3212170-41c3-45db-bd88-eff02689db12.png"}},"sub_menu_icon_x7YFF6":{"type":"sub_menu_icon","settings":{"menu_icon_title":"excessive-sweating","menu_icon_image":"shopify:\/\/shop_images\/Background_0c6e7d43-b68e-45f1-8d24-2dc363caafa7.png"}},"sub_menu_icon_k6hP3f":{"type":"sub_menu_icon","settings":{"menu_icon_title":"mole-skin","menu_icon_image":"shopify:\/\/shop_images\/Background_9c175c8e-0fc0-42c9-90cb-54762ae181b0.png"}},"sub_menu_icon_zwCzjG":{"type":"sub_menu_icon","settings":{"menu_icon_title":"loose-skin-treatments","menu_icon_image":"shopify:\/\/shop_images\/Background_1abff7b4-9e4b-43ec-aa84-abaa2ef8b478.png"}},"sub_menu_icon_aB4D79":{"type":"sub_menu_icon","settings":{"menu_icon_title":"stretchmark-removal","menu_icon_image":"shopify:\/\/shop_images\/Background_0a1e1000-b6aa-4b81-aa48-b9a6444163a9.png"}},"sub_menu_icon_3rpDXY":{"type":"sub_menu_icon","settings":{"menu_icon_title":"non-surgical-butt-lift","menu_icon_image":"shopify:\/\/shop_images\/Background_1f478c81-e45c-4546-a1be-55645aae2a17.png"}},"sub_menu_icon_MLCQdx":{"type":"sub_menu_icon","settings":{"menu_icon_title":"body-contouring","menu_icon_image":"shopify:\/\/shop_images\/Background_a22395e7-ef7a-4ef3-bcef-d98c0fb75d43.png"}},"sub_menu_icon_LU6GQn":{"type":"sub_menu_icon","settings":{"menu_icon_title":"cellulite-reduction","menu_icon_image":"shopify:\/\/shop_images\/Background_0194b792-a9bf-4fce-8d6e-b9e286e1979c.png"}},"sub_menu_icon_8B4iJT":{"type":"sub_menu_icon","settings":{"menu_icon_title":"vaginal-rejuvenation","menu_icon_image":"shopify:\/\/shop_images\/aaaa.png"}},"sub_menu_icon_jNR9xa":{"type":"sub_menu_icon","settings":{"menu_icon_title":"facial-neck-lifting","menu_icon_image":"shopify:\/\/shop_images\/Background_bc8d4cd3-5759-4c31-9d2a-470d8c1ad293.webp"}},"sub_menu_icon_nVBWFU":{"type":"sub_menu_icon","settings":{"menu_icon_title":"Feature Contouring","menu_icon_image":"shopify:\/\/shop_images\/Background_1_c72833ab-ccd6-48eb-8315-8a0f5c3a0ff9.webp"}},"sub_menu_icon_jfYMY7":{"type":"sub_menu_icon","settings":{"menu_icon_title":"Facial \/ Jaw Contour","menu_icon_image":"shopify:\/\/shop_images\/Background_3_2ace1b1d-2434-4fa9-bd8b-f844323f5545.webp"}},"sub_menu_icon_PbWVan":{"type":"sub_menu_icon","settings":{"menu_icon_title":"Slim Double Chin","menu_icon_image":"shopify:\/\/shop_images\/Background_4.webp"}}},"block_order":["menu_icon_3eyML6","menu_icon_BTAnJ3","menu_icon_UBw8nc","menu_icon_GnH3mw","menu_icon_8i8xWL","sub_menu_icon_atmDtC","sub_menu_icon_gWXENT","sub_menu_icon_pcpHXe","sub_menu_icon_fUMxRj","sub_menu_icon_nht3AC","sub_menu_icon_WqJDFU","sub_menu_icon_pzU89q","sub_menu_icon_Jbmicb","sub_menu_icon_FDRbdj","sub_menu_icon_tHEQbb","sub_menu_icon_PdreJe","sub_menu_icon_x7YFF6","sub_menu_icon_k6hP3f","sub_menu_icon_zwCzjG","sub_menu_icon_aB4D79","sub_menu_icon_3rpDXY","sub_menu_icon_MLCQdx","sub_menu_icon_LU6GQn","sub_menu_icon_8B4iJT","sub_menu_icon_jNR9xa","sub_menu_icon_nVBWFU","sub_menu_icon_jfYMY7","sub_menu_icon_PbWVan"],"custom_css":["button {border: 1px solid black; color: black;}"],"settings":{"fullwidth":true,"sticky":true,"color_scheme_background":"background-colors-default","color_scheme_text":"text-colors-secondary","layout":"","transparent_header_homepage":true,"transparent_header_collection":true,"transparent_header_bottom_border":true,"drawer_layer":true,"logo":"shopify:\/\/shop_images\/Z_Center_for_Cosmetic_Health-logo-01_3108f6bf-5c66-4726-8a5e-f545ca291fb8.svg","logo_transparent":"shopify:\/\/shop_images\/Z_Center_for_Cosmetic_Health-logo-01_1d6cdef7-bb79-427c-a0ba-d9430740c288.svg","logo_svg_code":"","logo_width":160,"logo_width_mobile":92,"logo_font_size":1.5,"menu":"main-menu","submenu":"","menu_column_count":5,"country_drawer_header":true,"country_drawer_navigation_menu":true,"first_additional_link_title":"","first_additional_link_url":"","second_additional_link_title":"","second_additional_link_url":""}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "cee0c4f6-5546-43a3-bfc3-2f3afa36d9d5": {
+          "type": "text-slide",
+          "settings": {
+            "content": "<p>WELCOME TO OUR STORE</p>",
+            "dropdown_cards": false,
+            "color_scheme_background_dropdown": "background-colors-default",
+            "color_scheme_text_dropdown": "text-colors-default",
+            "card_item_1__title": "",
+            "card_item_1__content": "",
+            "card_item_1__button_text": "",
+            "card_item_1__button_url": "",
+            "card_item_2__title": "",
+            "card_item_2__content": "",
+            "card_item_2__button_text": "",
+            "card_item_2__button_url": "",
+            "card_item_3__title": "",
+            "card_item_3__content": "",
+            "card_item_3__button_text": "",
+            "card_item_3__button_url": "",
+            "countdown": false,
+            "timer_year": 2023,
+            "timer_month": "01",
+            "timer_day": 1,
+            "timer_hour": 0,
+            "timer_minute": 0,
+            "timer_extend": 0,
+            "timer_end_message": "Sale has ended",
+            "show_timer_days": true,
+            "show_timer_hours": true,
+            "show_timer_minutes": true,
+            "show_timer_seconds": true
+          }
+        },
+        "5e0cad2e-d931-416e-ac29-51a4a683ade2": {
+          "type": "text-slide",
+          "settings": {
+            "content": "<p>Make an announcement here</p>",
+            "dropdown_cards": false,
+            "color_scheme_background_dropdown": "background-colors-default",
+            "color_scheme_text_dropdown": "text-colors-default",
+            "card_item_1__title": "",
+            "card_item_1__content": "",
+            "card_item_1__button_text": "",
+            "card_item_1__button_url": "",
+            "card_item_2__title": "",
+            "card_item_2__content": "",
+            "card_item_2__button_text": "",
+            "card_item_2__button_url": "",
+            "card_item_3__title": "",
+            "card_item_3__content": "",
+            "card_item_3__button_text": "",
+            "card_item_3__button_url": "",
+            "countdown": false,
+            "timer_year": 2023,
+            "timer_month": "01",
+            "timer_day": 1,
+            "timer_hour": 0,
+            "timer_minute": 0,
+            "timer_extend": 0,
+            "timer_end_message": "Sale has ended",
+            "show_timer_days": true,
+            "show_timer_hours": true,
+            "show_timer_minutes": true,
+            "show_timer_seconds": true
+          }
+        }
+      },
+      "block_order": [
+        "cee0c4f6-5546-43a3-bfc3-2f3afa36d9d5",
+        "5e0cad2e-d931-416e-ac29-51a4a683ade2"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "slider_autoplay_interval": 5
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "fullwidth": true,
+        "sticky": true,
+        "color_scheme_background": "background-colors-default",
+        "color_scheme_text": "text-colors-secondary",
+        "layout": "",
+        "transparent_header_homepage": true,
+        "transparent_header_collection": true,
+        "transparent_header_bottom_border": true,
+        "drawer_layer": true,
+        "logo": "shopify://shop_images/Z_Center_for_Cosmetic_Health-logo-01_1d6cdef7-bb79-427c-a0ba-d9430740c288.svg",
+        "logo_transparent": "shopify://shop_images/Z_Center_for_Cosmetic_Health-logo-01_1d6cdef7-bb79-427c-a0ba-d9430740c288.svg",
+        "logo_svg_code": "",
+        "logo_width": 160,
+        "logo_width_mobile": 92,
+        "logo_font_size": 1.5,
+        "menu": "main-menu",
+        "submenu": "",
+        "menu_column_count": 5,
+        "country_drawer_header": true,
+        "country_drawer_navigation_menu": true,
+        "first_additional_link_title": "",
+        "first_additional_link_url": "",
+        "second_additional_link_title": "",
+        "second_additional_link_url": ""
+      }
+    },
+    "book_appointment_ERkzpq": {
+      "type": "book-appointment",
+      "name": "Book an Appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "book_appointment_ERkzpq"
+  ]
+}
