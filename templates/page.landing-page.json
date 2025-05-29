@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h1 {display: none;}"
+        "h1,div {display: none !important;}"
       ],
       "settings": {
         "show_page_title": false,
@@ -110,6 +110,9 @@
       },
       "block_order": [
         "slide_Mgg4Uj"
+      ],
+      "custom_css": [
+        ".luxury-banner img {object-position: right;}"
       ],
       "settings": {
         "slider_height": 100,
@@ -234,7 +237,7 @@
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
             "enable_media_overlay_mobile": true,
-            "content_position_horizontal": "align-center text-center",
+            "content_position_horizontal": "align-start text-left",
             "content_position_vertical": "justify-end",
             "subtitle": "",
             "subtitle_url": "",
@@ -251,6 +254,9 @@
       },
       "block_order": [
         "slide_cJp6VG"
+      ],
+      "custom_css": [
+        ".luxury-banner img {object-position: right;}"
       ],
       "settings": {
         "slider_height": 100,
