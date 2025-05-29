@@ -300,6 +300,7 @@ is-sticky
 .luxury-banner .hero__content p{color: #FFF;font-family: HarmoniaSansW01-Regular;font-size: 12px;font-style: normal;font-weight: 400;line-height: 16px; /* 133.333% */letter-spacing: 2px;text-transform: uppercase;}
 .luxury-banner .hero__content .hero__entry p{max-width:555px;text-align: justify;color: #FFF;font-family: HarmoniaSansW01-Regular;font-size: 16px;font-style: normal;font-weight: 400;line-height: 150%; /* 24px */letter-spacing: 2px;}
 .luxury-banner img{    object-position: left;}
+.luxury-banner .hero__content.text-left{transform: translate(-50%, -50%);max-width: 50%;}
 /* alternative*/
 .alternative{max-width:1320px!important;margin:auto;padding:0px; }
 .alternative p{margin-bottom:15px!important;color: var(--Black, #1A1A1A);text-align: center;font-family: HarmoniaSansW01-Regular;font-size: 12px;font-style: normal;font-weight: 400;line-height: 16px; /* 133.333% */letter-spacing: 2px;text-transform: uppercase;}
