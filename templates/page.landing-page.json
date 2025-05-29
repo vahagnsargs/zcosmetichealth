@@ -220,6 +220,11 @@
         "tile_hLXTcG",
         "tile_ndRWKe"
       ],
+      "custom_css": [
+        ".section-dual-tiles {gap: 64px;}",
+        ".section-dual-tiles__content {position: absolute;}",
+        "@media (max-width: 768px) {a {color: #fff !important; } .section-dual-tiles {gap: 0px; }}"
+      ],
       "name": "t:sections.dual-tiles.name",
       "settings": {
         "padding_top": 40,
