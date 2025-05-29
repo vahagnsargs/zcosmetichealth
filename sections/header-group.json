@@ -120,19 +120,10 @@
         "second_additional_link_title": "",
         "second_additional_link_url": ""
       }
-    },
-    "book_appointment_ERkzpq": {
-      "type": "book-appointment",
-      "name": "Book an Appointment",
-      "settings": {
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-default"
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "book_appointment_ERkzpq"
+    "header"
   ]
 }
