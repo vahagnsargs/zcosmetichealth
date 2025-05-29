@@ -225,6 +225,49 @@
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
       }
+    },
+    "luxury_banner_9nYXAy": {
+      "type": "luxury-banner",
+      "blocks": {
+        "slide_cJp6VG": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Section_1_1.webp",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-end",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "EMSCULPT NEO®: Burn Fat & Build Muscle Simultaneously",
+            "content": "<p>Go beyond fat reduction. EMSCULPT NEO® is the first and only non-invasive treatment to combine radiofrequency heating and high-intensity electromagnetic energy (HIFEM®). In just 30-minute sessions, you’ll reduce fat and build muscle in areas like the abdomen, buttocks, arms, and thighs.<br/></p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "BOOK AN APPOINTMENT",
+            "button_url": "#",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_cJp6VG"
+      ],
+      "name": "Luxury Banner",
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
     }
   },
   "order": [
@@ -233,6 +276,7 @@
     "hero_alt_eDWe6U",
     "luxury_banner_YCk4nh",
     "hero_alt_NwKrYg",
-    "dual_tiles_WU9ztN"
+    "dual_tiles_WU9ztN",
+    "luxury_banner_9nYXAy"
   ]
 }
