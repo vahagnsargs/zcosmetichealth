@@ -116,7 +116,7 @@
         "slider_autoplay": false,
         "slider_autoplay_interval": 6,
         "slider_arrows": false,
-        "slider_arrows_position": "hero__swiper-buttons--right",
+        "slider_arrows_position": "hero__swiper-buttons--sides",
         "slider_arrows_color": "text-colors-default"
       }
     },
