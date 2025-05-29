@@ -111,6 +111,9 @@
       "block_order": [
         "slide_Mgg4Uj"
       ],
+      "custom_css": [
+        ".luxury-banner img {object-position: right;}"
+      ],
       "settings": {
         "slider_height": 100,
         "slider_autoplay": false,
@@ -251,6 +254,9 @@
       },
       "block_order": [
         "slide_cJp6VG"
+      ],
+      "custom_css": [
+        ".luxury-banner img {object-position: right;}"
       ],
       "settings": {
         "slider_height": 100,
