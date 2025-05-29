@@ -30,10 +30,46 @@
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
+    },
+    "hero_alt_eDWe6U": {
+      "type": "hero-alt",
+      "blocks": {
+        "text_ENhKFY": {
+          "type": "text",
+          "settings": {
+            "subtitle": "Semaglutide & Tirzepatide",
+            "title": "GLP-1 Weight \nLoss Medications",
+            "content": "<p>Our medically supervised programs include FDA-approved GLP-1 receptor agonists like Semaglutide and Tirzepatide (the active ingredients in Ozempic®, Wegovy®, and Mounjaro®). These once-weekly injections help control appetite, regulate blood sugar, and support long-term fat loss with minimal lifestyle disruption.<br/><br/></p>",
+            "button_style": "button--filled",
+            "button_text": "BOOK FREE CONSULTATION",
+            "button_url": "#",
+            "button_separator": true
+          }
+        },
+        "media_n7KTBa": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Background_9.webp"
+          }
+        }
+      },
+      "block_order": [
+        "text_ENhKFY",
+        "media_n7KTBa"
+      ],
+      "name": "t:sections.hero-alt.name",
+      "settings": {
+        "hero_alt_banner_height": 50,
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-2"
+      }
     }
   },
   "order": [
     "main",
-    "book_appointment_DEHJPg"
+    "book_appointment_DEHJPg",
+    "hero_alt_eDWe6U"
   ]
 }
