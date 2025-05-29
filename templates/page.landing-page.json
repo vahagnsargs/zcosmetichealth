@@ -25,6 +25,9 @@
     },
     "book_appointment_DEHJPg": {
       "type": "book-appointment",
+      "custom_css": [
+        ".field__label{display: none;}"
+      ],
       "settings": {
         "section_title_font_Size": 48,
         "section_form_title_font_Size": 28,
@@ -153,7 +156,7 @@
       "custom_css": [
         ".hero-alt__title {font-size: 35px;}",
         ".alternative .hero-alt__title {height: auto !important;}",
-        ".hero-alt__entry {max-width: 52.7rem; }",
+        ".hero-alt__entry {max-width: 52.7rem;}",
         "@media (max-width: 768px) {.hero-alt__body {max-width: 100% !important; } .hero-alt__head {max-width: 100% !important; }}"
       ],
       "settings": {
