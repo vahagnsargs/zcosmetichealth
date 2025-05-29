@@ -12,11 +12,11 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h1 {text-align: center;}"
+        "h1 {display: none;}"
       ],
       "settings": {
-        "show_page_title": true,
-        "breadcrumbs": true,
+        "show_page_title": false,
+        "breadcrumbs": false,
         "info_title": "",
         "info_content": "",
         "color_scheme_text": "text-colors-default",
