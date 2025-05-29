@@ -1,15 +1,22 @@
 {{- 'form-contact.css' | asset_url | stylesheet_tag -}}
+<style>
+  #book-appointment-{{ section.id }} .book-appointment-title{font-size:{{ section.settings.section_title_font_Size }}px; background-image:url({{ section.settings.background_image }});}
+  #book-appointment-{{ section.id }} .book-appointment-form-title{font-size:{{ section.settings.section_form_title_font_Size }}px;}
+  #book-appointment-{{ section.id }} .content-color{color:{{ section.settings.text_color }};}
+  #book-appointment-{{ section.id }} form *{color:{{ section.settings.form_text_color }}}
 
-<section class="book-appointment form-contact  {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }}">
+  #book-appointment-{{ section.id }}  form{background-color:{{ section.settings.form_bg_color }};}
+</style>
+<section id="book-appointment-{{ section.id }}" class="book-appointment   {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }}">
   <div class="container container--small">
     <div class="container-content">
-        {%- if section.settings.title == blank -%}
-          <h2>
+        {%- if section.settings.title != blank -%}
+          <h2 class="book-appointment-title content-color">
             {{ section.settings.title }}
           </h2>
         {%- endif -%}
-        {%- if section.settings.content == blank -%}
-          <p>
+        {%- if section.settings.content != blank -%}
+          <p class="content-color">
             {{ section.settings.content }}
           </p>
         {%- endif -%}
@@ -24,13 +31,13 @@
         </div>
         <!-- /.color-red -->
       {%- endif -%}
-      {%- if section.settings.form_title == blank -%}
-        <h2>
+      {%- if section.settings.form_title != blank -%}
+        <h2 class="book-appointment-form-title">
           {{ section.settings.form_title }}
         </h2>
       {%- endif -%}
 
-      <div class="form-row first form-row--double">
+      <div class="form-row first form-row--double" style="">
         {%- liquid
           assign label = 'First Name'
           assign placeholder = 'First Name'
@@ -199,13 +206,23 @@
     },
     {
       "type": "range",
-      "id": "section_title_font_size",
+      "id": "section_title_font_Size",
       "min": 2,
-      "max": 6,
-      "step": 0.5,
-      "unit": "s",
-      "label": "Section title font size",
-      "default": 3
+      "max": 90,
+      "step": 1,
+      "unit": "px",
+      "label": "Section Title Font Size",
+      "default": 48
+    },
+    {
+      "type": "range",
+      "id": "section_form_title_font_Size",
+      "min": 2,
+      "max": 90,
+      "step": 1,
+      "unit": "px",
+      "label": "Section Form Title font size",
+      "default": 48
     },
     {
       "type": "text",
@@ -224,6 +241,29 @@
       "id": "content",
       "label": "Content",
       "default": "<p>Welcome to our store</p>"
+    },
+    {
+      "type": "color",
+      "label": "Text Color",
+      "id": "text_color",
+      "default": "#FFF"
+    },
+    {
+      "type": "image_picker",
+      "id": "background_image",
+      "label": "Background Image"
+    },
+    {
+      "type": "color",
+      "label": "Form BG Color",
+      "id": "form_bg_color",
+      "default": "#F5EBDF"
+    },
+    {
+      "type": "color",
+      "label": "Form Text Color",
+      "id": "form_text_color",
+      "default": "#000"
     },
     {
       "type": "select",

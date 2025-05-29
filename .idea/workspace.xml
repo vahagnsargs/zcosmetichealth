@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f69ca39-dee3-4583-8552-56d65ff1f058" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/custom.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,47 @@
       <executable />
     </execution>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sections/book-appointment.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-238">
+              <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1707">
+              <caret line="616" selection-start-line="616" selection-end-line="616" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sections/announcement-bar.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="47" column="29" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="47" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sections/book-appointment.liquid" />
+        <option value="$PROJECT_DIR$/assets/custom.css" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="228" />
@@ -40,7 +80,7 @@
             <path>
               <item name="zcosmetichealthShopify" type="b2602c69:ProjectViewProjectNode" />
               <item name="zcosmetichealthShopify" type="462c0819:PsiDirectoryNode" />
-              <item name="sections" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -77,15 +117,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748508107699</updated>
-      <workItem from="1748508108852" duration="659000" />
+      <workItem from="1748508108852" duration="2687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="659000" />
+    <option name="totallyTimeSpent" value="2687000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -111,5 +152,28 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sections/announcement-bar.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="47" column="29" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sections/book-appointment.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1707">
+          <caret line="616" selection-start-line="616" selection-end-line="616" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
