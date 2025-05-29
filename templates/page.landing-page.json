@@ -379,6 +379,70 @@
         "gap_between_mobile": 2,
         "title": "From the people"
       }
+    },
+    "trust_indicators_hJPzmc": {
+      "type": "trust-indicators",
+      "blocks": {
+        "indicator_Kj44ea": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/Background1_1.webp",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "ENHANCED COMFORT & RESULTS",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_XVVkR6": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/Background2.webp",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "EXPERT CARE YOU CAN TRUSt",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "indicator_eVGrTM": {
+          "type": "indicator",
+          "settings": {
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-default",
+            "decorator": "shopify://shop_images/Background_1_9ec912b5-f690-4606-9180-28fc1f897567.webp",
+            "decorator_svg_code": "",
+            "color_scheme_decorator": "text-colors-default",
+            "color_scheme_background_decorator": "background-colors-accent-2",
+            "title": "TAILORED TREATMENT PLANS",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "indicator_Kj44ea",
+        "indicator_XVVkR6",
+        "indicator_eVGrTM"
+      ],
+      "custom_css": [
+        ".section-trust-indicators__decorator img {width: 100%; height: 100%;}",
+        ".section-trust-indicators__tile {padding-top: 96px !important;}",
+        "@media (max-width: 768px) {.swiper-wrapper {flex-direction: column; } .section-trust-indicators__tile {max-width: 100%; }}"
+      ],
+      "name": "t:sections.trust-indicators.name",
+      "settings": {
+        "slider_mobile": true,
+        "layout": "layout-1",
+        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
+        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile"
+      }
     }
   },
   "order": [
@@ -391,6 +455,7 @@
     "luxury_banner_9nYXAy",
     "hero_alt_iKWeYT",
     "before_and_after_8iGjjh",
-    "testimonials_m4HafK"
+    "testimonials_m4HafK",
+    "trust_indicators_hJPzmc"
   ]
 }
