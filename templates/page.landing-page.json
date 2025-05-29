@@ -93,7 +93,7 @@
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
             "enable_media_overlay_mobile": true,
-            "content_position_horizontal": "align-center text-center",
+            "content_position_horizontal": "align-start text-left",
             "content_position_vertical": "justify-end",
             "subtitle": "",
             "subtitle_url": "",
@@ -116,8 +116,8 @@
         "slider_autoplay": false,
         "slider_autoplay_interval": 6,
         "slider_arrows": false,
-        "slider_arrows_position": "hero__swiper-buttons--sides",
-        "slider_arrows_color": "text-colors-inverse"
+        "slider_arrows_position": "hero__swiper-buttons--right",
+        "slider_arrows_color": "text-colors-default"
       }
     },
     "hero_alt_NwKrYg": {
@@ -307,12 +307,13 @@
           "type": "image-before-slide",
           "settings": {
             "image": "shopify://shop_images/FAEStudioCrop-113_346e848b-5ba0-43d0-a71d-4b05690677dd_jpg.webp",
-            "title": "Image before",
+            "title": "",
             "color_title": "#ffffff"
           }
         },
         "image_after_slide_GriPYe": {
           "type": "image-after-slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FAEStudioCrop-113_346e848b-5ba0-43d0-a71d-4b05690677dd_jpg.webp",
             "title": "Image after",
@@ -332,7 +333,7 @@
       "settings": {
         "title": "Transformative Results You Can See",
         "content": "Our cutting-edge treatments deliver visible improvements, helping you look and feel your best.",
-        "layout": "section_slider_layout--shrink",
+        "layout": "section_slider_layout--full",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default",
         "button_style": "button--filled",
