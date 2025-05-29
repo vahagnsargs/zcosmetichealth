@@ -26,10 +26,15 @@
     "book_appointment_DEHJPg": {
       "type": "book-appointment",
       "settings": {
-        "section_title_font_size": 6,
+        "section_title_font_Size": 48,
+        "section_form_title_font_Size": 28,
         "title": "Discover Your Personalized Weight Loss Plan with Dr. Zadeh",
         "form_title": "Book an appointment now",
         "content": "<p>Are you struggling to lose weight despite diet and exercise? Dr. Michael Zadeh offers a personalized, physician-led weight loss program tailored to your body, your lifestyle, and your goals. Located in the heart of Sherman Oaks, our medical office combines advanced technology, modern medications, and proven wellness strategies to help you feel and look your best.<br/></p>",
+        "text_color": "#ffffff",
+        "background_image": "shopify://shop_images/Frame_90.webp",
+        "form_bg_color": "#f5ebdf",
+        "form_text_color": "#000000",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
