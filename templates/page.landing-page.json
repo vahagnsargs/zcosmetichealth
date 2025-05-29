@@ -339,6 +339,46 @@
         "button_text": "BOOK FREE CONSULTATION",
         "button_url": "#"
       }
+    },
+    "testimonials_m4HafK": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_LDmAL6": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Link_-_Buy_Goldie_Top_Verde.webp",
+            "quote": "<p>\"Dr. Zadeh made me feel so comfortable throughout the entire process, and the results speak for themselves. I couldn’t behappier with my new body!\"<br/><br/></p>",
+            "author": "— Sarah J., Satisfied Patient",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_6NJVnt": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Link_-_Buy_Goldie_Top_Verde.webp",
+            "quote": "<p>\"Dr. Zadeh made me feel so comfortable throughout the entire process, and the results speak for themselves. I couldn’t behappier with my new body!\"<br/><br/></p>",
+            "author": "— Sarah J., Satisfied Patient",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_LDmAL6",
+        "testimonial_6NJVnt"
+      ],
+      "name": "t:sections.testimonials.name",
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "layout": "image-right",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "From the people"
+      }
     }
   },
   "order": [
@@ -350,6 +390,7 @@
     "dual_tiles_WU9ztN",
     "luxury_banner_9nYXAy",
     "hero_alt_iKWeYT",
-    "before_and_after_8iGjjh"
+    "before_and_after_8iGjjh",
+    "testimonials_m4HafK"
   ]
 }
