@@ -234,7 +234,7 @@
             "enable_media_overlay_desktop": true,
             "video_external_mobile": "",
             "enable_media_overlay_mobile": true,
-            "content_position_horizontal": "align-center text-center",
+            "content_position_horizontal": "align-start text-left",
             "content_position_vertical": "justify-end",
             "subtitle": "",
             "subtitle_url": "",
