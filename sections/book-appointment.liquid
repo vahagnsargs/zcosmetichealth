@@ -3,16 +3,16 @@
 <section class="book-appointment form-contact  {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }}">
   <div class="container container--small">
     <div class="container-content">
-      <h2>
-        <strong>ransform Your Body with</strong>
-        50% Off CoolSculpting® Elite Today!
-      </h2>
-      <p>
-        Tired of stubborn fat that just won't budge? It's time to discover the new you with CoolSculpting® Elite,
-        performed by Dr. Michael Zadeh, a renowned board-certified surgeon with over 12 years of experience and
-        thousands of successful treatments. Coolsculpting's revolutionary, non-invasive technology freezes away unwanted
-        fat cells, revealing a slimmer, more sculpted physique.
-      </p>
+        {%- if section.settings.title == blank -%}
+          <h2>
+            {{ section.settings.title }}
+          </h2>
+        {%- endif -%}
+        {%- if section.settings.content == blank -%}
+          <p>
+            {{ section.settings.content }}
+          </p>
+        {%- endif -%}
     </div>
     {%- form 'contact', id: 'ContactForm' -%}
       {%- if form.posted_successfully? -%}
@@ -24,8 +24,11 @@
         </div>
         <!-- /.color-red -->
       {%- endif -%}
-
-      <h2><strong>Book an appointment now</strong></h2>
+      {%- if section.settings.form_title == blank -%}
+        <h2>
+          {{ section.settings.form_title }}
+        </h2>
+      {%- endif -%}
 
       <div class="form-row first form-row--double">
         {%- liquid
@@ -193,6 +196,34 @@
     {
       "type": "header",
       "content": "t:sections.global.settings.header_color_scheme.content"
+    },
+    {
+      "type": "range",
+      "id": "section_title_font_size",
+      "min": 2,
+      "max": 6,
+      "step": 0.5,
+      "unit": "s",
+      "label": "Section title font size",
+      "default": 3
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "<p>Welcome to our store</p>"
+    },
+    {
+      "type": "text",
+      "id": "form_title",
+      "label": "Form Title",
+      "default": "<p>Welcome to our store</p>"
+    },
+    {
+      "type": "richtext",
+      "id": "content",
+      "label": "Content",
+      "default": "<p>Welcome to our store</p>"
     },
     {
       "type": "select",
