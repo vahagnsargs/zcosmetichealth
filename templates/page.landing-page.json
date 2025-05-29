@@ -34,6 +34,12 @@
     "hero_alt_eDWe6U": {
       "type": "hero-alt",
       "blocks": {
+        "media_n7KTBa": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Background_9.webp"
+          }
+        },
         "text_ENhKFY": {
           "type": "text",
           "settings": {
@@ -45,17 +51,11 @@
             "button_url": "#",
             "button_separator": true
           }
-        },
-        "media_n7KTBa": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Background_9.webp"
-          }
         }
       },
       "block_order": [
-        "text_ENhKFY",
-        "media_n7KTBa"
+        "media_n7KTBa",
+        "text_ENhKFY"
       ],
       "name": "t:sections.hero-alt.name",
       "settings": {
