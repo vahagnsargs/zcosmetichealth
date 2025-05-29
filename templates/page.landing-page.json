@@ -63,7 +63,7 @@
         "padding_vertical_desktop": "",
         "padding_vertical_mobile": "",
         "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-accent-2"
+        "color_scheme_background": "background-colors-default"
       }
     }
   },
