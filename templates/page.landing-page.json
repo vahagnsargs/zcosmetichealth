@@ -65,11 +65,55 @@
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
+    },
+    "luxury_banner_YCk4nh": {
+      "type": "luxury-banner",
+      "blocks": {
+        "slide_Mgg4Uj": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-default",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Section_679a9d8d-3638-4a00-9e63-b370d99ea80f.webp",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-center text-center",
+            "content_position_vertical": "justify-end",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "CoolSculpting® Elite: Freeze Stubborn Fat",
+            "content": "<p>Target stubborn fat that diet and exercise can’t touch. CoolSculpting® Elite is a non-invasive body contouring treatment that freezes and eliminates fat cells using advanced cryolipolysis technology. With upgraded applicators, faster sessions, and enhanced results, CoolSculpting® Elite helps sculpt your body safely—no surgery or downtime required.</p>",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "BOOK AN APPOINTMENT",
+            "button_url": "#",
+            "button_text2": "",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Mgg4Uj"
+      ],
+      "name": "Luxury Banner",
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
     }
   },
   "order": [
     "main",
     "book_appointment_DEHJPg",
-    "hero_alt_eDWe6U"
+    "hero_alt_eDWe6U",
+    "luxury_banner_YCk4nh"
   ]
 }
