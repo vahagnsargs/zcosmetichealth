@@ -268,6 +268,41 @@
         "slider_arrows_position": "hero__swiper-buttons--sides",
         "slider_arrows_color": "text-colors-inverse"
       }
+    },
+    "hero_alt_iKWeYT": {
+      "type": "hero-alt",
+      "blocks": {
+        "media_ricwgT": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Background_11_1.webp"
+          }
+        },
+        "text_AgwQb8": {
+          "type": "text",
+          "settings": {
+            "subtitle": "",
+            "title": "Your Body. Your Goals. \nOur Expertise.",
+            "content": "<p>Dr. Zadeh is a board-certified surgeon with over 15 years of experience helping patients look and feel their best. His non-surgical weight loss treatments are results-driven, safe, and designed to help you gain confidence in your body again.</p>",
+            "button_style": "button--filled",
+            "button_text": "BOOK FREE CONSULTATION",
+            "button_url": "#",
+            "button_separator": true
+          }
+        }
+      },
+      "block_order": [
+        "media_ricwgT",
+        "text_AgwQb8"
+      ],
+      "name": "t:sections.hero-alt.name",
+      "settings": {
+        "hero_alt_banner_height": 50,
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-2"
+      }
     }
   },
   "order": [
@@ -277,6 +312,7 @@
     "luxury_banner_YCk4nh",
     "hero_alt_NwKrYg",
     "dual_tiles_WU9ztN",
-    "luxury_banner_9nYXAy"
+    "luxury_banner_9nYXAy",
+    "hero_alt_iKWeYT"
   ]
 }
