@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h1{text-align: center;}"
+        "h1 {text-align: center;}"
       ],
       "settings": {
         "show_page_title": true,
@@ -22,9 +22,18 @@
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
+    },
+    "book_appointment_DEHJPg": {
+      "type": "book-appointment",
+      "name": "Book an Appointment",
+      "settings": {
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "book_appointment_DEHJPg"
   ]
 }
