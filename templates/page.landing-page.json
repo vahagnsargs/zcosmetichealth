@@ -241,6 +241,67 @@
         "spacing_bottom_mobile": 6
       }
     },
+    "our_treatments_qQP3WA": {
+      "type": "our-treatments",
+      "blocks": {
+        "testimonial_PU9t8h": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/4_66cbc115-9496-4cfb-89eb-61d0ec161c57.png",
+            "title": "ABDOMEN",
+            "subtitle": "",
+            "lable": "",
+            "link": "/"
+          }
+        },
+        "testimonial_FPdxCH": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Link.png",
+            "title": "arms",
+            "subtitle": "",
+            "lable": "",
+            "link": "/"
+          }
+        },
+        "testimonial_TzA9B8": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/3_a13c6460-6e4a-4b62-ba86-dad007bb6a38.png",
+            "title": "legs",
+            "subtitle": "",
+            "lable": "",
+            "link": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_PU9t8h",
+        "testimonial_FPdxCH",
+        "testimonial_TzA9B8"
+      ],
+      "custom_css": [
+        ".owl-nav.disabled {display: none !important;}",
+        ".owl-stage {margin-bottom: 96px !important;}",
+        ".section-testimonials {padding-top: 0px !important; padding-bottom: 0px !important;}",
+        "@media (max-width: 768px) {"
+      ],
+      "name": "our treatments",
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "layout": "image-right",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": "Customized based on your body goals",
+        "lable": "",
+        "url": "",
+        "items": 3,
+        "margin": 2
+      }
+    },
     "luxury_banner_9nYXAy": {
       "type": "luxury-banner",
       "blocks": {
@@ -477,6 +538,7 @@
     "luxury_banner_YCk4nh",
     "hero_alt_NwKrYg",
     "dual_tiles_WU9ztN",
+    "our_treatments_qQP3WA",
     "luxury_banner_9nYXAy",
     "hero_alt_iKWeYT",
     "before_and_after_8iGjjh",
