@@ -328,6 +328,11 @@
         "image_before_slide_ffVQUJ",
         "image_after_slide_GriPYe"
       ],
+      "custom_css": [
+        "h5 {max-width: 302px;}",
+        "a {font-family: HarmoniaSansW01-Regular;}",
+        "@media (max-width: 768px) {h2, h5 {padding: 20px; } h2 {max-width: 100%; }}"
+      ],
       "name": "t:sections.before-and-after.name",
       "settings": {
         "title": "Transformative Results You Can See",
