@@ -25,8 +25,11 @@
     },
     "book_appointment_DEHJPg": {
       "type": "book-appointment",
-      "name": "Book an Appointment",
       "settings": {
+        "section_title_font_size": 6,
+        "title": "Discover Your Personalized Weight Loss Plan with Dr. Zadeh",
+        "form_title": "Book an appointment now",
+        "content": "<p>Are you struggling to lose weight despite diet and exercise? Dr. Michael Zadeh offers a personalized, physician-led weight loss program tailored to your body, your lifestyle, and your goals. Located in the heart of Sherman Oaks, our medical office combines advanced technology, modern medications, and proven wellness strategies to help you feel and look your best.<br/></p>",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
@@ -62,7 +65,6 @@
         ".alternative .hero-alt__title {height: auto !important;}",
         "@media (max-width: 768px) {.hero-alt__body {max-width: 100% !important; } .hero-alt__head {max-width: 100% !important; }}"
       ],
-      "name": "t:sections.hero-alt.name",
       "settings": {
         "hero_alt_banner_height": 50,
         "padding_vertical_desktop": "",
@@ -104,7 +106,6 @@
       "block_order": [
         "slide_Mgg4Uj"
       ],
-      "name": "Luxury Banner",
       "settings": {
         "slider_height": 100,
         "slider_autoplay": false,
@@ -145,7 +146,6 @@
         ".alternative .hero-alt__title {height: auto !important;}",
         "@media (max-width: 768px) {.hero-alt__body {max-width: 100% !important; } .hero-alt__head {max-width: 100% !important; }}"
       ],
-      "name": "t:sections.hero-alt.name",
       "settings": {
         "hero_alt_banner_height": 50,
         "padding_vertical_desktop": "",
@@ -199,7 +199,6 @@
         ".section-testimonials {padding-top: 0px !important; padding-bottom: 0px !important;}",
         "@media (max-width: 768px) {"
       ],
-      "name": "our treatments",
       "settings": {
         "padding_vertical_desktop": "",
         "padding_vertical_mobile": "",
@@ -248,7 +247,6 @@
       "block_order": [
         "slide_cJp6VG"
       ],
-      "name": "Luxury Banner",
       "settings": {
         "slider_height": 100,
         "slider_autoplay": false,
@@ -289,7 +287,6 @@
         ".alternative .hero-alt__title {height: auto !important;}",
         "@media (max-width: 768px) {.hero-alt__body {max-width: 100% !important; } .hero-alt__head {max-width: 100% !important; }}"
       ],
-      "name": "t:sections.hero-alt.name",
       "settings": {
         "hero_alt_banner_height": 50,
         "padding_vertical_desktop": "",
@@ -306,7 +303,7 @@
           "settings": {
             "image": "shopify://shop_images/FAEStudioCrop-113_346e848b-5ba0-43d0-a71d-4b05690677dd_jpg.webp",
             "title": "Image before",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "image_after_slide_GriPYe": {
@@ -314,7 +311,7 @@
           "settings": {
             "image": "shopify://shop_images/FAEStudioCrop-113_346e848b-5ba0-43d0-a71d-4b05690677dd_jpg.webp",
             "title": "Image after",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         }
       },
@@ -327,7 +324,6 @@
         "a {font-family: HarmoniaSansW01-Regular;}",
         "@media (max-width: 768px) {h2, h5 {padding: 20px; } h2 {max-width: 100%; }}"
       ],
-      "name": "t:sections.before-and-after.name",
       "settings": {
         "title": "Transformative Results You Can See",
         "content": "Our cutting-edge treatments deliver visible improvements, helping you look and feel your best.",
@@ -367,7 +363,6 @@
         "testimonial_LDmAL6",
         "testimonial_6NJVnt"
       ],
-      "name": "t:sections.testimonials.name",
       "settings": {
         "padding_vertical_desktop": "",
         "padding_vertical_mobile": "",
@@ -435,7 +430,6 @@
         ".section-trust-indicators__tile {padding-top: 96px !important;}",
         "@media (max-width: 768px) {.swiper-wrapper {flex-direction: column; } .section-trust-indicators__tile {max-width: 100%; }}"
       ],
-      "name": "t:sections.trust-indicators.name",
       "settings": {
         "slider_mobile": true,
         "layout": "layout-1",
