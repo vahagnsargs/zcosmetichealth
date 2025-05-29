@@ -1,6 +1,7 @@
 {{- 'form-contact.css' | asset_url | stylesheet_tag -}}
 <style>
-  #book-appointment-{{ section.id }} .book-appointment-title{font-size:{{ section.settings.section_title_font_Size }}px; background-image:url({{ section.settings.background_image }});}
+  #book-appointment-{{ section.id }}{background-image:url({{ section.settings.background_image }});}
+  #book-appointment-{{ section.id }} .book-appointment-title{font-size:{{ section.settings.section_title_font_Size }}px; }
   #book-appointment-{{ section.id }} .book-appointment-form-title{font-size:{{ section.settings.section_form_title_font_Size }}px;}
   #book-appointment-{{ section.id }} .content-color{color:{{ section.settings.text_color }};}
   #book-appointment-{{ section.id }} form *{color:{{ section.settings.form_text_color }}}
