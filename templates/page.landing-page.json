@@ -73,7 +73,7 @@
           "type": "slide",
           "settings": {
             "banner_layout": "hero-banner--full",
-            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
             "header_menu_text_color": "#ffffff",
             "image": "shopify://shop_images/Section_679a9d8d-3638-4a00-9e63-b370d99ea80f.webp",
@@ -108,12 +108,48 @@
         "slider_arrows_position": "hero__swiper-buttons--sides",
         "slider_arrows_color": "text-colors-inverse"
       }
+    },
+    "hero_alt_NwKrYg": {
+      "type": "hero-alt",
+      "blocks": {
+        "text_ccFGeW": {
+          "type": "text",
+          "settings": {
+            "subtitle": "Semaglutide & Tirzepatide",
+            "title": "Customized Diet & \nNutrition Plans",
+            "content": "<p>Whether you’re on medication or looking for a natural approach, Dr. Zadeh and his team will guide you through practical and sustainable dietary strategies—without crash dieting or unsafe gimmicks. Your program is built to match your metabolism, preferences, and goals.</p>",
+            "button_style": "button--filled",
+            "button_text": "BOOK FREE CONSULTATION",
+            "button_url": "#",
+            "button_separator": true
+          }
+        },
+        "media_T9QAGr": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Background_10.webp"
+          }
+        }
+      },
+      "block_order": [
+        "text_ccFGeW",
+        "media_T9QAGr"
+      ],
+      "name": "t:sections.hero-alt.name",
+      "settings": {
+        "hero_alt_banner_height": 50,
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-2"
+      }
     }
   },
   "order": [
     "main",
     "book_appointment_DEHJPg",
     "hero_alt_eDWe6U",
-    "luxury_banner_YCk4nh"
+    "luxury_banner_YCk4nh",
+    "hero_alt_NwKrYg"
   ]
 }
