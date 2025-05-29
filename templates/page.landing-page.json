@@ -333,7 +333,7 @@
       "settings": {
         "title": "Transformative Results You Can See",
         "content": "Our cutting-edge treatments deliver visible improvements, helping you look and feel your best.",
-        "layout": "section_slider_layout--full",
+        "layout": "section_slider_layout--shrink",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default",
         "button_style": "button--filled",
@@ -388,7 +388,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
-            "decorator": "shopify://shop_images/Background1_1.webp",
+            "decorator": "shopify://shop_images/Background_235f770d-a002-45e1-9e65-fb03da023abe.svg",
             "decorator_svg_code": "",
             "color_scheme_decorator": "text-colors-default",
             "color_scheme_background_decorator": "background-colors-accent-2",
@@ -402,7 +402,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
-            "decorator": "shopify://shop_images/Background2.webp",
+            "decorator": "shopify://shop_images/Background_3af56b68-e3f4-4161-9180-e880e47a7621.svg",
             "decorator_svg_code": "",
             "color_scheme_decorator": "text-colors-default",
             "color_scheme_background_decorator": "background-colors-accent-2",
@@ -416,7 +416,7 @@
           "settings": {
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-default",
-            "decorator": "shopify://shop_images/Background_1_9ec912b5-f690-4606-9180-28fc1f897567.webp",
+            "decorator": "shopify://shop_images/Background_d0b699ae-994a-4a54-857e-85943f880238.svg",
             "decorator_svg_code": "",
             "color_scheme_decorator": "text-colors-default",
             "color_scheme_background_decorator": "background-colors-accent-2",
