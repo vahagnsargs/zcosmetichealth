@@ -303,6 +303,42 @@
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
+    },
+    "before_and_after_8iGjjh": {
+      "type": "before-and-after",
+      "blocks": {
+        "image_before_slide_ffVQUJ": {
+          "type": "image-before-slide",
+          "settings": {
+            "image": "shopify://shop_images/FAEStudioCrop-113_346e848b-5ba0-43d0-a71d-4b05690677dd_jpg.webp",
+            "title": "Image before",
+            "color_title": "#FFFFFF"
+          }
+        },
+        "image_after_slide_GriPYe": {
+          "type": "image-after-slide",
+          "settings": {
+            "image": "shopify://shop_images/FAEStudioCrop-113_346e848b-5ba0-43d0-a71d-4b05690677dd_jpg.webp",
+            "title": "Image after",
+            "color_title": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "image_before_slide_ffVQUJ",
+        "image_after_slide_GriPYe"
+      ],
+      "name": "t:sections.before-and-after.name",
+      "settings": {
+        "title": "Transformative Results You Can See",
+        "content": "Our cutting-edge treatments deliver visible improvements, helping you look and feel your best.",
+        "layout": "section_slider_layout--shrink",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default",
+        "button_style": "button--filled",
+        "button_text": "BOOK FREE CONSULTATION",
+        "button_url": "#"
+      }
     }
   },
   "order": [
@@ -313,6 +349,7 @@
     "hero_alt_NwKrYg",
     "dual_tiles_WU9ztN",
     "luxury_banner_9nYXAy",
-    "hero_alt_iKWeYT"
+    "hero_alt_iKWeYT",
+    "before_and_after_8iGjjh"
   ]
 }
