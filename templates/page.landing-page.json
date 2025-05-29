@@ -234,7 +234,7 @@
           "settings": {
             "banner_layout": "hero-banner--full",
             "color_scheme_text": "text-colors-inverse",
-            "color_scheme_background": "background-colors-accent-2",
+            "color_scheme_background": "background-colors-default",
             "header_menu_text_color": "#ffffff",
             "image": "shopify://shop_images/Section_1_1.webp",
             "video_external": "",
@@ -301,7 +301,7 @@
         "padding_vertical_desktop": "",
         "padding_vertical_mobile": "",
         "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-accent-2"
+        "color_scheme_background": "background-colors-default"
       }
     }
   },
