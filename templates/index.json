@@ -66,6 +66,14 @@
       ],
       "name": "Book an Appointment",
       "settings": {
+        "section_title_font_Size": 48,
+        "section_form_title_font_Size": 48,
+        "title": "<p>Welcome to our store</p>",
+        "form_title": "<p>Welcome to our store</p>",
+        "content": "<p>Welcome to our store</p>",
+        "text_color": "#ffffff",
+        "form_bg_color": "#f5ebdf",
+        "form_text_color": "#000000",
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
@@ -401,6 +409,40 @@
         ".hero-alt__title {font-size: 35px;}",
         ".alternative .hero-alt__title {height: auto !important;}",
         "@media (max-width: 768px) {.hero-alt__body {max-width: 100% !important; } .hero-alt__head {max-width: 100% !important; }}"
+      ],
+      "settings": {
+        "hero_alt_banner_height": 40,
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-default"
+      }
+    },
+    "hero_alt_jMq7GA": {
+      "type": "hero-alt",
+      "blocks": {
+        "text_TBn7Br": {
+          "type": "text",
+          "settings": {
+            "subtitle": "Board Certified General Surgeon",
+            "title": "About Dr.\nMichael Zadeh",
+            "content": "<p>Dr. Michael Zadeh is a highly accomplished and board-certified general surgeon who has dedicated his career to helping individuals feel their absolute best, both inside and out.</p>",
+            "button_style": "button--filled",
+            "button_text": "learn more",
+            "button_url": "shopify://pages/about",
+            "button_separator": true
+          }
+        },
+        "media_YrxJXF": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Background.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "text_TBn7Br",
+        "media_YrxJXF"
       ],
       "settings": {
         "hero_alt_banner_height": 40,
@@ -1354,6 +1396,7 @@
     "explore_expertise_wFGFw3",
     "our_treatments_WtLaq8",
     "hero_alt_KJwqFx",
+    "hero_alt_jMq7GA",
     "hero_alt_wAekJd",
     "dual_tiles_KDR4Vj",
     "countdown_timer_GdKebt",
