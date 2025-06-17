@@ -344,15 +344,21 @@
       "step": 1,
       "default": 6,
       "unit": "x"
-    },
-    {
-      "type": "liquid",
-      "id": "custom_liquid",
-      "label": "Custom Liquid Code"
     }
   ],
   "max_blocks": 3,
   "blocks": [
+    {
+      "type": "custom_liquid",
+      "name": "Custom Liquid Block",
+      "settings": [
+        {
+          "type": "liquid",
+          "id": "custom_liquid_code",
+          "label": "Custom Liquid Code"
+        }
+      ]
+    },
     {
       "type": "tile",
       "name": "t:sections.dual-tiles.blocks.tile.name",
