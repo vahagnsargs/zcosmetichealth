@@ -413,8 +413,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
             "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -442,8 +444,10 @@
             "text_color": "#111111",
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -464,7 +468,7 @@
             "block_padding_right": 0
           }
         },
-        "custom_liquid_xA3rN6": {
+        "custom_liquid_ACHf8g": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid_code": "<iframe\n    src=\"https://link.foreverbooked.com/widget/form/hK4AZ6Xq4wlLmIIvVVlu\"\n    style=\"width:100%;height:100%;border:none;border-radius:4px\"\n    id=\"inline-hK4AZ6Xq4wlLmIIvVVlu\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"APT - Voluma - /pages/juvederm-voluma-xc-los-angeles\"\n    data-height=\"907\"\n    data-layout-iframe-id=\"inline-hK4AZ6Xq4wlLmIIvVVlu\"\n    data-form-id=\"hK4AZ6Xq4wlLmIIvVVlu\"\n    title=\"APT - Voluma - /pages/juvederm-voluma-xc-los-angeles\"\n        >\n</iframe>\n<script src=\"https://link.foreverbooked.com/js/form_embed.js\"></script>"
@@ -474,7 +478,7 @@
       "block_order": [
         "tile_Nnh3Gq",
         "tile_fbhjQE",
-        "custom_liquid_xA3rN6"
+        "custom_liquid_ACHf8g"
       ],
       "custom_css": [
         ".media img {object-fit: contain;}",
@@ -487,7 +491,7 @@
       "settings": {
         "padding_top": 40,
         "padding_bottom": 40,
-        "background": "#F5EBDF",
+        "background": "#f5ebdf",
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--50-50",
