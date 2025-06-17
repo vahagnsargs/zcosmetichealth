@@ -184,22 +184,21 @@
 
         
 
-    <div>
-      {%- if block.settings.custom_liquid_code != blank -%}
-        {%- capture section_additional_classes -%}
-          {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
-        {%- endcapture -%}
-      
-        <section class="section js-animation-fade-in {{ section_additional_classes | strip }}">
-          {{ block.settings.custom_liquid_code }}
-        </section><!-- /.section -->
-      {%- endif -%}
-    </div>
+      <!-- Right column: custom Liquid -->
+      <div class="dual-tiles__right" style="flex: 1 1 50%;">
+        {%- if block.settings.custom_liquid_code != blank -%}
+          {%- capture section_additional_classes -%}
+            {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
+          {%- endcapture -%}
+
+          <section class="section js-animation-fade-in {{ section_additional_classes | strip }}">
+            {{ block.settings.custom_liquid_code }}
+          </section>
+        {%- endif -%}
+      </div>
     {%- endfor -%}
   </div>
 
-    <!-- Custom Liquid -->
-    <!-- Custom Liquid -->
   </section><!-- /.section-dual-tiles -->
 {%- endif -%}
 
