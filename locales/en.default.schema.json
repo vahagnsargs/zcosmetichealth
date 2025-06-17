@@ -2388,6 +2388,131 @@
         }
       }
     },
+    "dual-tiles-copy": {
+      "name": "Dual content tiles copy",
+      "settings": {
+        "layout": {
+          "label": "Layout",
+          "options": {
+            "50-50": {
+              "label": "50/50"
+            },
+            "70-30": {
+              "label": "70/30"
+            },
+            "30-70": {
+              "label": "30/70"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "tile": {
+          "name": "Tile",
+          "settings": {
+            "header_media_desktop": {
+              "content": "Media desktop"
+            },
+            "image_desktop": {
+              "label": "Image"
+            },
+            "video_desktop": {
+              "label": "Video",
+              "info": "Overwrites image"
+            },
+            "video_desktop_external": {
+              "placeholder": "Use a YouTube or Vimeo URL",
+              "label": "External video",
+              "info": "Overwrites image and video. We recommend above video option for better performance, external videos can cause performance issues."
+            },
+            "header_media_mobile": {
+              "content": "Media mobile",
+              "info": "If no mobile media is selected, desktop media will be used."
+            },
+            "image_mobile": {
+              "label": "Mobile"
+            },
+            "video_mobile": {
+              "label": "Video",
+              "info": "Overwrites image"
+            },
+            "video_mobile_external": {
+              "placeholder": "Use a YouTube or Vimeo URL",
+              "label": "External video",
+              "info": "Overwrites image and video. We recommend above video option for better performance, external videos can cause performance issues."
+            },
+            "header_content_position": {
+              "content": "Content position",
+              "info": "Desktop only"
+            },
+            "content_background_color": {
+              "label": "Content background color",
+              "options": {
+                "default": {
+                  "label": "Default"
+                },
+                "transparent": {
+                  "label": "Transparent"
+                }
+              }
+            },
+            "content_position_horizontal": {
+              "label": "Horizontal",
+              "options": {
+                "left": {
+                  "label": "Left"
+                },
+                "center": {
+                  "label": "Center"
+                },
+                "right": {
+                  "label": "Right"
+                }
+              }
+            },
+            "content_position_vertical": {
+              "label": "Vertical",
+              "options": {
+                "top": {
+                  "label": "Top"
+                },
+                "center": {
+                  "label": "Center"
+                },
+                "bottom": {
+                  "label": "Bottom"
+                }
+              }
+            },
+            "header_text": {
+              "content": "Text"
+            },
+            "title": {
+              "label": "Heading"
+            },
+            "text_size": {
+              "label": "Heading size"
+            },
+            "content": {
+              "label": "Body text"
+            },
+            "header_button": {
+              "content": "Button"
+            },
+            "button_separator": {
+              "label": "Separator",
+              "info": "Enable to add a vertical line between text and button when text is centered. Desktop only."
+            },
+            "button_text": {
+              "label": "Button label"
+            },
+            "button_url": {
+              "label": "URL"
+            }
+          }
+        }
+      }
+    },
     "dual-tiles": {
       "name": "Dual content tiles",
       "settings": {
