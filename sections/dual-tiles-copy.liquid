@@ -187,9 +187,9 @@
           {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
         {%- endcapture -%}
       
-        <section class="section js-animation-fade-in {{ section_additional_classes | strip }}">
+        <div class="section js-animation-fade-in {{ section_additional_classes | strip }}">
           {{ block.settings.custom_liquid_code }}
-        </section><!-- /.section -->
+        </div><!-- /.section -->
       </div>
       {%- endif -%}
 
