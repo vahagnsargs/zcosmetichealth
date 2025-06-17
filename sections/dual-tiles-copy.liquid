@@ -32,22 +32,23 @@
 
   <section class="section-dual-tiles section-{{ section.id }} section-{{ section.id }}-padding container {{ section.settings.section_width }} pt-0x js-animation-fade-in{% if section.blocks.size > 1 %} {{ section.settings.layout }}{% endif %}"
      style="background:{{ section.settings.background }};"
->
-  <div class="dual-tiles__columns" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+    >
     {%- for block in section.blocks -%}
 
       {% liquid
-        assign mobile_multiplier = 0.75
+        comment
+          assign mobile_multiplier = 0.75
 
-        assign block_padding_top = block.settings.block_padding_top
-        assign block_padding_right = block.settings.block_padding_right
-        assign block_padding_bottom = block.settings.block_padding_bottom
-        assign block_padding_left = block.settings.block_padding_left
+          assign block_padding_top = block.settings.block_padding_top
+          assign block_padding_right = block.settings.block_padding_right
+          assign block_padding_bottom = block.settings.block_padding_bottom
+          assign block_padding_left = block.settings.block_padding_left
 
-        assign block_spacing_top_mobile = block_padding_top | times: mobile_multiplier | round: 2
-        assign block_padding_right_mobile = block_padding_right | times: mobile_multiplier | round: 2
-        assign block_spacing_bottom_mobile = block_padding_bottom | times: mobile_multiplier | round: 2
-        assign block_padding_left_mobile = block_padding_left | times: mobile_multiplier | round: 2
+          assign block_spacing_top_mobile = block_padding_top | times: mobile_multiplier | round: 2
+          assign block_padding_right_mobile = block_padding_right | times: mobile_multiplier | round: 2
+          assign block_spacing_bottom_mobile = block_padding_bottom | times: mobile_multiplier | round: 2
+          assign block_padding_left_mobile = block_padding_left | times: mobile_multiplier | round: 2
+        endcomment
       %}
 
       {% style %}
@@ -55,6 +56,7 @@
           .block-{{ block.id }} {
             margin-left: {{ block.settings.block_margin_left }}rem;
             margin-right: {{ block.settings.block_margin_right }}rem;
+
             padding: {{ block.settings.block_padding_top }}rem {{ block.settings.block_padding_right }}rem {{ block.settings.block_padding_bottom }}rem {{ block.settings.block_padding_left }}rem;
           }
         }
@@ -67,16 +69,6 @@
           .block-{{ block.id }}.has-video {
             aspect-ratio: {{ block.settings.video_mobile_aspect_ratio | default: block.settings.video_desktop_aspect_ratio }};
             max-width: 100%;
-          }
-
-          .dual-tiles__columns {
-            flex-direction: column;
-          }
-        }
-
-        @media screen and (min-width: 750px) {
-          .dual-tiles__columns {
-            flex-direction: row;
           }
         }
       {% endstyle %}
@@ -92,15 +84,7 @@
         {% endstyle %}
       {% endif %}
 
-      {%- capture tile_additional_classes -%} 
-        {{ block.settings.color_scheme_text }} 
-        {{ block.settings.color_scheme_background }} 
-        {{ block.settings.content_position_horizontal }} 
-        {{ block.settings.content_position_vertical }} 
-        {{ block.settings.button_style }} 
-        {{ block.settings.block_layout }} 
-        {{ block.settings.content_layout }} 
-      {%- endcapture -%}
+      {%- capture tile_additional_classes -%} {{ block.settings.color_scheme_text }} {{ block.settings.color_scheme_background }} {{ block.settings.content_position_horizontal }} {{ block.settings.content_position_vertical }} {{ block.settings.button_style }} {{ block.settings.block_layout }} {{ block.settings.content_layout }} {%- endcapture -%}
 
       {%- liquid
         assign has_mobile_media = false
@@ -124,93 +108,100 @@
         endif
       -%}
 
-      <!-- Left column: media and text -->
-      <div class="dual-tiles__left" style="flex: 1 1 50%;">
-        <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}" style="min-height: unset;">
-          
-          {%- if block.settings.video_desktop_external != blank -%}
-            <div class="media media--overlay section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
-              {% render 'external-video', video: block.settings.video_desktop_external, title: block.settings.title %}
-            </div>
-          {%- elsif block.settings.video_desktop != blank -%}
-            <div class="media section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
-              {{ block.settings.video_desktop | video_tag: image_size: '1440x', loop: true, autoplay: true, muted: true, controls: false }}
-            </div>
-          {%- elsif block.settings.image_desktop -%}
-            <div class="media media--overlay section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
-              {% render 'image', image: block.settings.image_desktop, section_index: section.index, image_per_view: 2, alt: block.settings.image_desktop.alt | escape %}
-            </div>
-          {%- elsif block.settings.placeholder_svg_code != blank -%}
-            <div class="media section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
-              {{ block.settings.placeholder_svg_code }}
-            </div>
-          {%- endif -%}
-
-          {%- if has_mobile_media -%}
-            {%- if block.settings.video_mobile_external != blank -%}
-              <div class="media section-dual-tiles__media small-up-hide">
-                {% render 'external-video', video: block.settings.video_mobile_external, title: block.settings.title %}
-              </div>
-            {%- elsif block.settings.video_mobile != blank -%}
-              <div class="media section-dual-tiles__media small-up-hide">
-                {{ block.settings.video_mobile | video_tag: image_size: '720x', loop: true, autoplay: true, muted: true, controls: false }}
-              </div>
-            {%- elsif block.settings.image_mobile -%}
-              <div class="media media--overlay section-dual-tiles__media small-up-hide">
-                {% render 'image', image: block.settings.image_mobile, section_index: section.index, image_for_mobile: true, alt: block.settings.image_mobile.alt | escape %}
-              </div>
-            {%- endif -%}
-          {%- endif -%}
-
-          {%- if block.settings.title != blank or block.settings.button_text != blank and block.settings.button_url != blank -%}
-            <div class="section-dual-tiles__content" style="min-height: unset;">
-
-              {%- if block.settings.title != blank -%}
-                <h2 class="section-dual-tiles__title" style="color:{{ block.settings.text_color }}; font-size:{{ block.settings.heading_size }}px;">
-                  {{ block.settings.title }}
-                </h2>
-              {%- endif -%}
-
-              {%- if block.settings.content != blank -%}
-                <div class="section-dual-tiles__entry h5" style="color:{{ block.settings.text_color }}">
-                  {{ block.settings.content }}
-                </div>
-              {%- endif -%}
-
-              {%- if block.settings.button_text != blank and block.settings.button_url != blank -%}
-                <div class="section-dual-tiles__actions{% if block.settings.button_separator %} section-dual-tiles__actions--separator{% endif %}">
-                  {% render 'button',
-                    type: 'link',
-                    class: 'button section-dual-tiles__button',
-                    button_style: block.settings.button_style,
-                    value: block.settings.button_text,
-                    href: block.settings.button_url
-                  %}
-                </div>
-              {%- endif -%}
-
-            </div><!-- /.section-dual-tiles__content -->
-          {%- endif -%}
-        </div>
-      </div>
-
-      <!-- Right column: custom Liquid -->
-      <div class="dual-tiles__right" style="flex: 1 1 50%;">
-        {%- if block.settings.custom_liquid_code != blank -%}
-          {%- capture section_additional_classes -%}
-            {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
-          {%- endcapture -%}
-
-          <section class="section js-animation-fade-in {{ section_additional_classes | strip }}">
-            {{ block.settings.custom_liquid_code }}
-          </section>
+        <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}" style="  min-height: unset;">
+        {%- comment -%}
+        Desktop media
+        {%- endcomment -%}
+        {%- if block.settings.video_desktop_external != blank -%}
+    <div>
+          <div class="media media--overlay section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
+            {% render 'external-video', video: block.settings.video_desktop_external, title: block.settings.title %}
+          </div><!-- /.media -->
+        {%- elsif block.settings.video_desktop != blank -%}
+          <div class="media section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
+            {{- block.settings.video_desktop | video_tag: image_size: '1440x', loop: true, autoplay: true, muted: true, controls: false -}}
+          </div><!-- /.media -->
+        {%- elsif block.settings.image_desktop -%}
+          <div class="media media--overlay section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
+            {%- render 'image', image: block.settings.image_desktop, section_index: section.index, image_per_view: 2, alt: block.settings.image_desktop.alt | escape -%}
+          </div><!-- /.media -->
+        {%- elsif block.settings.placeholder_svg_code != blank -%}
+          <div class="media section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
+            {{- block.settings.placeholder_svg_code -}}
+          </div>
         {%- endif -%}
+
+        {%- comment -%}
+        Mobile media
+        {%- endcomment -%}
+        {%- if has_mobile_media -%}
+          {%- if block.settings.video_mobile_external != blank -%}
+            <div class="media section-dual-tiles__media small-up-hide">
+              {% render 'external-video', video: block.settings.video_mobile_external, title: block.settings.title %}
+            </div><!-- /.media -->
+          {%- elsif block.settings.video_mobile != blank -%}
+            <div class="media section-dual-tiles__media small-up-hide">
+              {{- block.settings.video_mobile | video_tag: image_size: '720x', loop: true, autoplay: true, muted: true, controls: false -}}
+            </div><!-- /.media -->
+          {%- elsif block.settings.image_mobile -%}
+            <div class="media media--overlay section-dual-tiles__media small-up-hide">
+              {%- render 'image', image: block.settings.image_mobile, section_index: section.index, image_for_mobile: true, alt: block.settings.image_mobile.alt | escape -%}
+            </div><!-- /.media -->
+          {%- endif -%}
+        {%- endif -%}
+
+        {%- if block.settings.title != blank or block.settings.button_text != blank and block.settings.button_url != blank -%}
+          <div class="section-dual-tiles__content" style="  min-height: unset;">
+
+            {%- if block.settings.title != blank -%}
+              <h2 class="section-dual-tiles__title"  style="color:{{ block.settings.text_color }};font-size:{{ block.settings.heading_size }}px;">
+                {{- block.settings.title -}}
+              </h2><!-- /.section-dual-tiles__title -->
+            {%- endif -%}
+
+            {%- if block.settings.content != blank -%}
+              <div class="section-dual-tiles__entry h5"  style="color:{{ block.settings.text_color }}">
+                {{- block.settings.content -}}
+              </div><!-- /.section-dual-tiles__text -->
+            {%- endif -%}
+
+            {%- if block.settings.button_text != blank and block.settings.button_url != blank -%}
+              <div class="section-dual-tiles__actions{% if block.settings.button_separator %} section-dual-tiles__actions--separator{% endif %}">
+                {%- render 'button',
+                  type: 'link',
+                  class: 'button section-dual-tiles__button',
+                  button_style: block.settings.button_style,
+                  value: block.settings.button_text,
+                  href: block.settings.button_url,
+                -%}
+              </div><!-- /.section-dual-tiles__actions -->
+            {%- endif -%}
+          </div><!-- /.section-dual-tiles__content -->
+        {%- endif -%}
+
+      </div><!-- /.section-dual-tiles__tile -->
+      
+    </div>
+
+        
+
+      {%- if block.settings.custom_liquid_code != blank -%}
+      <div>
+        {%- capture section_additional_classes -%}
+          {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
+        {%- endcapture -%}
+      
+        <section class="section js-animation-fade-in {{ section_additional_classes | strip }}">
+          {{ block.settings.custom_liquid_code }}
+        </section><!-- /.section -->
       </div>
+      {%- endif -%}
 
     {%- endfor -%}
-  </div>
-</section>
-<!-- /.section-dual-tiles -->
+
+    <!-- Custom Liquid -->
+    <!-- Custom Liquid -->
+  </section><!-- /.section-dual-tiles -->
 {%- endif -%}
 
 {% schema %}
