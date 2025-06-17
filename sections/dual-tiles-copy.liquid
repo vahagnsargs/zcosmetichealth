@@ -108,12 +108,12 @@
         endif
       -%}
 
+    <div>
         <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}" style="  min-height: unset;">
         {%- comment -%}
         Desktop media
         {%- endcomment -%}
         {%- if block.settings.video_desktop_external != blank -%}
-    <div>
           <div class="media media--overlay section-dual-tiles__media{% if has_mobile_media %} small-hide{% endif %}">
             {% render 'external-video', video: block.settings.video_desktop_external, title: block.settings.title %}
           </div><!-- /.media -->
