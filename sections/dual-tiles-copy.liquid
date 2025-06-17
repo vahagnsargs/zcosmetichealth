@@ -180,15 +180,16 @@
 
       </div><!-- /.section-dual-tiles__tile -->
 
-      {%- if block.settings.custom_liquid != blank -%}
-      {%- capture section_additional_classes -%}
-        {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
-      {%- endcapture -%}
-    
-      <section class="section js-animation-fade-in {{ section_additional_classes | strip }}">
-        {{- block.settings.custom_liquid -}}
-      </section><!-- /.section -->
-    {%- endif -%}
+      {%- if block.settings.custom_liquid_code != blank -%}
+        {%- capture section_additional_classes -%}
+          {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
+        {%- endcapture -%}
+      
+        <section class="section js-animation-fade-in {{ section_additional_classes | strip }}">
+          {{ block.settings.custom_liquid_code }}
+        </section><!-- /.section -->
+      {%- endif -%}
+
     {%- endfor -%}
 
     <!-- Custom Liquid -->
