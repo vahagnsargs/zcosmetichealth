@@ -33,7 +33,7 @@
   <section class="section-dual-tiles section-{{ section.id }} section-{{ section.id }}-padding container {{ section.settings.section_width }} pt-0x js-animation-fade-in{% if section.blocks.size > 1 %} {{ section.settings.layout }}{% endif %}"
      style="background:{{ section.settings.background }};"
     >
-  <div>
+  <div class="dual-tiles__columns" style="display: flex; flex-wrap: wrap; gap: 2rem;">
     {%- for block in section.blocks -%}
 
       {% liquid
@@ -109,6 +109,7 @@
         endif
       -%}
 
+      <div class="dual-tiles__left" style="flex: 1 1 50%;">
         <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}" style="  min-height: unset;">
         {%- comment -%}
         Desktop media
@@ -180,6 +181,8 @@
         {%- endif -%}
 
       </div><!-- /.section-dual-tiles__tile -->
+    </div>
+
       
 
         
