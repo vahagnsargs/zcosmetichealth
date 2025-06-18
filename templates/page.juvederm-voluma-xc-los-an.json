@@ -480,6 +480,7 @@
         "tile_fbhjQE",
         "custom_liquid_ACHf8g"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}",
