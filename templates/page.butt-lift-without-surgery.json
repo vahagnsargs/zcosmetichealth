@@ -453,6 +453,7 @@
         "tile_eeeGAV",
         "tile_jGkeAx"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}"
