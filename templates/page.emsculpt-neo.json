@@ -860,6 +860,7 @@
         "tile_hi3kmm",
         "tile_JGmQKy"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}",
