@@ -474,7 +474,7 @@
         "tile_fbhjQE"
       ],
       "custom_css": [
-        ".media img {object-fit: contain;}",
+        ".media img {object-fit: contain; width: 50%;}",
         ".media--overlay:after {background: transparent;}",
         "a {color: white !important;}",
         ".section-dual-tiles__actions {max-width: 290px; margin: auto;}",
