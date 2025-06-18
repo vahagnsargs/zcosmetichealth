@@ -326,6 +326,7 @@
         "tile_myMgAA",
         "tile_bGHiYB"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}",
