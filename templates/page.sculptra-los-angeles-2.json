@@ -340,6 +340,7 @@
         "tile_NednJd",
         "tile_BLxFkV"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}",
@@ -373,8 +374,10 @@
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
             "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -402,8 +405,10 @@
             "text_color": "#111111",
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_external": "",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
+            "video_mobile_external": "",
             "video_mobile_aspect_ratio": "16/9",
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
@@ -440,7 +445,7 @@
       "settings": {
         "padding_top": 40,
         "padding_bottom": 40,
-        "background": "#F5EBDF",
+        "background": "#f5ebdf",
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--50-50",
