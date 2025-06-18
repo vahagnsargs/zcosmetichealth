@@ -80,6 +80,7 @@
     },
     "request_an_appointment_qKwB44": {
       "type": "request-an-appointment",
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 768px) {h2 {max-width: 315px; margin: auto; padding-bottom: 20px; }}"
       ],
@@ -166,7 +167,7 @@
       "settings": {
         "padding_top": 40,
         "padding_bottom": 40,
-        "background": "#F5EBDF",
+        "background": "#f5ebdf",
         "section_width": "max-w-page",
         "section_height": 50,
         "layout": "section-dual-tiles--70-30",
@@ -349,7 +350,7 @@
       "settings": {
         "padding_top": 40,
         "padding_bottom": 40,
-        "background": "#F5EBDF",
+        "background": "#f5ebdf",
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--30-70",
@@ -359,6 +360,97 @@
         "spacing_bottom_desktop": 3,
         "spacing_top_mobile": 2,
         "spacing_bottom_mobile": 2
+      }
+    },
+    "dual_tiles_copy_jgUL4j": {
+      "type": "dual-tiles-copy",
+      "blocks": {
+        "tile_GLgK7W": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_mDmLRb": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Why Dr. Zadeh?",
+            "text_size": 1,
+            "content": "<h3>Because He Cares.</h3><p>Dr. Zadeh is an experienced and skilled provider of Sculptra. He has expert knowledge of facial anatomy, as well as years of experience applying injectables to achieve the best results. If you are looking to try a facial injection like Sculptra, it is best to choose an expert provider like Dr. Zadeh to help you achieve the most natural, complication-free results.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_GLgK7W",
+        "tile_mDmLRb"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain; width: 50%;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: white !important;}",
+        ".section-dual-tiles__actions {max-width: 290px; margin: auto;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"
+      ],
+      "name": "t:sections.dual-tiles-copy.name",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "custom_liquid_code": "<iframe\n    src=\"https://link.foreverbooked.com/widget/form/31nMfQDhqN91KjumdZZD\"\n    style=\"width:100%;height:100%;border:none;border-radius:4px\"\n    id=\"inline-31nMfQDhqN91KjumdZZD\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"APT - Sculptra LA - /pages/sculptra-los-angeles\"\n    data-height=\"907\"\n    data-layout-iframe-id=\"inline-31nMfQDhqN91KjumdZZD\"\n    data-form-id=\"31nMfQDhqN91KjumdZZD\"\n    title=\"APT - Sculptra LA - /pages/sculptra-los-angeles\"\n        >\n</iframe>\n<script src=\"https://link.foreverbooked.com/js/form_embed.js\"></script>"
       }
     },
     "marquees_YAwwCR": {
@@ -578,6 +670,7 @@
     "dual_tiles_TgUbYi",
     "dual_tiles_wJDNn7",
     "dual_tiles_zA88hC",
+    "dual_tiles_copy_jgUL4j",
     "marquees_YAwwCR",
     "spacing_Ywh3tT",
     "testimonials_PCrrtw",
