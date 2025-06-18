@@ -320,6 +320,7 @@
             "text_color": "#111111",
             "color_scheme_text": "text-colors-default",
             "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
             "video_desktop_aspect_ratio": "16/9",
             "placeholder_svg_code": "",
             "image_mobile": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
