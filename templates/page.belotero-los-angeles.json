@@ -125,6 +125,7 @@
     },
     "request_an_appointment_k7dE8N": {
       "type": "request-an-appointment",
+      "disabled": true,
       "settings": {
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
@@ -171,7 +172,7 @@
       "settings": {
         "padding_top": 40,
         "padding_bottom": 40,
-        "background": "#F5EBDF",
+        "background": "#f5ebdf",
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--30-70",
@@ -353,7 +354,7 @@
       "settings": {
         "padding_top": 40,
         "padding_bottom": 40,
-        "background": "#F5EBDF",
+        "background": "#f5ebdf",
         "section_width": "max-w-page",
         "section_height": 40,
         "layout": "section-dual-tiles--30-70",
@@ -365,19 +366,93 @@
         "spacing_bottom_mobile": 0
       }
     },
-    "seo_content_zV7zyJ": {
-      "type": "seo-content",
-      "custom_css": [
-        ".section-seo-content {padding-top: 0px !important;}"
+    "dual_tiles_copy_mTYKXR": {
+      "type": "dual-tiles-copy",
+      "blocks": {
+        "tile_wR6QCh": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_nLRtRq": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "On sale items",
+            "text_size": 1,
+            "content": "<h4>Are you ready to get the results you want for the look you deserve? For youthfulness that’s uniquely you, call us to schedule a consultation and see if BELOTERO® is right for you <a href=\"tel:+18187895500\">(818) 789-5500</a>.</h4>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_wR6QCh",
+        "tile_nLRtRq"
       ],
+      "custom_css": [
+        ".media img {object-fit: contain; width: 50%;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: #fff;}"
+      ],
+      "name": "t:sections.dual-tiles-copy.name",
       "settings": {
-        "padding_vertical_desktop": "pt-0-desktop pb-0-desktop",
-        "padding_vertical_mobile": "pt-0-mobile pb-0-mobile",
-        "color_scheme_text": "text-colors-default",
-        "color_scheme_background": "background-colors-inverse",
-        "text_size": 1,
-        "title": "",
-        "content": "<p>Dr. Zadeh is an experienced and skilled provider of Belotero and other Dermal Filler treatments. His intimate knowledge and understanding of facial anatomy enables him to provide precise injections that will give you beautiful and natural results, while avoiding treatment complications.</p><p>All injections are performed by Dr. Zadeh himself.</p>"
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "custom_liquid_code": "<iframe\n    src=\"https://link.foreverbooked.com/widget/form/Tmj8PcgdmGD6bxx4AKqj\"\n    style=\"width:100%;height:100%;border:none;border-radius:4px\"\n    id=\"inline-Tmj8PcgdmGD6bxx4AKqj\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"APT - Belotero - /pages/belotero-los-angeles\"\n    data-height=\"907\"\n    data-layout-iframe-id=\"inline-Tmj8PcgdmGD6bxx4AKqj\"\n    data-form-id=\"Tmj8PcgdmGD6bxx4AKqj\"\n    title=\"APT - Belotero - /pages/belotero-los-angeles\"\n        >\n</iframe>\n<script src=\"https://link.foreverbooked.com/js/form_embed.js\"></script>"
       }
     }
   },
@@ -389,6 +464,6 @@
     "dual_tiles_FgLiDd",
     "dual_tiles_AQitUB",
     "dual_tiles_iNi6dd",
-    "seo_content_zV7zyJ"
+    "dual_tiles_copy_mTYKXR"
   ]
 }
