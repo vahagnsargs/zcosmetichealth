@@ -184,6 +184,7 @@
     },
     "request_an_appointment_QTqy4d": {
       "type": "request-an-appointment",
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 768px) {h2 {max-width: 330px; margin: auto; margin-bottom: 30px; }}"
       ],
@@ -589,6 +590,7 @@
         "tile_jGkeAx",
         "tile_eeeGAV"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}"
@@ -607,6 +609,97 @@
         "spacing_top_mobile": 2,
         "spacing_bottom_mobile": 2
       }
+    },
+    "dual_tiles_copy_ghwnew": {
+      "type": "dual-tiles-copy",
+      "blocks": {
+        "tile_phC9xz": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_JTKHM8": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Take charge of your health and well-being today.",
+            "text_size": 1,
+            "content": "<p>Contact us to schedule your consultation and unlock the power of Ozempic/Wegovy to achieve your weight loss dreams.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_phC9xz",
+        "tile_JTKHM8"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain; width: 50%;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: white !important;}",
+        ".section-dual-tiles__actions {max-width: 290px; margin: auto;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"
+      ],
+      "name": "t:sections.dual-tiles-copy.name",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "custom_liquid_code": "<iframe\n    src=\"https://link.foreverbooked.com/widget/form/dydCqzcoMQ9X1btoARbk\"\n    style=\"width:100%;height:100%;border:none;border-radius:4px\"\n    id=\"inline-dydCqzcoMQ9X1btoARbk\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"APT - Weight Loss - /pages/weight-loss-program\"\n    data-height=\"907\"\n    data-layout-iframe-id=\"inline-dydCqzcoMQ9X1btoARbk\"\n    data-form-id=\"dydCqzcoMQ9X1btoARbk\"\n    title=\"APT - Weight Loss - /pages/weight-loss-program\"\n        >\n</iframe>\n<script src=\"https://link.foreverbooked.com/js/form_embed.js\"></script>"
+      }
     }
   },
   "order": [
@@ -619,6 +712,7 @@
     "dual_tiles_Dr4zwL",
     "full_width_banner_dXHEeT",
     "accordions_CHHyaa",
-    "dual_tiles_4tJF7k"
+    "dual_tiles_4tJF7k",
+    "dual_tiles_copy_ghwnew"
   ]
 }
