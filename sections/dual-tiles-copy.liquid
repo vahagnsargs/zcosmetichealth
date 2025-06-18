@@ -33,6 +33,7 @@
   <section class="section-dual-tiles section-{{ section.id }} section-{{ section.id }}-padding container {{ section.settings.section_width }} pt-0x js-animation-fade-in{% if section.blocks.size > 1 %} {{ section.settings.layout }}{% endif %}"
      style="background:{{ section.settings.background }};"
     >
+    <div class="section-dual-tiles-left">
     {%- for block in section.blocks -%}
 
       {% liquid
@@ -181,10 +182,11 @@
 
 
     {%- endfor -%}
+    </div>
 
     <!-- Custom Liquid -->
     {%- if section.settings.custom_liquid_code != blank -%}
-    <div>
+    <div class="section-dual-tiles-right">
       {%- capture section_additional_classes -%}
         {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
       {%- endcapture -%}
