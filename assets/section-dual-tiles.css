@@ -42,7 +42,6 @@
 }
 .section-dual-tiles .media>*, .section-dual-tiles .media img {
   position: relative;
-  width: 50%;
 }
 
 .section-dual-tiles__media video {
