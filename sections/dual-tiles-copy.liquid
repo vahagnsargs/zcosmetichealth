@@ -109,7 +109,6 @@
       -%}
 
         <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}" style="  min-height: unset;">
-          <div>
         {%- comment -%}
         Desktop media
         {%- endcomment -%}
@@ -178,24 +177,23 @@
             {%- endif -%}
           </div><!-- /.section-dual-tiles__content -->
         {%- endif -%}
-          </div>
       </div><!-- /.section-dual-tiles__tile -->
 
-      {%- if block.settings.custom_liquid_code != blank -%}
-      <div>
-        {%- capture section_additional_classes -%}
-          {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
-        {%- endcapture -%}
-      
-        <div class="section js-animation-fade-in {{ section_additional_classes | strip }}">
-          {{ block.settings.custom_liquid_code }}
-        </div><!-- /.section -->
-      </div>
-      {%- endif -%}
 
     {%- endfor -%}
 
     <!-- Custom Liquid -->
+    {%- if section.settings.custom_liquid_code != blank -%}
+    <div>
+      {%- capture section_additional_classes -%}
+        {{ section.settings.color_scheme_text }} {{ section.settings.color_scheme_background }} {{ section.settings.padding_vertical_desktop }} {{ section.settings.padding_vertical_mobile }}
+      {%- endcapture -%}
+    
+      <div class="section js-animation-fade-in {{ section_additional_classes | strip }}">
+        {{ section.settings.custom_liquid_code }}
+      </div><!-- /.section -->
+    </div>
+    {%- endif -%}
     <!-- Custom Liquid -->
   </section><!-- /.section-dual-tiles -->
 {%- endif -%}
@@ -348,21 +346,15 @@
       "step": 1,
       "default": 6,
       "unit": "x"
-    }
+    },
+    {
+      "type": "liquid",
+      "id": "custom_liquid_code",
+      "label": "Custom Liquid Code"
+    },
   ],
   "max_blocks": 3,
   "blocks": [
-    {
-      "type": "custom_liquid",
-      "name": "Custom Liquid Block",
-      "settings": [
-        {
-          "type": "liquid",
-          "id": "custom_liquid_code",
-          "label": "Custom Liquid Code"
-        }
-      ]
-    },
     {
       "type": "tile",
       "name": "t:sections.dual-tiles.blocks.tile.name",
