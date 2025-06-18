@@ -121,6 +121,7 @@
     },
     "request_an_appointment_dTpWJe": {
       "type": "request-an-appointment",
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 768px) {h2 {max-width: 320px; }}"
       ],
