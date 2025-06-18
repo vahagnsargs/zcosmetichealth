@@ -109,6 +109,7 @@
       -%}
 
         <div class="section-dual-tiles__tile block-{{ block.id }} {{ tile_additional_classes | strip }}" style="  min-height: unset;">
+          <div>
         {%- comment -%}
         Desktop media
         {%- endcomment -%}
@@ -177,6 +178,7 @@
             {%- endif -%}
           </div><!-- /.section-dual-tiles__content -->
         {%- endif -%}
+          </div>
       </div><!-- /.section-dual-tiles__tile -->
 
       {%- if block.settings.custom_liquid_code != blank -%}
