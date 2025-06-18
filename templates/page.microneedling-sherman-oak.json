@@ -156,6 +156,7 @@
     },
     "request_an_appointment_wXabia": {
       "type": "request-an-appointment",
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 768px) {h2 {max-width: 315px; margin: auto; }}"
       ],
