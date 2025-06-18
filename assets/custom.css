@@ -617,3 +617,9 @@ section.form-contact {max-width: 700px; margin: auto;}
 .card-article__media{padding-bottom:0;}
 .card-article>a {    display: flex;    line-height: normal;    flex-direction: row;}
 
+@media only screen and (max-width: 768px) {
+  .hl-app .hl_form-builder--main, .hl_form-builder--main {
+    padding: unset !important;
+  }
+}
+
