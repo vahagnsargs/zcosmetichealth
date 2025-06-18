@@ -73,6 +73,7 @@
     },
     "request_an_appointment_wcj8gh": {
       "type": "request-an-appointment",
+      "disabled": true,
       "settings": {
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
@@ -687,6 +688,7 @@
         "tile_UhwgpX",
         "tile_UJaV98"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}",
