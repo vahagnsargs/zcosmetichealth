@@ -123,6 +123,7 @@
     },
     "request_an_appointment_gW3C7c": {
       "type": "request-an-appointment",
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 768px) {h2 {max-width: 320px; }}"
       ],
@@ -398,6 +399,7 @@
         "tile_9medCD",
         "tile_wQJbFM"
       ],
+      "disabled": true,
       "custom_css": [
         ".media img {object-fit: contain;}",
         ".media--overlay:after {background: transparent;}",
