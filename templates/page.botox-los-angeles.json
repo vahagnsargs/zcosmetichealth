@@ -176,6 +176,7 @@
     },
     "request_an_appointment_nDgCzj": {
       "type": "request-an-appointment",
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 768px) {h2 {max-width: 321px; }}"
       ],
@@ -546,6 +547,97 @@
         "spacing_bottom_mobile": 0
       }
     },
+    "dual_tiles_copy_deqmJY": {
+      "type": "dual-tiles-copy",
+      "blocks": {
+        "tile_pAhgXb": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_DVjaGw": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_pAhgXb",
+        "tile_DVjaGw"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain; width: 50%;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: white !important;}",
+        ".section-dual-tiles__actions {max-width: 290px; margin: auto;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"
+      ],
+      "name": "t:sections.dual-tiles-copy.name",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "custom_liquid_code": "<iframe\n    src=\"https://link.foreverbooked.com/widget/form/5foYrIKW3xFnkboxqzcY\"\n    style=\"width:100%;height:100%;border:none;border-radius:4px\"\n    id=\"inline-5foYrIKW3xFnkboxqzcY\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"APT - Botox LA - /pages/botox-los-angeles\"\n    data-height=\"907\"\n    data-layout-iframe-id=\"inline-5foYrIKW3xFnkboxqzcY\"\n    data-form-id=\"5foYrIKW3xFnkboxqzcY\"\n    title=\"APT - Botox LA - /pages/botox-los-angeles\"\n        >\n</iframe>\n<script src=\"https://link.foreverbooked.com/js/form_embed.js\"></script>"
+      }
+    },
     "testimonials_y8geR9": {
       "type": "testimonials",
       "blocks": {
@@ -611,9 +703,6 @@
         "testimonial_mJn6aG",
         "testimonial_NgEGQq",
         "testimonial_YVB4MY"
-      ],
-      "custom_css": [
-        "p {font-size: 18px;}"
       ],
       "settings": {
         "padding_vertical_desktop": "",
@@ -768,6 +857,7 @@
     "dual_tiles_KHee4g",
     "dual_tiles_q7PVCK",
     "dual_tiles_Ynf8kw",
+    "dual_tiles_copy_deqmJY",
     "testimonials_y8geR9",
     "rich_text_7R8qa9",
     "seo_content_3J6xYt",
