@@ -588,9 +588,9 @@ header a.header__nav-link{height: 100%; display: flex ; flex-direction: column; 
     .section-dual-tiles__content{position:absolute;top:45%;}
     .section-dual-tiles__title{color: #FFF;text-align: center;font-family: "Americana BT";font-size: 24px!important;font-style: normal;font-weight: 400;line-height: 45px; text-transform: uppercase;}
     .section-dual-tiles__actions a{color:#FFF!important;}
-    .section-dual-tiles__tile.background-colors-accent-2 .section-dual-tiles__content{    
-      /* background: #AEC1D0; */
-                                                                                          height: 504px;}
+    /* .section-dual-tiles__tile.background-colors-accent-2 .section-dual-tiles__content{    
+      background: #AEC1D0;
+                                                                                          height: 504px;} */
     .section-dual-tiles__tile.background-colors-accent-2 .section-dual-tiles__content a{color:#333!important;}
     .section-dual-tiles__tile.background-colors-accent-2 .section-dual-tiles__content{padding-top: 131px;}
     .section-dual-tiles__title{color: #FFF;text-align: center;font-family: "Americana BT";font-size: 24px;font-style: normal;font-weight: 400;line-height: 140%; /* 33.6px */text-transform: uppercase;}
