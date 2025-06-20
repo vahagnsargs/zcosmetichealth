@@ -221,6 +221,89 @@
         "title": ""
       }
     },
+    "dual_tiles_HN3QQ7": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_YMTnJ9": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Aging Gracefully Starts with the Right Choices",
+            "text_size": 1,
+            "content": "<p>Your skin evolves with time—and so should your approach to caring for it. From nutrition and hydration to the skincare products you choose, every decision contributes to your long-term skin health. By combining healthy habits with targeted treatments tailored to each decade of life, you can keep your skin smooth, radiant, and resilient.</p><p>Whether you're addressing early signs of aging or more advanced concerns like wrinkles, texture changes, or volume loss, your routine should grow with you. Embrace the journey of aging, but never settle—because looking your best helps you feel your best.</p><p>At <strong>Z Center for Cosmetic Health</strong>, we’re here to guide you every step of the way. Book a one-on-one consultation and discover the most effective treatments for your skin’s unique needs—at every age.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_gnpQQw": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "image_desktop": "shopify://shop_images/Screen-Shot-2023-03-27-at-10.57.21-AM-980x485.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_YMTnJ9",
+        "tile_gnpQQw"
+      ],
+      "name": "t:sections.dual-tiles.name",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
     "dual_tiles_copy_YnrfyJ": {
       "type": "dual-tiles-copy",
       "blocks": {
@@ -318,6 +401,7 @@
     "hero_banner_FdnT6R",
     "dual_tiles_A8wEzt",
     "testimonials_XAhnxQ",
+    "dual_tiles_HN3QQ7",
     "dual_tiles_copy_YnrfyJ"
   ]
 }
