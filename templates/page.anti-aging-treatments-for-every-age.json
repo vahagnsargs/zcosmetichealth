@@ -113,12 +113,12 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "On sale items",
+            "title": "Why to try the Anti-Aging Treatment?",
             "text_size": 1,
-            "content": "",
+            "content": "<p>As we age, maintaining a youthful, vibrant appearance can feel like an uphill battle. Our skin is constantly exposed to environmental stressors, lifestyle choices, and the natural aging process — all of which can lead to dryness, sagging, wrinkles, and discoloration. These visible changes often start earlier than expected, making it harder to feel confident in your skin.</p><p>But aging doesn't have to mean giving up on glowing, healthy skin.</p><p>This treatment is designed to rejuvenate your skin from the inside out, targeting the root causes of aging while promoting hydration, elasticity, and even tone. Whether you're in your 20s or 60s, it's never too early or too late to invest in your skin's future. Discover how the right anti-aging solution can help you look refreshed, radiant, and truly confident at any age.</p>",
             "button_style": "button--filled",
             "button_separator": false,
-            "button_text": "Shop sale",
+            "button_text": "",
             "button_url": "/",
             "content_layout": "content--relative",
             "block_margin_left": 0,
@@ -148,6 +148,77 @@
         "spacing_bottom_desktop": 6,
         "spacing_top_mobile": 6,
         "spacing_bottom_mobile": 6
+      }
+    },
+    "testimonials_XAhnxQ": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_aAt3TM": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong>Twenties – Build the Foundation Early</strong></h2>",
+            "author": "Your 20s are the perfect time to build healthy habits and prevent early signs of aging. Focus on sun protection, hydration, and collagen-boosting products like retinol and micellar water. Cleanse daily, eat well, sleep enough, and avoid excess alcohol to keep your skin radiant and firm—so you won’t need invasive procedures later.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_4qNb6C": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong>Thirties – Focus on Prevention & Early Treatment</strong></h2>",
+            "author": "In your 30s, collagen production slows, making skin more prone to dullness, sagging, and wrinkles. Incorporate anti-wrinkle serums, preventative treatments like Baby Botox, and even dermal fillers for subtle enhancement. Look for products and procedures that hydrate, smooth, and plump—while addressing acne scars or pigmentation changes.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_6chW3H": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong>Forties – Advanced Solutions for Firmness & Volume</strong></h2>",
+            "author": "The 40s bring more visible signs of aging—from volume loss to thinner skin. Combine medical-grade skincare, collagen-boosting laser treatments, and injectables like Botox and fillers to restore firmness and glow. Treatments like RF microneedling and prescription topicals work deep to tighten, smooth, and refresh your skin’s texture and tone.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_4PtGpW": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong>Fifties – Combat Hormonal Changes with Targeted Treatments</strong></h2>",
+            "author": "In your 50s, hormonal shifts and menopause lead to thinner skin, hyperpigmentation, and volume loss. Combat sagging and fine lines with dermal fillers, nonablative laser rejuvenation, and chemical peels. These treatments stimulate collagen, refine texture, and brighten your skin—helping you regain firmness and radiance. RF microneedling is ideal for tightening skin and smoothing deeper wrinkles.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_9KerrA": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong>Sixties and Beyond – Rejuvenate, Hydrate & Glow</strong></h2>",
+            "author": "Skincare in your 60s+ is about radiance, hydration, and firmness. Focus on rejuvenating treatments like eye-tightening procedures, dermal fillers, and laser therapies to smooth fine lines and even skin tone. Boost hydration with facial oils, exfoliation, and AHAs. With the right care, your skin can look fresh, luminous, and beautifully vibrant at any age.",
+            "link_title": "Buy Leo Bikini Bottoms",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_aAt3TM",
+        "testimonial_4qNb6C",
+        "testimonial_6chW3H",
+        "testimonial_4PtGpW",
+        "testimonial_9KerrA"
+      ],
+      "custom_css": [
+        "@media (max-width: 768px) {.testimonial__body {padding: 20px; }}"
+      ],
+      "name": "t:sections.testimonials.name",
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "layout": "image-right",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": ""
       }
     },
     "dual_tiles_copy_YnrfyJ": {
@@ -246,6 +317,7 @@
     "main",
     "hero_banner_FdnT6R",
     "dual_tiles_A8wEzt",
+    "testimonials_XAhnxQ",
     "dual_tiles_copy_YnrfyJ"
   ]
 }
