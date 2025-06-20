@@ -67,41 +67,6 @@
         "slider_arrows_color": "text-colors-inverse"
       }
     },
-    "rich_text_jmKM8X": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_a8jLbG": {
-          "type": "heading",
-          "settings": {
-            "heading": "Acne Scars",
-            "heading_size": 12,
-            "heading_color": "#111111"
-          }
-        },
-        "text_9AGdtk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Acne scars are the number one complaint among our clients and treating them has become one of our areas of expertise. Acne scarring is an immensely varied condition. There are many different kinds of acne, and each of these can create a number of different kinds of scarring. When a patient seeks help for their acne scarring at the Z Center for Cosmetic Health, we examine their scarring and help them find the best treatment for their unique skin issues. Often, a combination of multiple treatments offers the best results, with different treatments working to correct different aspects of a person’s scarring.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_a8jLbG",
-        "text_9AGdtk"
-      ],
-      "name": "Rich Text",
-      "settings": {
-        "full_width": false,
-        "background": "#F5EBDF",
-        "max_width": 1400,
-        "blocks_gap": 20,
-        "flex_direction": "column",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "dual_tiles_bj4Xcy": {
       "type": "dual-tiles",
       "blocks": {
@@ -118,7 +83,7 @@
             "video_mobile_compact": false,
             "content_position_horizontal": "text-center align-center",
             "content_position_vertical": "justify-center",
-            "title": "Acne Scars",
+            "title": "Get Relief From Acne Scars",
             "text_size": 1,
             "content": "<p>Are you considering Acne Scar Treatment? Contact Dr. Zadeh today to see if it’s right for you.</p>",
             "button_style": "button--filled",
@@ -276,13 +241,106 @@
         "gap_between_mobile": 2,
         "title": ""
       }
+    },
+    "dual_tiles_copy_kpFgwh": {
+      "type": "dual-tiles-copy",
+      "blocks": {
+        "tile_gmQTK6": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_yGBpLp": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_external": "",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_external": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Why Dr. Zadeh?",
+            "text_size": 1,
+            "content": "<h2><strong>Because He Cares.</strong></h2><p>With many years of successfully treating Acne, Dr. Zadeh has become a recognized expert in treatment of acne and acne scars. As a Board Certified Surgeon, he has developed a unique treatment protocol which has produced superior results. If you are looking for treatment of your acne or acne scars, it is imperative to choose an expert provider. Dr. Zadeh can help you help to achieve the best possible results.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_gmQTK6",
+        "tile_yGBpLp"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain; width: 50%;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: white !important;}",
+        ".section-dual-tiles__actions {max-width: 290px; margin: auto;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"
+      ],
+      "name": "t:sections.dual-tiles-copy.name",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "custom_liquid_code": "<iframe\n    src=\"https://link.foreverbooked.com/widget/form/NeFqHvymQoCsiFi7JUii\"\n    style=\"width:100%;height:100%;border:none;border-radius:4px\"\n    id=\"inline-NeFqHvymQoCsiFi7JUii\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"APT - Acne Scar Reduction - /pages/acne-scar-reduction\"\n    data-height=\"907\"\n    data-layout-iframe-id=\"inline-NeFqHvymQoCsiFi7JUii\"\n    data-form-id=\"NeFqHvymQoCsiFi7JUii\"\n    title=\"APT - Acne Scar Reduction - /pages/acne-scar-reduction\"\n        >\n</iframe>\n<script src=\"https://link.foreverbooked.com/js/form_embed.js\"></script>"
+      }
     }
   },
   "order": [
     "main",
     "hero_banner_BLAiH6",
-    "rich_text_jmKM8X",
     "dual_tiles_bj4Xcy",
-    "testimonials_3tytfe"
+    "testimonials_3tytfe",
+    "dual_tiles_copy_kpFgwh"
   ]
 }
