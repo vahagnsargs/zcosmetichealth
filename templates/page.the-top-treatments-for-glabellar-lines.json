@@ -11,8 +11,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
-        "h1{text-align: center;}"
+        "h1 {text-align: center;}"
       ],
       "settings": {
         "show_page_title": true,
@@ -22,9 +23,295 @@
         "color_scheme_text": "text-colors-default",
         "color_scheme_background": "background-colors-default"
       }
+    },
+    "hero_banner_eGzfYf": {
+      "type": "hero-banner",
+      "blocks": {
+        "slide_9i9iFp": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme_text": "text-colors-inverse",
+            "color_scheme_background": "background-colors-accent-2",
+            "header_menu_text_color": "#ffffff",
+            "image": "shopify://shop_images/Emsculpt_2x-4-scaled.jpg",
+            "video_external": "",
+            "enable_media_overlay_desktop": true,
+            "video_external_mobile": "",
+            "enable_media_overlay_mobile": true,
+            "content_position_horizontal": "align-end text-right",
+            "content_position_vertical": "justify-center",
+            "subtitle": "",
+            "subtitle_url": "",
+            "title": "The Top Treatments for Glabellar Lines",
+            "content": "",
+            "enable_vertical_line": true,
+            "button_style": "button--filled",
+            "button_text": "View more",
+            "button_url": "/",
+            "button_text2": "View more",
+            "button_url2": "/"
+          }
+        }
+      },
+      "block_order": [
+        "slide_9i9iFp"
+      ],
+      "name": "t:sections.hero-banner.name",
+      "settings": {
+        "slider_height": 100,
+        "slider_autoplay": false,
+        "slider_autoplay_interval": 6,
+        "slider_arrows": false,
+        "slider_arrows_position": "hero__swiper-buttons--sides",
+        "slider_arrows_color": "text-colors-inverse"
+      }
+    },
+    "dual_tiles_UapxbJ": {
+      "type": "dual-tiles",
+      "blocks": {
+        "tile_z8cDfL": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "What are Glabellar Lines and What Causes Them?",
+            "text_size": 1,
+            "content": "<p>Glabellar lines—commonly known as “frown lines” or “11 lines”—are vertical wrinkles that form between the eyebrows. These dynamic wrinkles are caused by repetitive facial movements like frowning or concentrating, and they deepen over time as skin loses elasticity.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "/",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_Xr3TmM": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Screen-Shot-2019-11-25-at-12.41.44-PM.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_z8cDfL",
+        "tile_Xr3TmM"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: white !important;}",
+        ".section-dual-tiles__actions {max-width: 290px; margin: auto;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"
+      ],
+      "name": "t:sections.dual-tiles.name",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6
+      }
+    },
+    "testimonials_VfpCM9": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_9iaiBJ": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong>Smooth Away Glabellar Lines Without Surgery</strong></h2>",
+            "author": "Whether your glabellar lines are just beginning to appear or have become more pronounced, several non-surgical options can help smooth and rejuvenate your brow with minimal downtime. Here are the top three med spa treatments we recommend:",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_dXHek9": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong><br/>Dysport<br/><br/></strong></h2>",
+            "author": "Dysport is an injectable treatment made from botulinum toxin that relaxes the muscles responsible for creating glabellar lines—primarily the procerus and corrugator supercilii muscles. By temporarily relaxing these muscles, Dysport helps prevent the formation of new lines and softens the appearance of existing ones. It’s a quick, 10-minute treatment with no downtime. Results begin to appear in 2 days and reach full effect in about 2 weeks, lasting approximately 3 to 4 months.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_DqdeBw": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong>Botox</strong></h2>",
+            "author": "Botox Cosmetic is another injectable botulinum toxin treatment that works similarly to Dysport. It relaxes the muscles that cause glabellar lines, preventing them from deepening and reducing their appearance. Like Dysport, Botox is quick and requires no downtime, with results typically appearing within 3 to 7 days and lasting about 3 to 4 months. The choice between Botox and Dysport often comes down to individual response, and during your consultation, Dr. Zadeh will recommend the best option for your needs.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        },
+        "testimonial_PEQ8Q6": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<h2><strong><br/>Juvederm<br/><br/></strong></h2>",
+            "author": "Juvederm is a hyaluronic acid dermal filler that adds volume to the skin, making it ideal for filling deeper or more stubborn glabellar lines that aren't fully smoothed by Botox or Dysport alone. While Juvederm does not prevent muscle movement, it can significantly improve the appearance of static lines by restoring lost volume. It’s a quick procedure with immediate results that last between 6 to 12 months. Because the glabellar area contains sensitive nerves and arteries, it’s crucial that this treatment is performed by an experienced injector. Dr. Zadeh’s deep knowledge of facial anatomy ensures both safety and natural-looking results.",
+            "link_title": "",
+            "link_url": "/"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9iaiBJ",
+        "testimonial_dXHek9",
+        "testimonial_DqdeBw",
+        "testimonial_PEQ8Q6"
+      ],
+      "name": "t:sections.testimonials.name",
+      "settings": {
+        "padding_vertical_desktop": "",
+        "padding_vertical_mobile": "",
+        "color_scheme_text": "text-colors-default",
+        "color_scheme_background": "background-colors-accent-1",
+        "layout": "no-image",
+        "gap_between_desktop": 2,
+        "gap_between_mobile": 2,
+        "title": ""
+      }
+    },
+    "dual_tiles_copy_J7W9KY": {
+      "type": "dual-tiles-copy",
+      "blocks": {
+        "tile_aCbB7A": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-1",
+            "image_desktop": "shopify://shop_images/Dr.Michael-Zadeh_1x-4_2.png",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "",
+            "text_size": 1,
+            "content": "",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "",
+            "button_url": "",
+            "content_layout": "content--absolute",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        },
+        "tile_t66jEn": {
+          "type": "tile",
+          "settings": {
+            "heading_size": 40,
+            "text_color": "#111111",
+            "color_scheme_text": "text-colors-default",
+            "color_scheme_background": "background-colors-accent-2",
+            "video_desktop_aspect_ratio": "16/9",
+            "placeholder_svg_code": "",
+            "video_mobile_aspect_ratio": "16/9",
+            "video_mobile_compact": false,
+            "content_position_horizontal": "text-center align-center",
+            "content_position_vertical": "justify-center",
+            "title": "Not Sure Which Treatment Is Right for You?",
+            "text_size": 1,
+            "content": "<p>Schedule a consultation at Z Center for Cosmetic Health. Dr. Zadeh will evaluate your concerns, explain your treatment options, and create a personalized plan to help you achieve a smoother, more refreshed appearance.</p>",
+            "button_style": "button--filled",
+            "button_separator": false,
+            "button_text": "Book Now",
+            "button_url": "shopify://pages/contact",
+            "content_layout": "content--relative",
+            "block_margin_left": 0,
+            "block_margin_right": 0,
+            "block_padding_top": 0,
+            "block_padding_bottom": 0,
+            "block_padding_left": 0,
+            "block_padding_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "tile_aCbB7A",
+        "tile_t66jEn"
+      ],
+      "custom_css": [
+        ".media img {object-fit: contain; width: 50%;}",
+        ".media--overlay:after {background: transparent;}",
+        "a {color: white !important;}",
+        ".section-dual-tiles__actions {max-width: 290px; margin: auto;}",
+        ".section-dual-tiles .section-dual-tiles__tile.text-colors-default a:hover {color: black !important;}"
+      ],
+      "name": "t:sections.dual-tiles-copy.name",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "background": "#F5EBDF",
+        "section_width": "max-w-page",
+        "section_height": 40,
+        "layout": "section-dual-tiles--50-50",
+        "gap_between_tiles": 0.2,
+        "gap_between_tiles_mobile": 0.2,
+        "spacing_top_desktop": 6,
+        "spacing_bottom_desktop": 6,
+        "spacing_top_mobile": 6,
+        "spacing_bottom_mobile": 6,
+        "custom_liquid_code": "<iframe\n    src=\"https://link.foreverbooked.com/widget/form/AKIzbAiLKdjUvbTlFgRZ\"\n    style=\"width:100%;height:100%;border:none;border-radius:4px\"\n    id=\"inline-AKIzbAiLKdjUvbTlFgRZ\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"APT - Anti-Aging Treatments - /pages/anti-aging-treatments-for-every-age\"\n    data-height=\"907\"\n    data-layout-iframe-id=\"inline-AKIzbAiLKdjUvbTlFgRZ\"\n    data-form-id=\"AKIzbAiLKdjUvbTlFgRZ\"\n    title=\"APT - Anti-Aging Treatments - /pages/anti-aging-treatments-for-every-age\"\n        >\n</iframe>\n<script src=\"https://link.foreverbooked.com/js/form_embed.js\"></script>"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_banner_eGzfYf",
+    "dual_tiles_UapxbJ",
+    "testimonials_VfpCM9",
+    "dual_tiles_copy_J7W9KY"
   ]
 }
